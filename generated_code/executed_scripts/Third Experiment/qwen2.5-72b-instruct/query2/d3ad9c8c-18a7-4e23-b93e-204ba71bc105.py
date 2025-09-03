@@ -1,0 +1,62 @@
+import os
+import json
+import csv
+
+root_dir = "root_dir"
+
+def process_ads_data(root_dir):
+    ads_data = {}
+    try:
+        ads_path = os.path.join(root_dir, "ads_information", "ads_and_topics", "posts_viewed.json")
+        if not os.path.exists(ads_path):
+            raise FileNotFoundError("FileNotFoundError: The required ads data file does not exist.")
+        
+        with open(ads_path, 'r') as file:
+            data = json.load(file)
+            for entry in data.get("impressions_history_posts_seen", []):
+                author = entry["string_map_data"]["Author"]["value"]
+                if author not in ads_data:
+                    ads_data[author] = 0
+                ads_data[author] += 1
+
+        ads_path = os.path.join(root_dir, "ads_information", "ads_and_topics", "videos_watched.json")
+        if not os.path.exists(ads_path):
+            raise FileNotFoundError("FileNotFoundError: The required ads data file does not exist.")
+        
+        with open(ads_path, 'r') as file:
+            data = json.load(file)
+            for entry in data.get("impressions_history_videos_watched", []):
+                author = entry["string_map_data"]["Author"]["value"]
+                if author not in ads_data:
+                    ads_data[author] = 0
+                ads_data[author] += 1
+
+    except FileNotFoundError as e:
+        print(e)
+        return {}
+    except json.JSONDecodeError as e:
+        raise ValueError(f"Error: JSON decoding error - {str(e)}")
+    except Exception as e:
+        raise ValueError(f"Error: An unexpected error occurred - {str(e)}")
+
+    return ads_data
+
+def write_to_csv(data):
+    file_path = 'query_responses/results.csv'
+    os.makedirs(os.path.dirname(file_path), exist_ok=True)
+    with open(file_path, 'w', newline='') as csvfile:
+        fieldnames = ['Company Name', 'Number of Ads Viewed']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        if not data:
+            return
+        for company, count in data.items():
+            writer.writerow({'Company Name': company, 'Number of Ads Viewed': count})
+
+try:
+    if not os.path.exists(root_dir):
+        raise FileNotFoundError("FileNotFoundError: The root directory does not exist.")
+    ads_data = process_ads_data(root_dir)
+    write_to_csv(ads_data)
+except Exception as e:
+    print(e)

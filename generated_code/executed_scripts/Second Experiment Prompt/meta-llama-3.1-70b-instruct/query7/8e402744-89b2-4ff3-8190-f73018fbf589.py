@@ -1,0 +1,62 @@
+import os
+import csv
+
+root_dir = "root_dir"
+
+def get_user_engagement(root_dir):
+    try:
+        # Check if the root directory exists
+        if not os.path.exists(root_dir):
+            raise FileNotFoundError("FileNotFoundError: The root directory does not exist.")
+
+        # Initialize a dictionary to store user engagement
+        user_engagement = {}
+
+        # Define the paths to the relevant files
+        story_likes_path = os.path.join(root_dir, "your_instagram_activity", "story_interactions", "story_likes.json")
+        story_reaction_sticker_reactions_path = os.path.join(root_dir, "your_instagram_activity", "story_interactions", "story_reaction_sticker_reactions.json")
+        emoji_story_reactions_path = os.path.join(root_dir, "your_instagram_activity", "story_interactions", "emoji_story_reactions.json")
+        polls_path = os.path.join(root_dir, "your_instagram_activity", "story_interactions", "polls.json")
+        quizzes_path = os.path.join(root_dir, "your_instagram_activity", "story_interactions", "quizzes.json")
+        questions_path = os.path.join(root_dir, "your_instagram_activity", "story_interactions", "questions.json")
+        emoji_sliders_path = os.path.join(root_dir, "your_instagram_activity", "story_interactions", "emoji_sliders.json")
+
+        # Check if the required files exist
+        required_files = [story_likes_path, story_reaction_sticker_reactions_path, emoji_story_reactions_path, polls_path, quizzes_path, questions_path, emoji_sliders_path]
+        missing_files = [file for file in required_files if not os.path.exists(file)]
+
+        if missing_files:
+            # If any required files are missing, return a CSV file with only the column headers
+            with open('query_responses/results.csv', 'w', newline='') as csvfile:
+                fieldnames = ['User', 'Times Engaged']
+                writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+                writer.writeheader()
+            return
+
+        # Load the data from the JSON files
+        for file_path in required_files:
+            with open(file_path, 'r') as file:
+                # Since the JSON structure is not provided, we assume it's a list of dictionaries
+                data = eval(file.read())
+                for item in data:
+                    if 'string_list_data' in item:
+                        for user_data in item['string_list_data']:
+                            user = user_data.get('value') or user_data.get('href')
+                            if user:
+                                user_engagement[user] = user_engagement.get(user, 0) + 1
+
+        # Sort the user engagement dictionary by value in descending order
+        sorted_user_engagement = sorted(user_engagement.items(), key=lambda x: x[1], reverse=True)
+
+        # Write the results to a CSV file
+        with open('query_responses/results.csv', 'w', newline='') as csvfile:
+            fieldnames = ['User', 'Times Engaged']
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer.writeheader()
+            for user, times_engaged in sorted_user_engagement:
+                writer.writerow({'User': user, 'Times Engaged': times_engaged})
+
+    except Exception as e:
+        raise ValueError("Error: " + str(e))
+
+get_user_engagement(root_dir)

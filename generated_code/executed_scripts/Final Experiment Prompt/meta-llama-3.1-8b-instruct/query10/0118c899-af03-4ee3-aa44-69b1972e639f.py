@@ -1,0 +1,43 @@
+import csv
+import json
+
+root_dir = "root_dir"
+
+try:
+    with open(f"{root_dir}/ads_information/ads_and_topics/posts_viewed.json", "r") as f:
+        posts_viewed = json.load(f)
+except FileNotFoundError:
+    raise FileNotFoundError("FileNotFoundError: The posts_viewed.json file does not exist.")
+
+try:
+    with open(f"{root_dir}/ads_information/ads_and_topics/videos_watched.json", "r") as f:
+        videos_watched = json.load(f)
+except FileNotFoundError:
+    raise FileNotFoundError("FileNotFoundError: The videos_watched.json file does not exist.")
+
+post_views = {}
+video_views = {}
+
+for post in posts_viewed.get("impressions_history_posts_seen", []):
+    string_map_data = post.get("string_map_data", {})
+    author = string_map_data.get("Author", {}).get("value", "")
+    if author:
+        if author not in post_views:
+            post_views[author] = 0
+        post_views[author] += 1
+
+for video in videos_watched.get("impressions_history_videos_watched", []):
+    string_map_data = video.get("string_map_data", {})
+    author = string_map_data.get("Author", {}).get("value", "")
+    if author:
+        if author not in video_views:
+            video_views[author] = 0
+        video_views[author] += 1
+
+with open("query_responses/results.csv", "w", newline="") as csvfile:
+    writer = csv.writer(csvfile)
+    writer.writerow(["Account", "Post Views", "Video Views"])
+    for author in set(list(post_views.keys()) + list(video_views.keys())):
+        post_view = post_views.get(author, 0)
+        video_view = video_views.get(author, 0)
+        writer.writerow([author, post_view, video_view])
