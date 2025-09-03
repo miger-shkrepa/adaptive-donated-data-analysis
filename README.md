@@ -1,3 +1,5 @@
+This repository is based on work originally created by [Jonathan Decker](https://gitlab-ce.gwdg.de/hpc-team-public/chat-ai-llamaindex-examples).
+
 # ChatAI LlamaIndex Examples
 
 This repository contains an example implementation of a minimal RAG application using LlamaIndex and the [Chat AI API](https://kisski.gwdg.de/leistungen/2-02-llm-service/).
