@@ -1,0 +1,47 @@
+import os
+import json
+import csv
+from datetime import datetime
+
+root_dir = "root_dir"
+
+def process_login_data(root_directory):
+    try:
+        if not os.path.exists(root_directory):
+            raise FileNotFoundError("FileNotFoundError: The root directory does not exist.")
+        
+        devices_data = []
+        devices_file_path = os.path.join(root_directory, "security_and_login_information", "login_and_profile_creation", "login_activity.json")
+        
+        if not os.path.exists(devices_file_path):
+            print("Warning: login_activity.json not found. Generating CSV with headers only.")
+            with open('query_responses/results.csv', 'w', newline='') as csvfile:
+                writer = csv.writer(csvfile)
+                writer.writerow(['Device ID', 'Login Time'])
+            return
+        
+        with open(devices_file_path, 'r') as file:
+            data = json.load(file)
+            login_history = data.get("account_history_login_history", [])
+            
+            for entry in login_history:
+                string_map_data = entry.get("string_map_data", {})
+                user_agent = string_map_data.get("User Agent", {}).get("value", "")
+                timestamp = string_map_data.get("Time", {}).get("timestamp", 0)
+                
+                if timestamp:
+                    login_time = datetime.fromtimestamp(timestamp).strftime('%Y-%m-%d %H:%M:%S')
+                    devices_data.append([user_agent, login_time])
+        
+        with open('query_responses/results.csv', 'w', newline='') as csvfile:
+            writer = csv.writer(csvfile)
+            writer.writerow(['Device ID', 'Login Time'])
+            writer.writerows(devices_data)
+    
+    except json.JSONDecodeError as e:
+        raise ValueError(f"Error: JSON decoding failed. Reason: {str(e)}")
+    except Exception as e:
+        raise Exception(f"Error: An unexpected error occurred. Reason: {str(e)}")
+
+# Execute the function with the root directory
+process_login_data(root_dir)

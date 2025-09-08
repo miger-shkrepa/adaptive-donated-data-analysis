@@ -1,0 +1,548 @@
+Experiment ID,Model,Attempt Number,Error Type,Message
+eae8f832-78e0-479e-ba1e-788b69ca2902,meta-llama-3.1-8b-instruct,1,AttributeError,'generator' object has no attribute 'next'
+70844671-7f7a-4b53-a60c-82ce5933af66,meta-llama-3.1-8b-instruct,1,ValueError,too many values to unpack (expected 2)
+70844671-7f7a-4b53-a60c-82ce5933af66,meta-llama-3.1-8b-instruct,2,ValueError,too many values to unpack (expected 2)
+70844671-7f7a-4b53-a60c-82ce5933af66,meta-llama-3.1-8b-instruct,3,ValueError,too many values to unpack (expected 2)
+70844671-7f7a-4b53-a60c-82ce5933af66,meta-llama-3.1-8b-instruct,4,ValueError,too many values to unpack (expected 2)
+70844671-7f7a-4b53-a60c-82ce5933af66,meta-llama-3.1-8b-instruct,5,ValueError,too many values to unpack (expected 2)
+70844671-7f7a-4b53-a60c-82ce5933af66,meta-llama-3.1-8b-instruct,6,ValueError,too many values to unpack (expected 2)
+18725696-cfbd-4a09-8cb1-9629b02cbe24,meta-llama-3.1-8b-instruct,1,KeyError,'structure'
+a9a4867a-d5df-427d-92a3-9ba23b5527ed,meta-llama-3.1-8b-instruct,1,KeyError,'structure'
+a9a4867a-d5df-427d-92a3-9ba23b5527ed,meta-llama-3.1-8b-instruct,2,NameError,name 'company_name' is not defined
+6ec39fe3-6566-47e6-a4a2-9f64e5065303,meta-llama-3.1-8b-instruct,1,NotADirectoryError,[WinError 267] The directory name is invalid: 'datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL\\ads_information\\ads_and_topics\\ads_viewed.json'
+235eece5-f384-4e93-ab88-b5c31a6c9139,meta-llama-3.1-8b-instruct,1,NotADirectoryError,[WinError 267] The directory name is invalid: 'datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\\ads_information\\ads_and_topics\\ads_viewed.json'
+62767311-9fb0-4359-9710-41df541c0471,meta-llama-3.1-8b-instruct,1,KeyError,'structure'
+62767311-9fb0-4359-9710-41df541c0471,meta-llama-3.1-8b-instruct,2,NameError,name 'company_name' is not defined
+9de30693-4dc7-4412-b9c2-2dc4fb43d2ba,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+9de30693-4dc7-4412-b9c2-2dc4fb43d2ba,meta-llama-3.1-8b-instruct,2,KeyError,'structure'
+9de30693-4dc7-4412-b9c2-2dc4fb43d2ba,meta-llama-3.1-8b-instruct,3,NameError,name 'company_name' is not defined
+9de30693-4dc7-4412-b9c2-2dc4fb43d2ba,meta-llama-3.1-8b-instruct,4,NameError,name 'company_name' is not defined
+9de30693-4dc7-4412-b9c2-2dc4fb43d2ba,meta-llama-3.1-8b-instruct,5,NameError,name 'company_name' is not defined
+9de30693-4dc7-4412-b9c2-2dc4fb43d2ba,meta-llama-3.1-8b-instruct,6,NameError,name 'company_name' is not defined
+8a76c190-7c1a-479d-9808-0bae01609e0c,meta-llama-3.1-8b-instruct,1,NotADirectoryError,[WinError 267] The directory name is invalid: 'datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\\ads_information\\ads_and_topics\\ads_viewed.json'
+915b0204-0a03-4641-97d1-8ad3d7524053,meta-llama-3.1-8b-instruct,1,NotADirectoryError,[WinError 267] The directory name is invalid: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content\\ads_information\\ads_and_topics\\ads_viewed.json'
+915b0204-0a03-4641-97d1-8ad3d7524053,meta-llama-3.1-8b-instruct,2,UnknownError,Error: Missing data in JSON file datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content\ads_information\ads_and_topics\ads_viewed.json
+1424658c-8146-40a5-adb6-276c7fec01da,meta-llama-3.1-8b-instruct,1,UnicodeDecodeError,'charmap' codec can't decode byte 0x81 in position 251: character maps to <undefined>
+1424658c-8146-40a5-adb6-276c7fec01da,meta-llama-3.1-8b-instruct,2,UnicodeDecodeError,'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+f98292ff-90be-4795-8783-6ac27f6a665e,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+f98292ff-90be-4795-8783-6ac27f6a665e,meta-llama-3.1-8b-instruct,2,KeyError,'structure'
+f98292ff-90be-4795-8783-6ac27f6a665e,meta-llama-3.1-8b-instruct,3,NameError,name 'company_name' is not defined
+f98292ff-90be-4795-8783-6ac27f6a665e,meta-llama-3.1-8b-instruct,4,NameError,name 'company_name' is not defined
+f98292ff-90be-4795-8783-6ac27f6a665e,meta-llama-3.1-8b-instruct,5,NameError,name 'company_name' is not defined
+f98292ff-90be-4795-8783-6ac27f6a665e,meta-llama-3.1-8b-instruct,6,NameError,name 'company_name' is not defined
+bfd809dd-d311-4773-ba2a-04e638cfc231,meta-llama-3.1-8b-instruct,1,UnknownError,Error: name 'os' is not defined
+99c33049-ec67-4ac1-a532-4cf7ee6c32a3,meta-llama-3.1-8b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9b' in position 6: character maps to <undefined>
+5285dd39-9e2b-4dde-9e96-6f0a5c360b4c,meta-llama-3.1-8b-instruct,1,AttributeError,'generator' object has no attribute 'next'
+8d9e71a9-34f3-4006-80f7-442ff1be31c2,meta-llama-3.1-8b-instruct,1,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+8d9e71a9-34f3-4006-80f7-442ff1be31c2,meta-llama-3.1-8b-instruct,2,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+8d9e71a9-34f3-4006-80f7-442ff1be31c2,meta-llama-3.1-8b-instruct,3,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+8d9e71a9-34f3-4006-80f7-442ff1be31c2,meta-llama-3.1-8b-instruct,4,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+8d9e71a9-34f3-4006-80f7-442ff1be31c2,meta-llama-3.1-8b-instruct,5,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+8d9e71a9-34f3-4006-80f7-442ff1be31c2,meta-llama-3.1-8b-instruct,6,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+cf8dd48b-95d8-4ef1-834f-3f62b53ca585,meta-llama-3.1-8b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+7c288af9-60bd-4f6d-8e90-775b45966d5d,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content\\your_instagram_activity.json'
+cc769a3a-8756-47d0-835b-1b5160427f33,meta-llama-3.1-8b-instruct,1,AttributeError,'generator' object has no attribute 'next'
+5095f3e3-9b21-4437-89f2-d348201c4452,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-pbrenner96-2024-06-11-fak0ewfm\\your_instagram_activity.json'
+fff0161c-cd03-46cf-a255-305317a11b88,meta-llama-3.1-8b-instruct,1,KeyError,'Device ID'
+97ab03f2-1a33-46b2-851a-03a638ffeb55,meta-llama-3.1-8b-instruct,1,AttributeError,'generator' object has no attribute 'next'
+5e72dc44-e44f-4e4e-82f8-910afffbd44c,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+6706bd56-ae14-40fe-a81d-5c990a5f435b,meta-llama-3.1-8b-instruct,1,AttributeError,'generator' object has no attribute 'next'
+bf87bfb0-7340-452c-b0fe-111ec964750d,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+bf87bfb0-7340-452c-b0fe-111ec964750d,meta-llama-3.1-8b-instruct,2,KeyError,'structure'
+00660a26-dbae-4714-bebe-4eb91e265499,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+00660a26-dbae-4714-bebe-4eb91e265499,meta-llama-3.1-8b-instruct,2,KeyError,'structure'
+b811770d-2c48-4a33-9315-cdd44bf1d4f8,meta-llama-3.1-8b-instruct,1,AttributeError,'generator' object has no attribute 'next'
+3128e118-f049-454b-99a1-37ce2e1d3d46,meta-llama-3.1-8b-instruct,1,UnboundLocalError,cannot access local variable 'root_dir' where it is not associated with a value
+3128e118-f049-454b-99a1-37ce2e1d3d46,meta-llama-3.1-8b-instruct,2,UnboundLocalError,cannot access local variable 'root_dir' where it is not associated with a value
+3128e118-f049-454b-99a1-37ce2e1d3d46,meta-llama-3.1-8b-instruct,3,UnboundLocalError,cannot access local variable 'root_dir' where it is not associated with a value
+3128e118-f049-454b-99a1-37ce2e1d3d46,meta-llama-3.1-8b-instruct,4,UnboundLocalError,cannot access local variable 'root_dir' where it is not associated with a value
+3128e118-f049-454b-99a1-37ce2e1d3d46,meta-llama-3.1-8b-instruct,5,UnboundLocalError,cannot access local variable 'root_dir' where it is not associated with a value
+3128e118-f049-454b-99a1-37ce2e1d3d46,meta-llama-3.1-8b-instruct,6,UnboundLocalError,cannot access local variable 'root_dir' where it is not associated with a value
+f2876a6a-24fc-4e75-a842-9edb29ac7fc5,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\\personal_information\\personal_information.json'
+c50001d0-042d-4df7-abb3-0f3d1268134b,meta-llama-3.1-8b-instruct,1,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content'
+c50001d0-042d-4df7-abb3-0f3d1268134b,meta-llama-3.1-8b-instruct,2,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content'
+c50001d0-042d-4df7-abb3-0f3d1268134b,meta-llama-3.1-8b-instruct,3,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content'
+c50001d0-042d-4df7-abb3-0f3d1268134b,meta-llama-3.1-8b-instruct,4,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content'
+c50001d0-042d-4df7-abb3-0f3d1268134b,meta-llama-3.1-8b-instruct,5,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content'
+c50001d0-042d-4df7-abb3-0f3d1268134b,meta-llama-3.1-8b-instruct,6,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content'
+4c739686-bf21-4f36-bb42-c9c4fa780854,meta-llama-3.1-8b-instruct,1,AttributeError,'str' object has no attribute 'items'
+4c739686-bf21-4f36-bb42-c9c4fa780854,meta-llama-3.1-8b-instruct,2,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english'
+4c739686-bf21-4f36-bb42-c9c4fa780854,meta-llama-3.1-8b-instruct,3,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english'
+4c739686-bf21-4f36-bb42-c9c4fa780854,meta-llama-3.1-8b-instruct,4,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english'
+4c739686-bf21-4f36-bb42-c9c4fa780854,meta-llama-3.1-8b-instruct,5,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english'
+4c739686-bf21-4f36-bb42-c9c4fa780854,meta-llama-3.1-8b-instruct,6,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english'
+e4c363b4-5f2a-4e7e-9d0c-c27ffc662a18,meta-llama-3.1-8b-instruct,1,AttributeError,'str' object has no attribute 'items'
+e4c363b4-5f2a-4e7e-9d0c-c27ffc662a18,meta-llama-3.1-8b-instruct,2,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-pbrenner96-2024-06-11-fak0ewfm\\personal_information\\account_information.json'
+e4c363b4-5f2a-4e7e-9d0c-c27ffc662a18,meta-llama-3.1-8b-instruct,3,KeyError,'Name'
+e4c363b4-5f2a-4e7e-9d0c-c27ffc662a18,meta-llama-3.1-8b-instruct,4,UnknownError,"print(f""Error: Failed to parse JSON in file '{os.path.join(dirpath, filename)}'.')"
+5f4b33ad-9a5a-4a27-aad3-59df4b2a7604,meta-llama-3.1-8b-instruct,1,SyntaxError,invalid syntax
+5f4b33ad-9a5a-4a27-aad3-59df4b2a7604,meta-llama-3.1-8b-instruct,2,SyntaxError,invalid syntax
+5f4b33ad-9a5a-4a27-aad3-59df4b2a7604,meta-llama-3.1-8b-instruct,3,SyntaxError,invalid syntax
+5f4b33ad-9a5a-4a27-aad3-59df4b2a7604,meta-llama-3.1-8b-instruct,4,SyntaxError,invalid syntax
+5f4b33ad-9a5a-4a27-aad3-59df4b2a7604,meta-llama-3.1-8b-instruct,5,SyntaxError,invalid syntax
+5f4b33ad-9a5a-4a27-aad3-59df4b2a7604,meta-llama-3.1-8b-instruct,6,SyntaxError,invalid syntax
+0f4972a4-4e8f-4711-b927-4589192cc50c,meta-llama-3.1-8b-instruct,1,KeyError,'structure'
+706dd672-6508-4444-8460-61a6176e7499,meta-llama-3.1-8b-instruct,1,NameError,name 'true' is not defined. Did you mean: 'True'?
+706dd672-6508-4444-8460-61a6176e7499,meta-llama-3.1-8b-instruct,2,NameError,name 'true' is not defined. Did you mean: 'True'?
+706dd672-6508-4444-8460-61a6176e7499,meta-llama-3.1-8b-instruct,3,NameError,name 'true' is not defined. Did you mean: 'True'?
+706dd672-6508-4444-8460-61a6176e7499,meta-llama-3.1-8b-instruct,4,NameError,name 'true' is not defined. Did you mean: 'True'?
+706dd672-6508-4444-8460-61a6176e7499,meta-llama-3.1-8b-instruct,5,NameError,name 'true' is not defined. Did you mean: 'True'?
+706dd672-6508-4444-8460-61a6176e7499,meta-llama-3.1-8b-instruct,6,NameError,name 'true' is not defined. Did you mean: 'True'?
+94b41ce4-e7a8-4b95-b437-b3801b6d7e4a,meta-llama-3.1-8b-instruct,1,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+94b41ce4-e7a8-4b95-b437-b3801b6d7e4a,meta-llama-3.1-8b-instruct,2,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+94b41ce4-e7a8-4b95-b437-b3801b6d7e4a,meta-llama-3.1-8b-instruct,3,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+94b41ce4-e7a8-4b95-b437-b3801b6d7e4a,meta-llama-3.1-8b-instruct,4,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+94b41ce4-e7a8-4b95-b437-b3801b6d7e4a,meta-llama-3.1-8b-instruct,5,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+94b41ce4-e7a8-4b95-b437-b3801b6d7e4a,meta-llama-3.1-8b-instruct,6,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+9c241c80-cf49-4f7a-886f-31b4c36e8b2f,meta-llama-3.1-8b-instruct,1,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\\media\\stories'
+9c241c80-cf49-4f7a-886f-31b4c36e8b2f,meta-llama-3.1-8b-instruct,2,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\\media\\stories\\202311'
+3e8a125e-eac5-4ceb-a9fc-d24bd8972ad6,meta-llama-3.1-8b-instruct,1,ValueError,invalid literal for int() with base 10: 'comments'
+3e8a125e-eac5-4ceb-a9fc-d24bd8972ad6,meta-llama-3.1-8b-instruct,2,ValueError,invalid literal for int() with base 10: 'comments'
+3e8a125e-eac5-4ceb-a9fc-d24bd8972ad6,meta-llama-3.1-8b-instruct,3,ValueError,invalid literal for int() with base 10: 'comments'
+3e8a125e-eac5-4ceb-a9fc-d24bd8972ad6,meta-llama-3.1-8b-instruct,4,ValueError,invalid literal for int() with base 10: 'comments'
+3e8a125e-eac5-4ceb-a9fc-d24bd8972ad6,meta-llama-3.1-8b-instruct,5,ValueError,invalid literal for int() with base 10: 'comments'
+3e8a125e-eac5-4ceb-a9fc-d24bd8972ad6,meta-llama-3.1-8b-instruct,6,ValueError,invalid literal for int() with base 10: 'comments'
+eda2cd59-3c55-4b61-9342-80a2056689d8,meta-llama-3.1-8b-instruct,1,UnknownError,Error: name 'os' is not defined
+eda2cd59-3c55-4b61-9342-80a2056689d8,meta-llama-3.1-8b-instruct,2,IndexError,list index out of range
+eda2cd59-3c55-4b61-9342-80a2056689d8,meta-llama-3.1-8b-instruct,3,UnknownError,Error: 'structure'
+eda2cd59-3c55-4b61-9342-80a2056689d8,meta-llama-3.1-8b-instruct,4,UnknownError,Error: Missing key ''structure'' in JSON file datasets/instagram-miger_shkrepa-2025-01-21-TDz5ZSZM\your_instagram_activity\likes\liked_posts.json
+eda2cd59-3c55-4b61-9342-80a2056689d8,meta-llama-3.1-8b-instruct,5,UnknownError,Error: Missing key 'structure' or 'likes_media_likes' in JSON file datasets/instagram-miger_shkrepa-2025-01-21-TDz5ZSZM\your_instagram_activity\likes\liked_posts.json
+61267da2-8af5-4f74-82ff-0651bcae3521,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+aed2629f-6879-4f0e-a886-234818255348,meta-llama-3.1-8b-instruct,1,UnknownError,Error: 'username'
+ad659bc0-586f-4f00-9630-206f970666c9,meta-llama-3.1-8b-instruct,1,SyntaxError,invalid syntax
+ad659bc0-586f-4f00-9630-206f970666c9,meta-llama-3.1-8b-instruct,2,SyntaxError,invalid syntax
+ad659bc0-586f-4f00-9630-206f970666c9,meta-llama-3.1-8b-instruct,3,SyntaxError,invalid syntax
+ad659bc0-586f-4f00-9630-206f970666c9,meta-llama-3.1-8b-instruct,4,SyntaxError,invalid syntax
+11398507-73c6-475d-8e25-6d0ba63dd253,meta-llama-3.1-8b-instruct,1,KeyError,'type'
+d381a31a-d40b-4ef4-9a91-df2bb7ee5688,meta-llama-3.1-8b-instruct,1,KeyError,'type'
+50e4700a-0962-470c-86d6-0444ad119b35,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+50e4700a-0962-470c-86d6-0444ad119b35,meta-llama-3.1-8b-instruct,2,TypeError,"list indices must be integers or slices, not str"
+50e4700a-0962-470c-86d6-0444ad119b35,meta-llama-3.1-8b-instruct,3,TypeError,"list indices must be integers or slices, not str"
+50e4700a-0962-470c-86d6-0444ad119b35,meta-llama-3.1-8b-instruct,4,TypeError,"list indices must be integers or slices, not str"
+50e4700a-0962-470c-86d6-0444ad119b35,meta-llama-3.1-8b-instruct,5,TypeError,"list indices must be integers or slices, not str"
+50e4700a-0962-470c-86d6-0444ad119b35,meta-llama-3.1-8b-instruct,6,TypeError,"list indices must be integers or slices, not str"
+c8edb4dd-795a-492c-8254-fd1d673070e3,meta-llama-3.1-8b-instruct,1,KeyError,'structure'
+09681dc8-00f1-4175-8d2a-daa310003934,meta-llama-3.1-8b-instruct,1,UnknownError,Error: name 'os' is not defined
+09681dc8-00f1-4175-8d2a-daa310003934,meta-llama-3.1-8b-instruct,2,KeyError,'structure'
+3fa8bfde-ee00-40f2-a4dd-107e0899ccd7,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+3fa8bfde-ee00-40f2-a4dd-107e0899ccd7,meta-llama-3.1-8b-instruct,2,KeyError,'structure'
+3fa8bfde-ee00-40f2-a4dd-107e0899ccd7,meta-llama-3.1-8b-instruct,3,NameError,name 'csvfile' is not defined
+96911bbc-287e-4792-9beb-72454a81f7af,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+96911bbc-287e-4792-9beb-72454a81f7af,meta-llama-3.1-8b-instruct,2,KeyError,'structure'
+6ad84b2d-2e2a-4fd8-a9f7-fd830a9c65e8,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+6ad84b2d-2e2a-4fd8-a9f7-fd830a9c65e8,meta-llama-3.1-8b-instruct,2,KeyError,'structure'
+d8320fc4-06b3-4750-8afc-95d8fbae09fe,meta-llama-3.1-8b-instruct,1,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+d8320fc4-06b3-4750-8afc-95d8fbae09fe,meta-llama-3.1-8b-instruct,2,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+d8320fc4-06b3-4750-8afc-95d8fbae09fe,meta-llama-3.1-8b-instruct,3,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+d8320fc4-06b3-4750-8afc-95d8fbae09fe,meta-llama-3.1-8b-instruct,4,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+d8320fc4-06b3-4750-8afc-95d8fbae09fe,meta-llama-3.1-8b-instruct,5,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+d8320fc4-06b3-4750-8afc-95d8fbae09fe,meta-llama-3.1-8b-instruct,6,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+6b284f22-8c77-4494-8840-6b6d56afb8f5,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+bda1c72a-d503-475d-b118-a698db02e51b,meta-llama-3.1-8b-instruct,1,KeyError,'structure'
+93833387-217f-44a5-b87e-4cad11b4d443,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+93833387-217f-44a5-b87e-4cad11b4d443,meta-llama-3.1-8b-instruct,2,TypeError,"list indices must be integers or slices, not str"
+93833387-217f-44a5-b87e-4cad11b4d443,meta-llama-3.1-8b-instruct,3,TypeError,"list indices must be integers or slices, not str"
+93833387-217f-44a5-b87e-4cad11b4d443,meta-llama-3.1-8b-instruct,4,TypeError,"list indices must be integers or slices, not str"
+93833387-217f-44a5-b87e-4cad11b4d443,meta-llama-3.1-8b-instruct,5,TypeError,"list indices must be integers or slices, not str"
+93833387-217f-44a5-b87e-4cad11b4d443,meta-llama-3.1-8b-instruct,6,AttributeError,'list' object has no attribute 'get'
+57adc0e3-220a-4870-87c9-638b903cd76c,meta-llama-3.1-8b-instruct,1,KeyError,'structure'
+57adc0e3-220a-4870-87c9-638b903cd76c,meta-llama-3.1-8b-instruct,2,KeyError,'structure'
+57adc0e3-220a-4870-87c9-638b903cd76c,meta-llama-3.1-8b-instruct,3,KeyError,'structure'
+57adc0e3-220a-4870-87c9-638b903cd76c,meta-llama-3.1-8b-instruct,4,AttributeError,'list' object has no attribute 'get'
+57adc0e3-220a-4870-87c9-638b903cd76c,meta-llama-3.1-8b-instruct,5,AttributeError,'list' object has no attribute 'get'
+57adc0e3-220a-4870-87c9-638b903cd76c,meta-llama-3.1-8b-instruct,6,AttributeError,'list' object has no attribute 'get'
+407ae4c6-c1f4-4283-8ac8-c027b08cb761,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+c37a21b4-2be1-4be1-a7bc-8cc08592eb5c,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+c37a21b4-2be1-4be1-a7bc-8cc08592eb5c,meta-llama-3.1-8b-instruct,2,KeyError,'structure'
+af48906b-e14a-41c2-9b9e-f02574605d32,meta-llama-3.1-8b-instruct,1,ValueError,too many values to unpack (expected 2)
+af48906b-e14a-41c2-9b9e-f02574605d32,meta-llama-3.1-8b-instruct,2,ValueError,too many values to unpack (expected 2)
+6c52c1e6-43f0-43da-b050-cd1957830906,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+880aba9d-405d-4f1c-89eb-31cf5356cd8a,meta-llama-3.1-8b-instruct,1,UnknownError,Error: 'list' object has no attribute 'get'
+bedcd5e1-f658-4ed0-b65d-a1405252fa0f,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+76d23a15-339c-4288-bd7f-365b8f463887,meta-llama-3.1-8b-instruct,1,KeyError,'type'
+ea19fc49-9fb9-40f7-a736-a835f1f43434,meta-llama-3.1-8b-instruct,1,KeyError,'structure'
+723b99be-4368-47c9-bf0c-66fa4ca6833a,meta-llama-3.1-8b-instruct,1,KeyError,'Author'
+976787d8-b2ba-4626-b61b-d3c92cc27b30,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+976787d8-b2ba-4626-b61b-d3c92cc27b30,meta-llama-3.1-8b-instruct,2,KeyError,'impressions_history_videos_watched'
+6d76cd13-0a4e-4a58-8256-353d92e182c6,meta-llama-3.1-8b-instruct,1,AttributeError,'generator' object has no attribute 'next'
+6d76cd13-0a4e-4a58-8256-353d92e182c6,meta-llama-3.1-8b-instruct,2,SyntaxError,expected 'except' or 'finally' block
+6d76cd13-0a4e-4a58-8256-353d92e182c6,meta-llama-3.1-8b-instruct,3,KeyError,'structure'
+6d76cd13-0a4e-4a58-8256-353d92e182c6,meta-llama-3.1-8b-instruct,4,UnknownError,Error: File 'datasets/instagram-pbrenner96-2024-06-11-fak0ewfm\ads_information\ads_and_topics\posts_viewed.json' does not contain the expected structure.
+82fd037e-9ba3-4f8c-a8a9-1260969ff167,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+82fd037e-9ba3-4f8c-a8a9-1260969ff167,meta-llama-3.1-8b-instruct,2,KeyError,'structure'
+70b43430-c1da-4304-a922-e7df3a817c6f,meta-llama-3.1-8b-instruct,1,KeyError,'structure'
+8db757fc-3696-4500-826a-aaa0b22b49fd,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-miger_shkrepa-2025-01-25-9eXjs0P7\\ads_information.json'
+38e056f2-69c3-49d1-ac6e-6560d5324962,meta-llama-3.1-8b-instruct,1,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+38e056f2-69c3-49d1-ac6e-6560d5324962,meta-llama-3.1-8b-instruct,2,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+38e056f2-69c3-49d1-ac6e-6560d5324962,meta-llama-3.1-8b-instruct,3,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+38e056f2-69c3-49d1-ac6e-6560d5324962,meta-llama-3.1-8b-instruct,4,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+38e056f2-69c3-49d1-ac6e-6560d5324962,meta-llama-3.1-8b-instruct,5,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+38e056f2-69c3-49d1-ac6e-6560d5324962,meta-llama-3.1-8b-instruct,6,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+bea2ba53-9918-43b0-b3e6-1514c7ad1e3b,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+d5f7ccef-ece0-442c-93a8-d55de0c73534,meta-llama-3.1-8b-instruct,1,ValueError,too many values to unpack (expected 2)
+d5f7ccef-ece0-442c-93a8-d55de0c73534,meta-llama-3.1-8b-instruct,2,ValueError,too many values to unpack (expected 2)
+d5f7ccef-ece0-442c-93a8-d55de0c73534,meta-llama-3.1-8b-instruct,3,ValueError,too many values to unpack (expected 2)
+d5f7ccef-ece0-442c-93a8-d55de0c73534,meta-llama-3.1-8b-instruct,4,ValueError,too many values to unpack (expected 2)
+d5f7ccef-ece0-442c-93a8-d55de0c73534,meta-llama-3.1-8b-instruct,5,ValueError,too many values to unpack (expected 2)
+d5f7ccef-ece0-442c-93a8-d55de0c73534,meta-llama-3.1-8b-instruct,6,ValueError,too many values to unpack (expected 2)
+6d8315e3-6ca8-4990-9fbd-43823039408f,meta-llama-3.1-8b-instruct,1,KeyError,'structure'
+6d8315e3-6ca8-4990-9fbd-43823039408f,meta-llama-3.1-8b-instruct,2,KeyError,'type'
+6d8315e3-6ca8-4990-9fbd-43823039408f,meta-llama-3.1-8b-instruct,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english\\likes'
+6d8315e3-6ca8-4990-9fbd-43823039408f,meta-llama-3.1-8b-instruct,4,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english\\likes'
+6d8315e3-6ca8-4990-9fbd-43823039408f,meta-llama-3.1-8b-instruct,5,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english\\likes'
+6d8315e3-6ca8-4990-9fbd-43823039408f,meta-llama-3.1-8b-instruct,6,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english\\likes'
+8a9bb7f7-dff4-44e5-8aa4-8c51d23314c9,meta-llama-3.1-8b-instruct,1,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-zoomiies_-2025-05-03-ASH5BC44'
+8a9bb7f7-dff4-44e5-8aa4-8c51d23314c9,meta-llama-3.1-8b-instruct,2,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-zoomiies_-2025-05-03-ASH5BC44'
+8a9bb7f7-dff4-44e5-8aa4-8c51d23314c9,meta-llama-3.1-8b-instruct,3,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-zoomiies_-2025-05-03-ASH5BC44'
+8a9bb7f7-dff4-44e5-8aa4-8c51d23314c9,meta-llama-3.1-8b-instruct,4,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-zoomiies_-2025-05-03-ASH5BC44'
+8a9bb7f7-dff4-44e5-8aa4-8c51d23314c9,meta-llama-3.1-8b-instruct,5,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-zoomiies_-2025-05-03-ASH5BC44'
+8a9bb7f7-dff4-44e5-8aa4-8c51d23314c9,meta-llama-3.1-8b-instruct,6,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-zoomiies_-2025-05-03-ASH5BC44'
+5e4baaec-ce77-47fc-a2fd-bb9f2f917098,codestral-22b,1,KeyError,'structure'
+cb3d7b44-aada-4fb4-a3d2-19b6fef6f48c,codestral-22b,1,KeyError,'ads_information'
+dbf2eb81-b620-42d1-9837-649f2b451f0b,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9d' in position 27: character maps to <undefined>
+2acba3bb-41b0-4193-98e5-d81237f24531,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+2acba3bb-41b0-4193-98e5-d81237f24531,codestral-22b,2,TypeError,"a bytes-like object is required, not 'str'"
+3691f899-4a54-44f0-97c1-d3de6e5bec75,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-2: character maps to <undefined>
+3691f899-4a54-44f0-97c1-d3de6e5bec75,codestral-22b,2,TypeError,"a bytes-like object is required, not 'str'"
+3691f899-4a54-44f0-97c1-d3de6e5bec75,codestral-22b,3,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-2: character maps to <undefined>
+6bd8893b-60d4-4e8c-87b6-29ce241135aa,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+c30b853d-83ce-4ded-9ca5-eb31272685a8,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode character '\x82' in position 5: character maps to <undefined>
+c30b853d-83ce-4ded-9ca5-eb31272685a8,codestral-22b,2,TypeError,"a bytes-like object is required, not 'str'"
+854863f6-5122-436b-b601-221f9017058d,codestral-22b,1,ValueError,invalid literal for int() with base 10: ''
+70266bd2-e129-40f5-bff0-6c7b0db2a475,codestral-22b,1,ValueError,time data '' does not match format '%Y-%m-%dT%H:%M:%S%z'
+27dabd13-2991-424b-8ba2-820d0ed63c55,codestral-22b,1,ValueError,invalid literal for int() with base 10: ''
+4e46f9a3-b94e-4517-b680-84240d5bb00d,codestral-22b,1,FileNotFoundError,The account info file does not exist.
+46d8a3c0-0cd8-43be-ab06-c4f8190290f5,codestral-22b,1,KeyError,'structure'
+8de5129e-c6da-45d0-895e-99db46f836e0,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+8de5129e-c6da-45d0-895e-99db46f836e0,codestral-22b,2,TypeError,"a bytes-like object is required, not 'str'"
+ec25ebe2-08b2-42db-a737-986a972a6236,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+b16d0aa3-ffa3-48de-aef5-e431504ea785,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+b16d0aa3-ffa3-48de-aef5-e431504ea785,codestral-22b,2,TypeError,'encoding' is an invalid keyword argument for this function
+dc946fd8-2fd1-4284-a7ce-35fcac3f3bbe,codestral-22b,1,IndexError,list index out of range
+dc946fd8-2fd1-4284-a7ce-35fcac3f3bbe,codestral-22b,2,IndexError,list index out of range
+dc946fd8-2fd1-4284-a7ce-35fcac3f3bbe,codestral-22b,3,IndexError,list index out of range
+dc946fd8-2fd1-4284-a7ce-35fcac3f3bbe,codestral-22b,4,IndexError,list index out of range
+dc946fd8-2fd1-4284-a7ce-35fcac3f3bbe,codestral-22b,5,IndexError,list index out of range
+f9eafe17-9478-4e4b-b9fa-6656764eb381,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+f9eafe17-9478-4e4b-b9fa-6656764eb381,codestral-22b,2,TypeError,"a bytes-like object is required, not 'str'"
+a7186ee4-84bc-4fce-b028-a70dae07aa3d,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+a7186ee4-84bc-4fce-b028-a70dae07aa3d,codestral-22b,2,TypeError,"a bytes-like object is required, not 'str'"
+24dc5137-7e49-444a-bb0a-743ab0eff236,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+24dc5137-7e49-444a-bb0a-743ab0eff236,codestral-22b,2,TypeError,"a bytes-like object is required, not 'str'"
+e692c9b7-8a3a-403c-aa5f-38e82d3ec64d,codestral-22b,1,IndexError,list index out of range
+4ada2551-771f-4898-ac7f-0813e4b74762,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+4ada2551-771f-4898-ac7f-0813e4b74762,codestral-22b,2,TypeError,"a bytes-like object is required, not 'str'"
+4ada2551-771f-4898-ac7f-0813e4b74762,codestral-22b,3,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+b80fb8d4-1964-4568-bb23-35a7966a2bde,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+b80fb8d4-1964-4568-bb23-35a7966a2bde,codestral-22b,2,TypeError,"a bytes-like object is required, not 'str'"
+41aff589-6c68-426d-bbc8-4912ff0e7edb,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+41aff589-6c68-426d-bbc8-4912ff0e7edb,codestral-22b,2,TypeError,"a bytes-like object is required, not 'str'"
+41aff589-6c68-426d-bbc8-4912ff0e7edb,codestral-22b,3,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+41aff589-6c68-426d-bbc8-4912ff0e7edb,codestral-22b,4,TypeError,"a bytes-like object is required, not 'str'"
+41aff589-6c68-426d-bbc8-4912ff0e7edb,codestral-22b,5,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+41aff589-6c68-426d-bbc8-4912ff0e7edb,codestral-22b,6,TypeError,"a bytes-like object is required, not 'str'"
+c962f830-0804-47f2-bfe4-eea8cd5a1648,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+c962f830-0804-47f2-bfe4-eea8cd5a1648,codestral-22b,2,TypeError,"a bytes-like object is required, not 'str'"
+8d57d1d7-de17-4ff8-acb5-1ddb562c2f34,codestral-22b,1,KeyError,'value'
+8d57d1d7-de17-4ff8-acb5-1ddb562c2f34,codestral-22b,2,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+8d57d1d7-de17-4ff8-acb5-1ddb562c2f34,codestral-22b,3,TypeError,"a bytes-like object is required, not 'str'"
+79f00aa4-7c90-42cc-b864-5de0a8315884,codestral-22b,1,UnknownError,"Error: list indices must be integers or slices, not str"
+79f00aa4-7c90-42cc-b864-5de0a8315884,codestral-22b,2,UnknownError,"Error: list indices must be integers or slices, not str"
+e1ac4135-105f-45a8-a28c-e6c546858716,codestral-22b,1,FileNotFoundError,The user directory does not exist.
+d828d1ec-b3ad-4857-bc95-0f18d1a242ed,codestral-22b,1,KeyError,'type'
+d828d1ec-b3ad-4857-bc95-0f18d1a242ed,codestral-22b,2,KeyError,'type'
+c1ade414-e395-4ed3-91ca-7482a1c239fd,codestral-22b,1,TypeError,"string indices must be integers, not 'str'"
+3d0b5ee5-0e6b-4d6c-93f4-0571c3de511d,codestral-22b,1,TypeError,"string indices must be integers, not 'str'"
+3d0b5ee5-0e6b-4d6c-93f4-0571c3de511d,codestral-22b,2,TypeError,"string indices must be integers, not 'str'"
+3d0b5ee5-0e6b-4d6c-93f4-0571c3de511d,codestral-22b,3,TypeError,"string indices must be integers, not 'str'"
+3d0b5ee5-0e6b-4d6c-93f4-0571c3de511d,codestral-22b,4,TypeError,"string indices must be integers, not 'str'"
+3d0b5ee5-0e6b-4d6c-93f4-0571c3de511d,codestral-22b,5,TypeError,"string indices must be integers, not 'str'"
+3d0b5ee5-0e6b-4d6c-93f4-0571c3de511d,codestral-22b,6,TypeError,"string indices must be integers, not 'str'"
+9d2f6e5c-5041-4f0d-8f5b-badde0ea5040,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 5-7: character maps to <undefined>
+9d2f6e5c-5041-4f0d-8f5b-badde0ea5040,codestral-22b,2,TypeError,"a bytes-like object is required, not 'str'"
+bab20903-26fd-4ccd-ab88-8f025f7d77a6,qwen2.5-coder-32b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9b' in position 6: character maps to <undefined>
+03675a32-bf69-4ac2-8cae-fef24545d424,qwen2.5-coder-32b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x82' in position 1: character maps to <undefined>
+29f0a256-a3c0-49f9-bdaa-1e4308c00656,qwen2.5-coder-32b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+e51d4264-bc62-496b-8763-7a88d0e2dcf1,qwen2.5-coder-32b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x82' in position 5: character maps to <undefined>
+ff0e528f-7985-4b38-8979-8af599f5678b,qwen2.5-coder-32b-instruct,1,ValueError,Error parsing signup_information.json - time data '' does not match format '%Y-%m-%dT%H:%M:%S.%fZ'
+ff0e528f-7985-4b38-8979-8af599f5678b,qwen2.5-coder-32b-instruct,2,ValueError,Error parsing account_information.json - 'Telefonnummer bestätigt'
+14fafd44-3746-4e74-b62d-4d25bb242879,qwen2.5-coder-32b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+bd8b556c-a1e8-4024-9f50-f4e9b1400374,qwen2.5-coder-32b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+6409fc30-c3fa-4c4a-ad55-60cbffd60117,qwen2.5-coder-32b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+49222f09-987e-4f55-8c31-42a8ab74e67a,qwen2.5-coder-32b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+b7eea075-30ac-47a9-b5d1-b847da032d75,qwen2.5-coder-32b-instruct,1,KeyError,'value'
+bcbe9d53-2bc9-4453-b362-39a2225f6672,qwen2.5-coder-32b-instruct,1,TypeError,aggregate_interactions() takes 2 positional arguments but 3 were given
+bfd1ec37-6134-472a-8f3d-9aaa9b6e2add,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The file datasets/instagram-miger_shkrepa-2025-01-21-TDz5ZSZM\your_instagram_activity\following\following.json does not exist.
+bfd1ec37-6134-472a-8f3d-9aaa9b6e2add,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The file datasets/instagram-miger_shkrepa-2025-01-21-TDz5ZSZM\your_instagram_activity\following\following.json does not exist.
+bfd1ec37-6134-472a-8f3d-9aaa9b6e2add,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The file datasets/instagram-miger_shkrepa-2025-01-21-TDz5ZSZM\your_instagram_activity\following\following.json does not exist.
+cc0267aa-c23a-411a-8b72-031fa9de764d,qwen2.5-coder-32b-instruct,1,AttributeError,'str' object has no attribute 'get'
+1bbbd429-c51b-4e93-ba02-389ae2b7cd43,qwen2.5-72b-instruct,1,UnknownError,Error: 'str' object has no attribute 'items'
+7e285d52-4fe5-4386-b186-9bbb78fe67ee,qwen2.5-72b-instruct,1,UnknownError,Error: An unexpected error occurred while processing datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content\ads_information\ads_and_topics\ads_viewed.json. Reason: 'str' object has no attribute 'items'
+fa8b7d9e-d6a9-4d9f-afe3-ebeb572034b1,qwen2.5-72b-instruct,1,UnknownError,Error: 'str' object has no attribute 'get'
+fa8b7d9e-d6a9-4d9f-afe3-ebeb572034b1,qwen2.5-72b-instruct,2,UnknownError,Error: 'str' object has no attribute 'get'
+fa8b7d9e-d6a9-4d9f-afe3-ebeb572034b1,qwen2.5-72b-instruct,3,UnknownError,Error: 'str' object has no attribute 'get'
+fa8b7d9e-d6a9-4d9f-afe3-ebeb572034b1,qwen2.5-72b-instruct,4,UnknownError,Error: 'str' object has no attribute 'get'
+fa8b7d9e-d6a9-4d9f-afe3-ebeb572034b1,qwen2.5-72b-instruct,5,UnknownError,Error: 'str' object has no attribute 'get'
+fa8b7d9e-d6a9-4d9f-afe3-ebeb572034b1,qwen2.5-72b-instruct,6,UnknownError,Error: 'str' object has no attribute 'get'
+49cae628-ffad-4e22-9211-2df442207da7,qwen2.5-72b-instruct,1,UnknownError,Error: An error occurred while writing to CSV - 'charmap' codec can't encode character '\x82' in position 1: character maps to <undefined>
+f6692735-ff64-4fd5-bb53-6f6bdff5da6f,qwen2.5-72b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x97' in position 1: character maps to <undefined>
+1ece696d-ff9f-4084-a1be-297b4571a2d6,qwen2.5-72b-instruct,1,UnknownError,Error: Error: 'list' object has no attribute 'items'
+2b5fae31-88ba-40c4-a87e-c995a3dbffa1,qwen2.5-72b-instruct,1,UnknownError,Error: An unexpected error occurred: Error: An unexpected error occurred: 'list' object has no attribute 'items'
+6fa8acfd-7181-4a9f-b466-c013bf5ae1e3,qwen2.5-72b-instruct,1,FileNotFoundError,The login activity file does not exist.
+002e540a-df81-4083-8109-dbf1c0e8ce7e,qwen2.5-72b-instruct,1,UnknownError,Error: 'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+0b3c5b37-0b70-4e66-9d93-14889c77ad8f,qwen2.5-72b-instruct,1,UnknownError,Error: 'value'
+87851812-625f-4876-bf7c-4c0bf16e1428,qwen2.5-72b-instruct,1,UnknownError,Error: unhashable type: 'dict'
+87851812-625f-4876-bf7c-4c0bf16e1428,qwen2.5-72b-instruct,2,UnknownError,Error: unhashable type: 'dict'
+87851812-625f-4876-bf7c-4c0bf16e1428,qwen2.5-72b-instruct,3,UnknownError,Error: unhashable type: 'dict'
+87851812-625f-4876-bf7c-4c0bf16e1428,qwen2.5-72b-instruct,4,UnknownError,Error: unhashable type: 'dict'
+87851812-625f-4876-bf7c-4c0bf16e1428,qwen2.5-72b-instruct,5,UnknownError,Error: unhashable type: 'dict'
+87851812-625f-4876-bf7c-4c0bf16e1428,qwen2.5-72b-instruct,6,UnknownError,Error: unhashable type: 'dict'
+bb577e05-b4d0-487c-b98c-53e7101de8cf,qwen2.5-72b-instruct,1,UnknownError,Error: unhashable type: 'dict'
+ea47a3ef-1751-423d-ba6d-45bd3767cfda,qwen2.5-72b-instruct,1,UnknownError,Error: unhashable type: 'dict'
+ea47a3ef-1751-423d-ba6d-45bd3767cfda,qwen2.5-72b-instruct,2,UnknownError,Error: unhashable type: 'dict'
+ea47a3ef-1751-423d-ba6d-45bd3767cfda,qwen2.5-72b-instruct,3,UnknownError,Error: unhashable type: 'dict'
+ea47a3ef-1751-423d-ba6d-45bd3767cfda,qwen2.5-72b-instruct,4,UnknownError,Error: unhashable type: 'dict'
+ea47a3ef-1751-423d-ba6d-45bd3767cfda,qwen2.5-72b-instruct,5,UnknownError,Error: unhashable type: 'dict'
+ea47a3ef-1751-423d-ba6d-45bd3767cfda,qwen2.5-72b-instruct,6,UnknownError,Error: unhashable type: 'dict'
+8f5e1d89-95e8-48bb-95d9-894b09e1280c,qwen2.5-72b-instruct,1,UnknownError,Error: unhashable type: 'dict'
+8f5e1d89-95e8-48bb-95d9-894b09e1280c,qwen2.5-72b-instruct,2,UnknownError,Error: unhashable type: 'dict'
+8f5e1d89-95e8-48bb-95d9-894b09e1280c,qwen2.5-72b-instruct,3,UnknownError,Error: unhashable type: 'dict'
+8f5e1d89-95e8-48bb-95d9-894b09e1280c,qwen2.5-72b-instruct,4,UnknownError,Error: unhashable type: 'dict'
+8f5e1d89-95e8-48bb-95d9-894b09e1280c,qwen2.5-72b-instruct,5,UnknownError,Error: unhashable type: 'dict'
+8f5e1d89-95e8-48bb-95d9-894b09e1280c,qwen2.5-72b-instruct,6,UnknownError,Error: unhashable type: 'dict'
+5bfa91af-67c2-4dd3-9331-f210ca16cfa1,qwen2.5-72b-instruct,1,UnknownError,Error: 'structure'
+5bfa91af-67c2-4dd3-9331-f210ca16cfa1,qwen2.5-72b-instruct,2,UnknownError,Error: 'structure'
+5bfa91af-67c2-4dd3-9331-f210ca16cfa1,qwen2.5-72b-instruct,3,UnknownError,Error: 'structure'
+5bfa91af-67c2-4dd3-9331-f210ca16cfa1,qwen2.5-72b-instruct,4,UnknownError,Error: 'structure'
+5bfa91af-67c2-4dd3-9331-f210ca16cfa1,qwen2.5-72b-instruct,5,UnknownError,Error: 'structure'
+5bfa91af-67c2-4dd3-9331-f210ca16cfa1,qwen2.5-72b-instruct,6,UnknownError,Error: 'structure'
+854b4009-44f7-4f9e-b63f-1c7afcbff294,qwen2.5-72b-instruct,1,UnknownError,Error: 'list' object has no attribute 'get'
+854b4009-44f7-4f9e-b63f-1c7afcbff294,qwen2.5-72b-instruct,2,UnknownError,Error: 'str' object has no attribute 'get'
+854b4009-44f7-4f9e-b63f-1c7afcbff294,qwen2.5-72b-instruct,3,UnknownError,Error: 'str' object has no attribute 'get'
+854b4009-44f7-4f9e-b63f-1c7afcbff294,qwen2.5-72b-instruct,4,UnknownError,Error: Error: Error: JSON data is not a list.
+854b4009-44f7-4f9e-b63f-1c7afcbff294,qwen2.5-72b-instruct,5,UnknownError,Error: Error: Error: JSON data is not a dictionary.
+854b4009-44f7-4f9e-b63f-1c7afcbff294,qwen2.5-72b-instruct,6,UnknownError,Error: Error: Error: JSON data is not a dictionary.
+bc689a38-576f-4e21-9d9e-f50995d3b283,qwen2.5-72b-instruct,1,FileNotFoundError,The file datasets/instagram-miger_shkrepa-2025-01-25-9eXjs0P7\ads_information\ads_and_topics\ads_and_topics.json does not exist.
+bc689a38-576f-4e21-9d9e-f50995d3b283,qwen2.5-72b-instruct,2,UnknownError,Error: 'str' object has no attribute 'get'
+3fd491cf-e531-4b69-872e-c514148dde56,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The 'inbox' directory does not exist.
+241db1ef-4e79-4533-b18a-aa04580b789e,qwen2.5-coder-32b-instruct,1,NameError,name 'false' is not defined. Did you mean: 'False'?
+a2e03c32-6de0-4402-83fb-fe64e3fe16b7,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-miger_shkrepa-2025-01-21-TDz5ZSZM\\query_responses\\results.csv'
+a2e03c32-6de0-4402-83fb-fe64e3fe16b7,meta-llama-3.1-8b-instruct,2,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-miger_shkrepa-2025-01-21-TDz5ZSZM\\query_responses\\results.csv'
+9b74013e-3f4d-4841-b0a3-f32909f1352b,meta-llama-3.1-8b-instruct,1,FileNotFoundError,The root directory does not exist.
+05493915-48d2-435d-bae3-ba4bde5504ac,meta-llama-3.1-8b-instruct,1,ValueError,time data 'messages' does not match format '%Y-%m-%d'
+e6a7a323-f77a-409a-a7c0-2cedcb4c9226,meta-llama-3.1-8b-instruct,1,ValueError,time data 'messages' does not match format '%Y-%m-%d'
+cc7eba30-2f90-4e1f-9f30-37f3beaf9404,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english\\connections\\contacts\\inbox'
+ecb0e18b-a174-4d34-a26a-bed7bf4c1255,meta-llama-3.1-8b-instruct,1,ValueError,too many values to unpack (expected 2)
+ecb0e18b-a174-4d34-a26a-bed7bf4c1255,meta-llama-3.1-8b-instruct,2,ValueError,too many values to unpack (expected 2)
+ecb0e18b-a174-4d34-a26a-bed7bf4c1255,meta-llama-3.1-8b-instruct,3,ValueError,too many values to unpack (expected 2)
+ecb0e18b-a174-4d34-a26a-bed7bf4c1255,meta-llama-3.1-8b-instruct,4,ValueError,too many values to unpack (expected 2)
+ecb0e18b-a174-4d34-a26a-bed7bf4c1255,meta-llama-3.1-8b-instruct,5,ValueError,too many values to unpack (expected 2)
+ecb0e18b-a174-4d34-a26a-bed7bf4c1255,meta-llama-3.1-8b-instruct,6,ValueError,too many values to unpack (expected 2)
+39d10a4c-e958-41cf-8b34-ee1187793ba0,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+70295e70-8886-4f87-b495-94d8b30e5f10,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+70295e70-8886-4f87-b495-94d8b30e5f10,meta-llama-3.1-8b-instruct,2,KeyError,'structure'
+54a9300b-9d1a-4beb-a964-7ca9f9d90dcf,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+a3965c4b-fc3e-42c3-961e-22631da117ca,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+a3965c4b-fc3e-42c3-961e-22631da117ca,meta-llama-3.1-8b-instruct,2,AttributeError,'list' object has no attribute 'items'
+a3965c4b-fc3e-42c3-961e-22631da117ca,meta-llama-3.1-8b-instruct,3,AttributeError,'list' object has no attribute 'items'
+a3965c4b-fc3e-42c3-961e-22631da117ca,meta-llama-3.1-8b-instruct,4,AttributeError,'list' object has no attribute 'items'
+a3965c4b-fc3e-42c3-961e-22631da117ca,meta-llama-3.1-8b-instruct,5,AttributeError,'list' object has no attribute 'items'
+a3965c4b-fc3e-42c3-961e-22631da117ca,meta-llama-3.1-8b-instruct,6,AttributeError,'list' object has no attribute 'items'
+222b8a53-b85c-4488-83b2-1cf945a54170,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+222b8a53-b85c-4488-83b2-1cf945a54170,meta-llama-3.1-8b-instruct,2,KeyError,'structure'
+f7c6cb4e-cede-49a0-ac60-900218b7fd31,meta-llama-3.1-8b-instruct,1,UnknownError,Error: File datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\ads_information\ads_and_topics\ads_viewed.json does not contain the required structure.
+f7c6cb4e-cede-49a0-ac60-900218b7fd31,meta-llama-3.1-8b-instruct,2,UnknownError,Error: File datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\ads_information\ads_and_topics\ads_viewed.json does not contain the required structure.
+1114b85e-f48f-4ebe-9472-79d2f895e3c4,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_activity_across_facebook\\content'
+1114b85e-f48f-4ebe-9472-79d2f895e3c4,meta-llama-3.1-8b-instruct,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_activity_across_facebook\\content'
+1114b85e-f48f-4ebe-9472-79d2f895e3c4,meta-llama-3.1-8b-instruct,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_activity_across_facebook\\content'
+b6d622d2-785d-4a43-bfb0-c76bb0a52253,meta-llama-3.1-8b-instruct,1,SyntaxError,unterminated string literal (detected at line 47)
+b6d622d2-785d-4a43-bfb0-c76bb0a52253,meta-llama-3.1-8b-instruct,2,SyntaxError,unterminated string literal (detected at line 52)
+b6d622d2-785d-4a43-bfb0-c76bb0a52253,meta-llama-3.1-8b-instruct,3,SyntaxError,unterminated string literal (detected at line 52)
+b6d622d2-785d-4a43-bfb0-c76bb0a52253,meta-llama-3.1-8b-instruct,4,KeyError,'structure'
+0811a6e8-b107-42de-b9ab-b2860f772c76,meta-llama-3.1-8b-instruct,1,UnknownError,Error: cannot access local variable 'root_dir' where it is not associated with a value
+0811a6e8-b107-42de-b9ab-b2860f772c76,meta-llama-3.1-8b-instruct,2,UnknownError,Error: cannot access local variable 'root_dir' where it is not associated with a value
+0811a6e8-b107-42de-b9ab-b2860f772c76,meta-llama-3.1-8b-instruct,3,UnknownError,Error: cannot access local variable 'root_dir' where it is not associated with a value
+0811a6e8-b107-42de-b9ab-b2860f772c76,meta-llama-3.1-8b-instruct,4,UnknownError,Error: cannot access local variable 'root_dir' where it is not associated with a value
+0811a6e8-b107-42de-b9ab-b2860f772c76,meta-llama-3.1-8b-instruct,5,UnknownError,Error: cannot access local variable 'root_dir' where it is not associated with a value
+b192cdc8-cbc2-4fb0-9b9f-d30086588988,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+b192cdc8-cbc2-4fb0-9b9f-d30086588988,meta-llama-3.1-8b-instruct,2,UnknownError,Error: Missing key in file datasets/instagram-pbrenner96-2024-06-11-fak0ewfm\ads_information\ads_and_topics\posts_viewed.json.
+a87b869f-bea0-4639-a2d6-3cf84fc3ba8d,meta-llama-3.1-8b-instruct,1,KeyError,'structure'
+3c6740d2-bed8-48e7-9ec2-e4dd45fee08f,qwen2.5-72b-instruct,1,UnknownError,Error: 'list' object has no attribute 'get'
+5b947c4b-04ef-42d8-a479-34c833d23275,qwen2.5-72b-instruct,1,UnknownError,Error: 'str' object has no attribute 'get'
+2714607a-8bd3-40c2-a101-7c592f58a674,meta-llama-3.1-70b-instruct,1,TypeError,"string indices must be integers, not 'str'"
+068d7ccd-5469-4e86-8bd8-3cbfbaa5397e,meta-llama-3.1-70b-instruct,1,UnknownError,Error: 'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+de620ddc-282c-4c52-8144-dbd25a823bc1,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9b' in position 6: character maps to <undefined>
+a2d333a7-afd8-4988-9861-5c6bc4be7f84,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+c37548b9-f531-4778-a8e4-b5414463a3c3,meta-llama-3.1-70b-instruct,1,UnknownError,Error: time data '202504' does not match format '%Y%m%d'
+ecb7b191-7631-46c8-89a7-1e8e5aa1e29e,meta/llama-3.1-70b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+c88f7294-f256-4411-8975-20d786bae5c9,meta/llama-3.1-70b-instruct,1,UnknownError,Error: name 'json' is not defined
+55f1e709-3284-4a30-a89f-676e8c28529d,meta/llama-3.1-70b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+86258323-48cb-4349-a0c6-b85c9b3480f4,meta/llama-3.1-70b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+425391b2-e1de-4a49-851f-8ba5e5abda3d,meta/llama-3.1-70b-instruct,1,UnknownError,Error: 'charmap' codec can't encode character '\x89' in position 1: character maps to <undefined>
+fe5f997a-d718-4f72-8c24-5c4942ab338c,meta/llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x87' in position 18: character maps to <undefined>
+4acf3e29-db32-4932-8e3a-43c557b820a0,meta/llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x8c' in position 37: character maps to <undefined>
+1841e46b-8abf-41b0-aaf1-b69f0fa3885c,meta/llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x97' in position 1: character maps to <undefined>
+6123baf7-f780-4c1f-be35-2f610c44cbb9,meta/llama-3.1-70b-instruct,1,KeyError,'messages'
+f34fe3af-4974-4c6a-8b00-3161bf92a541,meta/llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x80' in position 12: character maps to <undefined>
+41c2700a-251f-40e5-b8eb-610c9de57ba0,meta/llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x8c' in position 37: character maps to <undefined>
+ee56d9bc-26be-4c60-8c32-5fcc1a81f063,meta/llama-3.1-70b-instruct,1,UnknownError,Error: No device information files found.
+daa4609c-a3d1-460f-af62-f3071de1d702,meta/llama-3.1-70b-instruct,1,UnknownError,Error: The devices.json file is missing the key 'Device ID'
+98b01870-3a74-4e7c-ac26-1b716d7b7669,meta/llama-3.1-70b-instruct,1,UnknownError,An error occurred: Error: The devices.json file is missing the key 'Device ID'
+3701c6ea-9e0f-4c31-8d45-2d948a30878f,meta/llama-3.1-70b-instruct,1,UnknownError,An error occurred: Error: The devices.json file is missing the key 'Device ID'
+a10ccc68-3de3-4458-b7dd-ad9d1b817841,meta/llama-3.1-70b-instruct,1,UnknownError,Error: The devices.json file is missing the required key: 'Gerät'
+6f57fd3c-70f1-4198-ab84-7d268e9aa9be,meta/llama-3.1-70b-instruct,1,UnknownError,Error: The devices.json file is missing the key 'Geräte-ID'.
+9b8f71e5-bc2f-42d6-97c2-e0683aaf73e5,meta/llama-3.1-70b-instruct,1,UnknownError,Error: Error: 'GerÃ¤te-ID'
+265a4e51-74f9-48fd-8eb8-b6c4c011b6c1,meta/llama-3.1-70b-instruct,1,KeyError,'GerÃ¤te-ID'
+28aba551-2d14-4b09-9736-4e33a845f869,meta/llama-3.1-70b-instruct,1,KeyError,'Device ID'
+f01cec2b-d8f0-4cf2-affe-c8e14b980536,meta/llama-3.1-70b-instruct,1,KeyError,'Device ID'
+8218de62-ac96-4305-b908-d00acf8cebe6,meta/llama-3.1-70b-instruct,1,FileNotFoundError,The account_info.json file does not exist.
+1b15fca6-b47e-460a-a11a-a03e8373fd9b,meta/llama-3.1-70b-instruct,1,FileNotFoundError,The profile_changes.json file does not exist.
+bbbcb64a-1567-42bf-bfb8-5d2dbb8764cc,meta/llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+6560b369-df15-46cb-82f0-507e24e68a54,meta/llama-3.1-70b-instruct,1,KeyError,'value'
+82372398-566c-4877-954b-6b2339f4adaa,meta/llama-3.1-70b-instruct,1,KeyError,'original_content_owner'
+0238876d-015b-4e3f-8edf-d933026f9fc1,meta/llama-3.1-70b-instruct,1,TypeError,"string indices must be integers, not 'str'"
+0238876d-015b-4e3f-8edf-d933026f9fc1,meta/llama-3.1-70b-instruct,2,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+8dd49f9c-ce4a-4157-b2d0-44c0666d447c,meta/llama-3.1-70b-instruct,1,KeyError,'Media Owner'
+8dd49f9c-ce4a-4157-b2d0-44c0666d447c,meta/llama-3.1-70b-instruct,2,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+2e73b1bf-729d-4637-9dfd-62f159b575e9,meta/llama-3.1-70b-instruct,1,KeyError,'Media Owner'
+2e73b1bf-729d-4637-9dfd-62f159b575e9,meta/llama-3.1-70b-instruct,2,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+8c40371a-384a-4a3d-82ce-af1bc365c116,meta/llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+4b4b3161-5db8-4355-81b3-b9055f0bfc57,meta/llama-3.1-70b-instruct,1,TypeError,"string indices must be integers, not 'str'"
+4b4b3161-5db8-4355-81b3-b9055f0bfc57,meta/llama-3.1-70b-instruct,2,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+1be52ad3-77f5-453a-a9dd-0fd73c0c7803,meta/llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+38efee11-453b-4074-9630-9879d256c30d,meta/llama-3.1-70b-instruct,1,KeyError,'value'
+38efee11-453b-4074-9630-9879d256c30d,meta/llama-3.1-70b-instruct,2,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+fe1e931a-2462-4e36-9def-cf27478cf74d,meta/llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+d72f7410-aee6-4837-bdf0-c75faa78d6e0,meta/llama-3.1-70b-instruct,1,UnknownError,Error: The followers.json file does not exist.
+e2f2ee75-b5dd-4941-b6ce-979bdd92320c,meta/llama-3.1-70b-instruct,1,KeyError,'Author'
+ac67028c-fd7a-456f-8ebb-9a75e405bf0e,meta/llama-3.1-70b-instruct,1,KeyError,'ig_reels_media'
+6d2c7eb5-8e17-477e-ae83-aeddc3cb7aff,meta/llama-3.1-70b-instruct,1,UnknownError,Error: Error: 'charmap' codec can't encode characters in position 24-25: character maps to <undefined>
+9566d4e2-65d0-4a5f-991c-e39e03d9c926,mistral-large-instruct,1,AttributeError,'list' object has no attribute 'get'
+99dead70-414f-4b16-a84d-1b193e720e2c,meta-llama-3.1-8b-instruct,1,KeyError,'structure'
+38a7cd65-6332-4090-8be7-1691a10d5d62,meta-llama-3.1-8b-instruct,1,IndexError,list index out of range
+d629ea87-9bc8-4c02-875c-6f922e273705,mistral-large-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x80' in position 12: character maps to <undefined>
+3e8d9cb8-2ec1-4c79-9af7-18b9ec2a8346,qwen2.5-72b-instruct,1,AttributeError,'list' object has no attribute 'items'
+2ad6f617-54ce-4b6e-802c-b89409c2fedb,qwen2.5-coder-32b-instruct,1,NameError,name 'file_path' is not defined
+7cfbff61-2ffd-474e-9fc9-3df6b22660a7,qwen2.5-coder-32b-instruct,1,NameError,name 'file_path' is not defined
+99dead70-414f-4b16-a84d-1b193e720e2c,meta-llama-3.1-8b-instruct,1,KeyError,'structure'
+38a7cd65-6332-4090-8be7-1691a10d5d62,meta-llama-3.1-8b-instruct,1,IndexError,list index out of range
+d629ea87-9bc8-4c02-875c-6f922e273705,mistral-large-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x80' in position 12: character maps to <undefined>
+3e8d9cb8-2ec1-4c79-9af7-18b9ec2a8346,qwen2.5-72b-instruct,1,AttributeError,'list' object has no attribute 'items'
+2ad6f617-54ce-4b6e-802c-b89409c2fedb,qwen2.5-coder-32b-instruct,1,NameError,name 'file_path' is not defined
+7cfbff61-2ffd-474e-9fc9-3df6b22660a7,qwen2.5-coder-32b-instruct,1,NameError,name 'file_path' is not defined
+f8795949-6550-4faa-ab19-1f9a86a6f4d5,meta-llama-3.1-8b-instruct,1,NameError,name 'true' is not defined. Did you mean: 'True'?
+22fac21f-d403-4239-92f5-d405f6542d3e,meta-llama-3.1-8b-instruct,1,UnknownError,Error: name 'json' is not defined
+cc3725d0-07c8-4daa-98f3-dc39c55088f5,meta-llama-3.1-8b-instruct,1,UnknownError,Error: name 'json' is not defined
+883ad39b-265e-4a8f-8574-782138731432,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The advertisers_using_your_activity.json file does not exist.
+1f66fdb0-afcc-4383-898b-c02208d70623,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+a5364294-bcc5-4cae-b53f-0731cf3d50f7,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x87' in position 18: character maps to <undefined>
+403f1986-ebb9-4874-96b7-6f1cbf9e7b02,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 8-9: character maps to <undefined>
+e78d0dcb-ab20-40d8-b0ac-0fbed9c3c75e,meta-llama-3.1-70b-instruct,1,SyntaxError,'{' was never closed
+fe8dab73-deab-4ac1-89b2-fe1225c8b6b0,meta-llama-3.1-8b-instruct,1,NameError,name 'true' is not defined. Did you mean: 'True'?
+9f4670d9-3f2f-4a4d-aac8-51b1e34c4ab8,mistral-large-instruct,1,UnknownError,Error: The topics of interest file does not exist.
+a5a8d5be-ff04-4b74-af21-ce838d686f91,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The instagram_signup_details.json file does not exist.
+0f285598-4b55-4f50-b4b8-0cebb613277b,mistral-large-instruct,1,FileNotFoundError,The file datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\security_and_login_information\login_and_profile_creation\instagram_signup_details.json does not exist.
+a187ae34-4b65-48bc-8a7d-e5f9772889cc,codestral-22b,1,KeyError,'Timestamp'
+b7be59cc-b2f9-4d99-a31c-45f8e609d3f6,codestral-22b,1,KeyError,'login_activity_sessions'
+33f1b991-40f5-4716-a3c8-a615e3e69d9d,qwen2.5-72b-instruct,1,FileNotFoundError,The required directory for policy updates and permissions does not exist.
+be276369-44de-43eb-922b-2fe1c8ce4dc7,meta-llama-3.1-70b-instruct,1,ValueError,ValueError: No topics of interest found.
+67dfcd04-09c8-468d-bcbe-0e46bba1ea58,meta-llama-3.1-70b-instruct,1,UnknownError,Error: Error: Error: FileNotFoundError: The accounts_you're_not_interested_in.json file does not exist.
+ed14e31f-f449-41a4-b6fa-11edadfea712,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The instagram signup details file does not exist.
+5e8dcacc-80d3-4145-9742-9557fe997e2c,meta-llama-3.1-8b-instruct,1,KeyError,'structure'
+4754048f-a025-48e8-8058-4276cb974d23,meta-llama-3.1-8b-instruct,1,KeyError,'Device ID'
+9ab06df0-5e1f-4809-a768-b3b92dabce81,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+57c859b6-e0ad-406f-ae2b-de7ff8b2b695,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+5448f46d-14ae-4560-ad3c-daa575cac50c,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+ab20b240-cbbc-4337-abae-50eb20586ac8,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+64a4170c-27c5-418d-8c59-d5b7cf1c885c,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+12466e12-ef71-4f4b-8946-adf5a84a3f5d,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode character '\x87' in position 18: character maps to <undefined>
+f8ada593-632c-49be-bf3c-eb1293ce3b5f,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode character '\x97' in position 1: character maps to <undefined>
+6814a0c6-bc30-48e9-8490-8d7f9820dfb5,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode character '\x8c' in position 37: character maps to <undefined>
+95eebb5a-e215-4288-af03-af13e8b555a7,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode character '\x97' in position 1: character maps to <undefined>
+fb8d27a9-582b-4abe-8d2e-4536498ed614,codestral-22b,1,UnknownError,"Error: list indices must be integers or slices, not str"
+e1489e6a-b2c4-4a25-9e2a-b09f3f713174,codestral-22b,1,TypeError,"string indices must be integers, not 'str'"
+613a5892-d606-4051-b75b-97e565357217,codestral-22b,1,TypeError,"string indices must be integers, not 'str'"
+ee48e396-7e50-4b04-b2b3-a9bc749ae105,qwen2.5-coder-32b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+22eb8cf5-c511-4bce-bf42-35c9e4c3d713,qwen2.5-coder-32b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+3ba81e1a-e70e-4737-ba65-21edfa14c627,qwen2.5-coder-32b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+360de8b7-a6a3-4da2-93a3-e269f863c26e,qwen2.5-coder-32b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+57cc495c-25ba-45c3-b1d2-f48c5c6b2a35,qwen2.5-72b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+4809838f-6408-4c31-acec-6b96145a4c07,qwen2.5-72b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+2806fd65-51c5-45b6-86ef-cc0997b4156b,qwen2.5-72b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+b6ddbb72-e142-4a4b-aaff-3464a0d437f7,qwen2.5-72b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+f8e65d85-edd2-4905-9559-32781378b4e5,qwen2.5-72b-instruct,1,UnknownError,Error: 'structure'
+dd6afddc-15cd-4d40-86c2-e589821c6ffc,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x8c' in position 37: character maps to <undefined>
+6af84af5-ce54-4c13-9777-165db0a74f3b,meta-llama-3.1-70b-instruct,1,ValueError,'charmap' codec can't encode characters in position 9-10: character maps to <undefined>
+340dba9f-ddb5-4b4d-bace-3bb22d7531b6,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x89' in position 1: character maps to <undefined>
+cac55386-31ef-44a2-b54f-75bda29d1dcc,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x87' in position 18: character maps to <undefined>
+e4de1b3a-a579-4dfe-870a-8c1836503af3,meta-llama-3.1-70b-instruct,1,UnknownError,"Error: Error: strptime() argument 1 must be str, not dict"
+77368b96-8261-486a-9aa3-b1d673a67e78,meta-llama-3.1-70b-instruct,1,UnknownError,"Error: Error: strptime() argument 1 must be str, not dict"
+b8e6d1cc-9974-4eeb-a9c1-26b7e2348d2b,codestral-22b,1,KeyError,'value'
+9d2f6e5c-5041-4f0d-8f5b-badde0ea5040,codestral-22b,1,TypeError,"string indices must be integers, not 'str'"
+36a9bd5e-7800-4654-b931-81de42f36076,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The reels.json file does not exist.
+03c0b5e9-60d2-4b93-90a6-1d039a6a3216,qwen2.5-coder-32b-instruct,1,UnknownError,Warning: Error: An unexpected error occurred while processing the file datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\your_instagram_activity\messages\inbox\1378692183524123\message_1.json: ValueError: Timestamp not found in the message file.
+948be63c-e4f6-47b0-a026-51ab1dcfb1d1,codestral-22b,1,TypeError,"string indices must be integers, not 'str'"
+b8e6d1cc-9974-4eeb-a9c1-26b7e2348d2b,codestral-22b,1,KeyError,'value'
+9d2f6e5c-5041-4f0d-8f5b-badde0ea5040,codestral-22b,1,TypeError,"string indices must be integers, not 'str'"
+36a9bd5e-7800-4654-b931-81de42f36076,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The reels.json file does not exist.
+03c0b5e9-60d2-4b93-90a6-1d039a6a3216,qwen2.5-coder-32b-instruct,1,UnknownError,Warning: Error: An unexpected error occurred while processing the file datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\your_instagram_activity\messages\inbox\1378692183524123\message_1.json: ValueError: Timestamp not found in the message file.
+948be63c-e4f6-47b0-a026-51ab1dcfb1d1,codestral-22b,1,TypeError,"string indices must be integers, not 'str'"
+6e3a5892-c3b2-425b-9903-337f7479ccb8,meta/llama-3.1-70b-instruct,1,TypeError,"string indices must be integers, not 'str'"
+ca8b00f1-a15a-440e-af43-643562db8356,meta/llama-3.1-70b-instruct,1,FileNotFoundError,The account information file does not exist.
+bcd2368d-24c4-48ba-8820-55e30e8ccc63,meta/llama-3.1-70b-instruct,1,TypeError,"string indices must be integers, not 'str'"
+6465cbf1-7c0d-4e63-adc7-715840903aa9,meta-llama-3.1-8b-instruct,1,AttributeError,'int' object has no attribute 'strftime'
+c4425383-d915-4bfe-a62e-0a8040e91401,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+8ee7f056-774b-4a74-a097-f2018ccfa4e9,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+753190df-64f2-4a5f-b9c1-34feacd08df7,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+6bdfaf01-e639-461c-93ea-4082e64cf2e9,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+44ce2190-0686-462d-9726-ca87226af3d8,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+d3e53cc0-3dc1-458b-8527-21c6ada40d2a,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+42264010-2a8c-49a9-a856-5ea9838673f1,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+523792aa-9f47-41db-853d-573f723884f2,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+0ad9ce55-1578-4293-a49c-43437ef767ca,qwen2.5-72b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+b3b29298-7e2b-4d84-92fe-e76bc501e5be,qwen2.5-72b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+33a845d6-c96f-434b-bda0-64b4d25de17b,qwen2.5-72b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+90ce5a49-e3f5-416b-af81-e9592a1f0959,qwen2.5-72b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+5b512463-467d-4eb4-8f9b-e4212bee616b,mistral-large-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+7de1dbf0-0e5f-41e4-be15-cd8319b684e8,mistral-large-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+494d5737-caef-46c9-8e7e-78348c784105,mistral-large-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+2256946b-43c0-48e9-ac06-9b10e9655663,mistral-large-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+f06586bb-9c27-4f7d-9f44-8c788b6037c4,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+3a3cc43c-36f0-4a3c-9239-fb7e478c5477,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+7cfd7ba8-f9b6-4cbc-b167-cb6e1d4dbdf3,meta-llama-3.1-70b-instruct,1,UnknownError,Error: 'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+7a4242c7-9c48-4e1a-ae5f-d8216086a16f,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+3e99398a-eba4-4318-b172-bcd1fbd2ebcd,meta-llama-3.1-8b-instruct,1,TypeError,"string indices must be integers, not 'str'"
+2fbde933-5441-4743-89c3-201a8f24cb26,codestral-22b,1,TypeError,"list indices must be integers or slices, not str"
+2918edf0-d0ce-4ba0-9260-b5aa1dff00c6,qwen2.5-72b-instruct,1,UnknownError,Error: 'list' object has no attribute 'get'
+31693da3-5ed7-4952-9acf-1e8066c6c205,meta-llama-3.1-70b-instruct,1,AttributeError,module 'datetime' has no attribute 'fromtimestamp'
+cddf5534-2446-423b-9331-989fa726aac1,meta-llama-3.1-70b-instruct,1,AttributeError,module 'datetime' has no attribute 'fromtimestamp'
+508bc69a-1947-49d7-a96b-709b339d2691,meta/llama-3.1-70b-instruct,1,AttributeError,'list' object has no attribute 'get'
+5e8dcacc-80d3-4145-9742-9557fe997e2c,meta-llama-3.1-8b-instruct,1,KeyError,'structure'
+4754048f-a025-48e8-8058-4276cb974d23,meta-llama-3.1-8b-instruct,1,KeyError,'Device ID'
+9ab06df0-5e1f-4809-a768-b3b92dabce81,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+57c859b6-e0ad-406f-ae2b-de7ff8b2b695,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+5448f46d-14ae-4560-ad3c-daa575cac50c,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+ab20b240-cbbc-4337-abae-50eb20586ac8,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+64a4170c-27c5-418d-8c59-d5b7cf1c885c,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+12466e12-ef71-4f4b-8946-adf5a84a3f5d,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+f8ada593-632c-49be-bf3c-eb1293ce3b5f,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 9-10: character maps to <undefined>
+6814a0c6-bc30-48e9-8490-8d7f9820dfb5,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode character '\x87' in position 18: character maps to <undefined>
+95eebb5a-e215-4288-af03-af13e8b555a7,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 8-9: character maps to <undefined>
+fb8d27a9-582b-4abe-8d2e-4536498ed614,codestral-22b,1,UnknownError,"Error: list indices must be integers or slices, not str"
+e1489e6a-b2c4-4a25-9e2a-b09f3f713174,codestral-22b,1,TypeError,"string indices must be integers, not 'str'"
+613a5892-d606-4051-b75b-97e565357217,codestral-22b,1,TypeError,"string indices must be integers, not 'str'"
+ee48e396-7e50-4b04-b2b3-a9bc749ae105,qwen2.5-coder-32b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+22eb8cf5-c511-4bce-bf42-35c9e4c3d713,qwen2.5-coder-32b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+3ba81e1a-e70e-4737-ba65-21edfa14c627,qwen2.5-coder-32b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+360de8b7-a6a3-4da2-93a3-e269f863c26e,qwen2.5-coder-32b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+57cc495c-25ba-45c3-b1d2-f48c5c6b2a35,qwen2.5-72b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+4809838f-6408-4c31-acec-6b96145a4c07,qwen2.5-72b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+2806fd65-51c5-45b6-86ef-cc0997b4156b,qwen2.5-72b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+b6ddbb72-e142-4a4b-aaff-3464a0d437f7,qwen2.5-72b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+f8e65d85-edd2-4905-9559-32781378b4e5,qwen2.5-72b-instruct,1,UnknownError,Error: 'structure'
+dd6afddc-15cd-4d40-86c2-e589821c6ffc,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x80' in position 5: character maps to <undefined>
+6af84af5-ce54-4c13-9777-165db0a74f3b,meta-llama-3.1-70b-instruct,1,ValueError,'charmap' codec can't encode characters in position 1-2: character maps to <undefined>
+340dba9f-ddb5-4b4d-bace-3bb22d7531b6,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x87' in position 18: character maps to <undefined>
+cac55386-31ef-44a2-b54f-75bda29d1dcc,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x99' in position 11: character maps to <undefined>
+e4de1b3a-a579-4dfe-870a-8c1836503af3,meta-llama-3.1-70b-instruct,1,UnknownError,"Error: Error: strptime() argument 1 must be str, not dict"
+77368b96-8261-486a-9aa3-b1d673a67e78,meta-llama-3.1-70b-instruct,1,UnknownError,"Error: Error: strptime() argument 1 must be str, not dict"

@@ -1,0 +1,954 @@
+Experiment ID,Model,Attempt Number,Error Type,Message
+0917373b-c715-499f-93e1-04f04bc468dd,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-leridash-2025-04-15-tyc7Gjjv'
+26a9c3cf-7a77-4420-950d-b883be20dbab,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-06-11-fak0ewfm'
+2d51d0fd-9b7d-4d15-8efd-588f8272a48e,meta-llama-3.1-8b-instruct,1,NameError,name 'true' is not defined. Did you mean: 'True'?
+faede3ec-27ea-4773-b379-15a8f330f1e5,meta-llama-3.1-8b-instruct,1,NameError,name 'true' is not defined. Did you mean: 'True'?
+faede3ec-27ea-4773-b379-15a8f330f1e5,meta-llama-3.1-8b-instruct,2,NameError,name 'true' is not defined. Did you mean: 'True'?
+faede3ec-27ea-4773-b379-15a8f330f1e5,meta-llama-3.1-8b-instruct,3,NameError,name 'true' is not defined. Did you mean: 'True'?
+faede3ec-27ea-4773-b379-15a8f330f1e5,meta-llama-3.1-8b-instruct,4,NameError,name 'true' is not defined. Did you mean: 'True'?
+faede3ec-27ea-4773-b379-15a8f330f1e5,meta-llama-3.1-8b-instruct,5,NameError,name 'true' is not defined. Did you mean: 'True'?
+31dc242b-7331-4400-822a-f23f2849b443,meta-llama-3.1-8b-instruct,1,NameError,name 'true' is not defined. Did you mean: 'True'?
+620c0cd9-e524-4ebc-a62f-e7803f6491ee,meta-llama-3.1-8b-instruct,1,NameError,name 'true' is not defined. Did you mean: 'True'?
+09f6ab9d-ce53-44e7-b270-695898f0b39d,meta-llama-3.1-8b-instruct,1,NameError,name 'false' is not defined. Did you mean: 'False'?
+09f6ab9d-ce53-44e7-b270-695898f0b39d,meta-llama-3.1-8b-instruct,2,NameError,name 'false' is not defined. Did you mean: 'False'?
+09f6ab9d-ce53-44e7-b270-695898f0b39d,meta-llama-3.1-8b-instruct,3,NameError,name 'false' is not defined. Did you mean: 'False'?
+09f6ab9d-ce53-44e7-b270-695898f0b39d,meta-llama-3.1-8b-instruct,4,NameError,name 'false' is not defined. Did you mean: 'False'?
+09f6ab9d-ce53-44e7-b270-695898f0b39d,meta-llama-3.1-8b-instruct,5,NameError,name 'false' is not defined. Did you mean: 'False'?
+aa19bdaa-a923-40b6-8853-d576825307ff,meta-llama-3.1-8b-instruct,1,NameError,name 'false' is not defined. Did you mean: 'False'?
+aa19bdaa-a923-40b6-8853-d576825307ff,meta-llama-3.1-8b-instruct,2,NameError,name 'false' is not defined. Did you mean: 'False'?
+aa19bdaa-a923-40b6-8853-d576825307ff,meta-llama-3.1-8b-instruct,3,NameError,name 'false' is not defined. Did you mean: 'False'?
+aa19bdaa-a923-40b6-8853-d576825307ff,meta-llama-3.1-8b-instruct,4,NameError,name 'false' is not defined. Did you mean: 'False'?
+aa19bdaa-a923-40b6-8853-d576825307ff,meta-llama-3.1-8b-instruct,5,NameError,name 'false' is not defined. Did you mean: 'False'?
+aa19bdaa-a923-40b6-8853-d576825307ff,meta-llama-3.1-8b-instruct,6,NameError,name 'false' is not defined. Did you mean: 'False'?
+99aea769-c70f-48c8-a27c-48ff63ef5392,meta-llama-3.1-8b-instruct,1,NameError,name 'true' is not defined. Did you mean: 'True'?
+80d1d454-79d3-4ff3-bb51-4b60a1772356,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files'
+59dff2fa-dc5f-46e6-9e16-076bca5a477a,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english'
+0227ee87-3be2-4ab6-9c25-a57fd02c21be,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-leridash-2025-04-15-tyc7Gjjv\\likes'
+0227ee87-3be2-4ab6-9c25-a57fd02c21be,meta-llama-3.1-8b-instruct,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-leridash-2025-04-15-tyc7Gjjv\\likes'
+0227ee87-3be2-4ab6-9c25-a57fd02c21be,meta-llama-3.1-8b-instruct,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-leridash-2025-04-15-tyc7Gjjv\\likes'
+0227ee87-3be2-4ab6-9c25-a57fd02c21be,meta-llama-3.1-8b-instruct,4,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-leridash-2025-04-15-tyc7Gjjv\\likes'
+0227ee87-3be2-4ab6-9c25-a57fd02c21be,meta-llama-3.1-8b-instruct,5,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-leridash-2025-04-15-tyc7Gjjv\\likes'
+0227ee87-3be2-4ab6-9c25-a57fd02c21be,meta-llama-3.1-8b-instruct,6,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-leridash-2025-04-15-tyc7Gjjv\\likes'
+01e4a493-4f3b-4350-8885-3f288c8e05a8,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-01-21-TDz5ZSZM\\likes'
+01e4a493-4f3b-4350-8885-3f288c8e05a8,meta-llama-3.1-8b-instruct,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-01-21-TDz5ZSZM\\likes'
+dc1564d6-843f-40cf-a007-f08cae83ffb0,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-01-25-9eXjs0P7\\likes'
+dc1564d6-843f-40cf-a007-f08cae83ffb0,meta-llama-3.1-8b-instruct,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-01-25-9eXjs0P7\\likes'
+dc1564d6-843f-40cf-a007-f08cae83ffb0,meta-llama-3.1-8b-instruct,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-01-25-9eXjs0P7\\likes'
+dc1564d6-843f-40cf-a007-f08cae83ffb0,meta-llama-3.1-8b-instruct,4,UnboundLocalError,cannot access local variable 'top_20_users' where it is not associated with a value
+dc1564d6-843f-40cf-a007-f08cae83ffb0,meta-llama-3.1-8b-instruct,5,UnboundLocalError,Error: cannot access local variable 'top_20_users' where it is not associated with a value
+2c919575-1f60-46fe-9531-249b0e470872,meta-llama-3.1-8b-instruct,1,UnboundLocalError,cannot access local variable 'top_20_users' where it is not associated with a value
+f5f403a2-2540-4a22-925b-a7585a36d08c,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\likes'
+f5f403a2-2540-4a22-925b-a7585a36d08c,meta-llama-3.1-8b-instruct,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\likes'
+f5f403a2-2540-4a22-925b-a7585a36d08c,meta-llama-3.1-8b-instruct,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\likes'
+f5f403a2-2540-4a22-925b-a7585a36d08c,meta-llama-3.1-8b-instruct,4,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\likes'
+f5f403a2-2540-4a22-925b-a7585a36d08c,meta-llama-3.1-8b-instruct,5,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\likes'
+f5f403a2-2540-4a22-925b-a7585a36d08c,meta-llama-3.1-8b-instruct,6,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\likes'
+1c579979-c5a4-4e52-8e09-44b04b26aa1e,meta-llama-3.1-8b-instruct,1,UnboundLocalError,cannot access local variable 'top_20_users' where it is not associated with a value
+1c579979-c5a4-4e52-8e09-44b04b26aa1e,meta-llama-3.1-8b-instruct,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\\likes'
+1c579979-c5a4-4e52-8e09-44b04b26aa1e,meta-llama-3.1-8b-instruct,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\\likes'
+1c579979-c5a4-4e52-8e09-44b04b26aa1e,meta-llama-3.1-8b-instruct,4,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\\likes'
+1c579979-c5a4-4e52-8e09-44b04b26aa1e,meta-llama-3.1-8b-instruct,5,ModuleNotFoundError,No module named 'pandas'
+1c579979-c5a4-4e52-8e09-44b04b26aa1e,meta-llama-3.1-8b-instruct,6,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\\likes'
+d77851b3-b224-4bb7-94ae-816b88220dba,meta-llama-3.1-8b-instruct,1,ModuleNotFoundError,No module named 'pandas'
+d77851b3-b224-4bb7-94ae-816b88220dba,meta-llama-3.1-8b-instruct,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\likes'
+e69833ca-93e6-495e-b2fd-99024920d9b9,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content\\likes'
+e6ade3ad-d7a9-4af3-8425-a4abdea70c0a,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-zoomiies_-2025-05-03-ASH5BC44\\likes'
+e6ade3ad-d7a9-4af3-8425-a4abdea70c0a,meta-llama-3.1-8b-instruct,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-zoomiies_-2025-05-03-ASH5BC44\\likes'
+e6ade3ad-d7a9-4af3-8425-a4abdea70c0a,meta-llama-3.1-8b-instruct,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-zoomiies_-2025-05-03-ASH5BC44\\likes'
+e6ade3ad-d7a9-4af3-8425-a4abdea70c0a,meta-llama-3.1-8b-instruct,4,TypeError,"string indices must be integers, not 'str'"
+4bfc73cf-5a8e-4cb6-a484-f7e458e38ef5,meta-llama-3.1-8b-instruct,1,SyntaxError,unterminated string literal (detected at line 56)
+2f1d1c60-04de-414d-8877-57a84014c5ce,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month\\following.json'
+ebb43817-d843-4f6d-99cf-c1abe0d96f39,meta-llama-3.1-8b-instruct,1,FileNotFoundError,Error: ads_viewed.json file not found.
+fcd5451a-617f-4561-bc43-2ed7a05e4d13,meta-llama-3.1-8b-instruct,1,FileNotFoundError,Error: ads_viewed.json file not found.
+fcd5451a-617f-4561-bc43-2ed7a05e4d13,meta-llama-3.1-8b-instruct,2,FileNotFoundError,Error: ads_viewed.json file not found.
+fcd5451a-617f-4561-bc43-2ed7a05e4d13,meta-llama-3.1-8b-instruct,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-01-21-TDz5ZSZM'
+fcd5451a-617f-4561-bc43-2ed7a05e4d13,meta-llama-3.1-8b-instruct,4,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-01-21-TDz5ZSZM'
+fcd5451a-617f-4561-bc43-2ed7a05e4d13,meta-llama-3.1-8b-instruct,5,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-01-21-TDz5ZSZM'
+fcd5451a-617f-4561-bc43-2ed7a05e4d13,meta-llama-3.1-8b-instruct,6,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-01-21-TDz5ZSZM'
+0a51411c-2384-4d90-b88b-01405bf67a00,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-01-25-9eXjs0P7'
+0a51411c-2384-4d90-b88b-01405bf67a00,meta-llama-3.1-8b-instruct,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-01-25-9eXjs0P7'
+0a51411c-2384-4d90-b88b-01405bf67a00,meta-llama-3.1-8b-instruct,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-01-25-9eXjs0P7'
+0a51411c-2384-4d90-b88b-01405bf67a00,meta-llama-3.1-8b-instruct,4,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-01-25-9eXjs0P7'
+0a51411c-2384-4d90-b88b-01405bf67a00,meta-llama-3.1-8b-instruct,5,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-01-25-9eXjs0P7'
+f6f7d6fa-5680-4ea1-aed5-640d95e30505,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL'
+f6f7d6fa-5680-4ea1-aed5-640d95e30505,meta-llama-3.1-8b-instruct,2,FileNotFoundError,Error: ads_viewed.json file not found.
+f6f7d6fa-5680-4ea1-aed5-640d95e30505,meta-llama-3.1-8b-instruct,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL'
+f6f7d6fa-5680-4ea1-aed5-640d95e30505,meta-llama-3.1-8b-instruct,4,FileNotFoundError,Error: ads_viewed.json file not found.
+f6f7d6fa-5680-4ea1-aed5-640d95e30505,meta-llama-3.1-8b-instruct,5,FileNotFoundError,Error: ads_viewed.json file not found.
+f6f7d6fa-5680-4ea1-aed5-640d95e30505,meta-llama-3.1-8b-instruct,6,FileNotFoundError,Error: ads_viewed.json file not found.
+698d88cd-5aad-4b52-b831-0542199658ef,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP'
+698d88cd-5aad-4b52-b831-0542199658ef,meta-llama-3.1-8b-instruct,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP'
+698d88cd-5aad-4b52-b831-0542199658ef,meta-llama-3.1-8b-instruct,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP'
+698d88cd-5aad-4b52-b831-0542199658ef,meta-llama-3.1-8b-instruct,4,FileNotFoundError,Error: ads_viewed.json file not found.
+698d88cd-5aad-4b52-b831-0542199658ef,meta-llama-3.1-8b-instruct,5,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP'
+698d88cd-5aad-4b52-b831-0542199658ef,meta-llama-3.1-8b-instruct,6,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP'
+1d5e0fed-afbd-429f-937c-8cd873071fd6,meta-llama-3.1-8b-instruct,1,FileNotFoundError,Error: ads_viewed.json file not found.
+1d5e0fed-afbd-429f-937c-8cd873071fd6,meta-llama-3.1-8b-instruct,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+1d5e0fed-afbd-429f-937c-8cd873071fd6,meta-llama-3.1-8b-instruct,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+4777a62f-7676-4e55-951f-cd2653c2cef2,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation'
+4777a62f-7676-4e55-951f-cd2653c2cef2,meta-llama-3.1-8b-instruct,2,FileNotFoundError,Error: ads_viewed.json file not found.
+4777a62f-7676-4e55-951f-cd2653c2cef2,meta-llama-3.1-8b-instruct,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation'
+4777a62f-7676-4e55-951f-cd2653c2cef2,meta-llama-3.1-8b-instruct,4,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation'
+4777a62f-7676-4e55-951f-cd2653c2cef2,meta-llama-3.1-8b-instruct,5,FileNotFoundError,Error: ads_viewed.json file not found.
+4777a62f-7676-4e55-951f-cd2653c2cef2,meta-llama-3.1-8b-instruct,6,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation'
+09b5a645-8e0b-4d83-afda-a4d60f04c47d,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files'
+09b5a645-8e0b-4d83-afda-a4d60f04c47d,meta-llama-3.1-8b-instruct,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files'
+09b5a645-8e0b-4d83-afda-a4d60f04c47d,meta-llama-3.1-8b-instruct,3,FileNotFoundError,Error: ads_viewed.json file not found.
+09b5a645-8e0b-4d83-afda-a4d60f04c47d,meta-llama-3.1-8b-instruct,4,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files'
+09b5a645-8e0b-4d83-afda-a4d60f04c47d,meta-llama-3.1-8b-instruct,5,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files'
+09b5a645-8e0b-4d83-afda-a4d60f04c47d,meta-llama-3.1-8b-instruct,6,FileNotFoundError,Error: ads_viewed.json file not found.
+e7a33d54-1668-4fff-9de6-d7c439a0f415,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown'
+e7a33d54-1668-4fff-9de6-d7c439a0f415,meta-llama-3.1-8b-instruct,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown'
+e7a33d54-1668-4fff-9de6-d7c439a0f415,meta-llama-3.1-8b-instruct,3,FileNotFoundError,Error: ads_viewed.json file not found.
+e7a33d54-1668-4fff-9de6-d7c439a0f415,meta-llama-3.1-8b-instruct,4,FileNotFoundError,Error: ads_viewed.json file not found.
+e7a33d54-1668-4fff-9de6-d7c439a0f415,meta-llama-3.1-8b-instruct,5,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown'
+e7a33d54-1668-4fff-9de6-d7c439a0f415,meta-llama-3.1-8b-instruct,6,FileNotFoundError,Error: ads_viewed.json file not found.
+7dc85c08-884b-4a8f-b8da-035c2587a6e0,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content'
+7dc85c08-884b-4a8f-b8da-035c2587a6e0,meta-llama-3.1-8b-instruct,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content'
+7dc85c08-884b-4a8f-b8da-035c2587a6e0,meta-llama-3.1-8b-instruct,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content'
+7dc85c08-884b-4a8f-b8da-035c2587a6e0,meta-llama-3.1-8b-instruct,4,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content'
+7dc85c08-884b-4a8f-b8da-035c2587a6e0,meta-llama-3.1-8b-instruct,5,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content'
+7dc85c08-884b-4a8f-b8da-035c2587a6e0,meta-llama-3.1-8b-instruct,6,FileNotFoundError,Error: ads_viewed.json file not found.
+153c2072-e760-4cef-a0ab-c6373b201aa0,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english'
+153c2072-e760-4cef-a0ab-c6373b201aa0,meta-llama-3.1-8b-instruct,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english'
+153c2072-e760-4cef-a0ab-c6373b201aa0,meta-llama-3.1-8b-instruct,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english'
+153c2072-e760-4cef-a0ab-c6373b201aa0,meta-llama-3.1-8b-instruct,4,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english'
+153c2072-e760-4cef-a0ab-c6373b201aa0,meta-llama-3.1-8b-instruct,5,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english'
+153c2072-e760-4cef-a0ab-c6373b201aa0,meta-llama-3.1-8b-instruct,6,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english'
+409e0304-3b3a-4026-b4a6-289b1a7e0ca6,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-06-11-fak0ewfm'
+409e0304-3b3a-4026-b4a6-289b1a7e0ca6,meta-llama-3.1-8b-instruct,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-06-11-fak0ewfm'
+409e0304-3b3a-4026-b4a6-289b1a7e0ca6,meta-llama-3.1-8b-instruct,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-06-11-fak0ewfm'
+409e0304-3b3a-4026-b4a6-289b1a7e0ca6,meta-llama-3.1-8b-instruct,4,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-06-11-fak0ewfm'
+409e0304-3b3a-4026-b4a6-289b1a7e0ca6,meta-llama-3.1-8b-instruct,5,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-06-11-fak0ewfm'
+409e0304-3b3a-4026-b4a6-289b1a7e0ca6,meta-llama-3.1-8b-instruct,6,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-06-11-fak0ewfm'
+b07017ce-42e1-40da-8152-f59dffe31278,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-zoomiies_-2025-05-03-ASH5BC44'
+b07017ce-42e1-40da-8152-f59dffe31278,meta-llama-3.1-8b-instruct,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-zoomiies_-2025-05-03-ASH5BC44'
+b07017ce-42e1-40da-8152-f59dffe31278,meta-llama-3.1-8b-instruct,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-zoomiies_-2025-05-03-ASH5BC44'
+6ee8f77c-23a8-46e7-8f17-34e8b499ec4e,meta-llama-3.1-8b-instruct,1,NameError,Error: name 'json' is not defined
+6ee8f77c-23a8-46e7-8f17-34e8b499ec4e,meta-llama-3.1-8b-instruct,2,NameError,Error: name 'json' is not defined
+6ee8f77c-23a8-46e7-8f17-34e8b499ec4e,meta-llama-3.1-8b-instruct,3,NameError,Error: name 'json' is not defined
+6ee8f77c-23a8-46e7-8f17-34e8b499ec4e,meta-llama-3.1-8b-instruct,4,NameError,Error: name 'json' is not defined
+6ee8f77c-23a8-46e7-8f17-34e8b499ec4e,meta-llama-3.1-8b-instruct,5,NameError,Error: name 'json' is not defined
+6ee8f77c-23a8-46e7-8f17-34e8b499ec4e,meta-llama-3.1-8b-instruct,6,NameError,Error: name 'json' is not defined
+29676363-fa0e-45ba-8ace-1149aed906d2,meta-llama-3.1-8b-instruct,1,NameError,Error: name 'json' is not defined
+29676363-fa0e-45ba-8ace-1149aed906d2,meta-llama-3.1-8b-instruct,2,NameError,Error: name 'json' is not defined
+29676363-fa0e-45ba-8ace-1149aed906d2,meta-llama-3.1-8b-instruct,3,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL'
+29676363-fa0e-45ba-8ace-1149aed906d2,meta-llama-3.1-8b-instruct,4,NameError,Error: name 'json' is not defined
+29676363-fa0e-45ba-8ace-1149aed906d2,meta-llama-3.1-8b-instruct,5,NameError,Error: name 'json' is not defined
+29676363-fa0e-45ba-8ace-1149aed906d2,meta-llama-3.1-8b-instruct,6,NameError,Error: name 'json' is not defined
+9a60bbb8-8576-43dc-bee1-6608de3ba49a,meta-llama-3.1-8b-instruct,1,NameError,Error: name 'json' is not defined
+9a60bbb8-8576-43dc-bee1-6608de3ba49a,meta-llama-3.1-8b-instruct,2,NameError,Error: name 'json' is not defined
+9a60bbb8-8576-43dc-bee1-6608de3ba49a,meta-llama-3.1-8b-instruct,3,NameError,Error: name 'json' is not defined
+9a60bbb8-8576-43dc-bee1-6608de3ba49a,meta-llama-3.1-8b-instruct,4,NameError,Error: name 'json' is not defined
+9a60bbb8-8576-43dc-bee1-6608de3ba49a,meta-llama-3.1-8b-instruct,5,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP'
+9a60bbb8-8576-43dc-bee1-6608de3ba49a,meta-llama-3.1-8b-instruct,6,NameError,Error: name 'json' is not defined
+edafc708-a880-4f85-b643-4b97c0ffe957,meta-llama-3.1-8b-instruct,1,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+edafc708-a880-4f85-b643-4b97c0ffe957,meta-llama-3.1-8b-instruct,2,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+edafc708-a880-4f85-b643-4b97c0ffe957,meta-llama-3.1-8b-instruct,3,NameError,Error: name 'json' is not defined
+edafc708-a880-4f85-b643-4b97c0ffe957,meta-llama-3.1-8b-instruct,4,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month'
+edafc708-a880-4f85-b643-4b97c0ffe957,meta-llama-3.1-8b-instruct,5,NameError,name 'json' is not defined. Did you forget to import 'json'?
+edafc708-a880-4f85-b643-4b97c0ffe957,meta-llama-3.1-8b-instruct,6,NameError,Error: name 'json' is not defined
+639a8ff2-f948-446f-a3f6-0e26c8233c9a,meta-llama-3.1-8b-instruct,1,NameError,Error: name 'json' is not defined
+639a8ff2-f948-446f-a3f6-0e26c8233c9a,meta-llama-3.1-8b-instruct,2,NameError,Error: name 'json' is not defined
+639a8ff2-f948-446f-a3f6-0e26c8233c9a,meta-llama-3.1-8b-instruct,3,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation'
+639a8ff2-f948-446f-a3f6-0e26c8233c9a,meta-llama-3.1-8b-instruct,4,NameError,Error: name 'json' is not defined
+639a8ff2-f948-446f-a3f6-0e26c8233c9a,meta-llama-3.1-8b-instruct,5,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation'
+639a8ff2-f948-446f-a3f6-0e26c8233c9a,meta-llama-3.1-8b-instruct,6,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation'
+99ebc48d-effc-44af-962a-08dccd88e936,meta-llama-3.1-8b-instruct,1,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files'
+99ebc48d-effc-44af-962a-08dccd88e936,meta-llama-3.1-8b-instruct,2,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files'
+99ebc48d-effc-44af-962a-08dccd88e936,meta-llama-3.1-8b-instruct,3,NameError,Error: name 'json' is not defined
+99ebc48d-effc-44af-962a-08dccd88e936,meta-llama-3.1-8b-instruct,4,NameError,Error: name 'json' is not defined
+99ebc48d-effc-44af-962a-08dccd88e936,meta-llama-3.1-8b-instruct,5,NameError,Error: name 'json' is not defined
+99ebc48d-effc-44af-962a-08dccd88e936,meta-llama-3.1-8b-instruct,6,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files'
+06bce5cf-5cdf-4e43-af41-f22721e457dc,meta-llama-3.1-8b-instruct,1,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown'
+06bce5cf-5cdf-4e43-af41-f22721e457dc,meta-llama-3.1-8b-instruct,2,NameError,Error: name 'json' is not defined
+06bce5cf-5cdf-4e43-af41-f22721e457dc,meta-llama-3.1-8b-instruct,3,NameError,Error: name 'json' is not defined
+06bce5cf-5cdf-4e43-af41-f22721e457dc,meta-llama-3.1-8b-instruct,4,NameError,Error: name 'json' is not defined
+06bce5cf-5cdf-4e43-af41-f22721e457dc,meta-llama-3.1-8b-instruct,5,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown'
+06bce5cf-5cdf-4e43-af41-f22721e457dc,meta-llama-3.1-8b-instruct,6,NameError,Error: name 'json' is not defined
+d71f54ef-b269-4730-b547-a0a659bb3162,meta-llama-3.1-8b-instruct,1,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content'
+d71f54ef-b269-4730-b547-a0a659bb3162,meta-llama-3.1-8b-instruct,2,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content'
+d71f54ef-b269-4730-b547-a0a659bb3162,meta-llama-3.1-8b-instruct,3,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content'
+d71f54ef-b269-4730-b547-a0a659bb3162,meta-llama-3.1-8b-instruct,4,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content'
+d71f54ef-b269-4730-b547-a0a659bb3162,meta-llama-3.1-8b-instruct,5,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content'
+d71f54ef-b269-4730-b547-a0a659bb3162,meta-llama-3.1-8b-instruct,6,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content'
+d2da91cd-9f59-4b20-bf53-29d51c8cd939,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+d2da91cd-9f59-4b20-bf53-29d51c8cd939,meta-llama-3.1-8b-instruct,2,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english'
+d2da91cd-9f59-4b20-bf53-29d51c8cd939,meta-llama-3.1-8b-instruct,3,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english'
+d2da91cd-9f59-4b20-bf53-29d51c8cd939,meta-llama-3.1-8b-instruct,4,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english'
+d2da91cd-9f59-4b20-bf53-29d51c8cd939,meta-llama-3.1-8b-instruct,5,FileNotFoundError,The posts_viewed.json file does not exist.
+d2da91cd-9f59-4b20-bf53-29d51c8cd939,meta-llama-3.1-8b-instruct,6,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english'
+b659bc27-e0e6-4c17-bfac-47f149556389,meta-llama-3.1-8b-instruct,1,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-pbrenner96-2024-06-11-fak0ewfm'
+b659bc27-e0e6-4c17-bfac-47f149556389,meta-llama-3.1-8b-instruct,2,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-pbrenner96-2024-06-11-fak0ewfm'
+b659bc27-e0e6-4c17-bfac-47f149556389,meta-llama-3.1-8b-instruct,3,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-pbrenner96-2024-06-11-fak0ewfm'
+b659bc27-e0e6-4c17-bfac-47f149556389,meta-llama-3.1-8b-instruct,4,NameError,Error: name 'json' is not defined
+e747c04a-5b96-42b2-ae0a-f78c43dcb044,meta-llama-3.1-8b-instruct,1,NameError,Error: name 'json' is not defined
+e747c04a-5b96-42b2-ae0a-f78c43dcb044,meta-llama-3.1-8b-instruct,2,NameError,Error: name 'json' is not defined
+e747c04a-5b96-42b2-ae0a-f78c43dcb044,meta-llama-3.1-8b-instruct,3,NameError,Error: name 'json' is not defined
+e747c04a-5b96-42b2-ae0a-f78c43dcb044,meta-llama-3.1-8b-instruct,4,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-zoomiies_-2025-05-03-ASH5BC44'
+e747c04a-5b96-42b2-ae0a-f78c43dcb044,meta-llama-3.1-8b-instruct,5,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-zoomiies_-2025-05-03-ASH5BC44'
+e747c04a-5b96-42b2-ae0a-f78c43dcb044,meta-llama-3.1-8b-instruct,6,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-zoomiies_-2025-05-03-ASH5BC44'
+d998bd93-bf5d-47ec-bdc4-c39d25406798,meta-llama-3.1-8b-instruct,1,TypeError,unsupported operand type(s) for //: 'NoneType' and 'int'
+883ad39b-265e-4a8f-8574-782138731432,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The ads_viewed.json file does not exist.
+9e6bab91-af0a-43ac-a7e1-1d98d5b10388,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The ads_viewed.json file does not exist.
+9e6bab91-af0a-43ac-a7e1-1d98d5b10388,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The ads_viewed.json file does not exist.
+9e6bab91-af0a-43ac-a7e1-1d98d5b10388,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The ads_viewed.json file does not exist.
+9e6bab91-af0a-43ac-a7e1-1d98d5b10388,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The ads_viewed.json file does not exist.
+9e6bab91-af0a-43ac-a7e1-1d98d5b10388,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The ads_viewed.json file does not exist.
+9e6bab91-af0a-43ac-a7e1-1d98d5b10388,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The ads_viewed.json file does not exist.
+d088110c-f135-46e7-a491-1e54ed62c412,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The advertisers_using_your_activity.json file does not exist.
+b3205884-8aca-4f89-8a07-9cccfdce8990,meta-llama-3.1-70b-instruct,1,KeyError,'Author'
+b3205884-8aca-4f89-8a07-9cccfdce8990,meta-llama-3.1-70b-instruct,2,KeyError,'Author'
+b3205884-8aca-4f89-8a07-9cccfdce8990,meta-llama-3.1-70b-instruct,3,KeyError,'Author'
+b3205884-8aca-4f89-8a07-9cccfdce8990,meta-llama-3.1-70b-instruct,4,KeyError,'Author'
+b3205884-8aca-4f89-8a07-9cccfdce8990,meta-llama-3.1-70b-instruct,5,KeyError,'Author'
+b3205884-8aca-4f89-8a07-9cccfdce8990,meta-llama-3.1-70b-instruct,6,KeyError,'Author'
+ddfe8e4d-397e-4d59-ab24-9b570cd448b2,meta-llama-3.1-70b-instruct,1,KeyError,'Author'
+ddfe8e4d-397e-4d59-ab24-9b570cd448b2,meta-llama-3.1-70b-instruct,2,KeyError,'Author'
+ddfe8e4d-397e-4d59-ab24-9b570cd448b2,meta-llama-3.1-70b-instruct,3,KeyError,'Author'
+ddfe8e4d-397e-4d59-ab24-9b570cd448b2,meta-llama-3.1-70b-instruct,4,KeyError,'Author'
+ddfe8e4d-397e-4d59-ab24-9b570cd448b2,meta-llama-3.1-70b-instruct,5,KeyError,'Author'
+ddfe8e4d-397e-4d59-ab24-9b570cd448b2,meta-llama-3.1-70b-instruct,6,KeyError,'Author'
+ebde46e0-7ae4-4403-a4f9-56fd4b2fd1f0,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The ads_and_topics directory does not exist.
+ebde46e0-7ae4-4403-a4f9-56fd4b2fd1f0,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The ads_and_topics directory does not exist.
+ebde46e0-7ae4-4403-a4f9-56fd4b2fd1f0,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The ads_and_topics directory does not exist.
+ebde46e0-7ae4-4403-a4f9-56fd4b2fd1f0,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The ads_and_topics directory does not exist.
+ebde46e0-7ae4-4403-a4f9-56fd4b2fd1f0,meta-llama-3.1-70b-instruct,5,FileNotFoundError,Error: The ads_and_topics directory does not exist.
+ebde46e0-7ae4-4403-a4f9-56fd4b2fd1f0,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The ads_and_topics directory does not exist.
+80f6ff0a-f03e-441c-9fce-1fe3532a8df7,meta-llama-3.1-70b-instruct,1,FileNotFoundError,Error: The ads_and_topics directory does not exist.
+80f6ff0a-f03e-441c-9fce-1fe3532a8df7,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The ads_and_topics directory does not exist.
+80f6ff0a-f03e-441c-9fce-1fe3532a8df7,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The ads_and_topics directory does not exist.
+80f6ff0a-f03e-441c-9fce-1fe3532a8df7,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The ads_and_topics directory does not exist.
+80f6ff0a-f03e-441c-9fce-1fe3532a8df7,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The ads_and_topics directory does not exist.
+80f6ff0a-f03e-441c-9fce-1fe3532a8df7,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The ads_and_topics directory does not exist.
+b719c06e-ad1a-4e32-9ef6-a3a9b1510419,mistral-large-instruct,1,FileNotFoundError,The file datasets/instagram-leridash-2025-04-15-tyc7Gjjv\ads_information\ads_and_topics\posts_viewed.json does not exist.
+b719c06e-ad1a-4e32-9ef6-a3a9b1510419,mistral-large-instruct,2,FileNotFoundError,The file datasets/instagram-leridash-2025-04-15-tyc7Gjjv\ads_information\ads_and_topics\posts_viewed.json does not exist.
+b719c06e-ad1a-4e32-9ef6-a3a9b1510419,mistral-large-instruct,3,FileNotFoundError,The file datasets/instagram-leridash-2025-04-15-tyc7Gjjv\ads_information\ads_and_topics\posts_viewed.json does not exist.
+b719c06e-ad1a-4e32-9ef6-a3a9b1510419,mistral-large-instruct,4,FileNotFoundError,The file datasets/instagram-leridash-2025-04-15-tyc7Gjjv\ads_information\ads_and_topics\posts_viewed.json does not exist.
+b719c06e-ad1a-4e32-9ef6-a3a9b1510419,mistral-large-instruct,5,FileNotFoundError,The file datasets/instagram-leridash-2025-04-15-tyc7Gjjv\ads_information\ads_and_topics\posts_viewed.json does not exist.
+b719c06e-ad1a-4e32-9ef6-a3a9b1510419,mistral-large-instruct,6,FileNotFoundError,The file datasets/instagram-leridash-2025-04-15-tyc7Gjjv\ads_information\ads_and_topics\posts_viewed.json does not exist.
+7284505e-3eda-4001-a805-59cc6fa22034,mistral-large-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9f' in position 39: character maps to <undefined>
+e9a2945b-12e7-472c-b646-b9daea6ccbd2,mistral-large-instruct,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 9-11: character maps to <undefined>
+e9a2945b-12e7-472c-b646-b9daea6ccbd2,mistral-large-instruct,2,UnicodeEncodeError,'charmap' codec can't encode characters in position 17-19: character maps to <undefined>
+e9a2945b-12e7-472c-b646-b9daea6ccbd2,mistral-large-instruct,3,UnicodeEncodeError,'charmap' codec can't encode character '\x9f' in position 12: character maps to <undefined>
+e9a2945b-12e7-472c-b646-b9daea6ccbd2,mistral-large-instruct,4,UnicodeEncodeError,'charmap' codec can't encode character '\x9f' in position 39: character maps to <undefined>
+e9a2945b-12e7-472c-b646-b9daea6ccbd2,mistral-large-instruct,5,UnicodeEncodeError,'charmap' codec can't encode characters in position 17-19: character maps to <undefined>
+e9a2945b-12e7-472c-b646-b9daea6ccbd2,mistral-large-instruct,6,UnicodeEncodeError,'charmap' codec can't encode character '\x9f' in position 39: character maps to <undefined>
+4adf69f8-7b12-4a69-a672-13a266f23b2e,mistral-large-instruct,1,FileNotFoundError,The devices.json file does not exist.
+4adf69f8-7b12-4a69-a672-13a266f23b2e,mistral-large-instruct,2,FileNotFoundError,The devices.json file does not exist.
+4adf69f8-7b12-4a69-a672-13a266f23b2e,mistral-large-instruct,3,FileNotFoundError,The devices.json file does not exist.
+4adf69f8-7b12-4a69-a672-13a266f23b2e,mistral-large-instruct,4,FileNotFoundError,The devices.json file does not exist.
+4adf69f8-7b12-4a69-a672-13a266f23b2e,mistral-large-instruct,5,FileNotFoundError,The devices.json file does not exist.
+4adf69f8-7b12-4a69-a672-13a266f23b2e,mistral-large-instruct,6,FileNotFoundError,The devices.json file does not exist.
+b2a38e57-d896-4486-93a9-0ce53f01ea63,mistral-large-instruct,1,FileNotFoundError,The devices.json file does not exist.
+b2a38e57-d896-4486-93a9-0ce53f01ea63,mistral-large-instruct,2,FileNotFoundError,The devices.json file does not exist.
+b2a38e57-d896-4486-93a9-0ce53f01ea63,mistral-large-instruct,3,FileNotFoundError,The devices.json file does not exist.
+b2a38e57-d896-4486-93a9-0ce53f01ea63,mistral-large-instruct,4,FileNotFoundError,The devices.json file does not exist.
+b2a38e57-d896-4486-93a9-0ce53f01ea63,mistral-large-instruct,5,FileNotFoundError,The devices.json file does not exist.
+b2a38e57-d896-4486-93a9-0ce53f01ea63,mistral-large-instruct,6,FileNotFoundError,The devices.json file does not exist.
+ae0a0d8c-6eb5-4715-af6a-2af59c28e839,mistral-large-instruct,1,FileNotFoundError,The devices.json file does not exist.
+ae0a0d8c-6eb5-4715-af6a-2af59c28e839,mistral-large-instruct,2,FileNotFoundError,The devices.json file does not exist.
+ae0a0d8c-6eb5-4715-af6a-2af59c28e839,mistral-large-instruct,3,FileNotFoundError,The devices.json file does not exist.
+ae0a0d8c-6eb5-4715-af6a-2af59c28e839,mistral-large-instruct,4,FileNotFoundError,The devices.json file does not exist.
+ae0a0d8c-6eb5-4715-af6a-2af59c28e839,mistral-large-instruct,5,FileNotFoundError,The devices.json file does not exist.
+ae0a0d8c-6eb5-4715-af6a-2af59c28e839,mistral-large-instruct,6,FileNotFoundError,The devices.json file does not exist.
+21ae5e76-9ea1-442f-b612-b14f5a04f575,mistral-large-instruct,1,FileNotFoundError,The devices.json file does not exist.
+21ae5e76-9ea1-442f-b612-b14f5a04f575,mistral-large-instruct,2,FileNotFoundError,The devices.json file does not exist.
+21ae5e76-9ea1-442f-b612-b14f5a04f575,mistral-large-instruct,3,FileNotFoundError,The devices.json file does not exist.
+21ae5e76-9ea1-442f-b612-b14f5a04f575,mistral-large-instruct,4,FileNotFoundError,The devices.json file does not exist.
+21ae5e76-9ea1-442f-b612-b14f5a04f575,mistral-large-instruct,5,FileNotFoundError,The devices.json file does not exist.
+21ae5e76-9ea1-442f-b612-b14f5a04f575,mistral-large-instruct,6,FileNotFoundError,The devices.json file does not exist.
+123c9d89-98f4-4e62-8145-dc98588d24d2,mistral-large-instruct,1,FileNotFoundError,The devices.json file does not exist.
+123c9d89-98f4-4e62-8145-dc98588d24d2,mistral-large-instruct,2,FileNotFoundError,The devices.json file does not exist.
+123c9d89-98f4-4e62-8145-dc98588d24d2,mistral-large-instruct,3,FileNotFoundError,The devices.json file does not exist.
+123c9d89-98f4-4e62-8145-dc98588d24d2,mistral-large-instruct,4,FileNotFoundError,The devices.json file does not exist.
+123c9d89-98f4-4e62-8145-dc98588d24d2,mistral-large-instruct,5,FileNotFoundError,The devices.json file does not exist.
+123c9d89-98f4-4e62-8145-dc98588d24d2,mistral-large-instruct,6,FileNotFoundError,The devices.json file does not exist.
+012a7ee0-cc66-4e32-bf16-6b285d5c0267,mistral-large-instruct,1,FileNotFoundError,The devices.json file does not exist.
+012a7ee0-cc66-4e32-bf16-6b285d5c0267,mistral-large-instruct,2,FileNotFoundError,The devices.json file does not exist.
+012a7ee0-cc66-4e32-bf16-6b285d5c0267,mistral-large-instruct,3,FileNotFoundError,The devices.json file does not exist.
+012a7ee0-cc66-4e32-bf16-6b285d5c0267,mistral-large-instruct,4,FileNotFoundError,The devices.json file does not exist.
+012a7ee0-cc66-4e32-bf16-6b285d5c0267,mistral-large-instruct,5,FileNotFoundError,The devices.json file does not exist.
+d321ceb1-318a-411f-81a9-a2afdb808303,mistral-large-instruct,1,FileNotFoundError,The devices.json file does not exist.
+d321ceb1-318a-411f-81a9-a2afdb808303,mistral-large-instruct,2,FileNotFoundError,The devices.json file does not exist.
+d321ceb1-318a-411f-81a9-a2afdb808303,mistral-large-instruct,3,FileNotFoundError,The devices.json file does not exist.
+d321ceb1-318a-411f-81a9-a2afdb808303,mistral-large-instruct,4,FileNotFoundError,The devices.json file does not exist.
+d321ceb1-318a-411f-81a9-a2afdb808303,mistral-large-instruct,5,FileNotFoundError,The devices.json file does not exist.
+f176a51d-ba82-4a72-8682-72d3330fe641,mistral-large-instruct,1,FileNotFoundError,The devices.json file does not exist.
+f176a51d-ba82-4a72-8682-72d3330fe641,mistral-large-instruct,2,FileNotFoundError,The devices.json file does not exist.
+f176a51d-ba82-4a72-8682-72d3330fe641,mistral-large-instruct,3,FileNotFoundError,The devices.json file does not exist.
+f176a51d-ba82-4a72-8682-72d3330fe641,mistral-large-instruct,4,FileNotFoundError,The devices.json file does not exist.
+f176a51d-ba82-4a72-8682-72d3330fe641,mistral-large-instruct,5,FileNotFoundError,The devices.json file does not exist.
+f176a51d-ba82-4a72-8682-72d3330fe641,mistral-large-instruct,6,FileNotFoundError,The devices.json file does not exist.
+9266e873-7267-40b8-b5ca-668b4500bb34,mistral-large-instruct,1,FileNotFoundError,The devices.json file does not exist.
+9266e873-7267-40b8-b5ca-668b4500bb34,mistral-large-instruct,2,FileNotFoundError,The devices.json file does not exist.
+9266e873-7267-40b8-b5ca-668b4500bb34,mistral-large-instruct,3,FileNotFoundError,The devices.json file does not exist.
+9266e873-7267-40b8-b5ca-668b4500bb34,mistral-large-instruct,4,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content\\security_and_login_information\\login_and_profile_creation\\login_activity.json'
+9266e873-7267-40b8-b5ca-668b4500bb34,mistral-large-instruct,5,FileNotFoundError,The devices.json file does not exist.
+479434cf-118e-43fc-8f60-e525a0de74d6,mistral-large-instruct,1,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english\\security_and_login_information\\login_and_profile_creation\\login_activity.json'
+479434cf-118e-43fc-8f60-e525a0de74d6,mistral-large-instruct,2,FileNotFoundError,The devices.json file does not exist.
+479434cf-118e-43fc-8f60-e525a0de74d6,mistral-large-instruct,3,FileNotFoundError,The devices.json file does not exist.
+479434cf-118e-43fc-8f60-e525a0de74d6,mistral-large-instruct,4,FileNotFoundError,The devices.json file does not exist.
+479434cf-118e-43fc-8f60-e525a0de74d6,mistral-large-instruct,5,FileNotFoundError,The devices.json file does not exist.
+479434cf-118e-43fc-8f60-e525a0de74d6,mistral-large-instruct,6,FileNotFoundError,The devices.json file does not exist.
+d6ca60ea-f967-408e-9c2f-7ca556ccba62,mistral-large-instruct,1,FileNotFoundError,The devices.json file does not exist.
+d6ca60ea-f967-408e-9c2f-7ca556ccba62,mistral-large-instruct,2,FileNotFoundError,The devices.json file does not exist.
+d6ca60ea-f967-408e-9c2f-7ca556ccba62,mistral-large-instruct,3,FileNotFoundError,The devices.json file does not exist.
+d6ca60ea-f967-408e-9c2f-7ca556ccba62,mistral-large-instruct,4,FileNotFoundError,The devices.json file does not exist.
+50663fa0-fc87-46da-8f4f-976de7391b77,mistral-large-instruct,1,FileNotFoundError,The devices.json file does not exist.
+50663fa0-fc87-46da-8f4f-976de7391b77,mistral-large-instruct,2,FileNotFoundError,The devices.json file does not exist.
+50663fa0-fc87-46da-8f4f-976de7391b77,mistral-large-instruct,3,FileNotFoundError,The devices.json file does not exist.
+50663fa0-fc87-46da-8f4f-976de7391b77,mistral-large-instruct,4,FileNotFoundError,The devices.json file does not exist.
+50663fa0-fc87-46da-8f4f-976de7391b77,mistral-large-instruct,5,FileNotFoundError,The devices.json file does not exist.
+50663fa0-fc87-46da-8f4f-976de7391b77,mistral-large-instruct,6,FileNotFoundError,The devices.json file does not exist.
+379dfd84-cdf3-4b00-a2af-0a8dd9c06b56,mistral-large-instruct,1,FileNotFoundError,The file datasets/instagram-leridash-2025-04-15-tyc7Gjjv\ads_information\ads_and_topics\posts_viewed.json does not exist.
+379dfd84-cdf3-4b00-a2af-0a8dd9c06b56,mistral-large-instruct,2,FileNotFoundError,The file datasets/instagram-leridash-2025-04-15-tyc7Gjjv\ads_information\ads_and_topics\posts_viewed.json does not exist.
+379dfd84-cdf3-4b00-a2af-0a8dd9c06b56,mistral-large-instruct,3,FileNotFoundError,The file datasets/instagram-leridash-2025-04-15-tyc7Gjjv\ads_information\ads_and_topics\posts_viewed.json does not exist.
+379dfd84-cdf3-4b00-a2af-0a8dd9c06b56,mistral-large-instruct,4,FileNotFoundError,The file datasets/instagram-leridash-2025-04-15-tyc7Gjjv\ads_information\ads_and_topics\posts_viewed.json does not exist.
+379dfd84-cdf3-4b00-a2af-0a8dd9c06b56,mistral-large-instruct,5,FileNotFoundError,The file datasets/instagram-leridash-2025-04-15-tyc7Gjjv\ads_information\ads_and_topics\posts_viewed.json does not exist.
+379dfd84-cdf3-4b00-a2af-0a8dd9c06b56,mistral-large-instruct,6,FileNotFoundError,The file datasets/instagram-leridash-2025-04-15-tyc7Gjjv\ads_information\ads_and_topics\posts_viewed.json does not exist.
+b84d0826-41cf-4c26-81d2-fc5e3500c054,mistral-large-instruct,1,FileNotFoundError,The file datasets/instagram-miger_shkrepa-2025-01-21-TDz5ZSZM\ads_information\ads_and_topics\posts_viewed.json does not exist.
+b84d0826-41cf-4c26-81d2-fc5e3500c054,mistral-large-instruct,2,FileNotFoundError,The file datasets/instagram-miger_shkrepa-2025-01-21-TDz5ZSZM\ads_information\ads_and_topics\posts_viewed.json does not exist.
+a09d6db5-e6dd-4e31-8bf3-76e638658f3d,mistral-large-instruct,1,KeyError,Error: 'impressions_history_posts_seen'
+a09d6db5-e6dd-4e31-8bf3-76e638658f3d,mistral-large-instruct,2,KeyError,Error: 'impressions_history_posts_seen'
+996a1f4c-fb1e-4567-8f1d-ac829a5cf134,mistral-large-instruct,1,KeyError,Error: 'impressions_history_posts_seen'
+996a1f4c-fb1e-4567-8f1d-ac829a5cf134,mistral-large-instruct,2,KeyError,Error: 'impressions_history_posts_seen'
+996a1f4c-fb1e-4567-8f1d-ac829a5cf134,mistral-large-instruct,3,KeyError,Error: 'impressions_history_posts_seen'
+996a1f4c-fb1e-4567-8f1d-ac829a5cf134,mistral-large-instruct,4,KeyError,Error: 'impressions_history_posts_seen'
+996a1f4c-fb1e-4567-8f1d-ac829a5cf134,mistral-large-instruct,5,KeyError,Error: 'impressions_history_posts_seen'
+996a1f4c-fb1e-4567-8f1d-ac829a5cf134,mistral-large-instruct,6,KeyError,Error: 'impressions_history_posts_seen'
+ea03a133-0f32-4126-83e8-7ee50aa6e987,mistral-large-instruct,1,KeyError,Error: 'impressions_history_posts_seen'
+ea03a133-0f32-4126-83e8-7ee50aa6e987,mistral-large-instruct,2,KeyError,Error: 'impressions_history_posts_seen'
+ea03a133-0f32-4126-83e8-7ee50aa6e987,mistral-large-instruct,3,KeyError,Error: 'impressions_history_posts_seen'
+ea03a133-0f32-4126-83e8-7ee50aa6e987,mistral-large-instruct,4,KeyError,Error: 'impressions_history_posts_seen'
+ea03a133-0f32-4126-83e8-7ee50aa6e987,mistral-large-instruct,5,KeyError,Error: 'impressions_history_posts_seen'
+ea03a133-0f32-4126-83e8-7ee50aa6e987,mistral-large-instruct,6,KeyError,Error: 'impressions_history_posts_seen'
+e32c505c-6bbc-4854-a7e1-ad137b8d6a17,mistral-large-instruct,1,KeyError,Error: 'impressions_history_posts_seen'
+e32c505c-6bbc-4854-a7e1-ad137b8d6a17,mistral-large-instruct,2,KeyError,Error: 'impressions_history_posts_seen'
+e32c505c-6bbc-4854-a7e1-ad137b8d6a17,mistral-large-instruct,3,KeyError,Error: 'impressions_history_posts_seen'
+e32c505c-6bbc-4854-a7e1-ad137b8d6a17,mistral-large-instruct,4,KeyError,Error: 'impressions_history_posts_seen'
+e32c505c-6bbc-4854-a7e1-ad137b8d6a17,mistral-large-instruct,5,KeyError,Error: 'impressions_history_posts_seen'
+e32c505c-6bbc-4854-a7e1-ad137b8d6a17,mistral-large-instruct,6,KeyError,Error: 'impressions_history_posts_seen'
+c660a10f-df0e-4050-bf6c-df48603a63ac,mistral-large-instruct,1,KeyError,Error: 'impressions_history_posts_seen'
+c660a10f-df0e-4050-bf6c-df48603a63ac,mistral-large-instruct,2,KeyError,Error: 'impressions_history_posts_seen'
+c660a10f-df0e-4050-bf6c-df48603a63ac,mistral-large-instruct,3,KeyError,Error: 'impressions_history_posts_seen'
+c660a10f-df0e-4050-bf6c-df48603a63ac,mistral-large-instruct,4,KeyError,Error: 'impressions_history_posts_seen'
+c660a10f-df0e-4050-bf6c-df48603a63ac,mistral-large-instruct,5,KeyError,Error: 'impressions_history_posts_seen'
+c660a10f-df0e-4050-bf6c-df48603a63ac,mistral-large-instruct,6,KeyError,Error: 'impressions_history_posts_seen'
+8d0c6294-5eac-4456-897f-58d791e4da20,mistral-large-instruct,1,KeyError,Error: 'impressions_history_posts_seen'
+8d0c6294-5eac-4456-897f-58d791e4da20,mistral-large-instruct,2,KeyError,Error: 'impressions_history_posts_seen'
+8d0c6294-5eac-4456-897f-58d791e4da20,mistral-large-instruct,3,KeyError,Error: 'impressions_history_posts_seen'
+8d0c6294-5eac-4456-897f-58d791e4da20,mistral-large-instruct,4,KeyError,Error: 'impressions_history_posts_seen'
+8d0c6294-5eac-4456-897f-58d791e4da20,mistral-large-instruct,5,KeyError,Error: 'impressions_history_posts_seen'
+8d0c6294-5eac-4456-897f-58d791e4da20,mistral-large-instruct,6,KeyError,Error: 'impressions_history_posts_seen'
+045cc71d-1842-4019-92d8-12c77eb85aca,mistral-large-instruct,1,KeyError,Error: 'impressions_history_posts_seen'
+045cc71d-1842-4019-92d8-12c77eb85aca,mistral-large-instruct,2,KeyError,Error: 'impressions_history_posts_seen'
+045cc71d-1842-4019-92d8-12c77eb85aca,mistral-large-instruct,3,KeyError,Error: 'impressions_history_posts_seen'
+045cc71d-1842-4019-92d8-12c77eb85aca,mistral-large-instruct,4,KeyError,Error: 'impressions_history_posts_seen'
+045cc71d-1842-4019-92d8-12c77eb85aca,mistral-large-instruct,5,KeyError,Error: 'impressions_history_posts_seen'
+045cc71d-1842-4019-92d8-12c77eb85aca,mistral-large-instruct,6,KeyError,Error: 'impressions_history_posts_seen'
+d94afd9f-f545-4927-a134-ee599925676c,mistral-large-instruct,1,KeyError,Error: 'impressions_history_posts_seen'
+d94afd9f-f545-4927-a134-ee599925676c,mistral-large-instruct,2,KeyError,Error: 'impressions_history_posts_seen'
+d94afd9f-f545-4927-a134-ee599925676c,mistral-large-instruct,3,KeyError,Error: 'impressions_history_posts_seen'
+d94afd9f-f545-4927-a134-ee599925676c,mistral-large-instruct,4,KeyError,Error: 'impressions_history_posts_seen'
+d94afd9f-f545-4927-a134-ee599925676c,mistral-large-instruct,5,KeyError,Error: 'impressions_history_posts_seen'
+d94afd9f-f545-4927-a134-ee599925676c,mistral-large-instruct,6,KeyError,Error: 'impressions_history_posts_seen'
+eda7bfa2-7055-4474-b49e-d7aecccb7078,mistral-large-instruct,1,KeyError,Error: 'impressions_history_posts_seen'
+eda7bfa2-7055-4474-b49e-d7aecccb7078,mistral-large-instruct,2,KeyError,Error: 'impressions_history_posts_seen'
+00381750-b6e0-4c26-85ce-5528a3183a7e,mistral-large-instruct,1,KeyError,Error: 'impressions_history_posts_seen'
+00381750-b6e0-4c26-85ce-5528a3183a7e,mistral-large-instruct,2,KeyError,Error: 'impressions_history_posts_seen'
+00381750-b6e0-4c26-85ce-5528a3183a7e,mistral-large-instruct,3,KeyError,Error: 'impressions_history_posts_seen'
+00381750-b6e0-4c26-85ce-5528a3183a7e,mistral-large-instruct,4,KeyError,Error: 'impressions_history_posts_seen'
+00381750-b6e0-4c26-85ce-5528a3183a7e,mistral-large-instruct,5,KeyError,Error: 'impressions_history_posts_seen'
+00381750-b6e0-4c26-85ce-5528a3183a7e,mistral-large-instruct,6,KeyError,Error: 'impressions_history_posts_seen'
+eb3f76d5-4e50-488d-acd2-fe3cb4e8658d,mistral-large-instruct,1,FileNotFoundError,The file datasets/instagram-leridash-2025-04-15-tyc7Gjjv\ads_information\ads_and_topics\posts_viewed.json does not exist.
+eb3f76d5-4e50-488d-acd2-fe3cb4e8658d,mistral-large-instruct,2,FileNotFoundError,The file datasets/instagram-leridash-2025-04-15-tyc7Gjjv\ads_information\ads_and_topics\posts_viewed.json does not exist.
+eb3f76d5-4e50-488d-acd2-fe3cb4e8658d,mistral-large-instruct,3,FileNotFoundError,The file datasets/instagram-leridash-2025-04-15-tyc7Gjjv\ads_information\ads_and_topics\posts_viewed.json does not exist.
+b4a3f43c-c099-483e-843e-eae5d2d96cce,mistral-large-instruct,1,FileNotFoundError,The file datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+b4a3f43c-c099-483e-843e-eae5d2d96cce,mistral-large-instruct,2,FileNotFoundError,The file datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+b4a3f43c-c099-483e-843e-eae5d2d96cce,mistral-large-instruct,3,FileNotFoundError,The file datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+b4a3f43c-c099-483e-843e-eae5d2d96cce,mistral-large-instruct,4,FileNotFoundError,The file datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+b4a3f43c-c099-483e-843e-eae5d2d96cce,mistral-large-instruct,5,FileNotFoundError,The file datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+b4a3f43c-c099-483e-843e-eae5d2d96cce,mistral-large-instruct,6,FileNotFoundError,The file datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+a8995a73-40b3-464e-9a57-50835ca8f252,mistral-large-instruct,1,FileNotFoundError,The file datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+a8995a73-40b3-464e-9a57-50835ca8f252,mistral-large-instruct,2,FileNotFoundError,The file datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+a8995a73-40b3-464e-9a57-50835ca8f252,mistral-large-instruct,3,FileNotFoundError,The file datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+a8995a73-40b3-464e-9a57-50835ca8f252,mistral-large-instruct,4,FileNotFoundError,The file datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+a8995a73-40b3-464e-9a57-50835ca8f252,mistral-large-instruct,5,FileNotFoundError,The file datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+a8995a73-40b3-464e-9a57-50835ca8f252,mistral-large-instruct,6,FileNotFoundError,The file datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+71928464-74c0-4c11-ad12-1da84aaa00b1,mistral-large-instruct,1,FileNotFoundError,The file datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+71928464-74c0-4c11-ad12-1da84aaa00b1,mistral-large-instruct,2,FileNotFoundError,The file datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+71928464-74c0-4c11-ad12-1da84aaa00b1,mistral-large-instruct,3,FileNotFoundError,The file datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+71928464-74c0-4c11-ad12-1da84aaa00b1,mistral-large-instruct,4,FileNotFoundError,The file datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+71928464-74c0-4c11-ad12-1da84aaa00b1,mistral-large-instruct,5,FileNotFoundError,The file datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+71928464-74c0-4c11-ad12-1da84aaa00b1,mistral-large-instruct,6,FileNotFoundError,The file datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+d0abd4c6-84ad-428a-b282-93b56ebc1b76,mistral-large-instruct,1,FileNotFoundError,The file datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+d0abd4c6-84ad-428a-b282-93b56ebc1b76,mistral-large-instruct,2,FileNotFoundError,The file datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+d0abd4c6-84ad-428a-b282-93b56ebc1b76,mistral-large-instruct,3,FileNotFoundError,The file datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+d0abd4c6-84ad-428a-b282-93b56ebc1b76,mistral-large-instruct,4,FileNotFoundError,The file datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+d0abd4c6-84ad-428a-b282-93b56ebc1b76,mistral-large-instruct,5,FileNotFoundError,The file datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+d0abd4c6-84ad-428a-b282-93b56ebc1b76,mistral-large-instruct,6,FileNotFoundError,The file datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+e83cca6e-215c-4614-b52b-295444eb3353,mistral-large-instruct,1,FileNotFoundError,The file datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+e83cca6e-215c-4614-b52b-295444eb3353,mistral-large-instruct,2,FileNotFoundError,The file datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+e83cca6e-215c-4614-b52b-295444eb3353,mistral-large-instruct,3,FileNotFoundError,The file datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+e83cca6e-215c-4614-b52b-295444eb3353,mistral-large-instruct,4,FileNotFoundError,The file datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+e83cca6e-215c-4614-b52b-295444eb3353,mistral-large-instruct,5,FileNotFoundError,The file datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+e83cca6e-215c-4614-b52b-295444eb3353,mistral-large-instruct,6,FileNotFoundError,The file datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+4772f04a-cbd5-4f9b-98f9-d65c36ee3408,mistral-large-instruct,1,FileNotFoundError,The file datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+4772f04a-cbd5-4f9b-98f9-d65c36ee3408,mistral-large-instruct,2,FileNotFoundError,The file datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+dda463d1-9855-409b-8578-2a50b84b7bd1,mistral-large-instruct,1,FileNotFoundError,The file datasets/instagram-pbrenner96-2024-06-11-fak0ewfm\ads_information\ads_and_topics\posts_you're_not_interested_in.json does not exist.
+ab8136fa-69a1-4b24-ad90-5593fc8d0e17,mistral-large-instruct,1,FileNotFoundError,Error: The inbox directory does not exist.
+e67ae3fa-6136-4a2b-8d58-3b143862cb0c,mistral-large-instruct,1,FileNotFoundError,The inbox directory does not exist.
+e67ae3fa-6136-4a2b-8d58-3b143862cb0c,mistral-large-instruct,2,FileNotFoundError,Error: The inbox directory does not exist.
+e67ae3fa-6136-4a2b-8d58-3b143862cb0c,mistral-large-instruct,3,FileNotFoundError,Error: The messages/inbox directory does not exist.
+e67ae3fa-6136-4a2b-8d58-3b143862cb0c,mistral-large-instruct,4,FileNotFoundError,Error: The inbox directory does not exist.
+e67ae3fa-6136-4a2b-8d58-3b143862cb0c,mistral-large-instruct,5,FileNotFoundError,Error: The inbox directory does not exist.
+e67ae3fa-6136-4a2b-8d58-3b143862cb0c,mistral-large-instruct,6,FileNotFoundError,Error: The inbox directory does not exist.
+41a96e62-7c51-4c6f-8642-b64028a3a99c,mistral-large-instruct,1,FileNotFoundError,Error: The inbox directory does not exist.
+41a96e62-7c51-4c6f-8642-b64028a3a99c,mistral-large-instruct,2,FileNotFoundError,Error: The inbox directory does not exist.
+4974227f-441c-4e23-8533-be051eb3bec1,mistral-large-instruct,1,FileNotFoundError,The messages/inbox directory does not exist.
+eaef007a-7ba7-4dcf-82b8-e20622d65340,mistral-large-instruct,1,FileNotFoundError,The inbox directory does not exist.
+eaef007a-7ba7-4dcf-82b8-e20622d65340,mistral-large-instruct,2,FileNotFoundError,The inbox directory does not exist.
+eaef007a-7ba7-4dcf-82b8-e20622d65340,mistral-large-instruct,3,FileNotFoundError,Error: The inbox directory does not exist.
+664e7da7-c4c9-4349-9fa7-a731100e0c8f,mistral-large-instruct,1,FileNotFoundError,Error: The inbox directory does not exist.
+d277c136-24dd-4d6b-88a1-fbe85a0edd91,meta-llama-3.1-70b-instruct,1,KeyError,'Author'
+d277c136-24dd-4d6b-88a1-fbe85a0edd91,meta-llama-3.1-70b-instruct,2,KeyError,'Author'
+d277c136-24dd-4d6b-88a1-fbe85a0edd91,meta-llama-3.1-70b-instruct,3,KeyError,'Author'
+d277c136-24dd-4d6b-88a1-fbe85a0edd91,meta-llama-3.1-70b-instruct,4,KeyError,'Author'
+d277c136-24dd-4d6b-88a1-fbe85a0edd91,meta-llama-3.1-70b-instruct,5,KeyError,'Author'
+d277c136-24dd-4d6b-88a1-fbe85a0edd91,meta-llama-3.1-70b-instruct,6,KeyError,'Author'
+e285c259-9ca4-4d01-8047-6597dfffb1d5,meta-llama-3.1-70b-instruct,1,KeyError,'Author'
+e285c259-9ca4-4d01-8047-6597dfffb1d5,meta-llama-3.1-70b-instruct,2,KeyError,'Author'
+e285c259-9ca4-4d01-8047-6597dfffb1d5,meta-llama-3.1-70b-instruct,3,KeyError,'Author'
+e285c259-9ca4-4d01-8047-6597dfffb1d5,meta-llama-3.1-70b-instruct,4,KeyError,'Author'
+e285c259-9ca4-4d01-8047-6597dfffb1d5,meta-llama-3.1-70b-instruct,5,KeyError,'Author'
+e285c259-9ca4-4d01-8047-6597dfffb1d5,meta-llama-3.1-70b-instruct,6,KeyError,'Author'
+656f99eb-f776-4d63-ab20-3915a2b2d0b2,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The ads_viewed.json file does not exist.
+656f99eb-f776-4d63-ab20-3915a2b2d0b2,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The ads_viewed.json file does not exist.
+656f99eb-f776-4d63-ab20-3915a2b2d0b2,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The ads_viewed.json file does not exist.
+656f99eb-f776-4d63-ab20-3915a2b2d0b2,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The ads_viewed.json file does not exist.
+656f99eb-f776-4d63-ab20-3915a2b2d0b2,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The ads_viewed.json file does not exist.
+656f99eb-f776-4d63-ab20-3915a2b2d0b2,meta-llama-3.1-70b-instruct,6,FileNotFoundError,Error: Error: Error: FileNotFoundError: The ads_viewed.json file does not exist.
+d8169a0a-afe6-4c54-b591-dc34f2a631ac,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The ads_viewed.json file does not exist.
+d8169a0a-afe6-4c54-b591-dc34f2a631ac,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The ads_viewed.json file does not exist.
+d8169a0a-afe6-4c54-b591-dc34f2a631ac,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The ads_viewed.json file does not exist.
+d8169a0a-afe6-4c54-b591-dc34f2a631ac,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The ads_viewed.json file does not exist.
+d8169a0a-afe6-4c54-b591-dc34f2a631ac,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The ads_viewed.json file does not exist.
+d8169a0a-afe6-4c54-b591-dc34f2a631ac,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The ads_viewed.json file does not exist.
+b03ef616-5fb9-47c5-bad3-cdcacec161e9,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+5dc27ba1-7705-47e2-81ac-2e885009a07f,mistral-large-instruct,1,FileNotFoundError,The ads_viewed.json file does not exist.
+5dc27ba1-7705-47e2-81ac-2e885009a07f,mistral-large-instruct,2,FileNotFoundError,The ads_viewed.json file does not exist.
+5dc27ba1-7705-47e2-81ac-2e885009a07f,mistral-large-instruct,3,FileNotFoundError,Error: The file does not exist.
+558eb82b-0852-4f7c-834d-e80ef5f59ce9,mistral-large-instruct,1,FileNotFoundError,The ads_viewed.json file does not exist.
+558eb82b-0852-4f7c-834d-e80ef5f59ce9,mistral-large-instruct,2,FileNotFoundError,The ads_viewed.json file does not exist.
+558eb82b-0852-4f7c-834d-e80ef5f59ce9,mistral-large-instruct,3,FileNotFoundError,The ads_viewed.json file does not exist.
+558eb82b-0852-4f7c-834d-e80ef5f59ce9,mistral-large-instruct,4,FileNotFoundError,The ads_viewed.json file does not exist.
+558eb82b-0852-4f7c-834d-e80ef5f59ce9,mistral-large-instruct,5,FileNotFoundError,The ads_viewed.json file does not exist.
+558eb82b-0852-4f7c-834d-e80ef5f59ce9,mistral-large-instruct,6,FileNotFoundError,The ads_viewed.json file does not exist.
+c29b164a-d8c3-43a5-a33a-599c8245a7d4,mistral-large-instruct,1,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x9b' in position 6: character maps to <undefined>
+c29b164a-d8c3-43a5-a33a-599c8245a7d4,mistral-large-instruct,2,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x9b' in position 6: character maps to <undefined>
+c29b164a-d8c3-43a5-a33a-599c8245a7d4,mistral-large-instruct,3,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x9b' in position 6: character maps to <undefined>
+c29b164a-d8c3-43a5-a33a-599c8245a7d4,mistral-large-instruct,4,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x9b' in position 6: character maps to <undefined>
+c29b164a-d8c3-43a5-a33a-599c8245a7d4,mistral-large-instruct,5,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x9b' in position 6: character maps to <undefined>
+c29b164a-d8c3-43a5-a33a-599c8245a7d4,mistral-large-instruct,6,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x9b' in position 6: character maps to <undefined>
+b08171dc-5256-4a41-8f88-924e86efb4dc,mistral-large-instruct,1,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x82' in position 1: character maps to <undefined>
+b08171dc-5256-4a41-8f88-924e86efb4dc,mistral-large-instruct,2,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x82' in position 1: character maps to <undefined>
+b08171dc-5256-4a41-8f88-924e86efb4dc,mistral-large-instruct,3,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x82' in position 1: character maps to <undefined>
+b08171dc-5256-4a41-8f88-924e86efb4dc,mistral-large-instruct,4,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x82' in position 1: character maps to <undefined>
+b08171dc-5256-4a41-8f88-924e86efb4dc,mistral-large-instruct,5,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x82' in position 1: character maps to <undefined>
+4b6857f2-a47a-443d-b7e8-c2ca89ec6501,mistral-large-instruct,1,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+4b6857f2-a47a-443d-b7e8-c2ca89ec6501,mistral-large-instruct,2,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+4b6857f2-a47a-443d-b7e8-c2ca89ec6501,mistral-large-instruct,3,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+4b6857f2-a47a-443d-b7e8-c2ca89ec6501,mistral-large-instruct,4,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+4b6857f2-a47a-443d-b7e8-c2ca89ec6501,mistral-large-instruct,5,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+4b6857f2-a47a-443d-b7e8-c2ca89ec6501,mistral-large-instruct,6,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x9c' in position 27: character maps to <undefined>
+6a1ab65a-e91f-4392-82b0-fff6a7f4565b,mistral-large-instruct,1,FileNotFoundError,The advertisers_using_your_activity_or_information.json file does not exist.
+6a1ab65a-e91f-4392-82b0-fff6a7f4565b,mistral-large-instruct,2,FileNotFoundError,The advertisers_using_your_activity_or_information.json file does not exist.
+6a1ab65a-e91f-4392-82b0-fff6a7f4565b,mistral-large-instruct,3,FileNotFoundError,The advertisers_using_your_activity_or_information.json file does not exist.
+6a1ab65a-e91f-4392-82b0-fff6a7f4565b,mistral-large-instruct,4,FileNotFoundError,The advertisers_using_your_activity_or_information.json file does not exist.
+6a1ab65a-e91f-4392-82b0-fff6a7f4565b,mistral-large-instruct,5,FileNotFoundError,The advertisers_using_your_activity_or_information.json file does not exist.
+5a537d95-a7c7-4d98-8e25-ea74033dfd0f,mistral-large-instruct,1,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+5a537d95-a7c7-4d98-8e25-ea74033dfd0f,mistral-large-instruct,2,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+5a537d95-a7c7-4d98-8e25-ea74033dfd0f,mistral-large-instruct,3,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+5a537d95-a7c7-4d98-8e25-ea74033dfd0f,mistral-large-instruct,4,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+5a537d95-a7c7-4d98-8e25-ea74033dfd0f,mistral-large-instruct,5,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+5a537d95-a7c7-4d98-8e25-ea74033dfd0f,mistral-large-instruct,6,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+67ab39ff-4a57-4c2b-a725-de9d4d61a396,mistral-large-instruct,1,FileNotFoundError,The advertisers_using_your_activity_or_information.json file does not exist.
+67ab39ff-4a57-4c2b-a725-de9d4d61a396,mistral-large-instruct,2,FileNotFoundError,The advertisers_using_your_activity_or_information.json file does not exist.
+67ab39ff-4a57-4c2b-a725-de9d4d61a396,mistral-large-instruct,3,FileNotFoundError,The advertisers_using_your_activity_or_information.json file does not exist.
+67ab39ff-4a57-4c2b-a725-de9d4d61a396,mistral-large-instruct,4,FileNotFoundError,The advertisers_using_your_activity_or_information.json file does not exist.
+67ab39ff-4a57-4c2b-a725-de9d4d61a396,mistral-large-instruct,5,FileNotFoundError,The advertisers_using_your_activity_or_information.json file does not exist.
+67ab39ff-4a57-4c2b-a725-de9d4d61a396,mistral-large-instruct,6,FileNotFoundError,The advertisers_using_your_activity_or_information.json file does not exist.
+d30f8d50-694f-4ff6-9df2-c174655b824a,mistral-large-instruct,1,FileNotFoundError,The ads_viewed.json file does not exist.
+d30f8d50-694f-4ff6-9df2-c174655b824a,mistral-large-instruct,2,FileNotFoundError,The ads_viewed.json file does not exist.
+d30f8d50-694f-4ff6-9df2-c174655b824a,mistral-large-instruct,3,FileNotFoundError,The ads_viewed.json file does not exist.
+d30f8d50-694f-4ff6-9df2-c174655b824a,mistral-large-instruct,4,FileNotFoundError,The ads_viewed.json file does not exist.
+d30f8d50-694f-4ff6-9df2-c174655b824a,mistral-large-instruct,5,FileNotFoundError,The ads_viewed.json file does not exist.
+d30f8d50-694f-4ff6-9df2-c174655b824a,mistral-large-instruct,6,FileNotFoundError,The ads_viewed.json file does not exist.
+8986c487-b127-4cbf-a6ff-193354de377c,mistral-large-instruct,1,FileNotFoundError,The ads_viewed.json file does not exist.
+8986c487-b127-4cbf-a6ff-193354de377c,mistral-large-instruct,2,FileNotFoundError,The ads_viewed.json file does not exist.
+8986c487-b127-4cbf-a6ff-193354de377c,mistral-large-instruct,3,FileNotFoundError,The ads_viewed.json file does not exist.
+8986c487-b127-4cbf-a6ff-193354de377c,mistral-large-instruct,4,FileNotFoundError,The ads_viewed.json file does not exist.
+8986c487-b127-4cbf-a6ff-193354de377c,mistral-large-instruct,5,FileNotFoundError,The ads_viewed.json file does not exist.
+8986c487-b127-4cbf-a6ff-193354de377c,mistral-large-instruct,6,FileNotFoundError,The ads_viewed.json file does not exist.
+9ba056fb-4813-4592-b6cd-6632a2483516,mistral-large-instruct,1,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+9ba056fb-4813-4592-b6cd-6632a2483516,mistral-large-instruct,2,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+9ba056fb-4813-4592-b6cd-6632a2483516,mistral-large-instruct,3,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+9ba056fb-4813-4592-b6cd-6632a2483516,mistral-large-instruct,4,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+9ba056fb-4813-4592-b6cd-6632a2483516,mistral-large-instruct,5,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+9ba056fb-4813-4592-b6cd-6632a2483516,mistral-large-instruct,6,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+29cfc7e7-f58d-4c4d-8bbe-1d7edfe262fc,codestral-22b,1,KeyError,'Author'
+29cfc7e7-f58d-4c4d-8bbe-1d7edfe262fc,codestral-22b,2,KeyError,'Author'
+29cfc7e7-f58d-4c4d-8bbe-1d7edfe262fc,codestral-22b,3,KeyError,'Author'
+29cfc7e7-f58d-4c4d-8bbe-1d7edfe262fc,codestral-22b,4,KeyError,'Author'
+29cfc7e7-f58d-4c4d-8bbe-1d7edfe262fc,codestral-22b,5,KeyError,'Author'
+29cfc7e7-f58d-4c4d-8bbe-1d7edfe262fc,codestral-22b,6,KeyError,'Author'
+516936f5-cfc2-49a9-b837-2f04246074e6,codestral-22b,1,KeyError,'Author'
+516936f5-cfc2-49a9-b837-2f04246074e6,codestral-22b,2,KeyError,'Author'
+516936f5-cfc2-49a9-b837-2f04246074e6,codestral-22b,3,KeyError,'Author'
+516936f5-cfc2-49a9-b837-2f04246074e6,codestral-22b,4,KeyError,'Author'
+516936f5-cfc2-49a9-b837-2f04246074e6,codestral-22b,5,KeyError,'Author'
+516936f5-cfc2-49a9-b837-2f04246074e6,codestral-22b,6,KeyError,'Author'
+eeab80c8-5db8-4a7b-a033-4592047dfbfb,codestral-22b,1,KeyError,'Author'
+eeab80c8-5db8-4a7b-a033-4592047dfbfb,codestral-22b,2,KeyError,'Author'
+eeab80c8-5db8-4a7b-a033-4592047dfbfb,codestral-22b,3,KeyError,'Author'
+eeab80c8-5db8-4a7b-a033-4592047dfbfb,codestral-22b,4,KeyError,'Author'
+eeab80c8-5db8-4a7b-a033-4592047dfbfb,codestral-22b,5,KeyError,'Author'
+eeab80c8-5db8-4a7b-a033-4592047dfbfb,codestral-22b,6,KeyError,'Author'
+70c425fd-b227-4c88-81c9-3453ef393b5d,codestral-22b,1,KeyError,'Author'
+70c425fd-b227-4c88-81c9-3453ef393b5d,codestral-22b,2,KeyError,'Author'
+70c425fd-b227-4c88-81c9-3453ef393b5d,codestral-22b,3,KeyError,'Author'
+70c425fd-b227-4c88-81c9-3453ef393b5d,codestral-22b,4,KeyError,'Author'
+70c425fd-b227-4c88-81c9-3453ef393b5d,codestral-22b,5,KeyError,'Author'
+70c425fd-b227-4c88-81c9-3453ef393b5d,codestral-22b,6,KeyError,'Author'
+5c21c018-1950-4a4c-82db-2c862ab69955,codestral-22b,1,KeyError,'Author'
+5c21c018-1950-4a4c-82db-2c862ab69955,codestral-22b,2,KeyError,'Author'
+5c21c018-1950-4a4c-82db-2c862ab69955,codestral-22b,3,KeyError,'Author'
+5c21c018-1950-4a4c-82db-2c862ab69955,codestral-22b,4,KeyError,'Author'
+5c21c018-1950-4a4c-82db-2c862ab69955,codestral-22b,5,KeyError,'Author'
+5c21c018-1950-4a4c-82db-2c862ab69955,codestral-22b,6,KeyError,'Author'
+846181cf-62e6-4f16-bc8e-fd82844d7586,codestral-22b,1,ValueError,invalid literal for int() with base 10: ''
+b654a066-fdb5-480c-952d-cbd05c5acf49,codestral-22b,1,ValueError,invalid literal for int() with base 10: ''
+dbbc0c5a-f52c-4d6d-a694-8042668e9abb,codestral-22b,1,KeyError,'Author'
+dbbc0c5a-f52c-4d6d-a694-8042668e9abb,codestral-22b,2,KeyError,'Author'
+dbbc0c5a-f52c-4d6d-a694-8042668e9abb,codestral-22b,3,KeyError,'Author'
+dbbc0c5a-f52c-4d6d-a694-8042668e9abb,codestral-22b,4,KeyError,'Author'
+dbbc0c5a-f52c-4d6d-a694-8042668e9abb,codestral-22b,5,KeyError,'Author'
+dbbc0c5a-f52c-4d6d-a694-8042668e9abb,codestral-22b,6,KeyError,'Author'
+968ec99a-97aa-4c38-9789-5ca6a7eb4ebd,codestral-22b,1,KeyError,'Author'
+968ec99a-97aa-4c38-9789-5ca6a7eb4ebd,codestral-22b,2,KeyError,'Author'
+968ec99a-97aa-4c38-9789-5ca6a7eb4ebd,codestral-22b,3,KeyError,'Author'
+968ec99a-97aa-4c38-9789-5ca6a7eb4ebd,codestral-22b,4,KeyError,'Author'
+968ec99a-97aa-4c38-9789-5ca6a7eb4ebd,codestral-22b,5,KeyError,'Author'
+968ec99a-97aa-4c38-9789-5ca6a7eb4ebd,codestral-22b,6,KeyError,'Author'
+f57568ad-14e4-4a2e-948d-e1690f8cbb9e,codestral-22b,1,KeyError,'Author'
+f57568ad-14e4-4a2e-948d-e1690f8cbb9e,codestral-22b,2,KeyError,'Author'
+f57568ad-14e4-4a2e-948d-e1690f8cbb9e,codestral-22b,3,KeyError,'Author'
+f57568ad-14e4-4a2e-948d-e1690f8cbb9e,codestral-22b,4,KeyError,'Author'
+f57568ad-14e4-4a2e-948d-e1690f8cbb9e,codestral-22b,5,KeyError,'Author'
+f57568ad-14e4-4a2e-948d-e1690f8cbb9e,codestral-22b,6,KeyError,'Author'
+9b6cd137-c40b-42cb-9892-11bb219e6cfc,codestral-22b,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-leridash-2025-04-15-tyc7Gjjv\\messages\\inbox'
+9b6cd137-c40b-42cb-9892-11bb219e6cfc,codestral-22b,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-leridash-2025-04-15-tyc7Gjjv\\messages\\inbox'
+9b6cd137-c40b-42cb-9892-11bb219e6cfc,codestral-22b,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-leridash-2025-04-15-tyc7Gjjv\\messages\\inbox'
+9b6cd137-c40b-42cb-9892-11bb219e6cfc,codestral-22b,4,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-leridash-2025-04-15-tyc7Gjjv\\messages\\inbox'
+9b6cd137-c40b-42cb-9892-11bb219e6cfc,codestral-22b,5,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-leridash-2025-04-15-tyc7Gjjv\\messages\\inbox'
+9b6cd137-c40b-42cb-9892-11bb219e6cfc,codestral-22b,6,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-leridash-2025-04-15-tyc7Gjjv\\messages\\inbox'
+6fd10a04-2eac-43c5-b834-ae6be885f58a,codestral-22b,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-01-21-TDz5ZSZM\\messages\\inbox'
+6fd10a04-2eac-43c5-b834-ae6be885f58a,codestral-22b,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-01-21-TDz5ZSZM\\messages\\inbox'
+6fd10a04-2eac-43c5-b834-ae6be885f58a,codestral-22b,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-01-21-TDz5ZSZM\\messages\\inbox'
+6fd10a04-2eac-43c5-b834-ae6be885f58a,codestral-22b,4,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-01-21-TDz5ZSZM\\messages\\inbox'
+6fd10a04-2eac-43c5-b834-ae6be885f58a,codestral-22b,5,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-01-21-TDz5ZSZM\\messages\\inbox'
+6fd10a04-2eac-43c5-b834-ae6be885f58a,codestral-22b,6,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-01-21-TDz5ZSZM\\messages\\inbox'
+3a777619-162f-4c4e-93c3-fd425c6f97e0,codestral-22b,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-01-25-9eXjs0P7\\messages\\inbox'
+3a777619-162f-4c4e-93c3-fd425c6f97e0,codestral-22b,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-01-25-9eXjs0P7\\messages\\inbox'
+3a777619-162f-4c4e-93c3-fd425c6f97e0,codestral-22b,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-01-25-9eXjs0P7\\messages\\inbox'
+3a777619-162f-4c4e-93c3-fd425c6f97e0,codestral-22b,4,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-01-25-9eXjs0P7\\messages\\inbox'
+3a777619-162f-4c4e-93c3-fd425c6f97e0,codestral-22b,5,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-01-25-9eXjs0P7\\messages\\inbox'
+3a777619-162f-4c4e-93c3-fd425c6f97e0,codestral-22b,6,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-01-25-9eXjs0P7\\messages\\inbox'
+c171e9a6-ca7f-4fd7-9a9a-65838e5404d8,codestral-22b,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL\\messages\\inbox'
+c171e9a6-ca7f-4fd7-9a9a-65838e5404d8,codestral-22b,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL\\messages\\inbox'
+c171e9a6-ca7f-4fd7-9a9a-65838e5404d8,codestral-22b,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL\\messages\\inbox'
+c171e9a6-ca7f-4fd7-9a9a-65838e5404d8,codestral-22b,4,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL\\messages\\inbox'
+c171e9a6-ca7f-4fd7-9a9a-65838e5404d8,codestral-22b,5,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL\\messages\\inbox'
+c171e9a6-ca7f-4fd7-9a9a-65838e5404d8,codestral-22b,6,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL\\messages\\inbox'
+5fd88d18-3e86-40bf-a0dd-f15bf807757a,codestral-22b,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\\messages\\inbox'
+5fd88d18-3e86-40bf-a0dd-f15bf807757a,codestral-22b,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\\messages\\inbox'
+5fd88d18-3e86-40bf-a0dd-f15bf807757a,codestral-22b,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\\messages\\inbox'
+5fd88d18-3e86-40bf-a0dd-f15bf807757a,codestral-22b,4,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\\messages\\inbox'
+5fd88d18-3e86-40bf-a0dd-f15bf807757a,codestral-22b,5,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\\messages\\inbox'
+5fd88d18-3e86-40bf-a0dd-f15bf807757a,codestral-22b,6,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\\messages\\inbox'
+6e6c8fe5-ded4-4a87-9970-149e00d02edc,codestral-22b,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month\\messages\\inbox'
+6e6c8fe5-ded4-4a87-9970-149e00d02edc,codestral-22b,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month\\messages\\inbox'
+6e6c8fe5-ded4-4a87-9970-149e00d02edc,codestral-22b,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month\\messages\\inbox'
+6e6c8fe5-ded4-4a87-9970-149e00d02edc,codestral-22b,4,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month\\messages\\inbox'
+6e6c8fe5-ded4-4a87-9970-149e00d02edc,codestral-22b,5,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month\\messages\\inbox'
+6e6c8fe5-ded4-4a87-9970-149e00d02edc,codestral-22b,6,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month\\messages\\inbox'
+b79ab08f-d0a9-41bf-983e-f54fc1695124,codestral-22b,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\messages\\inbox'
+b79ab08f-d0a9-41bf-983e-f54fc1695124,codestral-22b,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\messages\\inbox'
+b79ab08f-d0a9-41bf-983e-f54fc1695124,codestral-22b,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\messages\\inbox'
+b79ab08f-d0a9-41bf-983e-f54fc1695124,codestral-22b,4,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\messages\\inbox'
+b79ab08f-d0a9-41bf-983e-f54fc1695124,codestral-22b,5,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\messages\\inbox'
+b79ab08f-d0a9-41bf-983e-f54fc1695124,codestral-22b,6,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\messages\\inbox'
+d84d5c04-d37d-44de-b457-723d39cda775,codestral-22b,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\\messages\\inbox'
+d84d5c04-d37d-44de-b457-723d39cda775,codestral-22b,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\\messages\\inbox'
+d84d5c04-d37d-44de-b457-723d39cda775,codestral-22b,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\\messages\\inbox'
+d84d5c04-d37d-44de-b457-723d39cda775,codestral-22b,4,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\\messages\\inbox'
+d84d5c04-d37d-44de-b457-723d39cda775,codestral-22b,5,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\\messages\\inbox'
+d84d5c04-d37d-44de-b457-723d39cda775,codestral-22b,6,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\\messages\\inbox'
+f49c680b-a9ea-44fc-b7d4-9bf1b209872e,codestral-22b,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\messages\\inbox'
+f49c680b-a9ea-44fc-b7d4-9bf1b209872e,codestral-22b,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\messages\\inbox'
+f49c680b-a9ea-44fc-b7d4-9bf1b209872e,codestral-22b,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\messages\\inbox'
+f49c680b-a9ea-44fc-b7d4-9bf1b209872e,codestral-22b,4,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\messages\\inbox'
+f49c680b-a9ea-44fc-b7d4-9bf1b209872e,codestral-22b,5,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\messages\\inbox'
+f49c680b-a9ea-44fc-b7d4-9bf1b209872e,codestral-22b,6,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\messages\\inbox'
+3f7cbe25-3a48-43cb-aeb9-94ddbf528f7f,codestral-22b,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content\\messages\\inbox'
+3f7cbe25-3a48-43cb-aeb9-94ddbf528f7f,codestral-22b,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content\\messages\\inbox'
+3f7cbe25-3a48-43cb-aeb9-94ddbf528f7f,codestral-22b,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content\\messages\\inbox'
+3f7cbe25-3a48-43cb-aeb9-94ddbf528f7f,codestral-22b,4,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content\\messages\\inbox'
+3f7cbe25-3a48-43cb-aeb9-94ddbf528f7f,codestral-22b,5,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content\\messages\\inbox'
+3f7cbe25-3a48-43cb-aeb9-94ddbf528f7f,codestral-22b,6,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content\\messages\\inbox'
+797eeac5-b233-427f-9392-365cc6ca91b5,codestral-22b,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english\\messages\\inbox'
+797eeac5-b233-427f-9392-365cc6ca91b5,codestral-22b,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english\\messages\\inbox'
+797eeac5-b233-427f-9392-365cc6ca91b5,codestral-22b,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english\\messages\\inbox'
+797eeac5-b233-427f-9392-365cc6ca91b5,codestral-22b,4,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english\\messages\\inbox'
+797eeac5-b233-427f-9392-365cc6ca91b5,codestral-22b,5,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english\\messages\\inbox'
+797eeac5-b233-427f-9392-365cc6ca91b5,codestral-22b,6,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english\\messages\\inbox'
+fa271348-b816-4ae4-861b-54a3cf213a62,codestral-22b,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-06-11-fak0ewfm\\messages\\inbox'
+fa271348-b816-4ae4-861b-54a3cf213a62,codestral-22b,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-06-11-fak0ewfm\\messages\\inbox'
+fa271348-b816-4ae4-861b-54a3cf213a62,codestral-22b,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-06-11-fak0ewfm\\messages\\inbox'
+fa271348-b816-4ae4-861b-54a3cf213a62,codestral-22b,4,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-06-11-fak0ewfm\\messages\\inbox'
+fa271348-b816-4ae4-861b-54a3cf213a62,codestral-22b,5,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-06-11-fak0ewfm\\messages\\inbox'
+fa271348-b816-4ae4-861b-54a3cf213a62,codestral-22b,6,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-06-11-fak0ewfm\\messages\\inbox'
+d2e363ce-b333-461a-9777-2c115315ed9f,codestral-22b,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-zoomiies_-2025-05-03-ASH5BC44\\messages\\inbox'
+d2e363ce-b333-461a-9777-2c115315ed9f,codestral-22b,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-zoomiies_-2025-05-03-ASH5BC44\\messages\\inbox'
+d2e363ce-b333-461a-9777-2c115315ed9f,codestral-22b,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-zoomiies_-2025-05-03-ASH5BC44\\messages\\inbox'
+d2e363ce-b333-461a-9777-2c115315ed9f,codestral-22b,4,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-zoomiies_-2025-05-03-ASH5BC44\\messages\\inbox'
+d2e363ce-b333-461a-9777-2c115315ed9f,codestral-22b,5,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-zoomiies_-2025-05-03-ASH5BC44\\messages\\inbox'
+d2e363ce-b333-461a-9777-2c115315ed9f,codestral-22b,6,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-zoomiies_-2025-05-03-ASH5BC44\\messages\\inbox'
+7f996b75-210d-4a1f-854f-e2154b8dc6b0,qwen2.5-72b-instruct,1,AttributeError,Error: 'list' object has no attribute 'items'
+7f996b75-210d-4a1f-854f-e2154b8dc6b0,qwen2.5-72b-instruct,2,AttributeError,Error: 'list' object has no attribute 'items'
+7f996b75-210d-4a1f-854f-e2154b8dc6b0,qwen2.5-72b-instruct,3,AttributeError,Error: 'list' object has no attribute 'items'
+7f996b75-210d-4a1f-854f-e2154b8dc6b0,qwen2.5-72b-instruct,4,AttributeError,Error: 'list' object has no attribute 'items'
+7f996b75-210d-4a1f-854f-e2154b8dc6b0,qwen2.5-72b-instruct,5,AttributeError,Error: 'list' object has no attribute 'items'
+7f996b75-210d-4a1f-854f-e2154b8dc6b0,qwen2.5-72b-instruct,6,AttributeError,Error: 'list' object has no attribute 'items'
+c9b33061-05e2-49c6-82eb-2ad7e81d376b,qwen2.5-72b-instruct,1,AttributeError,Error: 'list' object has no attribute 'items'
+c9b33061-05e2-49c6-82eb-2ad7e81d376b,qwen2.5-72b-instruct,2,AttributeError,Error: 'list' object has no attribute 'items'
+c9b33061-05e2-49c6-82eb-2ad7e81d376b,qwen2.5-72b-instruct,3,AttributeError,Error: 'list' object has no attribute 'items'
+c9b33061-05e2-49c6-82eb-2ad7e81d376b,qwen2.5-72b-instruct,4,AttributeError,Error: 'list' object has no attribute 'items'
+c9b33061-05e2-49c6-82eb-2ad7e81d376b,qwen2.5-72b-instruct,5,AttributeError,Error: 'list' object has no attribute 'items'
+c9b33061-05e2-49c6-82eb-2ad7e81d376b,qwen2.5-72b-instruct,6,AttributeError,Error: 'list' object has no attribute 'items'
+9019b7dc-41df-4cfb-abf5-6794d4e8fb09,qwen2.5-72b-instruct,1,AttributeError,Error: 'list' object has no attribute 'items'
+9019b7dc-41df-4cfb-abf5-6794d4e8fb09,qwen2.5-72b-instruct,2,AttributeError,Error: 'list' object has no attribute 'items'
+9019b7dc-41df-4cfb-abf5-6794d4e8fb09,qwen2.5-72b-instruct,3,AttributeError,Error: 'list' object has no attribute 'items'
+9019b7dc-41df-4cfb-abf5-6794d4e8fb09,qwen2.5-72b-instruct,4,AttributeError,Error: 'list' object has no attribute 'items'
+9019b7dc-41df-4cfb-abf5-6794d4e8fb09,qwen2.5-72b-instruct,5,AttributeError,Error: 'list' object has no attribute 'items'
+9019b7dc-41df-4cfb-abf5-6794d4e8fb09,qwen2.5-72b-instruct,6,AttributeError,Error: 'list' object has no attribute 'items'
+20cd73c0-281b-4a85-8435-a6801d410bd3,qwen2.5-72b-instruct,1,AttributeError,Error: 'list' object has no attribute 'items'
+20cd73c0-281b-4a85-8435-a6801d410bd3,qwen2.5-72b-instruct,2,AttributeError,Error: 'list' object has no attribute 'items'
+20cd73c0-281b-4a85-8435-a6801d410bd3,qwen2.5-72b-instruct,3,AttributeError,Error: 'list' object has no attribute 'items'
+20cd73c0-281b-4a85-8435-a6801d410bd3,qwen2.5-72b-instruct,4,AttributeError,Error: 'list' object has no attribute 'items'
+20cd73c0-281b-4a85-8435-a6801d410bd3,qwen2.5-72b-instruct,5,AttributeError,Error: 'list' object has no attribute 'items'
+20cd73c0-281b-4a85-8435-a6801d410bd3,qwen2.5-72b-instruct,6,AttributeError,Error: 'list' object has no attribute 'items'
+4ea54c0d-25d6-4b2c-b552-518c368cb7b6,qwen2.5-72b-instruct,1,AttributeError,Error: 'list' object has no attribute 'items'
+4ea54c0d-25d6-4b2c-b552-518c368cb7b6,qwen2.5-72b-instruct,2,AttributeError,Error: 'list' object has no attribute 'items'
+4ea54c0d-25d6-4b2c-b552-518c368cb7b6,qwen2.5-72b-instruct,3,AttributeError,Error: 'list' object has no attribute 'items'
+4ea54c0d-25d6-4b2c-b552-518c368cb7b6,qwen2.5-72b-instruct,4,AttributeError,Error: 'list' object has no attribute 'items'
+4ea54c0d-25d6-4b2c-b552-518c368cb7b6,qwen2.5-72b-instruct,5,AttributeError,Error: 'list' object has no attribute 'items'
+4ea54c0d-25d6-4b2c-b552-518c368cb7b6,qwen2.5-72b-instruct,6,AttributeError,Error: 'list' object has no attribute 'items'
+81aa0912-78ae-4ecc-a557-1ebda555d45e,qwen2.5-72b-instruct,1,AttributeError,Error: 'list' object has no attribute 'items'
+81aa0912-78ae-4ecc-a557-1ebda555d45e,qwen2.5-72b-instruct,2,AttributeError,Error: 'list' object has no attribute 'items'
+3b003fdd-a329-44a2-96ce-6f8ccf53566f,qwen2.5-72b-instruct,1,AttributeError,Error: 'list' object has no attribute 'items'
+3b003fdd-a329-44a2-96ce-6f8ccf53566f,qwen2.5-72b-instruct,2,AttributeError,Error: 'list' object has no attribute 'items'
+3b003fdd-a329-44a2-96ce-6f8ccf53566f,qwen2.5-72b-instruct,3,AttributeError,Error: 'list' object has no attribute 'items'
+3b003fdd-a329-44a2-96ce-6f8ccf53566f,qwen2.5-72b-instruct,4,AttributeError,Error: 'list' object has no attribute 'items'
+3b003fdd-a329-44a2-96ce-6f8ccf53566f,qwen2.5-72b-instruct,5,AttributeError,Error: 'list' object has no attribute 'items'
+3b003fdd-a329-44a2-96ce-6f8ccf53566f,qwen2.5-72b-instruct,6,AttributeError,Error: 'list' object has no attribute 'items'
+48a8bf77-9b0d-40ad-bc50-63790152f093,qwen2.5-72b-instruct,1,FileNotFoundError,Error processing posts_viewed.json: Error: The specified file does not exist.
+48a8bf77-9b0d-40ad-bc50-63790152f093,qwen2.5-72b-instruct,2,FileNotFoundError,Error processing posts_viewed.json: Error: The specified file does not exist.
+48a8bf77-9b0d-40ad-bc50-63790152f093,qwen2.5-72b-instruct,3,FileNotFoundError,Error processing posts_viewed.json: Error: The specified file does not exist.
+48a8bf77-9b0d-40ad-bc50-63790152f093,qwen2.5-72b-instruct,4,FileNotFoundError,Error processing posts_viewed.json: Error: The specified file does not exist.
+48a8bf77-9b0d-40ad-bc50-63790152f093,qwen2.5-72b-instruct,5,FileNotFoundError,Error processing posts_viewed.json: Error: The specified file does not exist.
+48a8bf77-9b0d-40ad-bc50-63790152f093,qwen2.5-72b-instruct,6,FileNotFoundError,Error processing posts_viewed.json: Error: The specified file does not exist.
+9b2e1eb4-d0e8-4efe-8e56-042dd36539ff,qwen2.5-72b-instruct,1,FileNotFoundError,Error processing posts_viewed.json: Error: The specified file does not exist.
+9b2e1eb4-d0e8-4efe-8e56-042dd36539ff,qwen2.5-72b-instruct,2,FileNotFoundError,Error processing posts_viewed.json: Error: The specified file does not exist.
+9b2e1eb4-d0e8-4efe-8e56-042dd36539ff,qwen2.5-72b-instruct,3,FileNotFoundError,Error processing posts_viewed.json: Error: The specified file does not exist.
+9b2e1eb4-d0e8-4efe-8e56-042dd36539ff,qwen2.5-72b-instruct,4,FileNotFoundError,Error processing posts_viewed.json: Error: The specified file does not exist.
+9b2e1eb4-d0e8-4efe-8e56-042dd36539ff,qwen2.5-72b-instruct,5,FileNotFoundError,Error processing posts_viewed.json: Error: The specified file does not exist.
+9b2e1eb4-d0e8-4efe-8e56-042dd36539ff,qwen2.5-72b-instruct,6,FileNotFoundError,Error processing posts_viewed.json: Error: The specified file does not exist.
+859b3a91-9c38-41f1-a9cc-9955168e485e,qwen2.5-72b-instruct,1,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+859b3a91-9c38-41f1-a9cc-9955168e485e,qwen2.5-72b-instruct,2,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+859b3a91-9c38-41f1-a9cc-9955168e485e,qwen2.5-72b-instruct,3,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+859b3a91-9c38-41f1-a9cc-9955168e485e,qwen2.5-72b-instruct,4,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+859b3a91-9c38-41f1-a9cc-9955168e485e,qwen2.5-72b-instruct,5,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+859b3a91-9c38-41f1-a9cc-9955168e485e,qwen2.5-72b-instruct,6,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+dfc6d65e-3af8-4e5b-bd7b-9097024fd563,qwen2.5-72b-instruct,1,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+dfc6d65e-3af8-4e5b-bd7b-9097024fd563,qwen2.5-72b-instruct,2,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+7145c15d-bc1d-49a6-aca9-738bf82ef1a0,qwen2.5-72b-instruct,1,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+7145c15d-bc1d-49a6-aca9-738bf82ef1a0,qwen2.5-72b-instruct,2,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+7145c15d-bc1d-49a6-aca9-738bf82ef1a0,qwen2.5-72b-instruct,3,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+7145c15d-bc1d-49a6-aca9-738bf82ef1a0,qwen2.5-72b-instruct,4,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+7145c15d-bc1d-49a6-aca9-738bf82ef1a0,qwen2.5-72b-instruct,5,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+7145c15d-bc1d-49a6-aca9-738bf82ef1a0,qwen2.5-72b-instruct,6,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+e0803d57-9516-4972-bd3e-fc67b918da67,qwen2.5-72b-instruct,1,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+e0803d57-9516-4972-bd3e-fc67b918da67,qwen2.5-72b-instruct,2,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+e0803d57-9516-4972-bd3e-fc67b918da67,qwen2.5-72b-instruct,3,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+e0803d57-9516-4972-bd3e-fc67b918da67,qwen2.5-72b-instruct,4,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+e0803d57-9516-4972-bd3e-fc67b918da67,qwen2.5-72b-instruct,5,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+e0803d57-9516-4972-bd3e-fc67b918da67,qwen2.5-72b-instruct,6,FileNotFoundError,The specified file does not exist.
+79f04313-4d6a-48b7-842b-f61e2fb22db9,qwen2.5-72b-instruct,1,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+79f04313-4d6a-48b7-842b-f61e2fb22db9,qwen2.5-72b-instruct,2,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+79f04313-4d6a-48b7-842b-f61e2fb22db9,qwen2.5-72b-instruct,3,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+79f04313-4d6a-48b7-842b-f61e2fb22db9,qwen2.5-72b-instruct,4,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+79f04313-4d6a-48b7-842b-f61e2fb22db9,qwen2.5-72b-instruct,5,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+79f04313-4d6a-48b7-842b-f61e2fb22db9,qwen2.5-72b-instruct,6,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+4ba7eaa1-35fe-46f7-8cf6-600cbe6cc5a6,qwen2.5-72b-instruct,1,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+4ba7eaa1-35fe-46f7-8cf6-600cbe6cc5a6,qwen2.5-72b-instruct,2,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+4ba7eaa1-35fe-46f7-8cf6-600cbe6cc5a6,qwen2.5-72b-instruct,3,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+4ba7eaa1-35fe-46f7-8cf6-600cbe6cc5a6,qwen2.5-72b-instruct,4,FileNotFoundError,The specified file does not exist.
+4ba7eaa1-35fe-46f7-8cf6-600cbe6cc5a6,qwen2.5-72b-instruct,5,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+4ba7eaa1-35fe-46f7-8cf6-600cbe6cc5a6,qwen2.5-72b-instruct,6,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+6b90c1fa-fe2f-4ade-a88e-43b89fcc0e2c,qwen2.5-72b-instruct,1,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+6b90c1fa-fe2f-4ade-a88e-43b89fcc0e2c,qwen2.5-72b-instruct,2,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+6b90c1fa-fe2f-4ade-a88e-43b89fcc0e2c,qwen2.5-72b-instruct,3,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+6b90c1fa-fe2f-4ade-a88e-43b89fcc0e2c,qwen2.5-72b-instruct,4,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+6b90c1fa-fe2f-4ade-a88e-43b89fcc0e2c,qwen2.5-72b-instruct,5,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+6b90c1fa-fe2f-4ade-a88e-43b89fcc0e2c,qwen2.5-72b-instruct,6,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+ed32f7dc-9063-4c2b-a6ab-051c26fcca87,qwen2.5-72b-instruct,1,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+ed32f7dc-9063-4c2b-a6ab-051c26fcca87,qwen2.5-72b-instruct,2,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+ed32f7dc-9063-4c2b-a6ab-051c26fcca87,qwen2.5-72b-instruct,3,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+ed32f7dc-9063-4c2b-a6ab-051c26fcca87,qwen2.5-72b-instruct,4,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+ed32f7dc-9063-4c2b-a6ab-051c26fcca87,qwen2.5-72b-instruct,5,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+ed32f7dc-9063-4c2b-a6ab-051c26fcca87,qwen2.5-72b-instruct,6,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+4b077b89-5dd2-4cef-bd35-ef722f254bd0,qwen2.5-72b-instruct,1,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+4b077b89-5dd2-4cef-bd35-ef722f254bd0,qwen2.5-72b-instruct,2,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+4b077b89-5dd2-4cef-bd35-ef722f254bd0,qwen2.5-72b-instruct,3,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+4b077b89-5dd2-4cef-bd35-ef722f254bd0,qwen2.5-72b-instruct,4,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+4b077b89-5dd2-4cef-bd35-ef722f254bd0,qwen2.5-72b-instruct,5,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+4b077b89-5dd2-4cef-bd35-ef722f254bd0,qwen2.5-72b-instruct,6,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+a2d8e9b9-ce1f-41e3-a0a7-08ab5f778533,qwen2.5-72b-instruct,1,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+a2d8e9b9-ce1f-41e3-a0a7-08ab5f778533,qwen2.5-72b-instruct,2,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+a2d8e9b9-ce1f-41e3-a0a7-08ab5f778533,qwen2.5-72b-instruct,3,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+a2d8e9b9-ce1f-41e3-a0a7-08ab5f778533,qwen2.5-72b-instruct,4,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+a2d8e9b9-ce1f-41e3-a0a7-08ab5f778533,qwen2.5-72b-instruct,5,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+a2d8e9b9-ce1f-41e3-a0a7-08ab5f778533,qwen2.5-72b-instruct,6,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+c7b389c8-4b93-4b51-81b1-4ee699ab9f19,qwen2.5-72b-instruct,1,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+c7b389c8-4b93-4b51-81b1-4ee699ab9f19,qwen2.5-72b-instruct,2,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+c7b389c8-4b93-4b51-81b1-4ee699ab9f19,qwen2.5-72b-instruct,3,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+c7b389c8-4b93-4b51-81b1-4ee699ab9f19,qwen2.5-72b-instruct,4,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+c7b389c8-4b93-4b51-81b1-4ee699ab9f19,qwen2.5-72b-instruct,5,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+c7b389c8-4b93-4b51-81b1-4ee699ab9f19,qwen2.5-72b-instruct,6,FileNotFoundError,Error processing likes_and_reactions.json: Error: The specified file does not exist.
+02b1beda-a759-4422-ab89-15f30e6ae320,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x87' in position 18: character maps to <undefined>
+02b1beda-a759-4422-ab89-15f30e6ae320,meta-llama-3.1-70b-instruct,2,UnicodeEncodeError,'charmap' codec can't encode character '\x87' in position 18: character maps to <undefined>
+02b1beda-a759-4422-ab89-15f30e6ae320,meta-llama-3.1-70b-instruct,3,UnicodeEncodeError,'charmap' codec can't encode character '\x9a' in position 14: character maps to <undefined>
+02b1beda-a759-4422-ab89-15f30e6ae320,meta-llama-3.1-70b-instruct,4,UnicodeEncodeError,'charmap' codec can't encode character '\x89' in position 1: character maps to <undefined>
+02b1beda-a759-4422-ab89-15f30e6ae320,meta-llama-3.1-70b-instruct,5,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-2: character maps to <undefined>
+02b1beda-a759-4422-ab89-15f30e6ae320,meta-llama-3.1-70b-instruct,6,UnicodeEncodeError,'charmap' codec can't encode character '\x82' in position 1: character maps to <undefined>
+0a8c0520-71bf-4cf1-b9f9-5ca6ff92f014,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+0a8c0520-71bf-4cf1-b9f9-5ca6ff92f014,meta-llama-3.1-70b-instruct,2,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+0a8c0520-71bf-4cf1-b9f9-5ca6ff92f014,meta-llama-3.1-70b-instruct,3,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+0a8c0520-71bf-4cf1-b9f9-5ca6ff92f014,meta-llama-3.1-70b-instruct,4,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+0a8c0520-71bf-4cf1-b9f9-5ca6ff92f014,meta-llama-3.1-70b-instruct,5,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+0a8c0520-71bf-4cf1-b9f9-5ca6ff92f014,meta-llama-3.1-70b-instruct,6,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+ef13ddd9-b284-43ab-b44c-51d6dc91a4cb,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x80' in position 12: character maps to <undefined>
+ef13ddd9-b284-43ab-b44c-51d6dc91a4cb,meta-llama-3.1-70b-instruct,2,UnicodeEncodeError,'charmap' codec can't encode character '\x8c' in position 37: character maps to <undefined>
+ef13ddd9-b284-43ab-b44c-51d6dc91a4cb,meta-llama-3.1-70b-instruct,3,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 7: character maps to <undefined>
+ef13ddd9-b284-43ab-b44c-51d6dc91a4cb,meta-llama-3.1-70b-instruct,4,UnicodeEncodeError,'charmap' codec can't encode character '\x96' in position 11: character maps to <undefined>
+ef13ddd9-b284-43ab-b44c-51d6dc91a4cb,meta-llama-3.1-70b-instruct,5,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+ef13ddd9-b284-43ab-b44c-51d6dc91a4cb,meta-llama-3.1-70b-instruct,6,UnicodeEncodeError,'charmap' codec can't encode character '\x80' in position 12: character maps to <undefined>
+4d0af936-2593-40b2-af5c-3b88ded6a638,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x8c' in position 37: character maps to <undefined>
+4d0af936-2593-40b2-af5c-3b88ded6a638,meta-llama-3.1-70b-instruct,2,UnicodeEncodeError,'charmap' codec can't encode character '\x81' in position 1: character maps to <undefined>
+4d0af936-2593-40b2-af5c-3b88ded6a638,meta-llama-3.1-70b-instruct,3,UnicodeEncodeError,'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+4d0af936-2593-40b2-af5c-3b88ded6a638,meta-llama-3.1-70b-instruct,4,UnicodeEncodeError,'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+4d0af936-2593-40b2-af5c-3b88ded6a638,meta-llama-3.1-70b-instruct,5,UnicodeEncodeError,'charmap' codec can't encode character '\x8c' in position 37: character maps to <undefined>
+4d0af936-2593-40b2-af5c-3b88ded6a638,meta-llama-3.1-70b-instruct,6,UnicodeEncodeError,'charmap' codec can't encode character '\x99' in position 9: character maps to <undefined>
+1a003368-3b7c-4a1b-9f7e-c77586f42032,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The devices.json file does not exist.
+1a003368-3b7c-4a1b-9f7e-c77586f42032,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The root directory or required files do not exist.
+1a003368-3b7c-4a1b-9f7e-c77586f42032,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The root directory does not exist.
+1a003368-3b7c-4a1b-9f7e-c77586f42032,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The root directory does not exist.
+1a003368-3b7c-4a1b-9f7e-c77586f42032,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The root directory does not exist.
+1a003368-3b7c-4a1b-9f7e-c77586f42032,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The root directory or required files do not exist.
+c4a0f6a2-ba52-4761-b60c-ce95d964520c,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The root directory does not exist.
+c4a0f6a2-ba52-4761-b60c-ce95d964520c,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The root directory does not exist.
+c4a0f6a2-ba52-4761-b60c-ce95d964520c,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The devices.json file does not exist.
+c4a0f6a2-ba52-4761-b60c-ce95d964520c,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The devices.json file does not exist.
+c4a0f6a2-ba52-4761-b60c-ce95d964520c,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The root directory does not exist.
+c4a0f6a2-ba52-4761-b60c-ce95d964520c,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The root directory does not exist.
+c5035da8-1ae7-44ed-b8a5-ff52eb80e25c,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The root directory does not exist.
+c5035da8-1ae7-44ed-b8a5-ff52eb80e25c,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The root directory does not exist.
+c5035da8-1ae7-44ed-b8a5-ff52eb80e25c,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The root directory does not exist.
+c5035da8-1ae7-44ed-b8a5-ff52eb80e25c,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The root directory does not exist.
+c5035da8-1ae7-44ed-b8a5-ff52eb80e25c,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The devices.json file does not exist.
+c5035da8-1ae7-44ed-b8a5-ff52eb80e25c,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The devices.json file does not exist.
+98edefd3-2365-49b3-b98e-61788b49f1af,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The root directory does not exist.
+98edefd3-2365-49b3-b98e-61788b49f1af,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The devices.json file does not exist.
+98edefd3-2365-49b3-b98e-61788b49f1af,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The root directory does not exist.
+98edefd3-2365-49b3-b98e-61788b49f1af,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The devices.json file does not exist.
+98edefd3-2365-49b3-b98e-61788b49f1af,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The root directory does not exist.
+98edefd3-2365-49b3-b98e-61788b49f1af,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The devices.json file does not exist.
+fcb63da1-e1c1-41f7-a28f-8552c3a12dc1,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The devices.json file does not exist.
+fcb63da1-e1c1-41f7-a28f-8552c3a12dc1,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The root directory or required files do not exist.
+fcb63da1-e1c1-41f7-a28f-8552c3a12dc1,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The devices.json file does not exist.
+fcb63da1-e1c1-41f7-a28f-8552c3a12dc1,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The devices.json file does not exist.
+fcb63da1-e1c1-41f7-a28f-8552c3a12dc1,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The devices.json file does not exist.
+fcb63da1-e1c1-41f7-a28f-8552c3a12dc1,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The devices.json file does not exist.
+26bcfa7c-65a8-4677-b5e8-4af7920daf8f,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The devices.json file does not exist.
+26bcfa7c-65a8-4677-b5e8-4af7920daf8f,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The root directory does not exist.
+26bcfa7c-65a8-4677-b5e8-4af7920daf8f,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The devices.json file does not exist.
+26bcfa7c-65a8-4677-b5e8-4af7920daf8f,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The devices.json file does not exist.
+26bcfa7c-65a8-4677-b5e8-4af7920daf8f,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The root directory does not exist.
+26bcfa7c-65a8-4677-b5e8-4af7920daf8f,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The devices.json file does not exist.
+8068abcb-85a4-4813-9df5-50f1f40a1025,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The devices.json file does not exist.
+8068abcb-85a4-4813-9df5-50f1f40a1025,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The devices.json file does not exist.
+8068abcb-85a4-4813-9df5-50f1f40a1025,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The devices.json file does not exist.
+8068abcb-85a4-4813-9df5-50f1f40a1025,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The devices.json file does not exist.
+8068abcb-85a4-4813-9df5-50f1f40a1025,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The root directory does not exist.
+8068abcb-85a4-4813-9df5-50f1f40a1025,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The root directory does not exist.
+475233e0-7ee3-47b9-a110-6eff097c2173,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The root directory does not exist.
+475233e0-7ee3-47b9-a110-6eff097c2173,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The root directory does not exist.
+475233e0-7ee3-47b9-a110-6eff097c2173,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The devices.json file does not exist.
+475233e0-7ee3-47b9-a110-6eff097c2173,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The root directory does not exist.
+475233e0-7ee3-47b9-a110-6eff097c2173,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The devices.json file does not exist.
+475233e0-7ee3-47b9-a110-6eff097c2173,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The devices.json file does not exist.
+c4f858ce-f51a-4edc-a111-c6be6fc85abd,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The devices.json file does not exist.
+c4f858ce-f51a-4edc-a111-c6be6fc85abd,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The devices.json file does not exist.
+c4f858ce-f51a-4edc-a111-c6be6fc85abd,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The devices.json file does not exist.
+c4f858ce-f51a-4edc-a111-c6be6fc85abd,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The devices.json file does not exist.
+c4f858ce-f51a-4edc-a111-c6be6fc85abd,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The devices.json file does not exist.
+c4f858ce-f51a-4edc-a111-c6be6fc85abd,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The devices.json file does not exist.
+e83823a6-3a68-4587-9a00-c61fa142383f,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The devices.json file does not exist.
+e83823a6-3a68-4587-9a00-c61fa142383f,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The root directory does not exist.
+e83823a6-3a68-4587-9a00-c61fa142383f,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The root directory does not exist.
+e83823a6-3a68-4587-9a00-c61fa142383f,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The devices.json file does not exist.
+e83823a6-3a68-4587-9a00-c61fa142383f,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The devices.json file does not exist.
+e83823a6-3a68-4587-9a00-c61fa142383f,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The devices.json file does not exist.
+02398fcc-3d5d-4b3d-b5fd-c31a5b8d06f9,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The root directory does not exist.
+02398fcc-3d5d-4b3d-b5fd-c31a5b8d06f9,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The devices.json file does not exist.
+02398fcc-3d5d-4b3d-b5fd-c31a5b8d06f9,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The devices.json file does not exist.
+02398fcc-3d5d-4b3d-b5fd-c31a5b8d06f9,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The devices.json file does not exist.
+02398fcc-3d5d-4b3d-b5fd-c31a5b8d06f9,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The root directory does not exist.
+02398fcc-3d5d-4b3d-b5fd-c31a5b8d06f9,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The root directory does not exist.
+a7fd11d6-0d86-4f45-b420-c991b85be1b7,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The root directory or required files do not exist.
+a7fd11d6-0d86-4f45-b420-c991b85be1b7,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The devices.json file does not exist.
+a7fd11d6-0d86-4f45-b420-c991b85be1b7,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The required file does not exist.
+a7fd11d6-0d86-4f45-b420-c991b85be1b7,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The devices.json file does not exist.
+a7fd11d6-0d86-4f45-b420-c991b85be1b7,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The devices.json file does not exist.
+a7fd11d6-0d86-4f45-b420-c991b85be1b7,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The devices.json file does not exist.
+7a28288d-1c35-4a38-9ae9-033fd34a4444,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The devices.json file does not exist.
+7a28288d-1c35-4a38-9ae9-033fd34a4444,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The root directory does not exist.
+7a28288d-1c35-4a38-9ae9-033fd34a4444,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The devices.json file does not exist.
+7a28288d-1c35-4a38-9ae9-033fd34a4444,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The devices.json file does not exist.
+cd55e47c-b130-4101-aa33-d903ed0364d9,meta-llama-3.1-70b-instruct,1,ValueError,"Error parsing JSON file: '{' was never closed (<string>, line 1)"
+c7df9dfd-504f-4b07-b48a-51fc1d4e2545,meta-llama-3.1-70b-instruct,1,FileNotFoundError,Error: Error: FileNotFoundError: The messages directory does not exist.
+2eb9e9fa-0280-4367-8e7b-fef7cb2f6493,meta-llama-3.1-70b-instruct,1,ValueError,"Failed to parse datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content\your_instagram_activity\messages\inbox\friederrodewald_1288739325853071\message_1.json: '{' was never closed (<string>, line 1)"
+e6993beb-d2b0-46f8-889d-84cbe2c2f197,meta-llama-3.1-70b-instruct,1,FileNotFoundError,Error: Error: Failed to get profiles not following back. FileNotFoundError: The following.json file does not exist.
+e6993beb-d2b0-46f8-889d-84cbe2c2f197,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The following.json file does not exist.
+e6993beb-d2b0-46f8-889d-84cbe2c2f197,meta-llama-3.1-70b-instruct,3,FileNotFoundError,Error: Error: Error: FileNotFoundError: The following.json file does not exist.
+e6993beb-d2b0-46f8-889d-84cbe2c2f197,meta-llama-3.1-70b-instruct,4,FileNotFoundError,Error: Error: Error: FileNotFoundError: The following.json file does not exist.
+e6993beb-d2b0-46f8-889d-84cbe2c2f197,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The following.json file does not exist.
+e6993beb-d2b0-46f8-889d-84cbe2c2f197,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The following.json file does not exist.
+4b140060-4749-4afb-b31a-3136cf162a85,meta-llama-3.1-70b-instruct,1,FileNotFoundError,Error: Error: Error: FileNotFoundError: The following.json file does not exist.
+4b140060-4749-4afb-b31a-3136cf162a85,meta-llama-3.1-70b-instruct,2,FileNotFoundError,Error: Error: Error: FileNotFoundError: The following.json file does not exist.
+4b140060-4749-4afb-b31a-3136cf162a85,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The following.json file does not exist.
+4b140060-4749-4afb-b31a-3136cf162a85,meta-llama-3.1-70b-instruct,4,FileNotFoundError,Error: Error: Error: FileNotFoundError: The following.json file does not exist.
+4b140060-4749-4afb-b31a-3136cf162a85,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The following.json file does not exist.
+4b140060-4749-4afb-b31a-3136cf162a85,meta-llama-3.1-70b-instruct,6,FileNotFoundError,Error: Error: Error: FileNotFoundError: The following.json file does not exist.
+b7fc6dbd-f7d2-4e62-9328-efae5ecfa4c9,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The following.json file does not exist.
+b7fc6dbd-f7d2-4e62-9328-efae5ecfa4c9,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The following.json file does not exist.
+b7fc6dbd-f7d2-4e62-9328-efae5ecfa4c9,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The following.json file does not exist.
+b7fc6dbd-f7d2-4e62-9328-efae5ecfa4c9,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The following.json file does not exist.
+b7fc6dbd-f7d2-4e62-9328-efae5ecfa4c9,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The following.json file does not exist.
+b7fc6dbd-f7d2-4e62-9328-efae5ecfa4c9,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The following.json file does not exist.
+5773251c-7263-4ff4-bafe-74c5a01914cd,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The following.json file does not exist.
+5773251c-7263-4ff4-bafe-74c5a01914cd,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The following.json file does not exist.
+5773251c-7263-4ff4-bafe-74c5a01914cd,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The following.json file does not exist.
+5773251c-7263-4ff4-bafe-74c5a01914cd,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The following.json file does not exist.
+5773251c-7263-4ff4-bafe-74c5a01914cd,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The following.json file does not exist.
+5773251c-7263-4ff4-bafe-74c5a01914cd,meta-llama-3.1-70b-instruct,6,FileNotFoundError,Error: Error: Error: FileNotFoundError: The following.json file does not exist.
+523b5a86-a10b-45a0-9674-fda357d4628d,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The following.json file does not exist.
+523b5a86-a10b-45a0-9674-fda357d4628d,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The following.json file does not exist.
+523b5a86-a10b-45a0-9674-fda357d4628d,meta-llama-3.1-70b-instruct,3,FileNotFoundError,Error: Error: Error: FileNotFoundError: The following.json file does not exist.
+523b5a86-a10b-45a0-9674-fda357d4628d,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The following.json file does not exist.
+523b5a86-a10b-45a0-9674-fda357d4628d,meta-llama-3.1-70b-instruct,5,FileNotFoundError,Error: Error: Error: FileNotFoundError: The following.json file does not exist.
+523b5a86-a10b-45a0-9674-fda357d4628d,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The following.json file does not exist.
+9484d51b-8ae2-46fe-8dda-db3578fff3d9,meta-llama-3.1-70b-instruct,1,FileNotFoundError,Error: Error: Failed to get profiles not following back. FileNotFoundError: The following.json file does not exist.
+9484d51b-8ae2-46fe-8dda-db3578fff3d9,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The following.json file does not exist.
+9484d51b-8ae2-46fe-8dda-db3578fff3d9,meta-llama-3.1-70b-instruct,3,FileNotFoundError,Error: Error: Failed to get profiles not following back. FileNotFoundError: The following.json file does not exist.
+9484d51b-8ae2-46fe-8dda-db3578fff3d9,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The following.json file does not exist.
+9484d51b-8ae2-46fe-8dda-db3578fff3d9,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The following.json file does not exist.
+9484d51b-8ae2-46fe-8dda-db3578fff3d9,meta-llama-3.1-70b-instruct,6,FileNotFoundError,Error: Error: Error: FileNotFoundError: The following.json file does not exist.
+109968c2-cb7e-4c4b-9b3e-815b3327ddf8,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The following.json file does not exist.
+109968c2-cb7e-4c4b-9b3e-815b3327ddf8,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The following.json file does not exist.
+109968c2-cb7e-4c4b-9b3e-815b3327ddf8,meta-llama-3.1-70b-instruct,3,FileNotFoundError,Error: Error: Error: FileNotFoundError: The following.json file does not exist.
+109968c2-cb7e-4c4b-9b3e-815b3327ddf8,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The following.json file does not exist.
+109968c2-cb7e-4c4b-9b3e-815b3327ddf8,meta-llama-3.1-70b-instruct,5,FileNotFoundError,Error: Error: Error: FileNotFoundError: The following.json file does not exist.
+109968c2-cb7e-4c4b-9b3e-815b3327ddf8,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The following.json file does not exist.
+c7456b84-b80f-4e98-906d-9606dbc5b84a,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The following.json file does not exist.
+c7456b84-b80f-4e98-906d-9606dbc5b84a,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The following.json file does not exist.
+c7456b84-b80f-4e98-906d-9606dbc5b84a,meta-llama-3.1-70b-instruct,3,FileNotFoundError,Error: Error: Failed to get profiles not following back. FileNotFoundError: The following.json file does not exist.
+c7456b84-b80f-4e98-906d-9606dbc5b84a,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The following.json file does not exist.
+c7456b84-b80f-4e98-906d-9606dbc5b84a,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The following.json file does not exist.
+c7456b84-b80f-4e98-906d-9606dbc5b84a,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The following.json file does not exist.
+dcdbacbf-6c30-4087-b62e-37e0562064ff,meta-llama-3.1-70b-instruct,1,FileNotFoundError,Error: Error: FileNotFoundError: The following.json file does not exist.
+dcdbacbf-6c30-4087-b62e-37e0562064ff,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The following.json file does not exist.
+dcdbacbf-6c30-4087-b62e-37e0562064ff,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The following.json file does not exist.
+dcdbacbf-6c30-4087-b62e-37e0562064ff,meta-llama-3.1-70b-instruct,4,FileNotFoundError,Error: Error: Error: FileNotFoundError: The following.json file does not exist.
+dcdbacbf-6c30-4087-b62e-37e0562064ff,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The following.json file does not exist.
+dcdbacbf-6c30-4087-b62e-37e0562064ff,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The following.json file does not exist.
+0e393fab-2732-4947-adeb-c231a8d95793,meta-llama-3.1-70b-instruct,1,FileNotFoundError,Error: Error: Failed to get profiles not following back. FileNotFoundError: The following.json file does not exist.
+0e393fab-2732-4947-adeb-c231a8d95793,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The following.json file does not exist.
+0e393fab-2732-4947-adeb-c231a8d95793,meta-llama-3.1-70b-instruct,3,FileNotFoundError,Error: Error: Error: FileNotFoundError: The following.json file does not exist.
+0e393fab-2732-4947-adeb-c231a8d95793,meta-llama-3.1-70b-instruct,4,FileNotFoundError,Error: Error: Error: FileNotFoundError: The following.json file does not exist.
+0e393fab-2732-4947-adeb-c231a8d95793,meta-llama-3.1-70b-instruct,5,FileNotFoundError,Error: Error: Error: FileNotFoundError: The following.json file does not exist.
+0e393fab-2732-4947-adeb-c231a8d95793,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The following.json file does not exist.
+11bd5c1b-c143-4e17-a366-21d1dbe222cf,meta-llama-3.1-70b-instruct,1,FileNotFoundError,Error: Error: Failed to get profiles not following back. FileNotFoundError: The following.json file does not exist.
+11bd5c1b-c143-4e17-a366-21d1dbe222cf,meta-llama-3.1-70b-instruct,2,FileNotFoundError,Error: Error: Error: FileNotFoundError: The following.json file does not exist.
+11bd5c1b-c143-4e17-a366-21d1dbe222cf,meta-llama-3.1-70b-instruct,3,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-pbrenner96-2024-06-11-fak0ewfm\\personal_information\\following.json'
+11bd5c1b-c143-4e17-a366-21d1dbe222cf,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The following.json file does not exist.
+11bd5c1b-c143-4e17-a366-21d1dbe222cf,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The following.json file does not exist.
+11bd5c1b-c143-4e17-a366-21d1dbe222cf,meta-llama-3.1-70b-instruct,6,FileNotFoundError,Error: Error: Error: FileNotFoundError: The following.json file does not exist.
+e30ccfd7-779c-4c69-87e9-22ee3da921be,meta-llama-3.1-70b-instruct,1,FileNotFoundError,Error: Error: Error: FileNotFoundError: The following.json file does not exist.
+e30ccfd7-779c-4c69-87e9-22ee3da921be,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The following.json file does not exist.
+e30ccfd7-779c-4c69-87e9-22ee3da921be,meta-llama-3.1-70b-instruct,3,FileNotFoundError,Error: Error: Error: FileNotFoundError: The following.json file does not exist.
+e30ccfd7-779c-4c69-87e9-22ee3da921be,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The following.json file does not exist.
+e30ccfd7-779c-4c69-87e9-22ee3da921be,meta-llama-3.1-70b-instruct,5,FileNotFoundError,Error: Error: Error: FileNotFoundError: The following.json file does not exist.
+e30ccfd7-779c-4c69-87e9-22ee3da921be,meta-llama-3.1-70b-instruct,6,FileNotFoundError,Error: Error: Error: FileNotFoundError: The following.json file does not exist.
+9daa08da-d925-42e1-b638-4e80c09fd785,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The ads_and_topics directory does not exist.
+9daa08da-d925-42e1-b638-4e80c09fd785,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The ads_and_topics directory does not exist.
+9daa08da-d925-42e1-b638-4e80c09fd785,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The ads_and_topics directory does not exist.
+9daa08da-d925-42e1-b638-4e80c09fd785,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The ads_and_topics directory does not exist.
+9daa08da-d925-42e1-b638-4e80c09fd785,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The ads_and_topics directory does not exist.
+9daa08da-d925-42e1-b638-4e80c09fd785,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The ads_and_topics directory does not exist.
+f0973244-3b20-49da-9c6d-cb37e34a92c3,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The ads_and_topics directory does not exist.
+f0973244-3b20-49da-9c6d-cb37e34a92c3,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The ads_and_topics directory does not exist.
+f0973244-3b20-49da-9c6d-cb37e34a92c3,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The ads_and_topics directory does not exist.
+f0973244-3b20-49da-9c6d-cb37e34a92c3,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The ads_and_topics directory does not exist.
+f0973244-3b20-49da-9c6d-cb37e34a92c3,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The ads_and_topics directory does not exist.
+f0973244-3b20-49da-9c6d-cb37e34a92c3,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The ads_and_topics directory does not exist.
+e67cb385-49b8-4a91-97f0-6d1db2b73672,meta-llama-3.1-70b-instruct,1,KeyError,An error occurred - 'Author'
+b5e90cf1-42c7-496b-8af6-e5de37c91c33,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The posts_viewed.json file does not exist.
+b5e90cf1-42c7-496b-8af6-e5de37c91c33,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The posts_viewed.json file does not exist.
+a3cf3ba3-5850-4f1b-8010-95abd2a2bde7,meta-llama-3.1-70b-instruct,1,KeyError,'value'
+a61872f2-b963-4500-af61-ea048d9de492,meta-llama-3.1-70b-instruct,1,KeyError,'value'
+a61872f2-b963-4500-af61-ea048d9de492,meta-llama-3.1-70b-instruct,2,KeyError,'value'
+0b46e05c-6aaf-4258-a086-9cdd93f9dfab,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The posts_you're_not_interested_in.json file does not exist.
+0b46e05c-6aaf-4258-a086-9cdd93f9dfab,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The posts_you're_not_interested_in.json file does not exist.
+0b46e05c-6aaf-4258-a086-9cdd93f9dfab,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The posts_you're_not_interested_in.json file does not exist.
+0b46e05c-6aaf-4258-a086-9cdd93f9dfab,meta-llama-3.1-70b-instruct,4,FileNotFoundError,Error: Error: Error: FileNotFoundError: The posts_you're_not_interested_in.json file does not exist.
+0b46e05c-6aaf-4258-a086-9cdd93f9dfab,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The posts_you're_not_interested_in.json file does not exist.
+0b46e05c-6aaf-4258-a086-9cdd93f9dfab,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The posts_you're_not_interested_in.json file does not exist.
+e42a44cc-17a4-4942-92e6-29e0c356250e,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The posts_you're_not_interested_in.json file does not exist.
+e42a44cc-17a4-4942-92e6-29e0c356250e,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The posts_you're_not_interested_in.json file does not exist.
+45eb9c57-5aef-47de-8ed5-c2f3b88120c4,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The posts_you're_not_interested_in.json file does not exist.
+45eb9c57-5aef-47de-8ed5-c2f3b88120c4,meta-llama-3.1-70b-instruct,2,FileNotFoundError,Error: Error: FileNotFoundError: The posts_you're_not_interested_in.json file does not exist.
+45eb9c57-5aef-47de-8ed5-c2f3b88120c4,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The posts_you're_not_interested_in.json file does not exist.
+45eb9c57-5aef-47de-8ed5-c2f3b88120c4,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The posts_you're_not_interested_in.json file does not exist.
+45eb9c57-5aef-47de-8ed5-c2f3b88120c4,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The posts_you're_not_interested_in.json file does not exist.
+6c4a18b5-1f10-4be0-b976-8dcf0141279a,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The posts_you're_not_interested_in.json file does not exist.
+6c4a18b5-1f10-4be0-b976-8dcf0141279a,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The posts_you're_not_interested_in.json file does not exist.
+f6703a3d-d5e8-4dfc-8926-cba90cd4eab6,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The posts_you're_not_interested_in.json file does not exist.
+4b5dc1a6-c503-4c9e-a23c-8411425411d5,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The posts_you're_not_interested_in.json file does not exist.
+4b5dc1a6-c503-4c9e-a23c-8411425411d5,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The posts_you're_not_interested_in.json file does not exist.
+4b5dc1a6-c503-4c9e-a23c-8411425411d5,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The posts_you're_not_interested_in.json file does not exist.
+4b5dc1a6-c503-4c9e-a23c-8411425411d5,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The posts_you're_not_interested_in.json file does not exist.
+4b5dc1a6-c503-4c9e-a23c-8411425411d5,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The posts_you're_not_interested_in.json file does not exist.
+4b5dc1a6-c503-4c9e-a23c-8411425411d5,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The posts_you're_not_interested_in.json file does not exist.

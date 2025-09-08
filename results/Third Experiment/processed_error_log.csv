@@ -1,0 +1,1202 @@
+Experiment ID,Model,Attempt Number,Error Type,Message
+cf8fe2ec-062b-4f8c-ab4e-4171f16437f9,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-06-11-fak0ewfm\\reels'
+b2af8810-987d-4e5e-a9c9-c4b2a48004df,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+b2af8810-987d-4e5e-a9c9-c4b2a48004df,meta-llama-3.1-8b-instruct,2,NameError,name 'json' is not defined. Did you forget to import 'json'?
+b2af8810-987d-4e5e-a9c9-c4b2a48004df,meta-llama-3.1-8b-instruct,3,NameError,name 'json' is not defined. Did you forget to import 'json'?
+37447881-fab2-464f-becc-25b65d43fd9a,meta-llama-3.1-8b-instruct,1,ValueError,too many values to unpack (expected 2)
+528cc48f-eab2-43b5-b636-956e3f20c7c9,meta-llama-3.1-8b-instruct,1,SyntaxError,unmatched '}'
+528cc48f-eab2-43b5-b636-956e3f20c7c9,meta-llama-3.1-8b-instruct,2,SyntaxError,unmatched '}'
+a1885f04-4959-448a-b7f6-9d0d5bf7b410,meta-llama-3.1-8b-instruct,1,KeyError,'impressions_history_recs_hidden_authors'
+85d8f8b0-a126-4548-b02b-c0686c5e3d42,meta-llama-3.1-8b-instruct,1,SyntaxError,(unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+85d8f8b0-a126-4548-b02b-c0686c5e3d42,meta-llama-3.1-8b-instruct,2,SyntaxError,(unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+85d8f8b0-a126-4548-b02b-c0686c5e3d42,meta-llama-3.1-8b-instruct,3,FileNotFoundError,[Errno 2] No such file or directory: 'query_responses/results.csv'
+e5a3d36c-f371-4382-8edc-af0bbbb5dc6e,meta-llama-3.1-8b-instruct,1,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files'
+e5a3d36c-f371-4382-8edc-af0bbbb5dc6e,meta-llama-3.1-8b-instruct,2,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files'
+454a1fda-c7ff-4427-ad51-925dfac691f8,meta-llama-3.1-8b-instruct,1,NameError,name 'value' is not defined. Did you mean: 'False'?
+454a1fda-c7ff-4427-ad51-925dfac691f8,meta-llama-3.1-8b-instruct,2,NameError,name 'value' is not defined. Did you mean: 'False'?
+454a1fda-c7ff-4427-ad51-925dfac691f8,meta-llama-3.1-8b-instruct,3,NameError,name 'value' is not defined. Did you mean: 'False'?
+454a1fda-c7ff-4427-ad51-925dfac691f8,meta-llama-3.1-8b-instruct,4,NameError,name 'value' is not defined. Did you mean: 'False'?
+454a1fda-c7ff-4427-ad51-925dfac691f8,meta-llama-3.1-8b-instruct,5,NameError,name 'value' is not defined. Did you mean: 'False'?
+541a8c1f-6abb-4903-b05c-4e80b417c399,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+541a8c1f-6abb-4903-b05c-4e80b417c399,meta-llama-3.1-8b-instruct,2,NameError,name 'json' is not defined. Did you forget to import 'json'?
+541a8c1f-6abb-4903-b05c-4e80b417c399,meta-llama-3.1-8b-instruct,3,NameError,name 'json' is not defined. Did you forget to import 'json'?
+541a8c1f-6abb-4903-b05c-4e80b417c399,meta-llama-3.1-8b-instruct,4,ValueError,too many values to unpack (expected 2)
+541a8c1f-6abb-4903-b05c-4e80b417c399,meta-llama-3.1-8b-instruct,5,NameError,name 'json' is not defined. Did you forget to import 'json'?
+541a8c1f-6abb-4903-b05c-4e80b417c399,meta-llama-3.1-8b-instruct,6,ValueError,too many values to unpack (expected 2)
+035a7556-e396-42b0-9a4a-41aead4410f1,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[Errno 2] No such file or directory: 'directory_structure_final.txt'
+035a7556-e396-42b0-9a4a-41aead4410f1,meta-llama-3.1-8b-instruct,2,FileNotFoundError,[Errno 2] No such file or directory: 'your_instagram_activity.json'
+035a7556-e396-42b0-9a4a-41aead4410f1,meta-llama-3.1-8b-instruct,3,FileNotFoundError,[Errno 2] No such file or directory: 'your_instagram_activity.json'
+035a7556-e396-42b0-9a4a-41aead4410f1,meta-llama-3.1-8b-instruct,4,FileNotFoundError,[Errno 2] No such file or directory: 'directory_structure_final.txt'
+035a7556-e396-42b0-9a4a-41aead4410f1,meta-llama-3.1-8b-instruct,5,FileNotFoundError,[Errno 2] No such file or directory: 'directory_structure_final.txt'
+035a7556-e396-42b0-9a4a-41aead4410f1,meta-llama-3.1-8b-instruct,6,FileNotFoundError,[Errno 2] No such file or directory: 'directory_structure_final.txt'
+be535715-e9b2-4f86-975e-13556b8375cb,meta-llama-3.1-8b-instruct,1,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown'
+be535715-e9b2-4f86-975e-13556b8375cb,meta-llama-3.1-8b-instruct,2,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown'
+be535715-e9b2-4f86-975e-13556b8375cb,meta-llama-3.1-8b-instruct,3,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown'
+be535715-e9b2-4f86-975e-13556b8375cb,meta-llama-3.1-8b-instruct,4,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown'
+aa9d2e9d-7ea6-48bc-91cb-dc423251a4ea,meta-llama-3.1-8b-instruct,1,SyntaxError,invalid syntax
+aa9d2e9d-7ea6-48bc-91cb-dc423251a4ea,meta-llama-3.1-8b-instruct,2,SyntaxError,invalid syntax
+55d70f4f-c933-488a-8abd-984fa464fc35,meta-llama-3.1-8b-instruct,1,NameError,name 'value' is not defined. Did you mean: 'False'?
+3fb8e473-5eda-4bb1-a46c-198af7ef7ba5,meta-llama-3.1-8b-instruct,1,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-miger_shkrepa-2025-01-21-TDz5ZSZM'
+3fb8e473-5eda-4bb1-a46c-198af7ef7ba5,meta-llama-3.1-8b-instruct,2,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-miger_shkrepa-2025-01-21-TDz5ZSZM'
+3fb8e473-5eda-4bb1-a46c-198af7ef7ba5,meta-llama-3.1-8b-instruct,3,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-miger_shkrepa-2025-01-21-TDz5ZSZM'
+3fb8e473-5eda-4bb1-a46c-198af7ef7ba5,meta-llama-3.1-8b-instruct,4,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-miger_shkrepa-2025-01-21-TDz5ZSZM'
+3fb8e473-5eda-4bb1-a46c-198af7ef7ba5,meta-llama-3.1-8b-instruct,5,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-miger_shkrepa-2025-01-21-TDz5ZSZM'
+3fb8e473-5eda-4bb1-a46c-198af7ef7ba5,meta-llama-3.1-8b-instruct,6,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-miger_shkrepa-2025-01-21-TDz5ZSZM'
+6445e9b2-475f-4caa-8edd-4b151df4065d,meta-llama-3.1-8b-instruct,1,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown'
+6445e9b2-475f-4caa-8edd-4b151df4065d,meta-llama-3.1-8b-instruct,2,AttributeError,'generator' object has no attribute 'next'
+6445e9b2-475f-4caa-8edd-4b151df4065d,meta-llama-3.1-8b-instruct,3,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown'
+6445e9b2-475f-4caa-8edd-4b151df4065d,meta-llama-3.1-8b-instruct,4,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown'
+6445e9b2-475f-4caa-8edd-4b151df4065d,meta-llama-3.1-8b-instruct,5,AttributeError,'generator' object has no attribute 'next'
+6445e9b2-475f-4caa-8edd-4b151df4065d,meta-llama-3.1-8b-instruct,6,PermissionError,[Errno 13] Permission denied: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown'
+44e1b1de-a469-4468-b2a6-6b07902722fc,meta-llama-3.1-8b-instruct,1,ValueError,No results found.
+44e1b1de-a469-4468-b2a6-6b07902722fc,meta-llama-3.1-8b-instruct,2,ValueError,No results found.
+d0bb6067-0102-478b-9bf9-a2ebafaeb2f2,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[Errno 2] No such file or directory: 'query_responses/results.csv'
+d0bb6067-0102-478b-9bf9-a2ebafaeb2f2,meta-llama-3.1-8b-instruct,2,FileNotFoundError,[Errno 2] No such file or directory: 'query_responses/results.csv'
+d0bb6067-0102-478b-9bf9-a2ebafaeb2f2,meta-llama-3.1-8b-instruct,3,FileNotFoundError,[Errno 2] No such file or directory: 'query_responses/results.csv'
+d0bb6067-0102-478b-9bf9-a2ebafaeb2f2,meta-llama-3.1-8b-instruct,4,FileNotFoundError,[Errno 2] No such file or directory: 'query_responses/results.csv'
+d0bb6067-0102-478b-9bf9-a2ebafaeb2f2,meta-llama-3.1-8b-instruct,5,FileNotFoundError,[Errno 2] No such file or directory: 'query_responses/results.csv'
+d0bb6067-0102-478b-9bf9-a2ebafaeb2f2,meta-llama-3.1-8b-instruct,6,FileNotFoundError,[Errno 2] No such file or directory: 'query_responses/results.csv'
+06b6807d-31dc-4e7a-bbf4-95c1cf6e6204,meta-llama-3.1-8b-instruct,1,KeyError,'structure'
+06b6807d-31dc-4e7a-bbf4-95c1cf6e6204,meta-llama-3.1-8b-instruct,2,KeyError,'structure'
+ddc587e1-d535-4e22-b496-677e3d367be5,meta-llama-3.1-8b-instruct,1,FileNotFoundError,Error: The necessary files or directories do not exist in the structure.
+dbe5a2a4-d606-4d4a-81c4-8b442b12e82d,meta-llama-3.1-8b-instruct,1,KeyError,'value'
+7fd38855-359e-43a9-8866-b1c33004c198,meta-llama-3.1-8b-instruct,1,ModuleNotFoundError,No module named 'pandas'
+b0b7fc92-dd05-4035-b734-a0605900dd60,meta-llama-3.1-8b-instruct,1,NameError,name 'value' is not defined. Did you mean: 'False'?
+b0b7fc92-dd05-4035-b734-a0605900dd60,meta-llama-3.1-8b-instruct,2,NameError,name 'value' is not defined. Did you mean: 'False'?
+b0b7fc92-dd05-4035-b734-a0605900dd60,meta-llama-3.1-8b-instruct,3,NameError,name 'value' is not defined. Did you mean: 'False'?
+b0b7fc92-dd05-4035-b734-a0605900dd60,meta-llama-3.1-8b-instruct,4,NameError,name 'json' is not defined. Did you forget to import 'json'?
+b0b7fc92-dd05-4035-b734-a0605900dd60,meta-llama-3.1-8b-instruct,5,NameError,name 'json' is not defined. Did you forget to import 'json'?
+b0b7fc92-dd05-4035-b734-a0605900dd60,meta-llama-3.1-8b-instruct,6,NameError,name 'value' is not defined. Did you mean: 'False'?
+c1855628-0135-4056-b114-3e9f482337f1,meta-llama-3.1-8b-instruct,1,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\\ads_viewed.json'
+970d7e20-7f62-414d-a75b-540eba0f0877,meta-llama-3.1-8b-instruct,1,SyntaxError,closing parenthesis ']' does not match opening parenthesis '('
+970d7e20-7f62-414d-a75b-540eba0f0877,meta-llama-3.1-8b-instruct,2,SyntaxError,closing parenthesis ']' does not match opening parenthesis '('
+970d7e20-7f62-414d-a75b-540eba0f0877,meta-llama-3.1-8b-instruct,3,SyntaxError,closing parenthesis ']' does not match opening parenthesis '('
+970d7e20-7f62-414d-a75b-540eba0f0877,meta-llama-3.1-8b-instruct,4,SyntaxError,closing parenthesis ']' does not match opening parenthesis '('
+970d7e20-7f62-414d-a75b-540eba0f0877,meta-llama-3.1-8b-instruct,5,SyntaxError,closing parenthesis ']' does not match opening parenthesis '('
+4213532e-ba22-41df-b4b1-51614e94c144,meta-llama-3.1-8b-instruct,1,NameError,name 'json' is not defined. Did you forget to import 'json'?
+4213532e-ba22-41df-b4b1-51614e94c144,meta-llama-3.1-8b-instruct,2,NameError,name 'json' is not defined. Did you forget to import 'json'?
+4213532e-ba22-41df-b4b1-51614e94c144,meta-llama-3.1-8b-instruct,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content\\ads_and_topics'
+4213532e-ba22-41df-b4b1-51614e94c144,meta-llama-3.1-8b-instruct,4,NameError,name 'json' is not defined. Did you forget to import 'json'?
+4213532e-ba22-41df-b4b1-51614e94c144,meta-llama-3.1-8b-instruct,5,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-NEW5-2024-02-06-Ls7f9ZkQ_with_recently_deleted_content\\ads_and_topics'
+4213532e-ba22-41df-b4b1-51614e94c144,meta-llama-3.1-8b-instruct,6,NameError,name 'json' is not defined. Did you forget to import 'json'?
+d04da299-e85c-4c8a-95d7-99b1716f59c5,meta-llama-3.1-8b-instruct,1,TypeError,unsupported operand type(s) for //: 'NoneType' and 'int'
+d04da299-e85c-4c8a-95d7-99b1716f59c5,meta-llama-3.1-8b-instruct,2,TypeError,unsupported operand type(s) for //: 'NoneType' and 'int'
+ecdc88b9-4f20-4160-affa-cee4573884f3,meta-llama-3.1-8b-instruct,1,ValueError,No results found.
+ecdc88b9-4f20-4160-affa-cee4573884f3,meta-llama-3.1-8b-instruct,2,ValueError,No results found.
+758115b9-7a5c-402e-b674-acd8958bcd7a,mistral-large-instruct,1,FileNotFoundError,Error: The recommended_topics.json file does not exist.
+758115b9-7a5c-402e-b674-acd8958bcd7a,mistral-large-instruct,2,FileNotFoundError,Error: The recommended_topics.json file does not exist.
+758115b9-7a5c-402e-b674-acd8958bcd7a,mistral-large-instruct,3,FileNotFoundError,Error: The recommended_topics.json file does not exist.
+758115b9-7a5c-402e-b674-acd8958bcd7a,mistral-large-instruct,4,FileNotFoundError,Error: The recommended_topics.json file does not exist.
+758115b9-7a5c-402e-b674-acd8958bcd7a,mistral-large-instruct,5,FileNotFoundError,Error: The recommended_topics.json file does not exist.
+758115b9-7a5c-402e-b674-acd8958bcd7a,mistral-large-instruct,6,FileNotFoundError,Error: The recommended_topics.json file does not exist.
+7c16ebfb-1e2b-4950-bd50-936538079e48,mistral-large-instruct,1,FileNotFoundError,The profile_photos.json file does not exist.
+7c16ebfb-1e2b-4950-bd50-936538079e48,mistral-large-instruct,2,FileNotFoundError,The profile_photos.json file does not exist.
+706b5a8e-83d7-49a7-af82-47ebedb17db6,mistral-large-instruct,1,FileNotFoundError,The reels.json file does not exist.
+706b5a8e-83d7-49a7-af82-47ebedb17db6,mistral-large-instruct,2,FileNotFoundError,The reels.json file does not exist.
+706b5a8e-83d7-49a7-af82-47ebedb17db6,mistral-large-instruct,3,FileNotFoundError,The reels.json file does not exist.
+706b5a8e-83d7-49a7-af82-47ebedb17db6,mistral-large-instruct,4,FileNotFoundError,The reels.json file does not exist.
+706b5a8e-83d7-49a7-af82-47ebedb17db6,mistral-large-instruct,5,FileNotFoundError,The reels.json file does not exist.
+706b5a8e-83d7-49a7-af82-47ebedb17db6,mistral-large-instruct,6,FileNotFoundError,The reels.json file does not exist.
+bc1dbc33-7d2c-4bb1-95b4-93bd42b3be1e,mistral-large-instruct,1,FileNotFoundError,The reels.json file does not exist.
+bc1dbc33-7d2c-4bb1-95b4-93bd42b3be1e,mistral-large-instruct,2,FileNotFoundError,The reels.json file does not exist.
+bc1dbc33-7d2c-4bb1-95b4-93bd42b3be1e,mistral-large-instruct,3,FileNotFoundError,The reels.json file does not exist.
+bc1dbc33-7d2c-4bb1-95b4-93bd42b3be1e,mistral-large-instruct,4,FileNotFoundError,The reels.json file does not exist.
+bc1dbc33-7d2c-4bb1-95b4-93bd42b3be1e,mistral-large-instruct,5,FileNotFoundError,The reels.json file does not exist.
+bc1dbc33-7d2c-4bb1-95b4-93bd42b3be1e,mistral-large-instruct,6,FileNotFoundError,The reels.json file does not exist.
+cf3b1479-acfc-4852-84df-a20f97213ba2,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The file datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\messages\message_1.json does not exist.
+cf3b1479-acfc-4852-84df-a20f97213ba2,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The file datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\messages\message_1.json does not exist.
+cf3b1479-acfc-4852-84df-a20f97213ba2,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The file datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\messages\message_1.json does not exist.
+cf3b1479-acfc-4852-84df-a20f97213ba2,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The file datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\messages\message_1.json does not exist.
+cf3b1479-acfc-4852-84df-a20f97213ba2,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The file datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\messages\message_1.json does not exist.
+cf3b1479-acfc-4852-84df-a20f97213ba2,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The file datasets/instagram-NEW3-2024-01-30-OvOU7CoQ_with_new_files\messages\message_1.json does not exist.
+fd754d47-af49-40d4-9464-3dd8680b5052,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The reels.json file does not exist.
+fd754d47-af49-40d4-9464-3dd8680b5052,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The reels.json file does not exist.
+fd754d47-af49-40d4-9464-3dd8680b5052,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The reels.json file does not exist.
+fd754d47-af49-40d4-9464-3dd8680b5052,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The reels.json file does not exist.
+fd754d47-af49-40d4-9464-3dd8680b5052,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The reels.json file does not exist.
+fd754d47-af49-40d4-9464-3dd8680b5052,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The reels.json file does not exist.
+e4b84e81-bcfb-421e-be55-884ea1d55cca,qwen2.5-coder-32b-instruct,1,IndentationError,expected an indented block after 'else' statement on line 54
+e4b84e81-bcfb-421e-be55-884ea1d55cca,qwen2.5-coder-32b-instruct,2,IndentationError,expected an indented block after 'else' statement on line 54
+e4b84e81-bcfb-421e-be55-884ea1d55cca,qwen2.5-coder-32b-instruct,3,IndentationError,expected an indented block after 'else' statement on line 54
+f8e52829-3235-41bc-9f45-091551e038a5,qwen2.5-coder-32b-instruct,1,IndexError,list index out of range
+f8e52829-3235-41bc-9f45-091551e038a5,qwen2.5-coder-32b-instruct,2,IndexError,list index out of range
+f8e52829-3235-41bc-9f45-091551e038a5,qwen2.5-coder-32b-instruct,3,IndexError,list index out of range
+f8e52829-3235-41bc-9f45-091551e038a5,qwen2.5-coder-32b-instruct,4,IndexError,list index out of range
+f8e52829-3235-41bc-9f45-091551e038a5,qwen2.5-coder-32b-instruct,5,IndexError,list index out of range
+f8e52829-3235-41bc-9f45-091551e038a5,qwen2.5-coder-32b-instruct,6,IndexError,list index out of range
+6ff3df28-e071-4383-9c99-41778f1bd9b9,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The shopping directory does not exist.
+6ff3df28-e071-4383-9c99-41778f1bd9b9,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The shopping directory does not exist.
+6ff3df28-e071-4383-9c99-41778f1bd9b9,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The shopping directory does not exist.
+6ff3df28-e071-4383-9c99-41778f1bd9b9,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The shopping directory does not exist.
+6ff3df28-e071-4383-9c99-41778f1bd9b9,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The shopping directory does not exist.
+6ff3df28-e071-4383-9c99-41778f1bd9b9,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The shopping directory does not exist.
+7e473b6e-4cbd-4557-a144-a3e556353f14,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The file does not exist.
+7e473b6e-4cbd-4557-a144-a3e556353f14,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The file does not exist.
+7e473b6e-4cbd-4557-a144-a3e556353f14,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The file does not exist.
+7e473b6e-4cbd-4557-a144-a3e556353f14,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The file does not exist.
+7e473b6e-4cbd-4557-a144-a3e556353f14,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The file does not exist.
+7e473b6e-4cbd-4557-a144-a3e556353f14,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The file does not exist.
+bb7cd461-9022-43e8-9a08-98590ca19461,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The posts_1.json file does not exist.
+bb7cd461-9022-43e8-9a08-98590ca19461,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The posts_1.json file does not exist.
+bb7cd461-9022-43e8-9a08-98590ca19461,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The posts_1.json file does not exist.
+bb7cd461-9022-43e8-9a08-98590ca19461,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The posts_1.json file does not exist.
+bb7cd461-9022-43e8-9a08-98590ca19461,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The posts_1.json file does not exist.
+bb7cd461-9022-43e8-9a08-98590ca19461,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The posts_1.json file does not exist.
+e06779c7-7c4c-4809-8488-0c0fa3abfe12,qwen2.5-coder-32b-instruct,1,UnicodeEncodeError,Error: An unexpected error occurred - 'charmap' codec can't encode character '\x82' in position 1: character maps to <undefined>
+e06779c7-7c4c-4809-8488-0c0fa3abfe12,qwen2.5-coder-32b-instruct,2,UnicodeEncodeError,Error: An unexpected error occurred - 'charmap' codec can't encode character '\x82' in position 1: character maps to <undefined>
+e06779c7-7c4c-4809-8488-0c0fa3abfe12,qwen2.5-coder-32b-instruct,3,UnicodeEncodeError,Error: An unexpected error occurred - 'charmap' codec can't encode character '\x82' in position 1: character maps to <undefined>
+e06779c7-7c4c-4809-8488-0c0fa3abfe12,qwen2.5-coder-32b-instruct,4,UnicodeEncodeError,Error: An unexpected error occurred - 'charmap' codec can't encode character '\x82' in position 1: character maps to <undefined>
+e06779c7-7c4c-4809-8488-0c0fa3abfe12,qwen2.5-coder-32b-instruct,5,UnicodeEncodeError,Error: An unexpected error occurred - 'charmap' codec can't encode character '\x82' in position 1: character maps to <undefined>
+e06779c7-7c4c-4809-8488-0c0fa3abfe12,qwen2.5-coder-32b-instruct,6,UnicodeEncodeError,Error: An unexpected error occurred - 'charmap' codec can't encode character '\x82' in position 1: character maps to <undefined>
+b4632f8d-24c9-472d-92b4-2ea8f75f0e85,qwen2.5-coder-32b-instruct,1,UnicodeEncodeError,Error: An unexpected error occurred - 'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+b4632f8d-24c9-472d-92b4-2ea8f75f0e85,qwen2.5-coder-32b-instruct,2,UnicodeEncodeError,Error: An unexpected error occurred - 'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+b4632f8d-24c9-472d-92b4-2ea8f75f0e85,qwen2.5-coder-32b-instruct,3,UnicodeEncodeError,Error: An unexpected error occurred - 'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+b4632f8d-24c9-472d-92b4-2ea8f75f0e85,qwen2.5-coder-32b-instruct,4,UnicodeEncodeError,Error: An unexpected error occurred - 'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+b4632f8d-24c9-472d-92b4-2ea8f75f0e85,qwen2.5-coder-32b-instruct,5,UnicodeEncodeError,Error: An unexpected error occurred - 'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+b4632f8d-24c9-472d-92b4-2ea8f75f0e85,qwen2.5-coder-32b-instruct,6,UnicodeEncodeError,Error: An unexpected error occurred - 'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+aa03f8ff-42cc-455b-a7b8-378c59e5e4fa,qwen2.5-coder-32b-instruct,1,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+aa03f8ff-42cc-455b-a7b8-378c59e5e4fa,qwen2.5-coder-32b-instruct,2,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+aa03f8ff-42cc-455b-a7b8-378c59e5e4fa,qwen2.5-coder-32b-instruct,3,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+aa03f8ff-42cc-455b-a7b8-378c59e5e4fa,qwen2.5-coder-32b-instruct,4,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+aa03f8ff-42cc-455b-a7b8-378c59e5e4fa,qwen2.5-coder-32b-instruct,5,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+aa03f8ff-42cc-455b-a7b8-378c59e5e4fa,qwen2.5-coder-32b-instruct,6,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+e3e0443a-686f-4e71-b79b-d5c685eccc16,qwen2.5-coder-32b-instruct,1,ValueError,No devices found in the devices.json file.
+e3e0443a-686f-4e71-b79b-d5c685eccc16,qwen2.5-coder-32b-instruct,2,ValueError,No devices found in the devices.json file.
+e3e0443a-686f-4e71-b79b-d5c685eccc16,qwen2.5-coder-32b-instruct,3,ValueError,No devices found in the devices.json file.
+e3e0443a-686f-4e71-b79b-d5c685eccc16,qwen2.5-coder-32b-instruct,4,ValueError,No devices found in the devices.json file.
+e3e0443a-686f-4e71-b79b-d5c685eccc16,qwen2.5-coder-32b-instruct,5,ValueError,No devices found in the devices.json file.
+e3e0443a-686f-4e71-b79b-d5c685eccc16,qwen2.5-coder-32b-instruct,6,ValueError,No devices found in the devices.json file.
+6e9f61ae-27d3-4c6c-b7c5-1651ccc8b930,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The profile_changes.json file does not exist.
+6e9f61ae-27d3-4c6c-b7c5-1651ccc8b930,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The profile_changes.json file does not exist.
+6e9f61ae-27d3-4c6c-b7c5-1651ccc8b930,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The profile_changes.json file does not exist.
+6e9f61ae-27d3-4c6c-b7c5-1651ccc8b930,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The profile_changes.json file does not exist.
+6e9f61ae-27d3-4c6c-b7c5-1651ccc8b930,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The profile_changes.json file does not exist.
+6e9f61ae-27d3-4c6c-b7c5-1651ccc8b930,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The profile_changes.json file does not exist.
+12c63829-eadb-40f7-a6dc-d615bcd51c59,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The instagram_profile_information.json file does not exist.
+12c63829-eadb-40f7-a6dc-d615bcd51c59,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The instagram_profile_information.json file does not exist.
+12c63829-eadb-40f7-a6dc-d615bcd51c59,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The instagram_profile_information.json file does not exist.
+12c63829-eadb-40f7-a6dc-d615bcd51c59,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The instagram_profile_information.json file does not exist.
+12c63829-eadb-40f7-a6dc-d615bcd51c59,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The instagram_profile_information.json file does not exist.
+12c63829-eadb-40f7-a6dc-d615bcd51c59,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The instagram_profile_information.json file does not exist.
+09c5787d-8095-4d9e-a6c4-95bb33768bdd,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The signup details file does not exist.
+09c5787d-8095-4d9e-a6c4-95bb33768bdd,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The signup details file does not exist.
+09c5787d-8095-4d9e-a6c4-95bb33768bdd,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The signup details file does not exist.
+09c5787d-8095-4d9e-a6c4-95bb33768bdd,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The signup details file does not exist.
+09c5787d-8095-4d9e-a6c4-95bb33768bdd,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The signup details file does not exist.
+09c5787d-8095-4d9e-a6c4-95bb33768bdd,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The signup details file does not exist.
+812abf0a-4aa2-47cd-a61c-9a266424b145,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The story_likes.json file does not exist.
+812abf0a-4aa2-47cd-a61c-9a266424b145,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The story_likes.json file does not exist.
+812abf0a-4aa2-47cd-a61c-9a266424b145,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The story_likes.json file does not exist.
+812abf0a-4aa2-47cd-a61c-9a266424b145,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The story_likes.json file does not exist.
+812abf0a-4aa2-47cd-a61c-9a266424b145,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The story_likes.json file does not exist.
+812abf0a-4aa2-47cd-a61c-9a266424b145,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The story_likes.json file does not exist.
+0fdaa2d5-ed81-4638-a9d4-d9071637f332,qwen2.5-coder-32b-instruct,1,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL\\story_likes.json'
+0fdaa2d5-ed81-4638-a9d4-d9071637f332,qwen2.5-coder-32b-instruct,2,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL\\story_likes.json'
+0fdaa2d5-ed81-4638-a9d4-d9071637f332,qwen2.5-coder-32b-instruct,3,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL\\story_likes.json'
+0fdaa2d5-ed81-4638-a9d4-d9071637f332,qwen2.5-coder-32b-instruct,4,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL\\story_likes.json'
+0fdaa2d5-ed81-4638-a9d4-d9071637f332,qwen2.5-coder-32b-instruct,5,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL\\story_likes.json'
+0fdaa2d5-ed81-4638-a9d4-d9071637f332,qwen2.5-coder-32b-instruct,6,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL\\story_likes.json'
+2db2eb00-c51c-4008-bf27-1493c7a42903,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The story_likes.json file does not exist.
+2db2eb00-c51c-4008-bf27-1493c7a42903,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The story_likes.json file does not exist.
+2db2eb00-c51c-4008-bf27-1493c7a42903,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The story_likes.json file does not exist.
+2db2eb00-c51c-4008-bf27-1493c7a42903,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The story_likes.json file does not exist.
+2db2eb00-c51c-4008-bf27-1493c7a42903,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The story_likes.json file does not exist.
+2db2eb00-c51c-4008-bf27-1493c7a42903,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The story_likes.json file does not exist.
+8c22a570-c661-4341-b045-91b66f1aa122,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The story_likes.json file does not exist.
+8c22a570-c661-4341-b045-91b66f1aa122,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The story_likes.json file does not exist.
+8c22a570-c661-4341-b045-91b66f1aa122,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The story_likes.json file does not exist.
+8c22a570-c661-4341-b045-91b66f1aa122,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The story_likes.json file does not exist.
+8c22a570-c661-4341-b045-91b66f1aa122,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The story_likes.json file does not exist.
+8c22a570-c661-4341-b045-91b66f1aa122,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The story_likes.json file does not exist.
+1a6e07a5-d58b-471e-b456-e5ae21d70bce,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The stories.json file does not exist.
+1a6e07a5-d58b-471e-b456-e5ae21d70bce,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The stories.json file does not exist.
+1a6e07a5-d58b-471e-b456-e5ae21d70bce,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The stories.json file does not exist.
+1a6e07a5-d58b-471e-b456-e5ae21d70bce,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The stories.json file does not exist.
+1a6e07a5-d58b-471e-b456-e5ae21d70bce,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The stories.json file does not exist.
+1a6e07a5-d58b-471e-b456-e5ae21d70bce,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The stories.json file does not exist.
+94e62d83-47ad-448a-b028-40f69bd880b9,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The following.json file does not exist.
+94e62d83-47ad-448a-b028-40f69bd880b9,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The following.json file does not exist.
+94e62d83-47ad-448a-b028-40f69bd880b9,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The following.json file does not exist.
+94e62d83-47ad-448a-b028-40f69bd880b9,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The following.json file does not exist.
+94e62d83-47ad-448a-b028-40f69bd880b9,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The following.json file does not exist.
+94e62d83-47ad-448a-b028-40f69bd880b9,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The following.json file does not exist.
+1985006f-114a-4ad7-92e9-653fc8d7484b,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The following.json file does not exist.
+1985006f-114a-4ad7-92e9-653fc8d7484b,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The following.json file does not exist.
+1985006f-114a-4ad7-92e9-653fc8d7484b,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The following.json file does not exist.
+1985006f-114a-4ad7-92e9-653fc8d7484b,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The following.json file does not exist.
+1985006f-114a-4ad7-92e9-653fc8d7484b,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The following.json file does not exist.
+1985006f-114a-4ad7-92e9-653fc8d7484b,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The following.json file does not exist.
+47e52c43-61ca-43dc-be89-5564ca178bae,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The followers.json file does not exist.
+47e52c43-61ca-43dc-be89-5564ca178bae,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The followers.json file does not exist.
+47e52c43-61ca-43dc-be89-5564ca178bae,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The followers.json file does not exist.
+47e52c43-61ca-43dc-be89-5564ca178bae,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The followers.json file does not exist.
+47e52c43-61ca-43dc-be89-5564ca178bae,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The followers.json file does not exist.
+47e52c43-61ca-43dc-be89-5564ca178bae,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The followers.json file does not exist.
+d9f611aa-9a2c-483a-8cf5-5a3329a1b5bd,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The following.json file does not exist.
+d9f611aa-9a2c-483a-8cf5-5a3329a1b5bd,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The following.json file does not exist.
+d9f611aa-9a2c-483a-8cf5-5a3329a1b5bd,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The following.json file does not exist.
+d9f611aa-9a2c-483a-8cf5-5a3329a1b5bd,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The following.json file does not exist.
+d9f611aa-9a2c-483a-8cf5-5a3329a1b5bd,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The following.json file does not exist.
+d9f611aa-9a2c-483a-8cf5-5a3329a1b5bd,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The following.json file does not exist.
+5faad462-ff7e-4458-8a1f-f13dc6d0b00a,qwen2.5-coder-32b-instruct,1,ValueError,Error reading followers_1.json - 'list' object has no attribute 'get'
+5faad462-ff7e-4458-8a1f-f13dc6d0b00a,qwen2.5-coder-32b-instruct,2,ValueError,Error reading followers_1.json - 'list' object has no attribute 'get'
+5faad462-ff7e-4458-8a1f-f13dc6d0b00a,qwen2.5-coder-32b-instruct,3,ValueError,Error reading followers_1.json - 'list' object has no attribute 'get'
+5faad462-ff7e-4458-8a1f-f13dc6d0b00a,qwen2.5-coder-32b-instruct,4,ValueError,Error reading followers_1.json - 'list' object has no attribute 'get'
+5faad462-ff7e-4458-8a1f-f13dc6d0b00a,qwen2.5-coder-32b-instruct,5,ValueError,Error reading followers_1.json - 'list' object has no attribute 'get'
+5faad462-ff7e-4458-8a1f-f13dc6d0b00a,qwen2.5-coder-32b-instruct,6,ValueError,Error reading followers_1.json - 'list' object has no attribute 'get'
+b655c65e-b6d7-48e1-8285-df3e77d1eb0c,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The following.json file does not exist.
+b655c65e-b6d7-48e1-8285-df3e77d1eb0c,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The following.json file does not exist.
+b655c65e-b6d7-48e1-8285-df3e77d1eb0c,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The following.json file does not exist.
+b655c65e-b6d7-48e1-8285-df3e77d1eb0c,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The following.json file does not exist.
+b655c65e-b6d7-48e1-8285-df3e77d1eb0c,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The following.json file does not exist.
+b655c65e-b6d7-48e1-8285-df3e77d1eb0c,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The following.json file does not exist.
+d77fa4a9-d6e8-42a9-bd51-81a737c76427,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The file datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english\relationships_permanent_follow_requests.json does not exist.
+d77fa4a9-d6e8-42a9-bd51-81a737c76427,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The file datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english\relationships_permanent_follow_requests.json does not exist.
+d77fa4a9-d6e8-42a9-bd51-81a737c76427,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The file datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english\relationships_permanent_follow_requests.json does not exist.
+d77fa4a9-d6e8-42a9-bd51-81a737c76427,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The file datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english\relationships_permanent_follow_requests.json does not exist.
+d77fa4a9-d6e8-42a9-bd51-81a737c76427,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The file datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english\relationships_permanent_follow_requests.json does not exist.
+d77fa4a9-d6e8-42a9-bd51-81a737c76427,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The file datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english\relationships_permanent_follow_requests.json does not exist.
+b716db6f-4f94-4408-a383-0a92869595c7,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The directory datasets/instagram-pbrenner96-2024-06-11-fak0ewfm\other_activity\posts does not exist.
+b716db6f-4f94-4408-a383-0a92869595c7,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The directory datasets/instagram-pbrenner96-2024-06-11-fak0ewfm\other_activity\posts does not exist.
+b716db6f-4f94-4408-a383-0a92869595c7,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The directory datasets/instagram-pbrenner96-2024-06-11-fak0ewfm\other_activity\posts does not exist.
+b716db6f-4f94-4408-a383-0a92869595c7,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The directory datasets/instagram-pbrenner96-2024-06-11-fak0ewfm\other_activity\posts does not exist.
+b716db6f-4f94-4408-a383-0a92869595c7,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The directory datasets/instagram-pbrenner96-2024-06-11-fak0ewfm\other_activity\posts does not exist.
+b716db6f-4f94-4408-a383-0a92869595c7,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The directory datasets/instagram-pbrenner96-2024-06-11-fak0ewfm\other_activity\posts does not exist.
+d9dfca1c-32d8-4a98-bd5e-a0baa45a5ca2,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The liked_posts.json file does not exist.
+d9dfca1c-32d8-4a98-bd5e-a0baa45a5ca2,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The liked_posts.json file does not exist.
+d9dfca1c-32d8-4a98-bd5e-a0baa45a5ca2,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The liked_posts.json file does not exist.
+d9dfca1c-32d8-4a98-bd5e-a0baa45a5ca2,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The liked_posts.json file does not exist.
+d9dfca1c-32d8-4a98-bd5e-a0baa45a5ca2,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The liked_posts.json file does not exist.
+d9dfca1c-32d8-4a98-bd5e-a0baa45a5ca2,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The liked_posts.json file does not exist.
+5049646d-8aeb-4131-8188-123b09e087d9,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The recently viewed items file does not exist.
+5049646d-8aeb-4131-8188-123b09e087d9,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The recently viewed items file does not exist.
+5049646d-8aeb-4131-8188-123b09e087d9,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The recently viewed items file does not exist.
+5049646d-8aeb-4131-8188-123b09e087d9,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The recently viewed items file does not exist.
+5049646d-8aeb-4131-8188-123b09e087d9,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The recently viewed items file does not exist.
+5049646d-8aeb-4131-8188-123b09e087d9,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The recently viewed items file does not exist.
+1d5e6fc3-f55f-4233-8500-a130a2493560,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The story_likes.json file does not exist.
+1d5e6fc3-f55f-4233-8500-a130a2493560,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The story_likes.json file does not exist.
+1d5e6fc3-f55f-4233-8500-a130a2493560,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The story_likes.json file does not exist.
+1d5e6fc3-f55f-4233-8500-a130a2493560,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The story_likes.json file does not exist.
+1d5e6fc3-f55f-4233-8500-a130a2493560,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The story_likes.json file does not exist.
+1d5e6fc3-f55f-4233-8500-a130a2493560,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The story_likes.json file does not exist.
+37fec8a7-fc7a-4eb9-bbb8-ce066368a2bd,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The 'inbox' directory does not exist.
+37fec8a7-fc7a-4eb9-bbb8-ce066368a2bd,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The 'inbox' directory does not exist.
+37fec8a7-fc7a-4eb9-bbb8-ce066368a2bd,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The 'inbox' directory does not exist.
+37fec8a7-fc7a-4eb9-bbb8-ce066368a2bd,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The 'inbox' directory does not exist.
+37fec8a7-fc7a-4eb9-bbb8-ce066368a2bd,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The 'inbox' directory does not exist.
+37fec8a7-fc7a-4eb9-bbb8-ce066368a2bd,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The 'inbox' directory does not exist.
+b62f9df3-2c39-4793-bd0a-4595fe5d7cec,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The 'inbox' directory does not exist.
+b62f9df3-2c39-4793-bd0a-4595fe5d7cec,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The 'inbox' directory does not exist.
+b62f9df3-2c39-4793-bd0a-4595fe5d7cec,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The 'inbox' directory does not exist.
+b62f9df3-2c39-4793-bd0a-4595fe5d7cec,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The 'inbox' directory does not exist.
+b62f9df3-2c39-4793-bd0a-4595fe5d7cec,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The 'inbox' directory does not exist.
+b62f9df3-2c39-4793-bd0a-4595fe5d7cec,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The 'inbox' directory does not exist.
+95c684b0-8cee-46db-bd71-b5c84b8325f6,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The 'inbox' directory does not exist.
+95c684b0-8cee-46db-bd71-b5c84b8325f6,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The 'inbox' directory does not exist.
+95c684b0-8cee-46db-bd71-b5c84b8325f6,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The 'inbox' directory does not exist.
+95c684b0-8cee-46db-bd71-b5c84b8325f6,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The 'inbox' directory does not exist.
+95c684b0-8cee-46db-bd71-b5c84b8325f6,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The 'inbox' directory does not exist.
+95c684b0-8cee-46db-bd71-b5c84b8325f6,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The 'inbox' directory does not exist.
+7d15dbb7-81d9-463d-9570-9ee58cdedbc9,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The inbox directory does not exist.
+7d15dbb7-81d9-463d-9570-9ee58cdedbc9,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The inbox directory does not exist.
+7d15dbb7-81d9-463d-9570-9ee58cdedbc9,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The inbox directory does not exist.
+7d15dbb7-81d9-463d-9570-9ee58cdedbc9,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The inbox directory does not exist.
+7d15dbb7-81d9-463d-9570-9ee58cdedbc9,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The inbox directory does not exist.
+7d15dbb7-81d9-463d-9570-9ee58cdedbc9,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The inbox directory does not exist.
+3f01814c-3eb1-4507-b7f9-ba36bcd13439,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The inbox directory does not exist.
+3f01814c-3eb1-4507-b7f9-ba36bcd13439,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The inbox directory does not exist.
+3f01814c-3eb1-4507-b7f9-ba36bcd13439,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The inbox directory does not exist.
+3f01814c-3eb1-4507-b7f9-ba36bcd13439,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The inbox directory does not exist.
+3f01814c-3eb1-4507-b7f9-ba36bcd13439,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The inbox directory does not exist.
+3f01814c-3eb1-4507-b7f9-ba36bcd13439,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The inbox directory does not exist.
+adff7ba6-357d-4c6b-905a-82fe2230d036,qwen2.5-coder-32b-instruct,1,FileNotFoundError,The 'inbox' directory does not exist.
+adff7ba6-357d-4c6b-905a-82fe2230d036,qwen2.5-coder-32b-instruct,2,FileNotFoundError,The 'inbox' directory does not exist.
+adff7ba6-357d-4c6b-905a-82fe2230d036,qwen2.5-coder-32b-instruct,3,FileNotFoundError,The 'inbox' directory does not exist.
+adff7ba6-357d-4c6b-905a-82fe2230d036,qwen2.5-coder-32b-instruct,4,FileNotFoundError,The 'inbox' directory does not exist.
+adff7ba6-357d-4c6b-905a-82fe2230d036,qwen2.5-coder-32b-instruct,5,FileNotFoundError,The 'inbox' directory does not exist.
+adff7ba6-357d-4c6b-905a-82fe2230d036,qwen2.5-coder-32b-instruct,6,FileNotFoundError,The 'inbox' directory does not exist.
+b63a14bf-8abd-4fa3-955d-4cbdddb418fa,mistral-large-instruct,1,FileNotFoundError,The posts_viewed.json file does not exist.
+b63a14bf-8abd-4fa3-955d-4cbdddb418fa,mistral-large-instruct,2,FileNotFoundError,The posts_viewed.json file does not exist.
+b63a14bf-8abd-4fa3-955d-4cbdddb418fa,mistral-large-instruct,3,FileNotFoundError,The posts_viewed.json file does not exist.
+b63a14bf-8abd-4fa3-955d-4cbdddb418fa,mistral-large-instruct,4,FileNotFoundError,The posts_viewed.json file does not exist.
+b63a14bf-8abd-4fa3-955d-4cbdddb418fa,mistral-large-instruct,5,FileNotFoundError,The posts_viewed.json file does not exist.
+b63a14bf-8abd-4fa3-955d-4cbdddb418fa,mistral-large-instruct,6,FileNotFoundError,The posts_viewed.json file does not exist.
+8491fad6-c716-4aab-8906-d5fed3468165,mistral-large-instruct,1,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+8491fad6-c716-4aab-8906-d5fed3468165,mistral-large-instruct,2,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+8491fad6-c716-4aab-8906-d5fed3468165,mistral-large-instruct,3,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+8491fad6-c716-4aab-8906-d5fed3468165,mistral-large-instruct,4,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+8491fad6-c716-4aab-8906-d5fed3468165,mistral-large-instruct,5,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+8491fad6-c716-4aab-8906-d5fed3468165,mistral-large-instruct,6,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+d5caf5fe-aeb8-43f8-ae84-2b9dcfe6467f,mistral-large-instruct,1,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+d5caf5fe-aeb8-43f8-ae84-2b9dcfe6467f,mistral-large-instruct,2,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+d5caf5fe-aeb8-43f8-ae84-2b9dcfe6467f,mistral-large-instruct,3,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+d5caf5fe-aeb8-43f8-ae84-2b9dcfe6467f,mistral-large-instruct,4,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+d5caf5fe-aeb8-43f8-ae84-2b9dcfe6467f,mistral-large-instruct,5,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+d5caf5fe-aeb8-43f8-ae84-2b9dcfe6467f,mistral-large-instruct,6,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+beabbfc6-2dab-488a-a438-f43da041e699,mistral-large-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+beabbfc6-2dab-488a-a438-f43da041e699,mistral-large-instruct,2,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+beabbfc6-2dab-488a-a438-f43da041e699,mistral-large-instruct,3,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+beabbfc6-2dab-488a-a438-f43da041e699,mistral-large-instruct,4,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+beabbfc6-2dab-488a-a438-f43da041e699,mistral-large-instruct,5,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+beabbfc6-2dab-488a-a438-f43da041e699,mistral-large-instruct,6,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+5f776d48-f86b-41c4-af81-b007e4a2601a,mistral-large-instruct,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+5f776d48-f86b-41c4-af81-b007e4a2601a,mistral-large-instruct,2,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+5f776d48-f86b-41c4-af81-b007e4a2601a,mistral-large-instruct,3,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+5f776d48-f86b-41c4-af81-b007e4a2601a,mistral-large-instruct,4,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+5f776d48-f86b-41c4-af81-b007e4a2601a,mistral-large-instruct,5,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+5f776d48-f86b-41c4-af81-b007e4a2601a,mistral-large-instruct,6,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+c4da3026-d4d2-45c9-b197-ccc7b9941346,mistral-large-instruct,1,UnicodeEncodeError,Error: Unable to write to CSV file. 'charmap' codec can't encode character '\x82' in position 1: character maps to <undefined>
+c4da3026-d4d2-45c9-b197-ccc7b9941346,mistral-large-instruct,2,UnicodeEncodeError,Error: Unable to write to CSV file. 'charmap' codec can't encode character '\x82' in position 1: character maps to <undefined>
+c4da3026-d4d2-45c9-b197-ccc7b9941346,mistral-large-instruct,3,UnicodeEncodeError,Error: Unable to write to CSV file. 'charmap' codec can't encode character '\x82' in position 1: character maps to <undefined>
+c4da3026-d4d2-45c9-b197-ccc7b9941346,mistral-large-instruct,4,UnicodeEncodeError,Error: Unable to write to CSV file. 'charmap' codec can't encode character '\x82' in position 1: character maps to <undefined>
+c4da3026-d4d2-45c9-b197-ccc7b9941346,mistral-large-instruct,5,UnicodeEncodeError,Error: Unable to write to CSV file. 'charmap' codec can't encode character '\x82' in position 1: character maps to <undefined>
+c4da3026-d4d2-45c9-b197-ccc7b9941346,mistral-large-instruct,6,UnicodeEncodeError,Error: Unable to write to CSV file. 'charmap' codec can't encode character '\x82' in position 1: character maps to <undefined>
+8f74cac8-9d80-4172-95a0-c05468a23b4a,mistral-large-instruct,1,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+8f74cac8-9d80-4172-95a0-c05468a23b4a,mistral-large-instruct,2,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+8f74cac8-9d80-4172-95a0-c05468a23b4a,mistral-large-instruct,3,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+8f74cac8-9d80-4172-95a0-c05468a23b4a,mistral-large-instruct,4,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+8f74cac8-9d80-4172-95a0-c05468a23b4a,mistral-large-instruct,5,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+8f74cac8-9d80-4172-95a0-c05468a23b4a,mistral-large-instruct,6,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+028394a2-0b32-4e77-b544-983b50f05709,mistral-large-instruct,1,FileNotFoundError,The file does not exist.
+028394a2-0b32-4e77-b544-983b50f05709,mistral-large-instruct,2,FileNotFoundError,The file does not exist.
+028394a2-0b32-4e77-b544-983b50f05709,mistral-large-instruct,3,FileNotFoundError,The file does not exist.
+028394a2-0b32-4e77-b544-983b50f05709,mistral-large-instruct,4,FileNotFoundError,The file does not exist.
+028394a2-0b32-4e77-b544-983b50f05709,mistral-large-instruct,5,FileNotFoundError,The file does not exist.
+028394a2-0b32-4e77-b544-983b50f05709,mistral-large-instruct,6,FileNotFoundError,The file does not exist.
+148bfe9b-8aed-49c8-935f-891535b7ef77,mistral-large-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+148bfe9b-8aed-49c8-935f-891535b7ef77,mistral-large-instruct,2,UnicodeEncodeError,'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+148bfe9b-8aed-49c8-935f-891535b7ef77,mistral-large-instruct,3,UnicodeEncodeError,'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+148bfe9b-8aed-49c8-935f-891535b7ef77,mistral-large-instruct,4,UnicodeEncodeError,'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+148bfe9b-8aed-49c8-935f-891535b7ef77,mistral-large-instruct,5,UnicodeEncodeError,'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+148bfe9b-8aed-49c8-935f-891535b7ef77,mistral-large-instruct,6,UnicodeEncodeError,'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+9bb7a772-2356-42ea-8ee6-c80dae23b997,mistral-large-instruct,1,AttributeError,'list' object has no attribute 'get'
+9bb7a772-2356-42ea-8ee6-c80dae23b997,mistral-large-instruct,2,AttributeError,'list' object has no attribute 'get'
+9bb7a772-2356-42ea-8ee6-c80dae23b997,mistral-large-instruct,3,AttributeError,'list' object has no attribute 'get'
+9bb7a772-2356-42ea-8ee6-c80dae23b997,mistral-large-instruct,4,AttributeError,'list' object has no attribute 'get'
+9bb7a772-2356-42ea-8ee6-c80dae23b997,mistral-large-instruct,5,AttributeError,'list' object has no attribute 'get'
+9bb7a772-2356-42ea-8ee6-c80dae23b997,mistral-large-instruct,6,AttributeError,'list' object has no attribute 'get'
+5837348b-5fa7-4da9-839a-e952b7a2db11,mistral-large-instruct,1,FileNotFoundError,Error: [Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+5837348b-5fa7-4da9-839a-e952b7a2db11,mistral-large-instruct,2,FileNotFoundError,Error: [Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+5837348b-5fa7-4da9-839a-e952b7a2db11,mistral-large-instruct,3,FileNotFoundError,Error: [Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+5837348b-5fa7-4da9-839a-e952b7a2db11,mistral-large-instruct,4,FileNotFoundError,Error: [Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+5837348b-5fa7-4da9-839a-e952b7a2db11,mistral-large-instruct,5,FileNotFoundError,Error: [Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+5837348b-5fa7-4da9-839a-e952b7a2db11,mistral-large-instruct,6,FileNotFoundError,Error: [Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+1d6b1cca-464c-4e14-bb72-d18fef324f5a,mistral-large-instruct,1,ValueError,Error processing datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\connections\followers_and_following\followers_1.json: ValueError: An error occurred while processing the file: 'list' object has no attribute 'get'
+1d6b1cca-464c-4e14-bb72-d18fef324f5a,mistral-large-instruct,2,ValueError,Error processing datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\connections\followers_and_following\followers_1.json: ValueError: An error occurred while processing the file: 'list' object has no attribute 'get'
+1d6b1cca-464c-4e14-bb72-d18fef324f5a,mistral-large-instruct,3,ValueError,Error processing datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\connections\followers_and_following\followers_1.json: ValueError: An error occurred while processing the file: 'list' object has no attribute 'get'
+1d6b1cca-464c-4e14-bb72-d18fef324f5a,mistral-large-instruct,4,ValueError,Error processing datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\connections\followers_and_following\followers_1.json: ValueError: An error occurred while processing the file: 'list' object has no attribute 'get'
+1d6b1cca-464c-4e14-bb72-d18fef324f5a,mistral-large-instruct,5,ValueError,Error processing datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\connections\followers_and_following\followers_1.json: ValueError: An error occurred while processing the file: 'list' object has no attribute 'get'
+1d6b1cca-464c-4e14-bb72-d18fef324f5a,mistral-large-instruct,6,ValueError,Error processing datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\connections\followers_and_following\followers_1.json: ValueError: An error occurred while processing the file: 'list' object has no attribute 'get'
+811beb4d-68f0-4da9-b8de-bcd9c4c1231d,mistral-large-instruct,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 12-14: character maps to <undefined>
+811beb4d-68f0-4da9-b8de-bcd9c4c1231d,mistral-large-instruct,2,UnicodeEncodeError,'charmap' codec can't encode characters in position 12-14: character maps to <undefined>
+811beb4d-68f0-4da9-b8de-bcd9c4c1231d,mistral-large-instruct,3,UnicodeEncodeError,'charmap' codec can't encode characters in position 12-14: character maps to <undefined>
+811beb4d-68f0-4da9-b8de-bcd9c4c1231d,mistral-large-instruct,4,UnicodeEncodeError,'charmap' codec can't encode characters in position 12-14: character maps to <undefined>
+811beb4d-68f0-4da9-b8de-bcd9c4c1231d,mistral-large-instruct,5,UnicodeEncodeError,'charmap' codec can't encode characters in position 12-14: character maps to <undefined>
+811beb4d-68f0-4da9-b8de-bcd9c4c1231d,mistral-large-instruct,6,UnicodeEncodeError,'charmap' codec can't encode characters in position 12-14: character maps to <undefined>
+e5941b95-e6d3-46a5-a6af-6b95d892cfdd,mistral-large-instruct,1,FileNotFoundError,The file datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\personal_information\instagram_profile_information.json does not exist.
+e5941b95-e6d3-46a5-a6af-6b95d892cfdd,mistral-large-instruct,2,FileNotFoundError,The file datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\personal_information\instagram_profile_information.json does not exist.
+e5941b95-e6d3-46a5-a6af-6b95d892cfdd,mistral-large-instruct,3,FileNotFoundError,The file datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\personal_information\instagram_profile_information.json does not exist.
+e5941b95-e6d3-46a5-a6af-6b95d892cfdd,mistral-large-instruct,4,FileNotFoundError,The file datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\personal_information\instagram_profile_information.json does not exist.
+e5941b95-e6d3-46a5-a6af-6b95d892cfdd,mistral-large-instruct,5,FileNotFoundError,The file datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\personal_information\instagram_profile_information.json does not exist.
+e5941b95-e6d3-46a5-a6af-6b95d892cfdd,mistral-large-instruct,6,FileNotFoundError,The file datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\personal_information\instagram_profile_information.json does not exist.
+4b86fc53-ea83-4a6a-beb5-c73243ad215e,mistral-large-instruct,1,AttributeError,Error: 'str' object has no attribute 'items'
+4b86fc53-ea83-4a6a-beb5-c73243ad215e,mistral-large-instruct,2,AttributeError,Error: 'str' object has no attribute 'items'
+4b86fc53-ea83-4a6a-beb5-c73243ad215e,mistral-large-instruct,3,AttributeError,Error: 'str' object has no attribute 'items'
+4b86fc53-ea83-4a6a-beb5-c73243ad215e,mistral-large-instruct,4,AttributeError,Error: 'str' object has no attribute 'items'
+4b86fc53-ea83-4a6a-beb5-c73243ad215e,mistral-large-instruct,5,AttributeError,Error: 'str' object has no attribute 'items'
+4b86fc53-ea83-4a6a-beb5-c73243ad215e,mistral-large-instruct,6,AttributeError,Error: 'str' object has no attribute 'items'
+2bf14c82-696f-4eeb-91bc-18b6b4ef7136,mistral-large-instruct,1,AttributeError,'list' object has no attribute 'get'
+2bf14c82-696f-4eeb-91bc-18b6b4ef7136,mistral-large-instruct,2,AttributeError,'list' object has no attribute 'get'
+2bf14c82-696f-4eeb-91bc-18b6b4ef7136,mistral-large-instruct,3,AttributeError,'list' object has no attribute 'get'
+2bf14c82-696f-4eeb-91bc-18b6b4ef7136,mistral-large-instruct,4,AttributeError,'list' object has no attribute 'get'
+2bf14c82-696f-4eeb-91bc-18b6b4ef7136,mistral-large-instruct,5,AttributeError,'list' object has no attribute 'get'
+2bf14c82-696f-4eeb-91bc-18b6b4ef7136,mistral-large-instruct,6,AttributeError,'list' object has no attribute 'get'
+8be5563f-0ca4-4080-b3ac-2ae661f927ff,mistral-large-instruct,1,FileNotFoundError,The signup_details.json file does not exist.
+8be5563f-0ca4-4080-b3ac-2ae661f927ff,mistral-large-instruct,2,FileNotFoundError,The signup_details.json file does not exist.
+8be5563f-0ca4-4080-b3ac-2ae661f927ff,mistral-large-instruct,3,FileNotFoundError,The signup_details.json file does not exist.
+8be5563f-0ca4-4080-b3ac-2ae661f927ff,mistral-large-instruct,4,FileNotFoundError,The signup_details.json file does not exist.
+8be5563f-0ca4-4080-b3ac-2ae661f927ff,mistral-large-instruct,5,FileNotFoundError,The signup_details.json file does not exist.
+8be5563f-0ca4-4080-b3ac-2ae661f927ff,mistral-large-instruct,6,FileNotFoundError,The signup_details.json file does not exist.
+e05c897f-24db-4d0e-b968-d33a8b895030,mistral-large-instruct,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+e05c897f-24db-4d0e-b968-d33a8b895030,mistral-large-instruct,2,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+e05c897f-24db-4d0e-b968-d33a8b895030,mistral-large-instruct,3,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+e05c897f-24db-4d0e-b968-d33a8b895030,mistral-large-instruct,4,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+e05c897f-24db-4d0e-b968-d33a8b895030,mistral-large-instruct,5,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+e05c897f-24db-4d0e-b968-d33a8b895030,mistral-large-instruct,6,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+ec204033-eb8b-47fa-bd2f-cb772f32a0fb,mistral-large-instruct,1,FileNotFoundError,The story_likes.json file does not exist.
+ec204033-eb8b-47fa-bd2f-cb772f32a0fb,mistral-large-instruct,2,FileNotFoundError,The story_likes.json file does not exist.
+ec204033-eb8b-47fa-bd2f-cb772f32a0fb,mistral-large-instruct,3,FileNotFoundError,The story_likes.json file does not exist.
+ec204033-eb8b-47fa-bd2f-cb772f32a0fb,mistral-large-instruct,4,FileNotFoundError,The story_likes.json file does not exist.
+ec204033-eb8b-47fa-bd2f-cb772f32a0fb,mistral-large-instruct,5,FileNotFoundError,The story_likes.json file does not exist.
+ec204033-eb8b-47fa-bd2f-cb772f32a0fb,mistral-large-instruct,6,FileNotFoundError,The story_likes.json file does not exist.
+64610c95-a428-4071-9ba4-a53f26d44d4f,mistral-large-instruct,1,FileNotFoundError,The stories.json file does not exist.
+64610c95-a428-4071-9ba4-a53f26d44d4f,mistral-large-instruct,2,FileNotFoundError,The stories.json file does not exist.
+64610c95-a428-4071-9ba4-a53f26d44d4f,mistral-large-instruct,3,FileNotFoundError,The stories.json file does not exist.
+64610c95-a428-4071-9ba4-a53f26d44d4f,mistral-large-instruct,4,FileNotFoundError,The stories.json file does not exist.
+64610c95-a428-4071-9ba4-a53f26d44d4f,mistral-large-instruct,5,FileNotFoundError,The stories.json file does not exist.
+64610c95-a428-4071-9ba4-a53f26d44d4f,mistral-large-instruct,6,FileNotFoundError,The stories.json file does not exist.
+3c7cbf88-4e09-4899-a826-974431a748a8,mistral-large-instruct,1,FileNotFoundError,Error: An error occurred while processing file datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\your_instagram_activity\messages\message_requests\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\message_1.json: [Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+3c7cbf88-4e09-4899-a826-974431a748a8,mistral-large-instruct,2,FileNotFoundError,Error: An error occurred while processing file datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\your_instagram_activity\messages\message_requests\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\message_1.json: [Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+3c7cbf88-4e09-4899-a826-974431a748a8,mistral-large-instruct,3,FileNotFoundError,Error: An error occurred while processing file datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\your_instagram_activity\messages\message_requests\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\message_1.json: [Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+3c7cbf88-4e09-4899-a826-974431a748a8,mistral-large-instruct,4,FileNotFoundError,Error: An error occurred while processing file datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\your_instagram_activity\messages\message_requests\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\message_1.json: [Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+3c7cbf88-4e09-4899-a826-974431a748a8,mistral-large-instruct,5,FileNotFoundError,Error: An error occurred while processing file datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\your_instagram_activity\messages\message_requests\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\message_1.json: [Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+3c7cbf88-4e09-4899-a826-974431a748a8,mistral-large-instruct,6,FileNotFoundError,Error: An error occurred while processing file datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\your_instagram_activity\messages\message_requests\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\message_1.json: [Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+9f7fe30d-01ce-48c6-b2b5-835eded20248,mistral-large-instruct,1,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-leridash-2025-04-15-tyc7Gjjv\\likes.json'
+9f7fe30d-01ce-48c6-b2b5-835eded20248,mistral-large-instruct,2,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-leridash-2025-04-15-tyc7Gjjv\\likes.json'
+9f7fe30d-01ce-48c6-b2b5-835eded20248,mistral-large-instruct,3,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-leridash-2025-04-15-tyc7Gjjv\\likes.json'
+9f7fe30d-01ce-48c6-b2b5-835eded20248,mistral-large-instruct,4,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-leridash-2025-04-15-tyc7Gjjv\\likes.json'
+9f7fe30d-01ce-48c6-b2b5-835eded20248,mistral-large-instruct,5,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-leridash-2025-04-15-tyc7Gjjv\\likes.json'
+9f7fe30d-01ce-48c6-b2b5-835eded20248,mistral-large-instruct,6,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-leridash-2025-04-15-tyc7Gjjv\\likes.json'
+f7471634-acc2-40f9-9150-8446c92601fd,mistral-large-instruct,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+f7471634-acc2-40f9-9150-8446c92601fd,mistral-large-instruct,2,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+f7471634-acc2-40f9-9150-8446c92601fd,mistral-large-instruct,3,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+f7471634-acc2-40f9-9150-8446c92601fd,mistral-large-instruct,4,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+f7471634-acc2-40f9-9150-8446c92601fd,mistral-large-instruct,5,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+f7471634-acc2-40f9-9150-8446c92601fd,mistral-large-instruct,6,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+f7322ff4-dc0b-4ae0-a3bb-f51846d26bf0,mistral-large-instruct,1,AttributeError,'str' object has no attribute 'get'
+f7322ff4-dc0b-4ae0-a3bb-f51846d26bf0,mistral-large-instruct,2,AttributeError,'str' object has no attribute 'get'
+f7322ff4-dc0b-4ae0-a3bb-f51846d26bf0,mistral-large-instruct,3,AttributeError,'str' object has no attribute 'get'
+f7322ff4-dc0b-4ae0-a3bb-f51846d26bf0,mistral-large-instruct,4,AttributeError,'str' object has no attribute 'get'
+f7322ff4-dc0b-4ae0-a3bb-f51846d26bf0,mistral-large-instruct,5,AttributeError,'str' object has no attribute 'get'
+f7322ff4-dc0b-4ae0-a3bb-f51846d26bf0,mistral-large-instruct,6,AttributeError,'str' object has no attribute 'get'
+57da51d7-14c3-4673-bdbd-27f6dc174154,mistral-large-instruct,1,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\\likes\\liked_posts.json'
+57da51d7-14c3-4673-bdbd-27f6dc174154,mistral-large-instruct,2,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\\likes\\liked_posts.json'
+57da51d7-14c3-4673-bdbd-27f6dc174154,mistral-large-instruct,3,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\\likes\\liked_posts.json'
+57da51d7-14c3-4673-bdbd-27f6dc174154,mistral-large-instruct,4,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\\likes\\liked_posts.json'
+57da51d7-14c3-4673-bdbd-27f6dc174154,mistral-large-instruct,5,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\\likes\\liked_posts.json'
+57da51d7-14c3-4673-bdbd-27f6dc174154,mistral-large-instruct,6,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\\likes\\liked_posts.json'
+ef35611f-6a53-4db3-977b-c7810152e3ac,mistral-large-instruct,1,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month\\likes\\liked_posts.json'
+ef35611f-6a53-4db3-977b-c7810152e3ac,mistral-large-instruct,2,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month\\likes\\liked_posts.json'
+ef35611f-6a53-4db3-977b-c7810152e3ac,mistral-large-instruct,3,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month\\likes\\liked_posts.json'
+ef35611f-6a53-4db3-977b-c7810152e3ac,mistral-large-instruct,4,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month\\likes\\liked_posts.json'
+ef35611f-6a53-4db3-977b-c7810152e3ac,mistral-large-instruct,5,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month\\likes\\liked_posts.json'
+ef35611f-6a53-4db3-977b-c7810152e3ac,mistral-large-instruct,6,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_last_month\\likes\\liked_posts.json'
+30df2f1c-b3d0-4a69-a28f-2145af16a6e7,mistral-large-instruct,1,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\likes\\liked_comments.json'
+30df2f1c-b3d0-4a69-a28f-2145af16a6e7,mistral-large-instruct,2,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\likes\\liked_comments.json'
+30df2f1c-b3d0-4a69-a28f-2145af16a6e7,mistral-large-instruct,3,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\likes\\liked_comments.json'
+30df2f1c-b3d0-4a69-a28f-2145af16a6e7,mistral-large-instruct,4,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\likes\\liked_comments.json'
+30df2f1c-b3d0-4a69-a28f-2145af16a6e7,mistral-large-instruct,5,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\likes\\liked_comments.json'
+30df2f1c-b3d0-4a69-a28f-2145af16a6e7,mistral-large-instruct,6,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\likes\\liked_comments.json'
+9b9a1240-0b49-400d-b34e-0704820341b0,mistral-large-instruct,1,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\likes\\posts\\liked_posts.json'
+9b9a1240-0b49-400d-b34e-0704820341b0,mistral-large-instruct,2,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\likes\\posts\\liked_posts.json'
+9b9a1240-0b49-400d-b34e-0704820341b0,mistral-large-instruct,3,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\likes\\posts\\liked_posts.json'
+9b9a1240-0b49-400d-b34e-0704820341b0,mistral-large-instruct,4,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\likes\\posts\\liked_posts.json'
+9b9a1240-0b49-400d-b34e-0704820341b0,mistral-large-instruct,5,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\likes\\posts\\liked_posts.json'
+9b9a1240-0b49-400d-b34e-0704820341b0,mistral-large-instruct,6,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\likes\\posts\\liked_posts.json'
+77d75c6b-5319-4542-b421-383a495f1617,mistral-large-instruct,1,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english\\likes\\liked_posts.json'
+77d75c6b-5319-4542-b421-383a495f1617,mistral-large-instruct,2,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english\\likes\\liked_posts.json'
+77d75c6b-5319-4542-b421-383a495f1617,mistral-large-instruct,3,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english\\likes\\liked_posts.json'
+77d75c6b-5319-4542-b421-383a495f1617,mistral-large-instruct,4,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english\\likes\\liked_posts.json'
+77d75c6b-5319-4542-b421-383a495f1617,mistral-large-instruct,5,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english\\likes\\liked_posts.json'
+77d75c6b-5319-4542-b421-383a495f1617,mistral-large-instruct,6,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-pbrenner96-2024-01-08-SsGs6mZ4_english\\likes\\liked_posts.json'
+301f9c24-32c6-41bc-a6bd-c1150a342275,mistral-large-instruct,1,KeyError,'content'
+301f9c24-32c6-41bc-a6bd-c1150a342275,mistral-large-instruct,2,KeyError,'content'
+301f9c24-32c6-41bc-a6bd-c1150a342275,mistral-large-instruct,3,KeyError,'content'
+301f9c24-32c6-41bc-a6bd-c1150a342275,mistral-large-instruct,4,KeyError,'content'
+301f9c24-32c6-41bc-a6bd-c1150a342275,mistral-large-instruct,5,KeyError,'content'
+301f9c24-32c6-41bc-a6bd-c1150a342275,mistral-large-instruct,6,KeyError,'content'
+e21499e4-d7af-4fd5-94e0-bf87e740a4c8,mistral-large-instruct,1,AttributeError,'str' object has no attribute 'get'
+e21499e4-d7af-4fd5-94e0-bf87e740a4c8,mistral-large-instruct,2,AttributeError,'str' object has no attribute 'get'
+e21499e4-d7af-4fd5-94e0-bf87e740a4c8,mistral-large-instruct,3,AttributeError,'str' object has no attribute 'get'
+e21499e4-d7af-4fd5-94e0-bf87e740a4c8,mistral-large-instruct,4,AttributeError,'str' object has no attribute 'get'
+e21499e4-d7af-4fd5-94e0-bf87e740a4c8,mistral-large-instruct,5,AttributeError,'str' object has no attribute 'get'
+e21499e4-d7af-4fd5-94e0-bf87e740a4c8,mistral-large-instruct,6,AttributeError,'str' object has no attribute 'get'
+ed07094b-c449-4f8f-978e-3482d9ed046a,mistral-large-instruct,1,FileNotFoundError,The file datasets/instagram-leridash-2025-04-15-tyc7Gjjv\recent_follow_requests.json does not exist.
+ed07094b-c449-4f8f-978e-3482d9ed046a,mistral-large-instruct,2,FileNotFoundError,The file datasets/instagram-leridash-2025-04-15-tyc7Gjjv\recent_follow_requests.json does not exist.
+ed07094b-c449-4f8f-978e-3482d9ed046a,mistral-large-instruct,3,FileNotFoundError,The file datasets/instagram-leridash-2025-04-15-tyc7Gjjv\recent_follow_requests.json does not exist.
+ed07094b-c449-4f8f-978e-3482d9ed046a,mistral-large-instruct,4,FileNotFoundError,The file datasets/instagram-leridash-2025-04-15-tyc7Gjjv\recent_follow_requests.json does not exist.
+ed07094b-c449-4f8f-978e-3482d9ed046a,mistral-large-instruct,5,FileNotFoundError,The file datasets/instagram-leridash-2025-04-15-tyc7Gjjv\recent_follow_requests.json does not exist.
+ed07094b-c449-4f8f-978e-3482d9ed046a,mistral-large-instruct,6,FileNotFoundError,The file datasets/instagram-leridash-2025-04-15-tyc7Gjjv\recent_follow_requests.json does not exist.
+f26e1c99-30ad-4c9c-b307-a958253baf87,mistral-large-instruct,1,FileNotFoundError,Error: The following.json file does not exist.
+f26e1c99-30ad-4c9c-b307-a958253baf87,mistral-large-instruct,2,FileNotFoundError,Error: The following.json file does not exist.
+f26e1c99-30ad-4c9c-b307-a958253baf87,mistral-large-instruct,3,FileNotFoundError,Error: The following.json file does not exist.
+f26e1c99-30ad-4c9c-b307-a958253baf87,mistral-large-instruct,4,FileNotFoundError,Error: The following.json file does not exist.
+f26e1c99-30ad-4c9c-b307-a958253baf87,mistral-large-instruct,5,FileNotFoundError,Error: The following.json file does not exist.
+f26e1c99-30ad-4c9c-b307-a958253baf87,mistral-large-instruct,6,FileNotFoundError,Error: The following.json file does not exist.
+328e1066-02d3-4350-bef6-03693767054d,mistral-large-instruct,1,FileNotFoundError,The file datasets/instagram-miger_shkrepa-2025-01-25-9eXjs0P7\follow_requests_you've_received.json does not exist.
+328e1066-02d3-4350-bef6-03693767054d,mistral-large-instruct,2,FileNotFoundError,The file datasets/instagram-miger_shkrepa-2025-01-25-9eXjs0P7\follow_requests_you've_received.json does not exist.
+328e1066-02d3-4350-bef6-03693767054d,mistral-large-instruct,3,FileNotFoundError,The file datasets/instagram-miger_shkrepa-2025-01-25-9eXjs0P7\follow_requests_you've_received.json does not exist.
+328e1066-02d3-4350-bef6-03693767054d,mistral-large-instruct,4,FileNotFoundError,The file datasets/instagram-miger_shkrepa-2025-01-25-9eXjs0P7\follow_requests_you've_received.json does not exist.
+328e1066-02d3-4350-bef6-03693767054d,mistral-large-instruct,5,FileNotFoundError,The file datasets/instagram-miger_shkrepa-2025-01-25-9eXjs0P7\follow_requests_you've_received.json does not exist.
+328e1066-02d3-4350-bef6-03693767054d,mistral-large-instruct,6,FileNotFoundError,The file datasets/instagram-miger_shkrepa-2025-01-25-9eXjs0P7\follow_requests_you've_received.json does not exist.
+8a2f709f-44fc-494a-8948-38d2af880cf1,mistral-large-instruct,1,FileNotFoundError,Error: The file datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL\following.json does not exist.
+8a2f709f-44fc-494a-8948-38d2af880cf1,mistral-large-instruct,2,FileNotFoundError,Error: The file datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL\following.json does not exist.
+8a2f709f-44fc-494a-8948-38d2af880cf1,mistral-large-instruct,3,FileNotFoundError,Error: The file datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL\following.json does not exist.
+8a2f709f-44fc-494a-8948-38d2af880cf1,mistral-large-instruct,4,FileNotFoundError,Error: The file datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL\following.json does not exist.
+8a2f709f-44fc-494a-8948-38d2af880cf1,mistral-large-instruct,5,FileNotFoundError,Error: The file datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL\following.json does not exist.
+8a2f709f-44fc-494a-8948-38d2af880cf1,mistral-large-instruct,6,FileNotFoundError,Error: The file datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL\following.json does not exist.
+da131d25-5fd8-486d-a960-349aad6cc17c,mistral-large-instruct,1,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\\personal_information\\following.json'
+da131d25-5fd8-486d-a960-349aad6cc17c,mistral-large-instruct,2,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\\personal_information\\following.json'
+da131d25-5fd8-486d-a960-349aad6cc17c,mistral-large-instruct,3,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\\personal_information\\following.json'
+da131d25-5fd8-486d-a960-349aad6cc17c,mistral-large-instruct,4,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\\personal_information\\following.json'
+da131d25-5fd8-486d-a960-349aad6cc17c,mistral-large-instruct,5,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\\personal_information\\following.json'
+da131d25-5fd8-486d-a960-349aad6cc17c,mistral-large-instruct,6,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-miger_shkrepa-2025-04-12-n2sjdWwP\\personal_information\\following.json'
+4ebecdf4-836c-4c46-943b-a58449c2604b,mistral-large-instruct,1,FileNotFoundError,The file datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\followers_and_following\following.json does not exist.
+4ebecdf4-836c-4c46-943b-a58449c2604b,mistral-large-instruct,2,FileNotFoundError,The file datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\followers_and_following\following.json does not exist.
+4ebecdf4-836c-4c46-943b-a58449c2604b,mistral-large-instruct,3,FileNotFoundError,The file datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\followers_and_following\following.json does not exist.
+4ebecdf4-836c-4c46-943b-a58449c2604b,mistral-large-instruct,4,FileNotFoundError,The file datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\followers_and_following\following.json does not exist.
+4ebecdf4-836c-4c46-943b-a58449c2604b,mistral-large-instruct,5,FileNotFoundError,The file datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\followers_and_following\following.json does not exist.
+4ebecdf4-836c-4c46-943b-a58449c2604b,mistral-large-instruct,6,FileNotFoundError,The file datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\followers_and_following\following.json does not exist.
+8bb29524-c833-44eb-9f0e-efa2174e0065,mistral-large-instruct,1,FileNotFoundError,The file datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\followers_and_following\following.json does not exist.
+8bb29524-c833-44eb-9f0e-efa2174e0065,mistral-large-instruct,2,FileNotFoundError,The file datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\followers_and_following\following.json does not exist.
+8bb29524-c833-44eb-9f0e-efa2174e0065,mistral-large-instruct,3,FileNotFoundError,The file datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\followers_and_following\following.json does not exist.
+8bb29524-c833-44eb-9f0e-efa2174e0065,mistral-large-instruct,4,FileNotFoundError,The file datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\followers_and_following\following.json does not exist.
+8bb29524-c833-44eb-9f0e-efa2174e0065,mistral-large-instruct,5,FileNotFoundError,The file datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\followers_and_following\following.json does not exist.
+8bb29524-c833-44eb-9f0e-efa2174e0065,mistral-large-instruct,6,FileNotFoundError,The file datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\followers_and_following\following.json does not exist.
+fd3c140a-8828-46b9-836b-ffe916f1794c,mistral-large-instruct,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+fd3c140a-8828-46b9-836b-ffe916f1794c,mistral-large-instruct,2,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+fd3c140a-8828-46b9-836b-ffe916f1794c,mistral-large-instruct,3,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+fd3c140a-8828-46b9-836b-ffe916f1794c,mistral-large-instruct,4,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+fd3c140a-8828-46b9-836b-ffe916f1794c,mistral-large-instruct,5,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+fd3c140a-8828-46b9-836b-ffe916f1794c,mistral-large-instruct,6,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+a99250c1-b590-4592-96f4-336594bb1669,mistral-large-instruct,1,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+a99250c1-b590-4592-96f4-336594bb1669,mistral-large-instruct,2,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+a99250c1-b590-4592-96f4-336594bb1669,mistral-large-instruct,3,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+a99250c1-b590-4592-96f4-336594bb1669,mistral-large-instruct,4,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+a99250c1-b590-4592-96f4-336594bb1669,mistral-large-instruct,5,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+a99250c1-b590-4592-96f4-336594bb1669,mistral-large-instruct,6,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+d0c3f005-37ae-4079-8e9b-0300603c6ed3,mistral-large-instruct,1,FileNotFoundError,The file datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL\ads_information\ads_and_topics\posts_liked.json does not exist.
+d0c3f005-37ae-4079-8e9b-0300603c6ed3,mistral-large-instruct,2,FileNotFoundError,The file datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL\ads_information\ads_and_topics\posts_liked.json does not exist.
+d0c3f005-37ae-4079-8e9b-0300603c6ed3,mistral-large-instruct,3,FileNotFoundError,The file datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL\ads_information\ads_and_topics\posts_liked.json does not exist.
+d0c3f005-37ae-4079-8e9b-0300603c6ed3,mistral-large-instruct,4,FileNotFoundError,The file datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL\ads_information\ads_and_topics\posts_liked.json does not exist.
+d0c3f005-37ae-4079-8e9b-0300603c6ed3,mistral-large-instruct,5,FileNotFoundError,The file datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL\ads_information\ads_and_topics\posts_liked.json does not exist.
+d0c3f005-37ae-4079-8e9b-0300603c6ed3,mistral-large-instruct,6,FileNotFoundError,The file datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL\ads_information\ads_and_topics\posts_liked.json does not exist.
+6f0afccf-58a4-4046-a9ff-3bc2b7bc396b,mistral-large-instruct,1,AttributeError,'list' object has no attribute 'get'
+6f0afccf-58a4-4046-a9ff-3bc2b7bc396b,mistral-large-instruct,2,AttributeError,'list' object has no attribute 'get'
+6f0afccf-58a4-4046-a9ff-3bc2b7bc396b,mistral-large-instruct,3,AttributeError,'list' object has no attribute 'get'
+6f0afccf-58a4-4046-a9ff-3bc2b7bc396b,mistral-large-instruct,4,AttributeError,'list' object has no attribute 'get'
+6f0afccf-58a4-4046-a9ff-3bc2b7bc396b,mistral-large-instruct,5,AttributeError,'list' object has no attribute 'get'
+6f0afccf-58a4-4046-a9ff-3bc2b7bc396b,mistral-large-instruct,6,AttributeError,'list' object has no attribute 'get'
+56cc3388-c4a7-47fe-9035-4605ab1d4b4c,mistral-large-instruct,1,FileNotFoundError,The file datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\story_likes.json does not exist.
+56cc3388-c4a7-47fe-9035-4605ab1d4b4c,mistral-large-instruct,2,FileNotFoundError,The file datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\story_likes.json does not exist.
+56cc3388-c4a7-47fe-9035-4605ab1d4b4c,mistral-large-instruct,3,FileNotFoundError,The file datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\story_likes.json does not exist.
+56cc3388-c4a7-47fe-9035-4605ab1d4b4c,mistral-large-instruct,4,FileNotFoundError,The file datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\story_likes.json does not exist.
+56cc3388-c4a7-47fe-9035-4605ab1d4b4c,mistral-large-instruct,5,FileNotFoundError,The file datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\story_likes.json does not exist.
+56cc3388-c4a7-47fe-9035-4605ab1d4b4c,mistral-large-instruct,6,FileNotFoundError,The file datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\story_likes.json does not exist.
+4761f052-914f-4fd3-95cb-ef01a80943ea,mistral-large-instruct,1,TypeError,unsupported operand type(s) for -: 'set' and 'list'
+4761f052-914f-4fd3-95cb-ef01a80943ea,mistral-large-instruct,2,TypeError,unsupported operand type(s) for -: 'set' and 'list'
+4761f052-914f-4fd3-95cb-ef01a80943ea,mistral-large-instruct,3,TypeError,unsupported operand type(s) for -: 'set' and 'list'
+4761f052-914f-4fd3-95cb-ef01a80943ea,mistral-large-instruct,4,TypeError,unsupported operand type(s) for -: 'set' and 'list'
+4761f052-914f-4fd3-95cb-ef01a80943ea,mistral-large-instruct,5,TypeError,unsupported operand type(s) for -: 'set' and 'list'
+4761f052-914f-4fd3-95cb-ef01a80943ea,mistral-large-instruct,6,TypeError,unsupported operand type(s) for -: 'set' and 'list'
+1cbb686d-6950-4888-9774-d5b0e8840192,mistral-large-instruct,1,KeyError,'string_map_data'
+1cbb686d-6950-4888-9774-d5b0e8840192,mistral-large-instruct,2,KeyError,'string_map_data'
+1cbb686d-6950-4888-9774-d5b0e8840192,mistral-large-instruct,3,KeyError,'string_map_data'
+1cbb686d-6950-4888-9774-d5b0e8840192,mistral-large-instruct,4,KeyError,'string_map_data'
+1cbb686d-6950-4888-9774-d5b0e8840192,mistral-large-instruct,5,KeyError,'string_map_data'
+1cbb686d-6950-4888-9774-d5b0e8840192,mistral-large-instruct,6,KeyError,'string_map_data'
+e108b022-0503-41c4-bf33-1483b217daed,mistral-large-instruct,1,FileNotFoundError,Error: The inbox directory does not exist.
+e108b022-0503-41c4-bf33-1483b217daed,mistral-large-instruct,2,FileNotFoundError,Error: The inbox directory does not exist.
+e108b022-0503-41c4-bf33-1483b217daed,mistral-large-instruct,3,FileNotFoundError,Error: The inbox directory does not exist.
+e108b022-0503-41c4-bf33-1483b217daed,mistral-large-instruct,4,FileNotFoundError,Error: The inbox directory does not exist.
+e108b022-0503-41c4-bf33-1483b217daed,mistral-large-instruct,5,FileNotFoundError,Error: The inbox directory does not exist.
+e108b022-0503-41c4-bf33-1483b217daed,mistral-large-instruct,6,FileNotFoundError,Error: The inbox directory does not exist.
+830f6e83-72f7-498c-858e-d6efeab4a530,mistral-large-instruct,1,FileNotFoundError,Error: The inbox directory does not exist.
+830f6e83-72f7-498c-858e-d6efeab4a530,mistral-large-instruct,2,FileNotFoundError,Error: The inbox directory does not exist.
+830f6e83-72f7-498c-858e-d6efeab4a530,mistral-large-instruct,3,FileNotFoundError,Error: The inbox directory does not exist.
+830f6e83-72f7-498c-858e-d6efeab4a530,mistral-large-instruct,4,FileNotFoundError,Error: The inbox directory does not exist.
+830f6e83-72f7-498c-858e-d6efeab4a530,mistral-large-instruct,5,FileNotFoundError,Error: The inbox directory does not exist.
+830f6e83-72f7-498c-858e-d6efeab4a530,mistral-large-instruct,6,FileNotFoundError,Error: The inbox directory does not exist.
+2c389b72-1b58-4aaf-8b5b-8984fc1f4519,mistral-large-instruct,1,FileNotFoundError,Error: The inbox directory does not exist.
+2c389b72-1b58-4aaf-8b5b-8984fc1f4519,mistral-large-instruct,2,FileNotFoundError,Error: The inbox directory does not exist.
+2c389b72-1b58-4aaf-8b5b-8984fc1f4519,mistral-large-instruct,3,FileNotFoundError,Error: The inbox directory does not exist.
+2c389b72-1b58-4aaf-8b5b-8984fc1f4519,mistral-large-instruct,4,FileNotFoundError,Error: The inbox directory does not exist.
+2c389b72-1b58-4aaf-8b5b-8984fc1f4519,mistral-large-instruct,5,FileNotFoundError,Error: The inbox directory does not exist.
+2c389b72-1b58-4aaf-8b5b-8984fc1f4519,mistral-large-instruct,6,FileNotFoundError,Error: The inbox directory does not exist.
+883395db-36b6-4385-82b4-593844e2f939,mistral-large-instruct,1,FileNotFoundError,Error: The inbox directory does not exist.
+883395db-36b6-4385-82b4-593844e2f939,mistral-large-instruct,2,FileNotFoundError,Error: The inbox directory does not exist.
+883395db-36b6-4385-82b4-593844e2f939,mistral-large-instruct,3,FileNotFoundError,Error: The inbox directory does not exist.
+883395db-36b6-4385-82b4-593844e2f939,mistral-large-instruct,4,FileNotFoundError,Error: The inbox directory does not exist.
+883395db-36b6-4385-82b4-593844e2f939,mistral-large-instruct,5,FileNotFoundError,Error: The inbox directory does not exist.
+883395db-36b6-4385-82b4-593844e2f939,mistral-large-instruct,6,FileNotFoundError,Error: The inbox directory does not exist.
+ceb44885-9d4b-49bd-9ad5-9b77d48c44e4,mistral-large-instruct,1,FileNotFoundError,The file datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\your_instagram_activity\messages\message_requests\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\message_1.json does not exist.
+ceb44885-9d4b-49bd-9ad5-9b77d48c44e4,mistral-large-instruct,2,FileNotFoundError,The file datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\your_instagram_activity\messages\message_requests\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\message_1.json does not exist.
+ceb44885-9d4b-49bd-9ad5-9b77d48c44e4,mistral-large-instruct,3,FileNotFoundError,The file datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\your_instagram_activity\messages\message_requests\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\message_1.json does not exist.
+ceb44885-9d4b-49bd-9ad5-9b77d48c44e4,mistral-large-instruct,4,FileNotFoundError,The file datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\your_instagram_activity\messages\message_requests\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\message_1.json does not exist.
+ceb44885-9d4b-49bd-9ad5-9b77d48c44e4,mistral-large-instruct,5,FileNotFoundError,The file datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\your_instagram_activity\messages\message_requests\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\message_1.json does not exist.
+ceb44885-9d4b-49bd-9ad5-9b77d48c44e4,mistral-large-instruct,6,FileNotFoundError,The file datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\your_instagram_activity\messages\message_requests\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\message_1.json does not exist.
+2d79424e-dc22-41d0-9f55-d6f35faf0433,mistral-large-instruct,1,FileNotFoundError,Error: The inbox directory does not exist.
+2d79424e-dc22-41d0-9f55-d6f35faf0433,mistral-large-instruct,2,FileNotFoundError,Error: The inbox directory does not exist.
+2d79424e-dc22-41d0-9f55-d6f35faf0433,mistral-large-instruct,3,FileNotFoundError,Error: The inbox directory does not exist.
+2d79424e-dc22-41d0-9f55-d6f35faf0433,mistral-large-instruct,4,FileNotFoundError,Error: The inbox directory does not exist.
+2d79424e-dc22-41d0-9f55-d6f35faf0433,mistral-large-instruct,5,FileNotFoundError,Error: The inbox directory does not exist.
+2d79424e-dc22-41d0-9f55-d6f35faf0433,mistral-large-instruct,6,FileNotFoundError,Error: The inbox directory does not exist.
+48288c34-743d-4d79-9f4e-39091e0b607a,mistral-large-instruct,1,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+48288c34-743d-4d79-9f4e-39091e0b607a,mistral-large-instruct,2,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+48288c34-743d-4d79-9f4e-39091e0b607a,mistral-large-instruct,3,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+48288c34-743d-4d79-9f4e-39091e0b607a,mistral-large-instruct,4,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+48288c34-743d-4d79-9f4e-39091e0b607a,mistral-large-instruct,5,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+48288c34-743d-4d79-9f4e-39091e0b607a,mistral-large-instruct,6,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+4c75ba1f-7559-4575-a84c-6c04c2f507f9,mistral-large-instruct,1,FileNotFoundError,The inbox directory does not exist.
+4c75ba1f-7559-4575-a84c-6c04c2f507f9,mistral-large-instruct,2,FileNotFoundError,Error: The inbox directory does not exist.
+4c75ba1f-7559-4575-a84c-6c04c2f507f9,mistral-large-instruct,3,FileNotFoundError,Error: The inbox directory does not exist.
+4c75ba1f-7559-4575-a84c-6c04c2f507f9,mistral-large-instruct,4,FileNotFoundError,Error: The inbox directory does not exist.
+4c75ba1f-7559-4575-a84c-6c04c2f507f9,mistral-large-instruct,5,FileNotFoundError,Error: The inbox directory does not exist.
+4c75ba1f-7559-4575-a84c-6c04c2f507f9,mistral-large-instruct,6,FileNotFoundError,Error: The inbox directory does not exist.
+6d05a79a-2923-44d4-b3ad-a112285a2171,mistral-large-instruct,1,FileNotFoundError,Error: The inbox directory does not exist.
+6d05a79a-2923-44d4-b3ad-a112285a2171,mistral-large-instruct,2,FileNotFoundError,Error: The inbox directory does not exist.
+6d05a79a-2923-44d4-b3ad-a112285a2171,mistral-large-instruct,3,FileNotFoundError,Error: The inbox directory does not exist.
+6d05a79a-2923-44d4-b3ad-a112285a2171,mistral-large-instruct,4,FileNotFoundError,Error: The inbox directory does not exist.
+6d05a79a-2923-44d4-b3ad-a112285a2171,mistral-large-instruct,5,FileNotFoundError,Error: The inbox directory does not exist.
+6d05a79a-2923-44d4-b3ad-a112285a2171,mistral-large-instruct,6,FileNotFoundError,Error: The inbox directory does not exist.
+3134cf66-63fd-4e26-b804-cbcc61117e94,mistral-large-instruct,1,FileNotFoundError,Error: The inbox directory does not exist.
+3134cf66-63fd-4e26-b804-cbcc61117e94,mistral-large-instruct,2,FileNotFoundError,Error: The inbox directory does not exist.
+3134cf66-63fd-4e26-b804-cbcc61117e94,mistral-large-instruct,3,FileNotFoundError,Error: The inbox directory does not exist.
+3134cf66-63fd-4e26-b804-cbcc61117e94,mistral-large-instruct,4,FileNotFoundError,Error: The inbox directory does not exist.
+3134cf66-63fd-4e26-b804-cbcc61117e94,mistral-large-instruct,5,FileNotFoundError,Error: The inbox directory does not exist.
+3134cf66-63fd-4e26-b804-cbcc61117e94,mistral-large-instruct,6,FileNotFoundError,Error: The inbox directory does not exist.
+66bddf1f-60b5-47ba-82cf-8ad731cad859,codestral-22b,1,KeyError,'structure'
+66bddf1f-60b5-47ba-82cf-8ad731cad859,codestral-22b,2,KeyError,'structure'
+66bddf1f-60b5-47ba-82cf-8ad731cad859,codestral-22b,3,KeyError,'structure'
+66bddf1f-60b5-47ba-82cf-8ad731cad859,codestral-22b,4,KeyError,'structure'
+66bddf1f-60b5-47ba-82cf-8ad731cad859,codestral-22b,5,KeyError,'structure'
+66bddf1f-60b5-47ba-82cf-8ad731cad859,codestral-22b,6,KeyError,'structure'
+20fb12c6-f447-44ab-a2b9-a82774896566,codestral-22b,1,FileNotFoundError,The interests.json file does not exist.
+20fb12c6-f447-44ab-a2b9-a82774896566,codestral-22b,2,FileNotFoundError,The interests.json file does not exist.
+20fb12c6-f447-44ab-a2b9-a82774896566,codestral-22b,3,FileNotFoundError,The interests.json file does not exist.
+20fb12c6-f447-44ab-a2b9-a82774896566,codestral-22b,4,FileNotFoundError,The interests.json file does not exist.
+20fb12c6-f447-44ab-a2b9-a82774896566,codestral-22b,5,FileNotFoundError,The interests.json file does not exist.
+20fb12c6-f447-44ab-a2b9-a82774896566,codestral-22b,6,FileNotFoundError,The interests.json file does not exist.
+137ff374-bf81-4d1f-8b59-b84c01c956a3,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+137ff374-bf81-4d1f-8b59-b84c01c956a3,codestral-22b,2,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+137ff374-bf81-4d1f-8b59-b84c01c956a3,codestral-22b,3,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+137ff374-bf81-4d1f-8b59-b84c01c956a3,codestral-22b,4,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+137ff374-bf81-4d1f-8b59-b84c01c956a3,codestral-22b,5,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+137ff374-bf81-4d1f-8b59-b84c01c956a3,codestral-22b,6,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+c29def71-fbaf-47ba-8f48-6e50c289115e,codestral-22b,1,KeyError,'structure'
+c29def71-fbaf-47ba-8f48-6e50c289115e,codestral-22b,2,KeyError,'structure'
+c29def71-fbaf-47ba-8f48-6e50c289115e,codestral-22b,3,KeyError,'structure'
+c29def71-fbaf-47ba-8f48-6e50c289115e,codestral-22b,4,KeyError,'structure'
+c29def71-fbaf-47ba-8f48-6e50c289115e,codestral-22b,5,KeyError,'structure'
+c29def71-fbaf-47ba-8f48-6e50c289115e,codestral-22b,6,KeyError,'structure'
+f91c86e0-0bb5-4296-9f8e-2e81a8f7cb9e,codestral-22b,1,KeyError,'Author'
+f91c86e0-0bb5-4296-9f8e-2e81a8f7cb9e,codestral-22b,2,KeyError,'Author'
+f91c86e0-0bb5-4296-9f8e-2e81a8f7cb9e,codestral-22b,3,KeyError,'Author'
+f91c86e0-0bb5-4296-9f8e-2e81a8f7cb9e,codestral-22b,4,KeyError,'Author'
+f91c86e0-0bb5-4296-9f8e-2e81a8f7cb9e,codestral-22b,5,KeyError,'Author'
+f91c86e0-0bb5-4296-9f8e-2e81a8f7cb9e,codestral-22b,6,KeyError,'Author'
+9c6febfa-410f-4e9f-aa25-5ff0e36e5f61,codestral-22b,1,KeyError,'structure'
+9c6febfa-410f-4e9f-aa25-5ff0e36e5f61,codestral-22b,2,KeyError,'structure'
+9c6febfa-410f-4e9f-aa25-5ff0e36e5f61,codestral-22b,3,KeyError,'structure'
+9c6febfa-410f-4e9f-aa25-5ff0e36e5f61,codestral-22b,4,KeyError,'structure'
+9c6febfa-410f-4e9f-aa25-5ff0e36e5f61,codestral-22b,5,KeyError,'structure'
+9c6febfa-410f-4e9f-aa25-5ff0e36e5f61,codestral-22b,6,KeyError,'structure'
+4b3b29d5-84d7-4fe9-9142-e492ad4a0a05,codestral-22b,1,KeyError,'structure'
+4b3b29d5-84d7-4fe9-9142-e492ad4a0a05,codestral-22b,2,KeyError,'structure'
+4b3b29d5-84d7-4fe9-9142-e492ad4a0a05,codestral-22b,3,KeyError,'structure'
+4b3b29d5-84d7-4fe9-9142-e492ad4a0a05,codestral-22b,4,KeyError,'structure'
+4b3b29d5-84d7-4fe9-9142-e492ad4a0a05,codestral-22b,5,KeyError,'structure'
+4b3b29d5-84d7-4fe9-9142-e492ad4a0a05,codestral-22b,6,KeyError,'structure'
+4ac73f30-f023-44b7-a079-68431a3166c2,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode character '\x92' in position 6: character maps to <undefined>
+4ac73f30-f023-44b7-a079-68431a3166c2,codestral-22b,2,UnicodeEncodeError,'charmap' codec can't encode character '\x87' in position 21: character maps to <undefined>
+4ac73f30-f023-44b7-a079-68431a3166c2,codestral-22b,3,UnicodeEncodeError,'charmap' codec can't encode character '\x89' in position 4: character maps to <undefined>
+4ac73f30-f023-44b7-a079-68431a3166c2,codestral-22b,4,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-2: character maps to <undefined>
+4ac73f30-f023-44b7-a079-68431a3166c2,codestral-22b,5,UnicodeEncodeError,'charmap' codec can't encode character '\x89' in position 4: character maps to <undefined>
+4ac73f30-f023-44b7-a079-68431a3166c2,codestral-22b,6,UnicodeEncodeError,'charmap' codec can't encode character '\x9a' in position 9: character maps to <undefined>
+3ee69a84-2d04-4a27-89d4-3b4243c4642b,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode character '\x89' in position 1: character maps to <undefined>
+3ee69a84-2d04-4a27-89d4-3b4243c4642b,codestral-22b,2,UnicodeEncodeError,'charmap' codec can't encode character '\x8c' in position 37: character maps to <undefined>
+3ee69a84-2d04-4a27-89d4-3b4243c4642b,codestral-22b,3,UnicodeEncodeError,'charmap' codec can't encode character '\x9b' in position 6: character maps to <undefined>
+3ee69a84-2d04-4a27-89d4-3b4243c4642b,codestral-22b,4,UnicodeEncodeError,'charmap' codec can't encode character '\x9b' in position 6: character maps to <undefined>
+3ee69a84-2d04-4a27-89d4-3b4243c4642b,codestral-22b,5,UnicodeEncodeError,'charmap' codec can't encode character '\x97' in position 1: character maps to <undefined>
+3ee69a84-2d04-4a27-89d4-3b4243c4642b,codestral-22b,6,UnicodeEncodeError,'charmap' codec can't encode character '\x99' in position 11: character maps to <undefined>
+ad70eac8-77e9-4de0-8f04-cfc9d1222871,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+ad70eac8-77e9-4de0-8f04-cfc9d1222871,codestral-22b,2,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+ad70eac8-77e9-4de0-8f04-cfc9d1222871,codestral-22b,3,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+ad70eac8-77e9-4de0-8f04-cfc9d1222871,codestral-22b,4,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+ad70eac8-77e9-4de0-8f04-cfc9d1222871,codestral-22b,5,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+ad70eac8-77e9-4de0-8f04-cfc9d1222871,codestral-22b,6,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+125ba128-568d-4500-9e87-0faa23bc01d4,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9a' in position 14: character maps to <undefined>
+125ba128-568d-4500-9e87-0faa23bc01d4,codestral-22b,2,UnicodeEncodeError,'charmap' codec can't encode character '\x8c' in position 37: character maps to <undefined>
+125ba128-568d-4500-9e87-0faa23bc01d4,codestral-22b,3,UnicodeEncodeError,'charmap' codec can't encode characters in position 9-10: character maps to <undefined>
+125ba128-568d-4500-9e87-0faa23bc01d4,codestral-22b,4,UnicodeEncodeError,'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+125ba128-568d-4500-9e87-0faa23bc01d4,codestral-22b,5,UnicodeEncodeError,'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+125ba128-568d-4500-9e87-0faa23bc01d4,codestral-22b,6,UnicodeEncodeError,'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+40436a3e-8c91-4868-9caf-05aab3c84a8f,codestral-22b,1,ValueError,time data '' does not match format '%Y-%m-%dT%H:%M:%S%z'
+40436a3e-8c91-4868-9caf-05aab3c84a8f,codestral-22b,2,ValueError,time data '' does not match format '%Y-%m-%dT%H:%M:%S%z'
+40436a3e-8c91-4868-9caf-05aab3c84a8f,codestral-22b,3,ValueError,time data '' does not match format '%Y-%m-%dT%H:%M:%S%z'
+40436a3e-8c91-4868-9caf-05aab3c84a8f,codestral-22b,4,ValueError,time data '' does not match format '%Y-%m-%dT%H:%M:%S%z'
+40436a3e-8c91-4868-9caf-05aab3c84a8f,codestral-22b,5,ValueError,time data '' does not match format '%Y-%m-%dT%H:%M:%S%z'
+40436a3e-8c91-4868-9caf-05aab3c84a8f,codestral-22b,6,ValueError,time data '' does not match format '%Y-%m-%dT%H:%M:%S%z'
+00f68a2d-36b5-40aa-9f39-9431be2add02,codestral-22b,1,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+00f68a2d-36b5-40aa-9f39-9431be2add02,codestral-22b,2,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+00f68a2d-36b5-40aa-9f39-9431be2add02,codestral-22b,3,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+00f68a2d-36b5-40aa-9f39-9431be2add02,codestral-22b,4,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+00f68a2d-36b5-40aa-9f39-9431be2add02,codestral-22b,5,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+00f68a2d-36b5-40aa-9f39-9431be2add02,codestral-22b,6,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+af6ad70a-2398-4e98-8cd9-949fbea8284e,codestral-22b,1,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+af6ad70a-2398-4e98-8cd9-949fbea8284e,codestral-22b,2,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+af6ad70a-2398-4e98-8cd9-949fbea8284e,codestral-22b,3,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+af6ad70a-2398-4e98-8cd9-949fbea8284e,codestral-22b,4,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+1f8717b1-fe81-48ce-8a32-b5dcf93b6ebd,codestral-22b,1,KeyError,'GerÃ¤te-ID'
+1f8717b1-fe81-48ce-8a32-b5dcf93b6ebd,codestral-22b,2,KeyError,'GerÃ¤te-ID'
+1f8717b1-fe81-48ce-8a32-b5dcf93b6ebd,codestral-22b,3,KeyError,'GerÃ¤te-ID'
+1f8717b1-fe81-48ce-8a32-b5dcf93b6ebd,codestral-22b,4,KeyError,'GerÃ¤te-ID'
+1f8717b1-fe81-48ce-8a32-b5dcf93b6ebd,codestral-22b,5,KeyError,'GerÃ¤te-ID'
+1f8717b1-fe81-48ce-8a32-b5dcf93b6ebd,codestral-22b,6,KeyError,'GerÃ¤te-ID'
+cf578071-09e2-46ed-9910-ee4bb0c2465e,codestral-22b,1,KeyError,'structure'
+cf578071-09e2-46ed-9910-ee4bb0c2465e,codestral-22b,2,KeyError,'structure'
+cf578071-09e2-46ed-9910-ee4bb0c2465e,codestral-22b,3,KeyError,'structure'
+cf578071-09e2-46ed-9910-ee4bb0c2465e,codestral-22b,4,KeyError,'structure'
+cf578071-09e2-46ed-9910-ee4bb0c2465e,codestral-22b,5,KeyError,'structure'
+cf578071-09e2-46ed-9910-ee4bb0c2465e,codestral-22b,6,KeyError,'structure'
+9e186b94-a487-416f-9f50-9141aaf90604,codestral-22b,1,TypeError,'<' not supported between instances of 'int' and 'str'
+9e186b94-a487-416f-9f50-9141aaf90604,codestral-22b,2,TypeError,'<' not supported between instances of 'int' and 'str'
+9e186b94-a487-416f-9f50-9141aaf90604,codestral-22b,3,TypeError,'<' not supported between instances of 'int' and 'str'
+9e186b94-a487-416f-9f50-9141aaf90604,codestral-22b,4,TypeError,'<' not supported between instances of 'int' and 'str'
+9e186b94-a487-416f-9f50-9141aaf90604,codestral-22b,5,TypeError,'<' not supported between instances of 'int' and 'str'
+9e186b94-a487-416f-9f50-9141aaf90604,codestral-22b,6,TypeError,'<' not supported between instances of 'int' and 'str'
+72cc095b-1063-47b8-9b6f-5da05dcbbee5,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+72cc095b-1063-47b8-9b6f-5da05dcbbee5,codestral-22b,2,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+72cc095b-1063-47b8-9b6f-5da05dcbbee5,codestral-22b,3,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+72cc095b-1063-47b8-9b6f-5da05dcbbee5,codestral-22b,4,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+72cc095b-1063-47b8-9b6f-5da05dcbbee5,codestral-22b,5,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+72cc095b-1063-47b8-9b6f-5da05dcbbee5,codestral-22b,6,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+186002e6-3b9b-416c-b5b0-cb0a37eefef4,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+186002e6-3b9b-416c-b5b0-cb0a37eefef4,codestral-22b,2,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+186002e6-3b9b-416c-b5b0-cb0a37eefef4,codestral-22b,3,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+186002e6-3b9b-416c-b5b0-cb0a37eefef4,codestral-22b,4,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+186002e6-3b9b-416c-b5b0-cb0a37eefef4,codestral-22b,5,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+186002e6-3b9b-416c-b5b0-cb0a37eefef4,codestral-22b,6,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+eb963180-6713-46a9-9469-9d6eedf102cd,codestral-22b,1,KeyError,'Author'
+eb963180-6713-46a9-9469-9d6eedf102cd,codestral-22b,2,KeyError,'Author'
+eb963180-6713-46a9-9469-9d6eedf102cd,codestral-22b,3,KeyError,'Author'
+eb963180-6713-46a9-9469-9d6eedf102cd,codestral-22b,4,KeyError,'Author'
+eb963180-6713-46a9-9469-9d6eedf102cd,codestral-22b,5,KeyError,'Author'
+eb963180-6713-46a9-9469-9d6eedf102cd,codestral-22b,6,KeyError,'Author'
+2a02d9e3-14ee-4e7d-98c2-56e7331254fe,codestral-22b,1,KeyError,'likes_media_likes'
+2a02d9e3-14ee-4e7d-98c2-56e7331254fe,codestral-22b,2,KeyError,'likes_media_likes'
+2a02d9e3-14ee-4e7d-98c2-56e7331254fe,codestral-22b,3,KeyError,'likes_media_likes'
+2a02d9e3-14ee-4e7d-98c2-56e7331254fe,codestral-22b,4,KeyError,'likes_media_likes'
+2a02d9e3-14ee-4e7d-98c2-56e7331254fe,codestral-22b,5,KeyError,'likes_media_likes'
+2a02d9e3-14ee-4e7d-98c2-56e7331254fe,codestral-22b,6,KeyError,'likes_media_likes'
+b172d6e3-e972-4ceb-bbe4-33fc911577ab,codestral-22b,1,FileNotFoundError,The following.json file does not exist.
+b172d6e3-e972-4ceb-bbe4-33fc911577ab,codestral-22b,2,FileNotFoundError,The following.json file does not exist.
+b172d6e3-e972-4ceb-bbe4-33fc911577ab,codestral-22b,3,FileNotFoundError,The following.json file does not exist.
+b172d6e3-e972-4ceb-bbe4-33fc911577ab,codestral-22b,4,FileNotFoundError,The following.json file does not exist.
+b172d6e3-e972-4ceb-bbe4-33fc911577ab,codestral-22b,5,FileNotFoundError,The following.json file does not exist.
+b172d6e3-e972-4ceb-bbe4-33fc911577ab,codestral-22b,6,FileNotFoundError,The following.json file does not exist.
+de36b3f4-a134-4148-b7a1-6e8c90dec5ad,codestral-22b,1,FileNotFoundError,The following.json file does not exist.
+de36b3f4-a134-4148-b7a1-6e8c90dec5ad,codestral-22b,2,FileNotFoundError,The following.json file does not exist.
+de36b3f4-a134-4148-b7a1-6e8c90dec5ad,codestral-22b,3,FileNotFoundError,The following.json file does not exist.
+de36b3f4-a134-4148-b7a1-6e8c90dec5ad,codestral-22b,4,FileNotFoundError,The following.json file does not exist.
+de36b3f4-a134-4148-b7a1-6e8c90dec5ad,codestral-22b,5,FileNotFoundError,The following.json file does not exist.
+de36b3f4-a134-4148-b7a1-6e8c90dec5ad,codestral-22b,6,FileNotFoundError,The following.json file does not exist.
+da6aa699-1794-4561-a088-6ce6205e96a0,codestral-22b,1,FileNotFoundError,The followers JSON file does not exist.
+da6aa699-1794-4561-a088-6ce6205e96a0,codestral-22b,2,FileNotFoundError,The followers JSON file does not exist.
+da6aa699-1794-4561-a088-6ce6205e96a0,codestral-22b,3,FileNotFoundError,The followers JSON file does not exist.
+da6aa699-1794-4561-a088-6ce6205e96a0,codestral-22b,4,FileNotFoundError,The followers JSON file does not exist.
+da6aa699-1794-4561-a088-6ce6205e96a0,codestral-22b,5,FileNotFoundError,The followers JSON file does not exist.
+da6aa699-1794-4561-a088-6ce6205e96a0,codestral-22b,6,FileNotFoundError,The followers JSON file does not exist.
+30457a6d-1500-4869-8a07-b2264daf7e09,codestral-22b,1,TypeError,"list indices must be integers or slices, not str"
+30457a6d-1500-4869-8a07-b2264daf7e09,codestral-22b,2,TypeError,"list indices must be integers or slices, not str"
+30457a6d-1500-4869-8a07-b2264daf7e09,codestral-22b,3,TypeError,"list indices must be integers or slices, not str"
+30457a6d-1500-4869-8a07-b2264daf7e09,codestral-22b,4,TypeError,"list indices must be integers or slices, not str"
+30457a6d-1500-4869-8a07-b2264daf7e09,codestral-22b,5,TypeError,"list indices must be integers or slices, not str"
+30457a6d-1500-4869-8a07-b2264daf7e09,codestral-22b,6,TypeError,"list indices must be integers or slices, not str"
+5991ad19-560e-4647-833e-116051131f7b,codestral-22b,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+5991ad19-560e-4647-833e-116051131f7b,codestral-22b,2,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+5991ad19-560e-4647-833e-116051131f7b,codestral-22b,3,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+5991ad19-560e-4647-833e-116051131f7b,codestral-22b,4,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+5991ad19-560e-4647-833e-116051131f7b,codestral-22b,5,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+5991ad19-560e-4647-833e-116051131f7b,codestral-22b,6,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+3fd35cc5-ab31-4973-95d3-4695890083b8,codestral-22b,1,KeyError,'structure'
+3fd35cc5-ab31-4973-95d3-4695890083b8,codestral-22b,2,KeyError,'structure'
+3fd35cc5-ab31-4973-95d3-4695890083b8,codestral-22b,3,KeyError,'structure'
+3fd35cc5-ab31-4973-95d3-4695890083b8,codestral-22b,4,KeyError,'structure'
+3fd35cc5-ab31-4973-95d3-4695890083b8,codestral-22b,5,KeyError,'structure'
+3fd35cc5-ab31-4973-95d3-4695890083b8,codestral-22b,6,KeyError,'structure'
+c2c263cf-b5c0-418c-83c6-b932e860e8f9,codestral-22b,1,TypeError,"string indices must be integers, not 'str'"
+c2c263cf-b5c0-418c-83c6-b932e860e8f9,codestral-22b,2,TypeError,"string indices must be integers, not 'str'"
+c2c263cf-b5c0-418c-83c6-b932e860e8f9,codestral-22b,3,TypeError,"string indices must be integers, not 'str'"
+c2c263cf-b5c0-418c-83c6-b932e860e8f9,codestral-22b,4,TypeError,"string indices must be integers, not 'str'"
+c2c263cf-b5c0-418c-83c6-b932e860e8f9,codestral-22b,5,TypeError,"string indices must be integers, not 'str'"
+c2c263cf-b5c0-418c-83c6-b932e860e8f9,codestral-22b,6,TypeError,"string indices must be integers, not 'str'"
+0e494372-624a-4b33-bf28-a215713fcb06,codestral-22b,1,KeyError,'structure'
+0e494372-624a-4b33-bf28-a215713fcb06,codestral-22b,2,KeyError,'structure'
+0e494372-624a-4b33-bf28-a215713fcb06,codestral-22b,3,KeyError,'structure'
+0e494372-624a-4b33-bf28-a215713fcb06,codestral-22b,4,KeyError,'structure'
+0e494372-624a-4b33-bf28-a215713fcb06,codestral-22b,5,KeyError,'structure'
+0e494372-624a-4b33-bf28-a215713fcb06,codestral-22b,6,KeyError,'structure'
+e6bef93a-4dcc-49a3-865c-b1d29e03e68f,codestral-22b,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-leridash-2025-04-15-tyc7Gjjv\\inbox'
+e6bef93a-4dcc-49a3-865c-b1d29e03e68f,codestral-22b,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-leridash-2025-04-15-tyc7Gjjv\\inbox'
+e6bef93a-4dcc-49a3-865c-b1d29e03e68f,codestral-22b,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-leridash-2025-04-15-tyc7Gjjv\\inbox'
+e6bef93a-4dcc-49a3-865c-b1d29e03e68f,codestral-22b,4,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-leridash-2025-04-15-tyc7Gjjv\\inbox'
+e6bef93a-4dcc-49a3-865c-b1d29e03e68f,codestral-22b,5,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-leridash-2025-04-15-tyc7Gjjv\\inbox'
+e6bef93a-4dcc-49a3-865c-b1d29e03e68f,codestral-22b,6,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-leridash-2025-04-15-tyc7Gjjv\\inbox'
+18b05dc3-c767-43a8-9d05-af0de64317d9,codestral-22b,1,KeyError,'structure'
+18b05dc3-c767-43a8-9d05-af0de64317d9,codestral-22b,2,KeyError,'structure'
+18b05dc3-c767-43a8-9d05-af0de64317d9,codestral-22b,3,KeyError,'structure'
+18b05dc3-c767-43a8-9d05-af0de64317d9,codestral-22b,4,KeyError,'structure'
+18b05dc3-c767-43a8-9d05-af0de64317d9,codestral-22b,5,KeyError,'structure'
+18b05dc3-c767-43a8-9d05-af0de64317d9,codestral-22b,6,KeyError,'structure'
+41bb002e-c4af-44a8-be1e-1763e71c1dfa,codestral-22b,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-06-11-fak0ewfm\\messages\\inbox'
+41bb002e-c4af-44a8-be1e-1763e71c1dfa,codestral-22b,2,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-06-11-fak0ewfm\\messages\\inbox'
+41bb002e-c4af-44a8-be1e-1763e71c1dfa,codestral-22b,3,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-06-11-fak0ewfm\\messages\\inbox'
+41bb002e-c4af-44a8-be1e-1763e71c1dfa,codestral-22b,4,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-06-11-fak0ewfm\\messages\\inbox'
+41bb002e-c4af-44a8-be1e-1763e71c1dfa,codestral-22b,5,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-06-11-fak0ewfm\\messages\\inbox'
+41bb002e-c4af-44a8-be1e-1763e71c1dfa,codestral-22b,6,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-pbrenner96-2024-06-11-fak0ewfm\\messages\\inbox'
+7f889ea3-5a21-4c62-8740-72039e144b2a,codestral-22b,1,KeyError,'structure'
+7f889ea3-5a21-4c62-8740-72039e144b2a,codestral-22b,2,KeyError,'structure'
+7f889ea3-5a21-4c62-8740-72039e144b2a,codestral-22b,3,KeyError,'structure'
+7f889ea3-5a21-4c62-8740-72039e144b2a,codestral-22b,4,KeyError,'structure'
+7f889ea3-5a21-4c62-8740-72039e144b2a,codestral-22b,5,KeyError,'structure'
+7f889ea3-5a21-4c62-8740-72039e144b2a,codestral-22b,6,KeyError,'structure'
+6111f238-4802-48cb-b326-87206866aed6,qwen2.5-72b-instruct,1,ValueError,unconverted data remains: 0056491842
+6111f238-4802-48cb-b326-87206866aed6,qwen2.5-72b-instruct,2,ValueError,unconverted data remains: 0056491842
+6111f238-4802-48cb-b326-87206866aed6,qwen2.5-72b-instruct,3,ValueError,unconverted data remains: 0056491842
+6111f238-4802-48cb-b326-87206866aed6,qwen2.5-72b-instruct,4,ValueError,unconverted data remains: 0056491842
+6111f238-4802-48cb-b326-87206866aed6,qwen2.5-72b-instruct,5,ValueError,unconverted data remains: 0056491842
+7a78dc37-a929-41c2-855d-2a900a4b541e,qwen2.5-72b-instruct,1,TypeError,"Error: list indices must be integers or slices, not str"
+7a78dc37-a929-41c2-855d-2a900a4b541e,qwen2.5-72b-instruct,2,TypeError,"Error: list indices must be integers or slices, not str"
+7a78dc37-a929-41c2-855d-2a900a4b541e,qwen2.5-72b-instruct,3,TypeError,"Error: list indices must be integers or slices, not str"
+7a78dc37-a929-41c2-855d-2a900a4b541e,qwen2.5-72b-instruct,4,TypeError,"Error: list indices must be integers or slices, not str"
+7a78dc37-a929-41c2-855d-2a900a4b541e,qwen2.5-72b-instruct,5,TypeError,"Error: list indices must be integers or slices, not str"
+7a78dc37-a929-41c2-855d-2a900a4b541e,qwen2.5-72b-instruct,6,TypeError,"Error: list indices must be integers or slices, not str"
+a4de4cb9-0fdd-4b33-b489-127235110a7d,qwen2.5-72b-instruct,1,TypeError,"Error: string indices must be integers, not 'str'"
+a4de4cb9-0fdd-4b33-b489-127235110a7d,qwen2.5-72b-instruct,2,TypeError,"Error: string indices must be integers, not 'str'"
+a4de4cb9-0fdd-4b33-b489-127235110a7d,qwen2.5-72b-instruct,3,TypeError,"Error: string indices must be integers, not 'str'"
+a4de4cb9-0fdd-4b33-b489-127235110a7d,qwen2.5-72b-instruct,4,TypeError,"Error: string indices must be integers, not 'str'"
+a4de4cb9-0fdd-4b33-b489-127235110a7d,qwen2.5-72b-instruct,5,TypeError,"Error: string indices must be integers, not 'str'"
+a4de4cb9-0fdd-4b33-b489-127235110a7d,qwen2.5-72b-instruct,6,TypeError,"Error: string indices must be integers, not 'str'"
+0ad00df1-3759-41af-9081-65fdf435faa8,qwen2.5-72b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+0ad00df1-3759-41af-9081-65fdf435faa8,qwen2.5-72b-instruct,2,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+0ad00df1-3759-41af-9081-65fdf435faa8,qwen2.5-72b-instruct,3,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+0ad00df1-3759-41af-9081-65fdf435faa8,qwen2.5-72b-instruct,4,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+0ad00df1-3759-41af-9081-65fdf435faa8,qwen2.5-72b-instruct,5,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+0ad00df1-3759-41af-9081-65fdf435faa8,qwen2.5-72b-instruct,6,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+dd87f6b8-4114-44ce-b17b-384f02d8a19f,qwen2.5-72b-instruct,1,UnicodeEncodeError,Error: Failed to write to CSV - 'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+dd87f6b8-4114-44ce-b17b-384f02d8a19f,qwen2.5-72b-instruct,2,UnicodeEncodeError,Error: Failed to write to CSV - 'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+dd87f6b8-4114-44ce-b17b-384f02d8a19f,qwen2.5-72b-instruct,3,UnicodeEncodeError,Error: Failed to write to CSV - 'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+dd87f6b8-4114-44ce-b17b-384f02d8a19f,qwen2.5-72b-instruct,4,UnicodeEncodeError,Error: Failed to write to CSV - 'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+dd87f6b8-4114-44ce-b17b-384f02d8a19f,qwen2.5-72b-instruct,5,UnicodeEncodeError,Error: Failed to write to CSV - 'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+dd87f6b8-4114-44ce-b17b-384f02d8a19f,qwen2.5-72b-instruct,6,UnicodeEncodeError,Error: Failed to write to CSV - 'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+6388d25b-d908-4ff5-a2f6-6cb578fa89e0,qwen2.5-72b-instruct,1,FileNotFoundError,Error: [Errno 2] No such file or directory: 'datasets/instagram-NEW-2024-01-30-2HB4vDFq_since_account_creation\\your_instagram_activity\\messages\\message_requests\\oussamabenaissainstagramnutzergialucianound10weiterepersonen_429019091696115\\message_1.json'
+c18417c8-2d5b-4bac-abe2-6a876babff4c,qwen2.5-72b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+c18417c8-2d5b-4bac-abe2-6a876babff4c,qwen2.5-72b-instruct,2,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+c18417c8-2d5b-4bac-abe2-6a876babff4c,qwen2.5-72b-instruct,3,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+c18417c8-2d5b-4bac-abe2-6a876babff4c,qwen2.5-72b-instruct,4,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+c18417c8-2d5b-4bac-abe2-6a876babff4c,qwen2.5-72b-instruct,5,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+c18417c8-2d5b-4bac-abe2-6a876babff4c,qwen2.5-72b-instruct,6,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+8c6535b1-957c-4667-8301-ceb274d0ec51,qwen2.5-72b-instruct,1,ValueError,Error: Unexpected error - 'list' object has no attribute 'items'
+b3e6a579-963d-4107-8c4f-00167f26621d,qwen2.5-72b-instruct,1,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+b3e6a579-963d-4107-8c4f-00167f26621d,qwen2.5-72b-instruct,2,UnicodeEncodeError,Error: An error occurred while writing to CSV - 'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+b3e6a579-963d-4107-8c4f-00167f26621d,qwen2.5-72b-instruct,3,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+b3e6a579-963d-4107-8c4f-00167f26621d,qwen2.5-72b-instruct,4,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+b3e6a579-963d-4107-8c4f-00167f26621d,qwen2.5-72b-instruct,5,UnicodeEncodeError,Error: An error occurred while writing to CSV - 'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+b3e6a579-963d-4107-8c4f-00167f26621d,qwen2.5-72b-instruct,6,UnicodeEncodeError,Error: 'charmap' codec can't encode characters in position 9-10: character maps to <undefined>
+9b8f6ead-205d-4d91-9898-3c93d035657e,qwen2.5-72b-instruct,1,InvalidDataFormat,Error: Invalid date format in impression time.
+9b8f6ead-205d-4d91-9898-3c93d035657e,qwen2.5-72b-instruct,2,ParsingError,Error: Unable to parse login time.
+9b8f6ead-205d-4d91-9898-3c93d035657e,qwen2.5-72b-instruct,3,InvalidDataFormat,Error: Invalid date format in impression time.
+9b8f6ead-205d-4d91-9898-3c93d035657e,qwen2.5-72b-instruct,4,InvalidDataFormat,Error: Invalid date format in impression time.
+9b8f6ead-205d-4d91-9898-3c93d035657e,qwen2.5-72b-instruct,5,InvalidDataFormat,Error: Invalid date format in impression time.
+9b8f6ead-205d-4d91-9898-3c93d035657e,qwen2.5-72b-instruct,6,ValueError,Error: Invalid date format in impression_time.
+84e69fe6-e31f-4fa5-8226-8944701caf61,qwen2.5-72b-instruct,1,KeyError,'GerÃ¤te-ID'
+84e69fe6-e31f-4fa5-8226-8944701caf61,qwen2.5-72b-instruct,2,KeyError,'GerÃ¤te-ID'
+84e69fe6-e31f-4fa5-8226-8944701caf61,qwen2.5-72b-instruct,3,ValueError,Error: An unexpected error occurred - 'GerÃ¤te-ID'
+84e69fe6-e31f-4fa5-8226-8944701caf61,qwen2.5-72b-instruct,4,KeyError,'GerÃ¤te-ID'
+84e69fe6-e31f-4fa5-8226-8944701caf61,qwen2.5-72b-instruct,5,KeyError,'GerÃ¤te-ID'
+84e69fe6-e31f-4fa5-8226-8944701caf61,qwen2.5-72b-instruct,6,KeyError,'GerÃ¤te-ID'
+6bf90905-38b7-4493-a725-95efdbdac810,qwen2.5-72b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 6-8: character maps to <undefined>
+6bf90905-38b7-4493-a725-95efdbdac810,qwen2.5-72b-instruct,2,UnicodeEncodeError,Error: 'charmap' codec can't encode characters in position 6-8: character maps to <undefined>
+6bf90905-38b7-4493-a725-95efdbdac810,qwen2.5-72b-instruct,3,SyntaxError,'return' outside function
+ac3b299f-5569-429b-b73b-077226ab3bc2,qwen2.5-72b-instruct,1,FileNotFoundError,Error: The account history file does not exist.
+ac3b299f-5569-429b-b73b-077226ab3bc2,qwen2.5-72b-instruct,2,FileNotFoundError,Error: The account history file does not exist.
+ac3b299f-5569-429b-b73b-077226ab3bc2,qwen2.5-72b-instruct,3,FileNotFoundError,Error: The account history file does not exist.
+ac3b299f-5569-429b-b73b-077226ab3bc2,qwen2.5-72b-instruct,4,FileNotFoundError,Error: The account history file does not exist.
+ac3b299f-5569-429b-b73b-077226ab3bc2,qwen2.5-72b-instruct,5,FileNotFoundError,Error: The account history file does not exist.
+f42c4d71-cf53-4c56-8342-378b957e4146,qwen2.5-72b-instruct,1,FileNotFoundError,The account_changes.json file does not exist.
+af28ca1e-08af-4b35-9a05-385babdb5162,qwen2.5-72b-instruct,1,FileNotFoundError,The account_changes.json file does not exist.
+af28ca1e-08af-4b35-9a05-385babdb5162,qwen2.5-72b-instruct,2,FileNotFoundError,The account_changes.json file does not exist.
+af28ca1e-08af-4b35-9a05-385babdb5162,qwen2.5-72b-instruct,3,FileNotFoundError,The account_changes.json file does not exist.
+af28ca1e-08af-4b35-9a05-385babdb5162,qwen2.5-72b-instruct,4,FileNotFoundError,The account_changes.json file does not exist.
+af28ca1e-08af-4b35-9a05-385babdb5162,qwen2.5-72b-instruct,5,FileNotFoundError,The account_changes.json file does not exist.
+af28ca1e-08af-4b35-9a05-385babdb5162,qwen2.5-72b-instruct,6,FileNotFoundError,Error: The account_changes.json file does not exist.
+110bf37d-2166-4c35-a04e-f067368bafd4,qwen2.5-72b-instruct,1,SyntaxError,'return' outside function
+110bf37d-2166-4c35-a04e-f067368bafd4,qwen2.5-72b-instruct,2,SyntaxError,'return' outside function
+ea4b6c3e-ed6a-42a8-ba88-f1d395721ece,qwen2.5-72b-instruct,1,FileNotFoundError,The account_changes.json file does not exist.
+1a009fce-6722-426b-9352-45a44007bdbb,qwen2.5-72b-instruct,1,FileNotFoundError,Error: The account_changes.json file does not exist.
+1a009fce-6722-426b-9352-45a44007bdbb,qwen2.5-72b-instruct,2,FileNotFoundError,Error: The account_changes.json file does not exist.
+1a009fce-6722-426b-9352-45a44007bdbb,qwen2.5-72b-instruct,3,FileNotFoundError,Error: The account_changes.json file does not exist.
+1a009fce-6722-426b-9352-45a44007bdbb,qwen2.5-72b-instruct,4,FileNotFoundError,Error: The account_changes.json file does not exist.
+1a009fce-6722-426b-9352-45a44007bdbb,qwen2.5-72b-instruct,5,FileNotFoundError,Error: The account_changes.json file does not exist.
+1a009fce-6722-426b-9352-45a44007bdbb,qwen2.5-72b-instruct,6,FileNotFoundError,Error: The account_changes.json file does not exist.
+74f81a30-968d-4426-8d54-f632b6299a3c,qwen2.5-72b-instruct,1,FileNotFoundError,The signup_details.json file does not exist.
+d487019d-2e12-4c41-8000-4ee6fa61943c,qwen2.5-72b-instruct,1,FileNotFoundError,The story_interactions directory does not exist.
+d487019d-2e12-4c41-8000-4ee6fa61943c,qwen2.5-72b-instruct,2,FileNotFoundError,The story_interactions directory does not exist.
+99d7481d-0628-4392-b47e-5c3f8363b537,qwen2.5-72b-instruct,1,UnicodeEncodeError,Error: 'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+99d7481d-0628-4392-b47e-5c3f8363b537,qwen2.5-72b-instruct,2,UnicodeEncodeError,Error: 'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+99d7481d-0628-4392-b47e-5c3f8363b537,qwen2.5-72b-instruct,3,UnicodeEncodeError,Error: 'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+99d7481d-0628-4392-b47e-5c3f8363b537,qwen2.5-72b-instruct,4,UnicodeEncodeError,Error: 'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+99d7481d-0628-4392-b47e-5c3f8363b537,qwen2.5-72b-instruct,5,UnicodeEncodeError,Error: 'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+99d7481d-0628-4392-b47e-5c3f8363b537,qwen2.5-72b-instruct,6,UnicodeEncodeError,Error: 'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+0bdfc40a-9e26-4260-a2c7-83817b2031b5,qwen2.5-72b-instruct,1,FileNotFoundError,Error: The story_interactions directory does not exist.
+0bdfc40a-9e26-4260-a2c7-83817b2031b5,qwen2.5-72b-instruct,2,FileNotFoundError,Error: The story_interactions directory does not exist.
+0bdfc40a-9e26-4260-a2c7-83817b2031b5,qwen2.5-72b-instruct,3,FileNotFoundError,Error: The story_interactions directory does not exist.
+813faaab-54f4-4e77-8c42-dbad7482da87,qwen2.5-72b-instruct,1,FileNotFoundError,The stories directory does not exist.
+b1472adc-9b76-4401-a4b0-779abee9cdac,qwen2.5-72b-instruct,1,KeyError,'structure'
+b1472adc-9b76-4401-a4b0-779abee9cdac,qwen2.5-72b-instruct,2,KeyError,'structure'
+b1472adc-9b76-4401-a4b0-779abee9cdac,qwen2.5-72b-instruct,3,KeyError,'structure'
+b1472adc-9b76-4401-a4b0-779abee9cdac,qwen2.5-72b-instruct,4,KeyError,'structure'
+b1472adc-9b76-4401-a4b0-779abee9cdac,qwen2.5-72b-instruct,5,KeyError,'structure'
+c23a3508-6f15-4f7a-8de3-37e664468858,qwen2.5-72b-instruct,1,AttributeError,Error: 'list' object has no attribute 'get'
+c23a3508-6f15-4f7a-8de3-37e664468858,qwen2.5-72b-instruct,2,AttributeError,Error: 'list' object has no attribute 'get'
+c23a3508-6f15-4f7a-8de3-37e664468858,qwen2.5-72b-instruct,3,AttributeError,Error: 'list' object has no attribute 'get'
+c23a3508-6f15-4f7a-8de3-37e664468858,qwen2.5-72b-instruct,4,AttributeError,Error: 'list' object has no attribute 'items'
+c23a3508-6f15-4f7a-8de3-37e664468858,qwen2.5-72b-instruct,5,AttributeError,Error: 'list' object has no attribute 'items'
+c23a3508-6f15-4f7a-8de3-37e664468858,qwen2.5-72b-instruct,6,AttributeError,Error: 'list' object has no attribute 'get'
+cdde4a23-9cf2-419f-91eb-576fb78fa979,qwen2.5-72b-instruct,1,FileNotFoundError,Error processing likes: Error: The specified JSON file does not exist.
+cdde4a23-9cf2-419f-91eb-576fb78fa979,qwen2.5-72b-instruct,2,FileNotFoundError,Error processing likes: Error: The specified JSON file does not exist.
+cdde4a23-9cf2-419f-91eb-576fb78fa979,qwen2.5-72b-instruct,3,FileNotFoundError,Error processing likes: Error: The specified JSON file does not exist.
+cdde4a23-9cf2-419f-91eb-576fb78fa979,qwen2.5-72b-instruct,4,FileNotFoundError,Error processing likes: Error: The specified JSON file does not exist.
+cdde4a23-9cf2-419f-91eb-576fb78fa979,qwen2.5-72b-instruct,5,FileNotFoundError,Error processing likes: Error: The specified JSON file does not exist.
+cdde4a23-9cf2-419f-91eb-576fb78fa979,qwen2.5-72b-instruct,6,FileNotFoundError,Error processing likes: Error: The specified JSON file does not exist.
+9ebba413-ab0e-427f-b3b8-1e95e9ed8c54,qwen2.5-72b-instruct,1,FileNotFoundError,The likes directory does not exist.
+d14757cb-c4e7-4ca9-a851-c184184ba0c0,qwen2.5-72b-instruct,1,FileNotFoundError,Error: The following.json file does not exist.
+d14757cb-c4e7-4ca9-a851-c184184ba0c0,qwen2.5-72b-instruct,2,FileNotFoundError,Error: The following.json file does not exist.
+d14757cb-c4e7-4ca9-a851-c184184ba0c0,qwen2.5-72b-instruct,3,FileNotFoundError,Error: The required 'following.json' file does not exist.
+d14757cb-c4e7-4ca9-a851-c184184ba0c0,qwen2.5-72b-instruct,4,FileNotFoundError,Error: The following.json file does not exist.
+d14757cb-c4e7-4ca9-a851-c184184ba0c0,qwen2.5-72b-instruct,5,FileNotFoundError,Error: The following.json file does not exist.
+d14757cb-c4e7-4ca9-a851-c184184ba0c0,qwen2.5-72b-instruct,6,FileNotFoundError,Error: The following.json file does not exist.
+dae5c328-f146-4032-aa82-e4db7f94974b,qwen2.5-72b-instruct,1,FileNotFoundError,The following.json file does not exist.
+dae5c328-f146-4032-aa82-e4db7f94974b,qwen2.5-72b-instruct,2,FileNotFoundError,The following.json file does not exist.
+dae5c328-f146-4032-aa82-e4db7f94974b,qwen2.5-72b-instruct,3,FileNotFoundError,The following.json file does not exist.
+dae5c328-f146-4032-aa82-e4db7f94974b,qwen2.5-72b-instruct,4,FileNotFoundError,The following.json file does not exist.
+dae5c328-f146-4032-aa82-e4db7f94974b,qwen2.5-72b-instruct,5,FileNotFoundError,The following.json file does not exist.
+dae5c328-f146-4032-aa82-e4db7f94974b,qwen2.5-72b-instruct,6,FileNotFoundError,The following.json file does not exist.
+6b0d8329-59b5-43ae-908a-d2929cb79dab,qwen2.5-72b-instruct,1,FileNotFoundError,Error: The following.json file does not exist.
+6b0d8329-59b5-43ae-908a-d2929cb79dab,qwen2.5-72b-instruct,2,FileNotFoundError,Error: The following.json file does not exist.
+6b0d8329-59b5-43ae-908a-d2929cb79dab,qwen2.5-72b-instruct,3,FileNotFoundError,An error occurred: Error: The 'following.json' file does not exist.
+6b0d8329-59b5-43ae-908a-d2929cb79dab,qwen2.5-72b-instruct,4,FileNotFoundError,Error: The 'following.json' file does not exist.
+6b0d8329-59b5-43ae-908a-d2929cb79dab,qwen2.5-72b-instruct,5,FileNotFoundError,Error: The 'following.json' file does not exist.
+5aa07fac-acc3-41b4-b921-e8bf57642677,qwen2.5-72b-instruct,1,FileNotFoundError,The follow requests directory does not exist.
+5aa07fac-acc3-41b4-b921-e8bf57642677,qwen2.5-72b-instruct,2,FileNotFoundError,The follow requests file does not exist.
+5aa07fac-acc3-41b4-b921-e8bf57642677,qwen2.5-72b-instruct,3,FileNotFoundError,Error: Error: FileNotFoundError: The follow requests file does not exist.
+5aa07fac-acc3-41b4-b921-e8bf57642677,qwen2.5-72b-instruct,4,FileNotFoundError,The follow requests file does not exist.
+5aa07fac-acc3-41b4-b921-e8bf57642677,qwen2.5-72b-instruct,5,FileNotFoundError,The following profiles data does not exist.
+5aa07fac-acc3-41b4-b921-e8bf57642677,qwen2.5-72b-instruct,6,FileNotFoundError,Error: Error: FileNotFoundError: The follow requests file does not exist.
+c453b5c6-1282-4dde-8d30-feec2fd4c4a2,qwen2.5-72b-instruct,1,FileNotFoundError,Error: The following.json file does not exist.
+c453b5c6-1282-4dde-8d30-feec2fd4c4a2,qwen2.5-72b-instruct,2,FileNotFoundError,The following.json file does not exist.
+c453b5c6-1282-4dde-8d30-feec2fd4c4a2,qwen2.5-72b-instruct,3,FileNotFoundError,Error: The following.json file does not exist.
+c453b5c6-1282-4dde-8d30-feec2fd4c4a2,qwen2.5-72b-instruct,4,FileNotFoundError,The following.json file does not exist.
+c453b5c6-1282-4dde-8d30-feec2fd4c4a2,qwen2.5-72b-instruct,5,FileNotFoundError,The following.json file does not exist.
+c453b5c6-1282-4dde-8d30-feec2fd4c4a2,qwen2.5-72b-instruct,6,FileNotFoundError,Error: The following.json file does not exist.
+147dd9be-121c-45ad-9d43-d994c1538cb8,qwen2.5-72b-instruct,1,JSONParsingError,An error occurred: Error: The 'following.json' file does not have the expected structure.
+fbf0764b-587c-4d90-9ed5-fafcb38ec2c3,qwen2.5-72b-instruct,1,FileNotFoundError,Error: The recently_viewed_items.json file does not exist.
+fbf0764b-587c-4d90-9ed5-fafcb38ec2c3,qwen2.5-72b-instruct,2,FileNotFoundError,Error: The viewed_posts.json file does not exist.
+ac2cef85-024e-447c-96fd-5a0abf0688c2,qwen2.5-72b-instruct,1,FileNotFoundError,The views data does not exist.
+8e5fb6f9-a031-4f02-a39d-d3ff5af43a71,qwen2.5-72b-instruct,1,FileNotFoundError,The story_likes.json file does not exist.
+8e5fb6f9-a031-4f02-a39d-d3ff5af43a71,qwen2.5-72b-instruct,2,FileNotFoundError,Error: Error: FileNotFoundError: The story_likes.json file does not exist.
+8e5fb6f9-a031-4f02-a39d-d3ff5af43a71,qwen2.5-72b-instruct,3,FileNotFoundError,The story_likes.json file does not exist.
+8e5fb6f9-a031-4f02-a39d-d3ff5af43a71,qwen2.5-72b-instruct,4,FileNotFoundError,The story_likes.json file does not exist.
+8e5fb6f9-a031-4f02-a39d-d3ff5af43a71,qwen2.5-72b-instruct,5,FileNotFoundError,Error: The required file for liked posts does not exist.
+8e5fb6f9-a031-4f02-a39d-d3ff5af43a71,qwen2.5-72b-instruct,6,FileNotFoundError,The story_likes.json file does not exist.
+5c0c616d-910d-40ee-841f-428b7f19d4be,qwen2.5-72b-instruct,1,FileNotFoundError,The image.jpg file does not exist.
+5c0c616d-910d-40ee-841f-428b7f19d4be,qwen2.5-72b-instruct,2,FileNotFoundError,The image.jpg file does not exist.
+be1126a3-10cf-4519-b8be-7ee7853cbb7b,qwen2.5-72b-instruct,1,FileNotFoundError,The 'inbox' directory does not exist.
+15c9715d-c9de-495f-b94d-01e6cab6d61e,qwen2.5-72b-instruct,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-miger_shkrepa-2025-04-12-HRzejYIL\\inbox'
+c671eea7-af71-4a61-b4e9-80da55d6fa19,qwen2.5-72b-instruct,1,FileNotFoundError,The inbox directory does not exist.
+c671eea7-af71-4a61-b4e9-80da55d6fa19,qwen2.5-72b-instruct,2,FileNotFoundError,The inbox directory does not exist.
+c671eea7-af71-4a61-b4e9-80da55d6fa19,qwen2.5-72b-instruct,3,FileNotFoundError,The inbox directory does not exist.
+c671eea7-af71-4a61-b4e9-80da55d6fa19,qwen2.5-72b-instruct,4,FileNotFoundError,The inbox directory does not exist.
+c671eea7-af71-4a61-b4e9-80da55d6fa19,qwen2.5-72b-instruct,5,FileNotFoundError,The inbox directory does not exist.
+c671eea7-af71-4a61-b4e9-80da55d6fa19,qwen2.5-72b-instruct,6,FileNotFoundError,The inbox directory does not exist.
+07300b28-df7a-4130-9a86-e84669b785b1,qwen2.5-72b-instruct,1,FileNotFoundError,The inbox directory does not exist.
+07300b28-df7a-4130-9a86-e84669b785b1,qwen2.5-72b-instruct,2,FileNotFoundError,The inbox directory does not exist.
+07300b28-df7a-4130-9a86-e84669b785b1,qwen2.5-72b-instruct,3,FileNotFoundError,The inbox directory does not exist.
+0954d785-3c26-4ce9-ab0f-05cd54f5900a,qwen2.5-72b-instruct,1,FileNotFoundError,Error: [Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+68121bde-f0e9-4374-afe4-7a6e463c6048,qwen2.5-72b-instruct,1,FileNotFoundError,The inbox directory does not exist.
+68121bde-f0e9-4374-afe4-7a6e463c6048,qwen2.5-72b-instruct,2,FileNotFoundError,The inbox directory does not exist.
+68121bde-f0e9-4374-afe4-7a6e463c6048,qwen2.5-72b-instruct,3,FileNotFoundError,The inbox directory does not exist.
+68121bde-f0e9-4374-afe4-7a6e463c6048,qwen2.5-72b-instruct,4,FileNotFoundError,The inbox directory does not exist.
+68121bde-f0e9-4374-afe4-7a6e463c6048,qwen2.5-72b-instruct,5,FileNotFoundError,The inbox directory does not exist.
+68121bde-f0e9-4374-afe4-7a6e463c6048,qwen2.5-72b-instruct,6,FileNotFoundError,The inbox directory does not exist.
+4583047d-d27e-49a0-a79d-4f25ecbf67eb,qwen2.5-72b-instruct,1,FileNotFoundError,The inbox directory does not exist.
+91ab6b4e-d3d1-4d39-95e6-cede30597186,qwen2.5-72b-instruct,1,TypeError,"Error: An unexpected error occurred - string indices must be integers, not 'str'"
+91ab6b4e-d3d1-4d39-95e6-cede30597186,qwen2.5-72b-instruct,2,TypeError,"Error: An unexpected error occurred - string indices must be integers, not 'str'"
+91ab6b4e-d3d1-4d39-95e6-cede30597186,qwen2.5-72b-instruct,3,TypeError,"Error: An unexpected error occurred - string indices must be integers, not 'str'"
+91ab6b4e-d3d1-4d39-95e6-cede30597186,qwen2.5-72b-instruct,4,TypeError,"Error: An unexpected error occurred while processing the data: string indices must be integers, not 'str'"
+91ab6b4e-d3d1-4d39-95e6-cede30597186,qwen2.5-72b-instruct,5,TypeError,"Error: An unexpected error occurred - string indices must be integers, not 'str'"
+91ab6b4e-d3d1-4d39-95e6-cede30597186,qwen2.5-72b-instruct,6,TypeError,"Error: An unexpected error occurred - string indices must be integers, not 'str'"
+3e3f6087-c44e-4963-8346-dc04990f3046,meta-llama-3.1-70b-instruct,1,SyntaxError,unterminated string literal (detected at line 22)
+3e3f6087-c44e-4963-8346-dc04990f3046,meta-llama-3.1-70b-instruct,2,SyntaxError,unterminated string literal (detected at line 22)
+3e3f6087-c44e-4963-8346-dc04990f3046,meta-llama-3.1-70b-instruct,3,SyntaxError,unterminated string literal (detected at line 22)
+3e3f6087-c44e-4963-8346-dc04990f3046,meta-llama-3.1-70b-instruct,4,SyntaxError,unterminated string literal (detected at line 22)
+3e3f6087-c44e-4963-8346-dc04990f3046,meta-llama-3.1-70b-instruct,5,SyntaxError,unterminated string literal (detected at line 22)
+3e3f6087-c44e-4963-8346-dc04990f3046,meta-llama-3.1-70b-instruct,6,SyntaxError,unterminated string literal (detected at line 22)
+49744e02-1e3a-4248-90e0-d70cfec05fc2,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9b' in position 6: character maps to <undefined>
+4c93d4f8-8091-4e66-b875-5aafc3a9d351,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x82' in position 1: character maps to <undefined>
+69f909a6-fb8d-4ac0-859d-a179858b1358,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The story_interactions directory does not exist.
+69f909a6-fb8d-4ac0-859d-a179858b1358,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The story_interactions directory does not exist.
+69f909a6-fb8d-4ac0-859d-a179858b1358,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The story_interactions directory does not exist.
+69f909a6-fb8d-4ac0-859d-a179858b1358,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The root directory does not exist.
+69f909a6-fb8d-4ac0-859d-a179858b1358,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The story_interactions directory does not exist.
+69f909a6-fb8d-4ac0-859d-a179858b1358,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The story_interactions directory does not exist.
+51db3062-2a60-41cc-80d8-c5533db30ce9,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,Error: Error: Failed to write to CSV - 'charmap' codec can't encode character '\x82' in position 5: character maps to <undefined>
+51db3062-2a60-41cc-80d8-c5533db30ce9,meta-llama-3.1-70b-instruct,2,UnicodeEncodeError,'charmap' codec can't encode character '\x82' in position 5: character maps to <undefined>
+51db3062-2a60-41cc-80d8-c5533db30ce9,meta-llama-3.1-70b-instruct,3,UnicodeEncodeError,'charmap' codec can't encode character '\x82' in position 5: character maps to <undefined>
+51db3062-2a60-41cc-80d8-c5533db30ce9,meta-llama-3.1-70b-instruct,4,UnicodeEncodeError,Error: Error: 'charmap' codec can't encode character '\x82' in position 5: character maps to <undefined>
+51db3062-2a60-41cc-80d8-c5533db30ce9,meta-llama-3.1-70b-instruct,5,UnicodeEncodeError,'charmap' codec can't encode character '\x82' in position 5: character maps to <undefined>
+51db3062-2a60-41cc-80d8-c5533db30ce9,meta-llama-3.1-70b-instruct,6,UnicodeEncodeError,Error: Error: 'charmap' codec can't encode character '\x82' in position 5: character maps to <undefined>
+4c1f7cb5-fe37-47fe-b2fc-01db915ccf0d,meta-llama-3.1-70b-instruct,1,FileNotFoundError,[WinError 3] The system cannot find the path specified: 'datasets/instagram-leridash-2025-04-15-tyc7Gjjv\\media\\recently_deleted\\202503\\AQOtK2VLc4YkYzqMsCWEIyc8NgYP10rzbOEvae6N2nLPPPquBLNSDWs1OzIyz4UY66c5X4sYD3CTRQEo9DuoOw3HY2raEZSIC2djA_17959040456776152.mp4'
+4c1f7cb5-fe37-47fe-b2fc-01db915ccf0d,meta-llama-3.1-70b-instruct,2,FileNotFoundError,Error: Error: [WinError 3] The system cannot find the path specified: 'datasets/instagram-leridash-2025-04-15-tyc7Gjjv\\media\\recently_deleted\\202503\\AQOtK2VLc4YkYzqMsCWEIyc8NgYP10rzbOEvae6N2nLPPPquBLNSDWs1OzIyz4UY66c5X4sYD3CTRQEo9DuoOw3HY2raEZSIC2djA_17959040456776152.mp4'
+d1f29917-cb83-41f3-9716-6d7045be5d48,meta-llama-3.1-70b-instruct,1,FileNotFoundError,Error: The 'posts_viewed.json' file does not exist.
+bece3671-bc25-4602-86d9-64663f4e645f,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x9c' in position 1: character maps to <undefined>
+bece3671-bc25-4602-86d9-64663f4e645f,meta-llama-3.1-70b-instruct,2,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x91' in position 1: character maps to <undefined>
+bece3671-bc25-4602-86d9-64663f4e645f,meta-llama-3.1-70b-instruct,3,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x89' in position 1: character maps to <undefined>
+bece3671-bc25-4602-86d9-64663f4e645f,meta-llama-3.1-70b-instruct,4,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x83' in position 10: character maps to <undefined>
+bece3671-bc25-4602-86d9-64663f4e645f,meta-llama-3.1-70b-instruct,5,UnicodeEncodeError,'charmap' codec can't encode character '\x80' in position 17: character maps to <undefined>
+bece3671-bc25-4602-86d9-64663f4e645f,meta-llama-3.1-70b-instruct,6,UnicodeEncodeError,'charmap' codec can't encode characters in position 9-10: character maps to <undefined>
+03d3c325-808f-40cb-ace3-b0cf830db59a,meta-llama-3.1-70b-instruct,1,KeyError,'value'
+03d3c325-808f-40cb-ace3-b0cf830db59a,meta-llama-3.1-70b-instruct,2,UnicodeEncodeError,Error: Error: Failed to write to CSV - 'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+03d3c325-808f-40cb-ace3-b0cf830db59a,meta-llama-3.1-70b-instruct,3,KeyError,'value'
+03d3c325-808f-40cb-ace3-b0cf830db59a,meta-llama-3.1-70b-instruct,4,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+03d3c325-808f-40cb-ace3-b0cf830db59a,meta-llama-3.1-70b-instruct,5,KeyError,'value'
+f660bc93-95d7-4371-9bb5-ca4564e30526,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode character '\x87' in position 18: character maps to <undefined>
+f660bc93-95d7-4371-9bb5-ca4564e30526,meta-llama-3.1-70b-instruct,2,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-2: character maps to <undefined>
+f660bc93-95d7-4371-9bb5-ca4564e30526,meta-llama-3.1-70b-instruct,3,UnicodeEncodeError,'charmap' codec can't encode character '\x99' in position 11: character maps to <undefined>
+f660bc93-95d7-4371-9bb5-ca4564e30526,meta-llama-3.1-70b-instruct,4,UnicodeEncodeError,'charmap' codec can't encode characters in position 9-10: character maps to <undefined>
+f660bc93-95d7-4371-9bb5-ca4564e30526,meta-llama-3.1-70b-instruct,5,UnicodeEncodeError,'charmap' codec can't encode characters in position 9-10: character maps to <undefined>
+f660bc93-95d7-4371-9bb5-ca4564e30526,meta-llama-3.1-70b-instruct,6,UnicodeEncodeError,'charmap' codec can't encode character '\x87' in position 18: character maps to <undefined>
+1e0fde11-de2b-4d0d-a23d-ae720d1ec784,meta-llama-3.1-70b-instruct,1,FileNotFoundError,Error: Error: FileNotFoundError: The followers_and_following directory does not exist.
+1e0fde11-de2b-4d0d-a23d-ae720d1ec784,meta-llama-3.1-70b-instruct,2,FileNotFoundError,Error: The followers_and_following directory does not exist.
+1e0fde11-de2b-4d0d-a23d-ae720d1ec784,meta-llama-3.1-70b-instruct,3,FileNotFoundError,Error: The followers_and_following directory does not exist.
+1e0fde11-de2b-4d0d-a23d-ae720d1ec784,meta-llama-3.1-70b-instruct,4,FileNotFoundError,Error: The followers_and_following directory does not exist.
+1e0fde11-de2b-4d0d-a23d-ae720d1ec784,meta-llama-3.1-70b-instruct,5,FileNotFoundError,Error: The followers_and_following directory does not exist.
+1e0fde11-de2b-4d0d-a23d-ae720d1ec784,meta-llama-3.1-70b-instruct,6,FileNotFoundError,Error: The followers_and_following directory does not exist.
+3d93eebb-f2de-4aab-8c6e-d33d41d1413f,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,Error: Error: 'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+3d93eebb-f2de-4aab-8c6e-d33d41d1413f,meta-llama-3.1-70b-instruct,2,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+3d93eebb-f2de-4aab-8c6e-d33d41d1413f,meta-llama-3.1-70b-instruct,3,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+3d93eebb-f2de-4aab-8c6e-d33d41d1413f,meta-llama-3.1-70b-instruct,4,UnicodeEncodeError,'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+3d93eebb-f2de-4aab-8c6e-d33d41d1413f,meta-llama-3.1-70b-instruct,5,UnicodeEncodeError,Error: 'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+3d93eebb-f2de-4aab-8c6e-d33d41d1413f,meta-llama-3.1-70b-instruct,6,UnicodeEncodeError,Error: Error: 'charmap' codec can't encode character '\x8f' in position 5: character maps to <undefined>
+f84d5f8b-3700-4250-92f8-d988f4acd9dc,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,Error: Error: 'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+f84d5f8b-3700-4250-92f8-d988f4acd9dc,meta-llama-3.1-70b-instruct,2,UnicodeEncodeError,Error: Error: 'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+f84d5f8b-3700-4250-92f8-d988f4acd9dc,meta-llama-3.1-70b-instruct,3,UnicodeEncodeError,Error: Error: 'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+f84d5f8b-3700-4250-92f8-d988f4acd9dc,meta-llama-3.1-70b-instruct,4,UnicodeEncodeError,Error: Error: 'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+f84d5f8b-3700-4250-92f8-d988f4acd9dc,meta-llama-3.1-70b-instruct,5,UnicodeEncodeError,Error: Error: 'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+f84d5f8b-3700-4250-92f8-d988f4acd9dc,meta-llama-3.1-70b-instruct,6,UnicodeEncodeError,Error: Error: 'charmap' codec can't encode character '\x82' in position 4: character maps to <undefined>
+89a5cb0f-90cc-45b9-a3c5-b9f043238cef,meta-llama-3.1-70b-instruct,1,ValueError,Error: Error: ValueError: name 'true' is not defined
+89a5cb0f-90cc-45b9-a3c5-b9f043238cef,meta-llama-3.1-70b-instruct,2,ValueError,Error: Error: ValueError: Error parsing JSON file: name 'true' is not defined
+89a5cb0f-90cc-45b9-a3c5-b9f043238cef,meta-llama-3.1-70b-instruct,3,NameError,name 'true' is not defined. Did you mean: 'True'?
+89a5cb0f-90cc-45b9-a3c5-b9f043238cef,meta-llama-3.1-70b-instruct,4,ValueError,name 'true' is not defined
+89a5cb0f-90cc-45b9-a3c5-b9f043238cef,meta-llama-3.1-70b-instruct,5,ValueError,Error: Error: ValueError: name 'true' is not defined
+89a5cb0f-90cc-45b9-a3c5-b9f043238cef,meta-llama-3.1-70b-instruct,6,NameError,name 'true' is not defined. Did you mean: 'True'?
+ec4a46b4-8052-4aef-a4b4-7456fe23c79b,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The devices.json file does not exist.
+ec4a46b4-8052-4aef-a4b4-7456fe23c79b,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The devices.json file does not exist.
+ec4a46b4-8052-4aef-a4b4-7456fe23c79b,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The devices.json file does not exist.
+ec4a46b4-8052-4aef-a4b4-7456fe23c79b,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The devices.json file does not exist.
+ec4a46b4-8052-4aef-a4b4-7456fe23c79b,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The devices.json file does not exist.
+ec4a46b4-8052-4aef-a4b4-7456fe23c79b,meta-llama-3.1-70b-instruct,6,FileNotFoundError,Error: Error: FileNotFoundError: The devices.json file does not exist.
+e516d5b7-26dc-4b68-b706-156ac499d267,meta-llama-3.1-70b-instruct,1,FileNotFoundError,Error: Error: Failed to parse JSON file: [Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+e516d5b7-26dc-4b68-b706-156ac499d267,meta-llama-3.1-70b-instruct,2,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+e516d5b7-26dc-4b68-b706-156ac499d267,meta-llama-3.1-70b-instruct,3,FileNotFoundError,Error: Error: Error: Failed to parse JSON file: [Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+e516d5b7-26dc-4b68-b706-156ac499d267,meta-llama-3.1-70b-instruct,4,FileNotFoundError,[Errno 2] No such file or directory: 'datasets/instagram-NEW4-2024-02-06-FTQ9jtOp_with_countdown\\your_instagram_activity\\messages\\message_requests\\cristianotroisdeoliveirahanserhardtmattihaapojaund11weiterepersonen_2987429321479882\\message_1.json'
+5e0fd85a-2ce2-4d7b-9805-0eda244c5732,meta-llama-3.1-70b-instruct,1,AttributeError,Failed to get device login information. ValueError: Failed to parse the 'devices.json' file. 'str' object has no attribute 'get'
+07260937-3677-42a9-96c8-48a178db16c9,meta-llama-3.1-70b-instruct,1,TypeError,"int() argument must be a string, a bytes-like object or a real number, not 'dict'"
+07260937-3677-42a9-96c8-48a178db16c9,meta-llama-3.1-70b-instruct,2,KeyError,'Device ID'
+07260937-3677-42a9-96c8-48a178db16c9,meta-llama-3.1-70b-instruct,3,TypeError,"int() argument must be a string, a bytes-like object or a real number, not 'dict'"
+07260937-3677-42a9-96c8-48a178db16c9,meta-llama-3.1-70b-instruct,4,TypeError,"int() argument must be a string, a bytes-like object or a real number, not 'dict'"
+07260937-3677-42a9-96c8-48a178db16c9,meta-llama-3.1-70b-instruct,5,KeyError,'Device ID'
+e3dc7fc6-4948-4108-9d1c-7764c13f0802,meta-llama-3.1-70b-instruct,1,SyntaxError,Error: Error: invalid literal for int() with base 10: ''
+80aaae0e-60de-43e6-a3e4-7b80729c0b2b,meta-llama-3.1-70b-instruct,1,AttributeError,'str' object has no attribute 'get'
+80aaae0e-60de-43e6-a3e4-7b80729c0b2b,meta-llama-3.1-70b-instruct,2,AttributeError,'str' object has no attribute 'get'
+80aaae0e-60de-43e6-a3e4-7b80729c0b2b,meta-llama-3.1-70b-instruct,3,AttributeError,'str' object has no attribute 'get'
+80aaae0e-60de-43e6-a3e4-7b80729c0b2b,meta-llama-3.1-70b-instruct,4,AttributeError,'str' object has no attribute 'get'
+80aaae0e-60de-43e6-a3e4-7b80729c0b2b,meta-llama-3.1-70b-instruct,5,AttributeError,'str' object has no attribute 'get'
+74beef1b-30f4-4de0-bf79-2610362f62c1,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,'charmap' codec can't encode characters in position 12-14: character maps to <undefined>
+74beef1b-30f4-4de0-bf79-2610362f62c1,meta-llama-3.1-70b-instruct,2,UnicodeEncodeError,'charmap' codec can't encode characters in position 12-14: character maps to <undefined>
+74beef1b-30f4-4de0-bf79-2610362f62c1,meta-llama-3.1-70b-instruct,3,UnicodeEncodeError,'charmap' codec can't encode characters in position 12-14: character maps to <undefined>
+74beef1b-30f4-4de0-bf79-2610362f62c1,meta-llama-3.1-70b-instruct,4,UnicodeEncodeError,'charmap' codec can't encode characters in position 12-14: character maps to <undefined>
+74beef1b-30f4-4de0-bf79-2610362f62c1,meta-llama-3.1-70b-instruct,5,UnicodeEncodeError,'charmap' codec can't encode characters in position 12-14: character maps to <undefined>
+74beef1b-30f4-4de0-bf79-2610362f62c1,meta-llama-3.1-70b-instruct,6,UnicodeEncodeError,'charmap' codec can't encode characters in position 12-14: character maps to <undefined>
+cacc7ae0-346e-4e24-a1a0-62efe9ee9c70,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The account_history_registration_info directory does not exist.
+cacc7ae0-346e-4e24-a1a0-62efe9ee9c70,meta-llama-3.1-70b-instruct,2,FileNotFoundError,Error: The account history registration info directory does not exist.
+cacc7ae0-346e-4e24-a1a0-62efe9ee9c70,meta-llama-3.1-70b-instruct,3,FileNotFoundError,Error: The account history registration info directory does not exist.
+cacc7ae0-346e-4e24-a1a0-62efe9ee9c70,meta-llama-3.1-70b-instruct,4,FileNotFoundError,Error: The account history registration info directory does not exist.
+cacc7ae0-346e-4e24-a1a0-62efe9ee9c70,meta-llama-3.1-70b-instruct,5,FileNotFoundError,Error: The account history registration info directory does not exist.
+cacc7ae0-346e-4e24-a1a0-62efe9ee9c70,meta-llama-3.1-70b-instruct,6,FileNotFoundError,Error: The account_history_registration_info directory does not exist.
+8525665e-149e-4a79-8bb6-1019eed73e2c,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The string_map_data.json file does not exist.
+1b4e6d21-1eee-4a9f-a3f7-8ba8bfee0c32,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The signup_details.json file does not exist.
+1b4e6d21-1eee-4a9f-a3f7-8ba8bfee0c32,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The signup_details.json file does not exist.
+1b4e6d21-1eee-4a9f-a3f7-8ba8bfee0c32,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The signup_details.json file does not exist.
+1b4e6d21-1eee-4a9f-a3f7-8ba8bfee0c32,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The signup_details.json file does not exist.
+1b4e6d21-1eee-4a9f-a3f7-8ba8bfee0c32,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The signup_details.json file does not exist.
+1b4e6d21-1eee-4a9f-a3f7-8ba8bfee0c32,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The signup_details.json file does not exist.
+b6658b5c-2496-4fcc-abc4-f39fe67e28c3,meta-llama-3.1-70b-instruct,1,FileNotFoundError,Error: The story_interactions directory does not exist.
+b6658b5c-2496-4fcc-abc4-f39fe67e28c3,meta-llama-3.1-70b-instruct,2,FileNotFoundError,Error: The story_interactions directory does not exist.
+b6658b5c-2496-4fcc-abc4-f39fe67e28c3,meta-llama-3.1-70b-instruct,3,FileNotFoundError,Error: The story_interactions directory does not exist.
+b6658b5c-2496-4fcc-abc4-f39fe67e28c3,meta-llama-3.1-70b-instruct,4,FileNotFoundError,Error: The story_interactions directory does not exist.
+b6658b5c-2496-4fcc-abc4-f39fe67e28c3,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The story_interactions directory does not exist.
+b6658b5c-2496-4fcc-abc4-f39fe67e28c3,meta-llama-3.1-70b-instruct,6,FileNotFoundError,Error: The story_interactions directory does not exist.
+78c88a96-c8dd-49ad-b931-a466c1ae1026,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The story_interactions directory does not exist.
+78c88a96-c8dd-49ad-b931-a466c1ae1026,meta-llama-3.1-70b-instruct,2,FileNotFoundError,Error: The story_interactions directory does not exist.
+78c88a96-c8dd-49ad-b931-a466c1ae1026,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The story_interactions directory does not exist.
+e9e7bedb-096c-4aeb-bb0d-c18b11038c44,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,Error: Error: 'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+e9e7bedb-096c-4aeb-bb0d-c18b11038c44,meta-llama-3.1-70b-instruct,2,UnicodeEncodeError,Error: Error: 'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+e9e7bedb-096c-4aeb-bb0d-c18b11038c44,meta-llama-3.1-70b-instruct,3,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+e9e7bedb-096c-4aeb-bb0d-c18b11038c44,meta-llama-3.1-70b-instruct,4,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+e9e7bedb-096c-4aeb-bb0d-c18b11038c44,meta-llama-3.1-70b-instruct,5,UnicodeEncodeError,Error: Error: 'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+e9e7bedb-096c-4aeb-bb0d-c18b11038c44,meta-llama-3.1-70b-instruct,6,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+21f1c141-174d-430d-9053-7c741989f2b8,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,Error: Error: 'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+21f1c141-174d-430d-9053-7c741989f2b8,meta-llama-3.1-70b-instruct,2,TypeError,Error: Error: argument of type 'int' is not iterable
+21f1c141-174d-430d-9053-7c741989f2b8,meta-llama-3.1-70b-instruct,3,TypeError,Error: Error: argument of type 'int' is not iterable
+21f1c141-174d-430d-9053-7c741989f2b8,meta-llama-3.1-70b-instruct,4,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+21f1c141-174d-430d-9053-7c741989f2b8,meta-llama-3.1-70b-instruct,5,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+21f1c141-174d-430d-9053-7c741989f2b8,meta-llama-3.1-70b-instruct,6,UnicodeEncodeError,'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+be37d084-a46a-415b-90fa-1b6464ff4133,meta-llama-3.1-70b-instruct,1,UnicodeEncodeError,Error: Error: 'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+be37d084-a46a-415b-90fa-1b6464ff4133,meta-llama-3.1-70b-instruct,2,UnicodeEncodeError,Error: 'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+be37d084-a46a-415b-90fa-1b6464ff4133,meta-llama-3.1-70b-instruct,3,UnicodeEncodeError,Error: Error: 'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+be37d084-a46a-415b-90fa-1b6464ff4133,meta-llama-3.1-70b-instruct,4,KeyError,Error: Error: 'value'
+be37d084-a46a-415b-90fa-1b6464ff4133,meta-llama-3.1-70b-instruct,5,UnicodeEncodeError,Error: 'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+be37d084-a46a-415b-90fa-1b6464ff4133,meta-llama-3.1-70b-instruct,6,UnicodeEncodeError,Error: Error: 'charmap' codec can't encode characters in position 1-3: character maps to <undefined>
+c8de55f9-0bb4-4239-b22d-81c3cae49886,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The recent_follow_requests.json file does not exist.
+c8de55f9-0bb4-4239-b22d-81c3cae49886,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The recent_follow_requests.json file does not exist.
+c8de55f9-0bb4-4239-b22d-81c3cae49886,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The recent_follow_requests.json file does not exist.
+c8de55f9-0bb4-4239-b22d-81c3cae49886,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The recent_follow_requests.json file does not exist.
+b51a19f9-3fd3-4812-9961-e072f0b20ce3,meta-llama-3.1-70b-instruct,1,FileNotFoundError,Error: Error: Error: Error: FileNotFoundError: The recently_unfollowed_profiles.json file does not exist.
+0fb52572-c5cc-4a5a-97c7-711e69c7bff9,meta-llama-3.1-70b-instruct,1,FileNotFoundError,Error: Error: Error: FileNotFoundError: The following.json file does not exist.
+2ecc6d5a-1a8a-431a-8ae0-2fa7a0beea69,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The following.json file does not exist.
+2ecc6d5a-1a8a-431a-8ae0-2fa7a0beea69,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The following.json file does not exist.
+2ecc6d5a-1a8a-431a-8ae0-2fa7a0beea69,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The following.json file does not exist.
+2ecc6d5a-1a8a-431a-8ae0-2fa7a0beea69,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The following.json file does not exist.
+2ecc6d5a-1a8a-431a-8ae0-2fa7a0beea69,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The following.json file does not exist.
+2ecc6d5a-1a8a-431a-8ae0-2fa7a0beea69,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The following.json file does not exist.
+9f68b034-bad7-44f1-8fee-94627d4e7438,meta-llama-3.1-70b-instruct,1,KeyError,'followers_and_following_following'
+9f68b034-bad7-44f1-8fee-94627d4e7438,meta-llama-3.1-70b-instruct,2,KeyError,'followers_and_following_following'
+9f68b034-bad7-44f1-8fee-94627d4e7438,meta-llama-3.1-70b-instruct,3,KeyError,'followers_and_following_following'
+9f68b034-bad7-44f1-8fee-94627d4e7438,meta-llama-3.1-70b-instruct,4,KeyError,'followers_and_following_following'
+9f68b034-bad7-44f1-8fee-94627d4e7438,meta-llama-3.1-70b-instruct,5,KeyError,'followers_and_following_following'
+9f68b034-bad7-44f1-8fee-94627d4e7438,meta-llama-3.1-70b-instruct,6,KeyError,'followers_and_following_following'
+0c16ba3e-6271-477f-8195-ca0a8dda4964,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The following.json file does not exist.
+0c16ba3e-6271-477f-8195-ca0a8dda4964,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The following.json file does not exist.
+0c16ba3e-6271-477f-8195-ca0a8dda4964,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The following.json file does not exist.
+0c16ba3e-6271-477f-8195-ca0a8dda4964,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The following.json file does not exist.
+0c16ba3e-6271-477f-8195-ca0a8dda4964,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The following.json file does not exist.
+0c16ba3e-6271-477f-8195-ca0a8dda4964,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The following.json file does not exist.
+04802f8d-f026-4041-8f75-a04dab3287dd,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The following.json file does not exist.
+04802f8d-f026-4041-8f75-a04dab3287dd,meta-llama-3.1-70b-instruct,2,FileNotFoundError,Error: Error: Error: FileNotFoundError: The following.json file does not exist.
+04802f8d-f026-4041-8f75-a04dab3287dd,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The following.json file does not exist.
+04802f8d-f026-4041-8f75-a04dab3287dd,meta-llama-3.1-70b-instruct,4,FileNotFoundError,Error: Error: Error: FileNotFoundError: The following.json file does not exist.
+4dc9b7dc-9c4e-45b7-8bf9-aad70b60628a,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The relationships_permanent_follow_requests.json file does not exist.
+4dc9b7dc-9c4e-45b7-8bf9-aad70b60628a,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The relationships_permanent_follow_requests.json file does not exist.
+d1e12081-6b40-48cc-a6a2-e7920c918f5b,meta-llama-3.1-70b-instruct,1,FileNotFoundError,Error: Error: Error: FileNotFoundError: The relationships_follow_requests_received.json file does not exist.
+d1e12081-6b40-48cc-a6a2-e7920c918f5b,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The relationships_follow_requests_received.json file does not exist.
+d1e12081-6b40-48cc-a6a2-e7920c918f5b,meta-llama-3.1-70b-instruct,3,FileNotFoundError,Error: Error: Error: FileNotFoundError: The relationships_follow_requests_received.json file does not exist.
+d1e12081-6b40-48cc-a6a2-e7920c918f5b,meta-llama-3.1-70b-instruct,4,FileNotFoundError,Error: Error: Error: FileNotFoundError: The relationships_follow_requests_received.json file does not exist.
+d1e12081-6b40-48cc-a6a2-e7920c918f5b,meta-llama-3.1-70b-instruct,5,FileNotFoundError,The relationships_follow_requests_received.json file does not exist.
+d1e12081-6b40-48cc-a6a2-e7920c918f5b,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The relationships_follow_requests_received.json file does not exist.
+1c831087-ff00-40cb-9844-b25b865a8ab8,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The liked_posts.json file does not exist.
+1c831087-ff00-40cb-9844-b25b865a8ab8,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The liked_posts.json file does not exist.
+1c831087-ff00-40cb-9844-b25b865a8ab8,meta-llama-3.1-70b-instruct,3,FileNotFoundError,The liked_posts.json file does not exist.
+1c831087-ff00-40cb-9844-b25b865a8ab8,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The liked_posts.json file does not exist.
+1c831087-ff00-40cb-9844-b25b865a8ab8,meta-llama-3.1-70b-instruct,5,FileNotFoundError,Error: Error: Error: FileNotFoundError: The liked_posts.json file does not exist.
+1c831087-ff00-40cb-9844-b25b865a8ab8,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The liked_posts.json file does not exist.
+c61ce854-d62f-410f-a33c-f8115e629067,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The story_interactions directory does not exist.
+c61ce854-d62f-410f-a33c-f8115e629067,meta-llama-3.1-70b-instruct,2,FileNotFoundError,The story_interactions directory does not exist.
+c61ce854-d62f-410f-a33c-f8115e629067,meta-llama-3.1-70b-instruct,3,FileNotFoundError,Error: The story_interactions directory does not exist.
+c61ce854-d62f-410f-a33c-f8115e629067,meta-llama-3.1-70b-instruct,4,FileNotFoundError,The story_interactions directory does not exist.
+c61ce854-d62f-410f-a33c-f8115e629067,meta-llama-3.1-70b-instruct,5,FileNotFoundError,Error: Error: Error: FileNotFoundError: The story_interactions directory does not exist.
+c61ce854-d62f-410f-a33c-f8115e629067,meta-llama-3.1-70b-instruct,6,FileNotFoundError,The story_interactions directory does not exist.
+7f444773-7d27-4d08-9678-b717e82f8967,meta-llama-3.1-70b-instruct,1,KeyError,'story_activities_story_likes'
+be6840ee-efa2-4789-bc20-05f95a68a2bc,meta-llama-3.1-70b-instruct,1,FileNotFoundError,The story_likes.json file does not exist.

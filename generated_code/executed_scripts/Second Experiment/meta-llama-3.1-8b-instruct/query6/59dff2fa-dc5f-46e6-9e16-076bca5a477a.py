@@ -1,0 +1,41 @@
+import csv
+import os
+import json
+from datetime import datetime
+
+def get_instagram_changes(root_dir):
+    instagram_changes = []
+    for filename in os.listdir(root_dir):
+        if filename.endswith(".json"):
+            file_path = os.path.join(root_dir, filename)
+            try:
+                with open(file_path, 'r') as file:
+                    data = json.load(file)
+                    if 'instagram_profile_information.json' in filename:
+                        for profile in data['profile_account_insights']:
+                            for key, value in profile['string_map_data'].items():
+                                if key in ['Contact Syncing', 'First Close Friends Story Time', 'First Country Code', 'First Story Time', 'Has Shared Live Video', 'Last Login', 'Last Logout', 'Last Story Time']:
+                                    instagram_changes.append({
+                                        'Changed': key,
+                                        'New Value': value['value'],
+                                        'Change Date': datetime.fromtimestamp(value['timestamp']).strftime('%Y-%m-%d')
+                                    })
+            except json.JSONDecodeError:
+                raise ValueError("Error: Invalid JSON format in file " + file_path)
+    return instagram_changes
+
+def main():
+    root_dir = "root_dir"
+    try:
+        root_dir = os.path.dirname(root_dir)
+    except NameError:
+        raise FileNotFoundError("FileNotFoundError: The root directory does not exist.")
+    instagram_changes = get_instagram_changes(root_dir)
+    with open('query_responses/results.csv', 'w', newline='') as csvfile:
+        fieldnames = ['Changed', 'New Value', 'Change Date']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(instagram_changes)
+
+if __name__ == "__main__":
+    main()

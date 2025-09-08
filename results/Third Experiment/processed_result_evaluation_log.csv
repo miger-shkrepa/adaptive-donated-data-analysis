@@ -1,0 +1,937 @@
+Experiment ID,Dataset Name,Model,Question,No Data,Precision,Recall,F1,Correct Rows,Extra Rows,Missing Rows,Number of Retries,Successful Code Exec. Duration,Total Duration
+f05a6d25-46b7-45bf-a3e7-adae2e2eb37c,86b59acea929,qwen2.5-72b-instruct,How often does a user see advertisements and about which topics (from which companies)?,True,1.0,1.0,1.0,0,0,0,0,0.13,19.51
+5eb07b3b-1ecf-4542-9db3-69a609204f5a,b70bc07b63be,qwen2.5-72b-instruct,How often does a user see advertisements and about which topics (from which companies)?,True,1.0,1.0,1.0,0,0,0,0,0.09,16.16
+e2aadafd-4ff7-4b31-bbcc-0a057fbe1a6c,efc2df336587,qwen2.5-72b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,1.0,1.0,1.0,16,0,0,0,0.06,16.94
+3b15aef4-56b8-4d0c-a9d7-b8748ac9dddf,3ccff49e121d,qwen2.5-72b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,1.0,1.0,1.0,17,0,0,0,0.07,13.56
+1b960c92-aaae-43d5-86b5-a7b3d02c3604,ab368ab82b0f,qwen2.5-72b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,1.0,1.0,1.0,19,0,0,0,0.07,14.46
+91ceb78a-9838-4b7f-88b5-f62df9af9424,ea89d62a1f88,qwen2.5-72b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,1.0,1.0,1.0,14,0,0,0,0.07,16.59
+31afd4d6-bfb9-4ff8-92e9-d11c6779c10a,a352e9bb575a,qwen2.5-72b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,0.0,0.0,0.0,0,0,14,0,0.07,27.73
+17049501-73ce-4202-87cc-6bc6cccc7651,1ccacb482d0e,qwen2.5-72b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,1.0,1.0,1.0,1,0,0,0,0.07,14.61
+9c44c30c-88dd-4599-87aa-7cb905cb7946,fd23adcc813f,qwen2.5-72b-instruct,How often does a user see advertisements and about which topics (from which companies)?,True,0.0,0.0,0.0,0,4,0,0,0.07,37.95
+252765e7-7071-49ee-b817-34e54a1488c2,19e1254c13f5,qwen2.5-72b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,1.0,1.0,1.0,3,0,0,0,0.07,52.91
+d3ad9c8c-18a7-4e23-b93e-204ba71bc105,ec2df5440d1e,qwen2.5-72b-instruct,How often does a user see advertisements and about which topics (from which companies)?,True,0.0,0.0,0.0,0,16,0,0,0.07,18.15
+00921f06-df26-44da-b73a-c87d8536cd2d,be30c03571e6,qwen2.5-72b-instruct,How often does a user see advertisements and about which topics (from which companies)?,True,0.0,0.0,0.0,0,2,0,0,0.07,13.48
+ae2c96b8-f7f0-4cc6-bc29-1d5ec5a34314,9dd5c6ef7491,qwen2.5-72b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,1.0,1.0,1.0,4,0,0,0,0.07,13.97
+417ae6bc-8b50-4093-9029-da95aebffe1c,86b59acea929,meta-llama-3.1-8b-instruct,What topics does Instagram determine to be of interest for a user?,True,1.0,1.0,1.0,0,0,0,0,0.06,4.35
+be8c77ce-1880-4888-a59b-9d5e8ffceca6,b70bc07b63be,meta-llama-3.1-8b-instruct,What topics does Instagram determine to be of interest for a user?,True,1.0,1.0,1.0,0,0,0,0,0.06,5.34
+fcb79771-a6b5-4e61-847e-a288d50d52b2,efc2df336587,meta-llama-3.1-8b-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,0,32,0,0.07,16.7
+c5e7c61e-8b1d-4da3-9f17-fa780dfdc238,3ccff49e121d,meta-llama-3.1-8b-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,0,20,0,0.06,6.55
+3c91f4fb-e9a2-482d-a16b-c4dedf9c7b60,ab368ab82b0f,meta-llama-3.1-8b-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,0,20,0,0.06,5.56
+e29b7efc-9486-45af-933a-96681162337c,ea89d62a1f88,meta-llama-3.1-8b-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,0,6,0,0.07,18.53
+4b2bfdf8-5b5f-4554-9750-d035c4e80566,a352e9bb575a,meta-llama-3.1-8b-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,0,6,0,0.08,5.7
+d9c995c1-8a64-4ca6-bf4a-703ab4172be1,1ccacb482d0e,meta-llama-3.1-8b-instruct,What topics does Instagram determine to be of interest for a user?,True,1.0,1.0,1.0,0,0,0,0,0.06,5.11
+7c39c046-9049-4844-a7af-0a7a8a149383,fd23adcc813f,meta-llama-3.1-8b-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,0,125,0,0.06,7.04
+ce33d531-d08d-4b9e-8658-9bc5569fdb4f,19e1254c13f5,meta-llama-3.1-8b-instruct,What topics does Instagram determine to be of interest for a user?,True,1.0,1.0,1.0,0,0,0,0,0.08,6.03
+8a7f45e9-aa67-4ce1-8a7a-09f2aa04fc6b,ec2df5440d1e,meta-llama-3.1-8b-instruct,What topics does Instagram determine to be of interest for a user?,True,1.0,1.0,1.0,0,0,0,0,0.06,6.84
+cf8fe2ec-062b-4f8c-ab4e-4171f16437f9,be30c03571e6,meta-llama-3.1-8b-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,0,42,1,0.08,16.63
+0d768551-fc8e-43d8-956a-bfe60aae1580,9dd5c6ef7491,meta-llama-3.1-8b-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,0,103,0,0.07,4.72
+1c89b6d5-1d31-4508-9eda-fb68c66b66d5,86b59acea929,meta-llama-3.1-8b-instruct,How often does a user see advertisements and about which topics (from which companies)?,True,1.0,1.0,1.0,0,0,0,0,0.09,4.42
+cf22443a-3842-4c8e-a64d-e2348e6ed2b0,b70bc07b63be,meta-llama-3.1-8b-instruct,How often does a user see advertisements and about which topics (from which companies)?,True,1.0,1.0,1.0,0,0,0,0,0.06,4.95
+b2af8810-987d-4e5e-a9c9-c4b2a48004df,efc2df336587,meta-llama-3.1-8b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,0.0,0.0,0.0,0,0,16,3,0.06,27.36
+37447881-fab2-464f-becc-25b65d43fd9a,3ccff49e121d,meta-llama-3.1-8b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,0.0,0.0,0.0,0,0,17,1,0.07,12.42
+528cc48f-eab2-43b5-b636-956e3f20c7c9,ab368ab82b0f,meta-llama-3.1-8b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,0.0,0.0,0.0,0,0,19,2,0.08,26.85
+a1885f04-4959-448a-b7f6-9d0d5bf7b410,ea89d62a1f88,meta-llama-3.1-8b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,0.0,0.0,0.0,0,0,14,1,0.07,16.13
+85d8f8b0-a126-4548-b02b-c0686c5e3d42,a352e9bb575a,meta-llama-3.1-8b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,0.0,0.0,0.0,0,0,14,3,0.05,29.27
+e5a3d36c-f371-4382-8edc-af0bbbb5dc6e,1ccacb482d0e,meta-llama-3.1-8b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,0.0,0.0,0.0,0,0,1,2,0.07,37.42
+454a1fda-c7ff-4427-ad51-925dfac691f8,fd23adcc813f,meta-llama-3.1-8b-instruct,How often does a user see advertisements and about which topics (from which companies)?,True,1.0,1.0,1.0,0,0,0,5,0.07,147.92
+541a8c1f-6abb-4903-b05c-4e80b417c399,19e1254c13f5,meta-llama-3.1-8b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,,,,0,0,0,6,,47.34
+2eee0972-e37a-4025-96dc-93638a61b97d,ec2df5440d1e,meta-llama-3.1-8b-instruct,How often does a user see advertisements and about which topics (from which companies)?,True,0.0,0.0,0.0,0,3,0,0,0.06,12.79
+c0036ec0-d04a-46a5-91e8-d4db92d18efb,be30c03571e6,meta-llama-3.1-8b-instruct,How often does a user see advertisements and about which topics (from which companies)?,True,1.0,1.0,1.0,0,0,0,0,0.08,8.9
+d1196f03-1d4b-46d7-b958-adcabfe52da8,9dd5c6ef7491,meta-llama-3.1-8b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,0.0,0.0,0.0,0,0,4,0,0.08,4.96
+efdc70de-6635-44e2-9a69-03ede1b65eef,86b59acea929,meta-llama-3.1-8b-instruct,How often do people see posts(daily and weekly)?,True,1.0,1.0,1.0,0,0,0,0,0.08,9.71
+035a7556-e396-42b0-9a4a-41aead4410f1,b70bc07b63be,meta-llama-3.1-8b-instruct,How often do people see posts(daily and weekly)?,True,,,,0,0,0,6,,68.03
+9cf62246-3dc7-4cba-b8b2-b0ca05d3a064,efc2df336587,meta-llama-3.1-8b-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,0,10,0,0.06,9.8
+2a909636-df68-4113-8261-8434bd1dbc11,3ccff49e121d,meta-llama-3.1-8b-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,0,10,0,0.08,26.93
+e8656ef0-5795-4a92-9410-626dcd68eb38,ab368ab82b0f,meta-llama-3.1-8b-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,0,10,0,0.07,6.89
+8c1bc2b5-3122-490a-b65b-5bc6dc0c1ef6,ea89d62a1f88,meta-llama-3.1-8b-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,0,9,0,0.08,4.51
+464437ef-7926-4ed2-8f75-6184ae361581,a352e9bb575a,meta-llama-3.1-8b-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,0,9,0,0.08,12.11
+0f94a9c7-8d6f-42f8-960c-0cca6f8f31b6,1ccacb482d0e,meta-llama-3.1-8b-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,0,9,0,0.07,10.5
+be535715-e9b2-4f86-975e-13556b8375cb,fd23adcc813f,meta-llama-3.1-8b-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,0,2,4,0.08,116.54
+f0897002-466a-439b-8b59-455ce7d8d4b3,19e1254c13f5,meta-llama-3.1-8b-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,0,7,0,0.74,7.8
+aa9d2e9d-7ea6-48bc-91cb-dc423251a4ea,ec2df5440d1e,meta-llama-3.1-8b-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,0,5,2,0.07,23.88
+fece922e-aa07-47b1-bc8a-5d6cc0e8044e,be30c03571e6,meta-llama-3.1-8b-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,0,2,0,0.07,9.63
+477d205f-54f5-45c9-9826-85fe2c3d616b,9dd5c6ef7491,meta-llama-3.1-8b-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,0,8,0,0.07,7.11
+55d70f4f-c933-488a-8abd-984fa464fc35,86b59acea929,meta-llama-3.1-8b-instruct,Which companies have access to your Instagram activity or information?,False,0.0,0.0,0.0,0,0,4674,1,0.06,14.1
+3fb8e473-5eda-4bb1-a46c-198af7ef7ba5,b70bc07b63be,meta-llama-3.1-8b-instruct,Which companies have access to your Instagram activity or information?,True,,,,0,0,0,6,,46.92
+2101fd9d-a74e-4f46-849f-dde07b2cd0bb,efc2df336587,meta-llama-3.1-8b-instruct,Which companies have access to your Instagram activity or information?,False,0.0,0.0,0.0,0,0,492,0,0.06,10.1
+02ac8f15-cdd6-4120-8308-734d901e967e,3ccff49e121d,meta-llama-3.1-8b-instruct,Which companies have access to your Instagram activity or information?,False,0.0,0.0,0.0,0,0,452,0,0.06,7.71
+29b5ad59-ba1f-4c1a-bf04-e60fa6d2fe6c,ab368ab82b0f,meta-llama-3.1-8b-instruct,Which companies have access to your Instagram activity or information?,False,0.0,0.0,0.0,0,0,453,0,0.06,10.52
+7e9a3e78-188a-484b-a3e3-dc440342139b,ea89d62a1f88,meta-llama-3.1-8b-instruct,Which companies have access to your Instagram activity or information?,False,0.0,0.0,0.0,0,0,27,0,0.07,8.64
+466fed35-adf4-4ab0-9cff-5fc2cd687c1b,a352e9bb575a,meta-llama-3.1-8b-instruct,Which companies have access to your Instagram activity or information?,False,0.0,0.0,0.0,0,0,27,0,0.07,12.52
+4d4a24b8-0b9f-4c66-925d-8d82ad07b985,1ccacb482d0e,meta-llama-3.1-8b-instruct,Which companies have access to your Instagram activity or information?,True,1.0,1.0,1.0,0,0,0,0,0.06,10.0
+6445e9b2-475f-4caa-8edd-4b151df4065d,fd23adcc813f,meta-llama-3.1-8b-instruct,Which companies have access to your Instagram activity or information?,False,,,,0,0,0,6,,39.5
+64d34a04-3077-4f0d-b32b-ffd04fddcaf2,19e1254c13f5,meta-llama-3.1-8b-instruct,Which companies have access to your Instagram activity or information?,True,1.0,1.0,1.0,0,0,0,0,0.06,11.01
+bf4304bb-6a0e-40ec-8de6-00e08263027c,ec2df5440d1e,meta-llama-3.1-8b-instruct,Which companies have access to your Instagram activity or information?,True,1.0,1.0,1.0,0,0,0,0,0.07,6.14
+3bd1e119-8d32-4001-b963-9f63642b5307,be30c03571e6,meta-llama-3.1-8b-instruct,Which companies have access to your Instagram activity or information?,False,0.0,0.0,0.0,0,0,318,0,0.07,5.47
+9aea49c8-d83d-4a6f-b35e-ddecc7a8ee92,9dd5c6ef7491,meta-llama-3.1-8b-instruct,Which companies have access to your Instagram activity or information?,False,0.0,0.0,0.0,0,0,189,0,0.06,5.86
+44e1b1de-a469-4468-b2a6-6b07902722fc,86b59acea929,meta-llama-3.1-8b-instruct,Which devices has the user logged in from and when?,True,1.0,1.0,1.0,0,0,0,2,0.06,24.5
+d0bb6067-0102-478b-9bf9-a2ebafaeb2f2,b70bc07b63be,meta-llama-3.1-8b-instruct,Which devices has the user logged in from and when?,True,,,,0,0,0,6,,48.04
+169aeace-4d6d-4f0b-beda-dd13bc6e4806,efc2df336587,meta-llama-3.1-8b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,3,0,0.07,14.83
+530a6b94-3a30-433c-b498-326c12bc0ea1,3ccff49e121d,meta-llama-3.1-8b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,1,11,0,0.07,24.56
+ce3a7c74-aea5-41ac-8eed-0d4f6f79d7fb,ab368ab82b0f,meta-llama-3.1-8b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,5,0,0.08,5.35
+8f6a96de-5a35-4a56-94e0-df58a8f0a403,ea89d62a1f88,meta-llama-3.1-8b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,3,3,0,0.08,9.35
+cc54abcf-ea62-4138-9715-dd1c5f9014c8,a352e9bb575a,meta-llama-3.1-8b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,3,0,0.06,10.5
+274497cd-7d01-4565-9d2f-1d53db4c0b89,1ccacb482d0e,meta-llama-3.1-8b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,6,1,0,0.08,5.05
+06b6807d-31dc-4e7a-bbf4-95c1cf6e6204,fd23adcc813f,meta-llama-3.1-8b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,2,2,0.07,30.01
+511aa369-1e77-426d-b449-7c57beafe2eb,19e1254c13f5,meta-llama-3.1-8b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,1,0,0.07,13.87
+9bb36ae6-f05e-4330-bc5b-a222da556e4e,ec2df5440d1e,meta-llama-3.1-8b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,1,0,0.08,11.12
+2c064936-da6d-43d4-9edb-7f8f2b6f1227,be30c03571e6,meta-llama-3.1-8b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,1,0,0.06,10.94
+4ca21e04-6a78-4417-ac11-a53a7a8e4a36,9dd5c6ef7491,meta-llama-3.1-8b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,2,0,0.08,10.45
+a132d0e5-8bfe-4446-a3f8-3b75818ec9eb,86b59acea929,meta-llama-3.1-8b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,1.0,1.0,1.0,0,0,0,0,0.07,5.71
+fe8dab73-deab-4ac1-89b2-fe1225c8b6b0,b70bc07b63be,meta-llama-3.1-8b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,1.0,1.0,1.0,0,0,0,0,0.07,9.37
+4ce0f60a-47de-4400-aca4-6f1bff713f3a,efc2df336587,meta-llama-3.1-8b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,1.0,1.0,1.0,0,0,0,0,0.06,5.57
+ee76b27f-91dc-4eea-ac57-bb24e762d5ce,3ccff49e121d,meta-llama-3.1-8b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,8,0,0.06,10.27
+58c69139-64aa-4768-8215-4ee4666bd57a,ab368ab82b0f,meta-llama-3.1-8b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,3,0,0.06,11.47
+6ab7c0c3-82cd-4263-9467-f3604861480f,ea89d62a1f88,meta-llama-3.1-8b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,1.0,1.0,1.0,0,0,0,0,0.06,9.84
+dea8f0f0-3ef8-4b16-8e59-053e842f552f,a352e9bb575a,meta-llama-3.1-8b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,1,0,0.06,8.67
+460e5e19-9d35-4b27-b6ba-04ffeeea3075,1ccacb482d0e,meta-llama-3.1-8b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,1,0,0.08,24.39
+a770159e-5534-4053-ab10-e348eea772f4,fd23adcc813f,meta-llama-3.1-8b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,3,0,0.07,12.59
+6e952a44-8863-44c8-aa68-94099f19ff8e,19e1254c13f5,meta-llama-3.1-8b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,1,0,0.08,6.07
+ddc587e1-d535-4e22-b496-677e3d367be5,ec2df5440d1e,meta-llama-3.1-8b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,1,1,0.07,13.95
+1285fc5a-0a96-4dbf-83e5-b3172fb7fe5b,be30c03571e6,meta-llama-3.1-8b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,2,0,0.08,8.97
+6ef4394f-17e3-4f7a-840b-c52355efdb7d,9dd5c6ef7491,meta-llama-3.1-8b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,1.0,1.0,1.0,0,0,0,0,0.08,12.76
+7c9713ff-6ee6-42f2-8dbd-3b8c4a028ac4,86b59acea929,meta-llama-3.1-8b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,312,0,0.08,14.68
+bc3a3af5-5d26-4391-92c5-1d1fdd1c106c,b70bc07b63be,meta-llama-3.1-8b-instruct,Whose stories does the user tend to engage with most often?,True,1.0,1.0,1.0,0,0,0,0,0.06,10.53
+18cfa87f-16d4-4856-bddf-e7486dcb1b08,efc2df336587,meta-llama-3.1-8b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,41,0,0.06,10.02
+2947b359-99b5-457a-84f5-47db4e710ac3,3ccff49e121d,meta-llama-3.1-8b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,60,0,0.07,5.04
+2075c8de-8808-4ce1-bc40-63f590f71e13,ab368ab82b0f,meta-llama-3.1-8b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,57,0,0.07,11.24
+f72c7de0-c9a1-493e-95f5-6fae37101155,ea89d62a1f88,meta-llama-3.1-8b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,4,0,0.06,4.13
+f9ab84be-da4e-4810-865e-545327f26c73,a352e9bb575a,meta-llama-3.1-8b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,133,0,0.08,4.55
+b93029c8-c84d-4f8f-8880-9fea2543000f,1ccacb482d0e,meta-llama-3.1-8b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,10,0,0.06,4.7
+a085f8de-052d-4983-992b-8ef25ee3b99c,fd23adcc813f,meta-llama-3.1-8b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,10,0,0.07,4.11
+157201b4-28d9-4ea4-8aca-6b7ba5efa3a7,19e1254c13f5,meta-llama-3.1-8b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,10,0,0.06,10.05
+a5f0816e-c803-4db7-996a-091e930413b0,ec2df5440d1e,meta-llama-3.1-8b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,10,0,0.08,4.99
+727150e9-935e-413c-9d83-60b539229f75,be30c03571e6,meta-llama-3.1-8b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,10,0,0.08,9.98
+ad7a8f6f-1e8e-4d80-8b0e-3924f71ce5c7,9dd5c6ef7491,meta-llama-3.1-8b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,33,0,0.07,12.05
+58d273c2-7ed7-4714-8de9-0e2f08a32e1e,86b59acea929,meta-llama-3.1-8b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.07,21.97
+39af5be4-245b-4a18-a4ba-99a6e0678bcb,b70bc07b63be,meta-llama-3.1-8b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.07,5.97
+24229eed-c549-46a5-b2b9-a75eda33f52d,efc2df336587,meta-llama-3.1-8b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.54,15.69
+a8cf3d3d-3dae-40d5-8a5e-748b4fee2d4e,3ccff49e121d,meta-llama-3.1-8b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.09,16.89
+8226cf27-d267-4e41-83d7-c6e22e134ff5,ab368ab82b0f,meta-llama-3.1-8b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,8.17,19.89
+dbe5a2a4-d606-4d4a-81c4-8b442b12e82d,ea89d62a1f88,meta-llama-3.1-8b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,1,0.08,54.39
+17fe2bcd-5aee-43d9-94ac-1ffd95e25a33,a352e9bb575a,meta-llama-3.1-8b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.06,22.42
+3949f6dd-071e-4e35-af9f-e54119961e63,1ccacb482d0e,meta-llama-3.1-8b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.07,13.01
+2b613099-8015-4965-a982-d59cc95e0348,fd23adcc813f,meta-llama-3.1-8b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.06,36.39
+1d03d35a-c4d4-4ecd-b8d8-b0cbe8f7ba1d,19e1254c13f5,meta-llama-3.1-8b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.1,13.34
+063d6d64-ebce-44f9-a01c-27af765ccb68,ec2df5440d1e,meta-llama-3.1-8b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.06,11.58
+ef7c236f-69f0-4062-802a-eef60619fe6e,be30c03571e6,meta-llama-3.1-8b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.06,13.77
+7fd38855-359e-43a9-8866-b1c33004c198,9dd5c6ef7491,meta-llama-3.1-8b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,1,0.07,16.55
+952afda7-424f-4f67-bd38-750d31b8b1d3,86b59acea929,meta-llama-3.1-8b-instruct,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,18,0,0.08,7.2
+b640dd1b-210c-4876-af35-62144496041b,b70bc07b63be,meta-llama-3.1-8b-instruct,Which profiles does the user follow that do not follow him back?,True,1.0,1.0,1.0,0,0,0,0,0.08,4.79
+25ab1806-2777-44d7-b94b-d63c273f930b,efc2df336587,meta-llama-3.1-8b-instruct,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,3,0,0.07,5.07
+44abd7fc-cf94-4f44-8176-134a2ab5d8b8,3ccff49e121d,meta-llama-3.1-8b-instruct,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,32,0,0.08,5.78
+6003df30-e7bc-4939-a318-25f098ab501f,ab368ab82b0f,meta-llama-3.1-8b-instruct,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,20,0,0.07,5.2
+76805555-c959-4639-b939-1f0054f9d8c6,ea89d62a1f88,meta-llama-3.1-8b-instruct,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,3,0,0.08,25.29
+6c98bf12-f0ba-4d14-8bc2-9698f22ba787,a352e9bb575a,meta-llama-3.1-8b-instruct,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,135,0,0.06,4.39
+aadafa57-1274-4f44-947b-121fbb378af4,1ccacb482d0e,meta-llama-3.1-8b-instruct,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,27,0,0.08,5.36
+a5ba30b0-6a9c-42d0-b714-1ecdb9628fd2,fd23adcc813f,meta-llama-3.1-8b-instruct,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,26,0,0.08,4.38
+b0b7fc92-dd05-4035-b734-a0605900dd60,19e1254c13f5,meta-llama-3.1-8b-instruct,Which profiles does the user follow that do not follow him back?,False,,,,0,0,0,6,,45.83
+43ac574c-f383-4bc5-972e-4afcbbb8f722,ec2df5440d1e,meta-llama-3.1-8b-instruct,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,30,0,0.08,31.8
+b110c0a1-874a-4123-b4db-4310c1e55127,be30c03571e6,meta-llama-3.1-8b-instruct,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,34,0,0.08,19.24
+8d3865f5-0896-4b68-adb9-4dae377d9bde,9dd5c6ef7491,meta-llama-3.1-8b-instruct,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,5,0,0.06,4.29
+da294e36-0275-42a1-99c2-dd16642471f0,86b59acea929,meta-llama-3.1-8b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,True,1.0,1.0,1.0,0,0,0,0,0.08,6.02
+af711693-f3c3-455d-aa60-d3fe4217799b,b70bc07b63be,meta-llama-3.1-8b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,True,1.0,1.0,1.0,0,0,0,0,0.07,17.26
+415fd3e4-038a-4f7a-8048-0d1426a82cf0,efc2df336587,meta-llama-3.1-8b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,118,0,0.07,9.01
+fda91e56-4f60-42f6-97d5-37bf30677f46,3ccff49e121d,meta-llama-3.1-8b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,1,164,0,0.07,18.75
+c1855628-0135-4056-b114-3e9f482337f1,ab368ab82b0f,meta-llama-3.1-8b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,156,1,0.07,47.51
+22d99bb9-c967-4486-adb3-c96fcedcb27f,ea89d62a1f88,meta-llama-3.1-8b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,78,0,0.17,7.76
+e72c54fd-3ae3-4210-bc1f-6fc1143aa7b6,a352e9bb575a,meta-llama-3.1-8b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,78,0,0.08,24.18
+98f57a24-89df-464e-815b-658dd0fa0dc3,1ccacb482d0e,meta-llama-3.1-8b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,18,0,0.1,12.07
+20698854-d3c6-466f-b6c1-4248026b7cd2,fd23adcc813f,meta-llama-3.1-8b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,3,0,0.07,7.0
+dd9d54c2-9714-4e19-9036-e5713fa52505,19e1254c13f5,meta-llama-3.1-8b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,18,0,0.06,19.91
+690bb44f-3f1d-4d33-a243-7a8383c9e8cd,ec2df5440d1e,meta-llama-3.1-8b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,16,0,0.07,27.71
+25b45586-5f8b-42ef-943d-9d6e2403531e,be30c03571e6,meta-llama-3.1-8b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,2,0,0.07,17.44
+1f567207-9e73-4f70-a54a-ef1e14e9ca3b,9dd5c6ef7491,meta-llama-3.1-8b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,14,0,0.62,6.11
+a5f75d4f-6b96-4dfd-9124-b2d658fbfe39,86b59acea929,meta-llama-3.1-8b-instruct,Which accounts has the user viewed posts from but not liked them?,True,1.0,1.0,1.0,0,0,0,0,0.07,16.49
+e466095a-fe2a-4ced-8e1d-650ca18e566b,b70bc07b63be,meta-llama-3.1-8b-instruct,Which accounts has the user viewed posts from but not liked them?,True,1.0,1.0,1.0,0,0,0,0,0.06,5.87
+970d7e20-7f62-414d-a75b-540eba0f0877,efc2df336587,meta-llama-3.1-8b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.0,0.0,0.0,0,0,70,5,0.07,42.61
+a872d26f-27d7-4ca1-a3df-44078483001c,3ccff49e121d,meta-llama-3.1-8b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.0,0.0,0.0,0,0,90,0,0.06,16.62
+a8a8eb7d-9d8a-48d4-8423-e69e5bd7ba82,ab368ab82b0f,meta-llama-3.1-8b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.0,0.0,0.0,0,0,78,0,0.91,11.6
+513d8a35-7933-4f21-b2bb-99d780ce5bec,ea89d62a1f88,meta-llama-3.1-8b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.0,0.0,0.0,0,0,18,0,0.06,5.35
+ae93adfc-2544-4cf9-82b6-f76573589e82,a352e9bb575a,meta-llama-3.1-8b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.0,0.0,0.0,0,0,10,0,0.07,31.16
+c0c1d212-96c5-4f9d-8245-327b4ec26a7f,1ccacb482d0e,meta-llama-3.1-8b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.0,0.0,0.0,0,0,6,0,0.07,8.38
+cc44c449-99af-4d0f-a04e-7a94b717a516,fd23adcc813f,meta-llama-3.1-8b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.0,0.0,0.0,0,0,1,0,0.06,7.43
+4213532e-ba22-41df-b4b1-51614e94c144,19e1254c13f5,meta-llama-3.1-8b-instruct,Which accounts has the user viewed posts from but not liked them?,False,,,,0,0,0,6,,47.72
+779e98a1-7811-49f6-99c9-2525e06efc48,ec2df5440d1e,meta-llama-3.1-8b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.0,0.0,0.0,0,0,6,0,0.06,11.34
+f85bfcca-bb47-47c0-9869-4bfcab4f03d6,be30c03571e6,meta-llama-3.1-8b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.0,0.0,0.0,0,0,1,0,0.07,7.54
+6cf5127d-1fcf-4ba4-9884-ecbaa19b5d7d,9dd5c6ef7491,meta-llama-3.1-8b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.0,0.0,0.0,0,0,5,0,0.06,4.94
+96bded85-cb03-46ac-bc96-d934ca223b34,86b59acea929,meta-llama-3.1-8b-instruct,How many messages does the user send per week?,True,1.0,1.0,1.0,0,0,0,0,0.07,8.64
+8ed0cd45-f22e-4f84-b89e-a9ea3ea25069,b70bc07b63be,meta-llama-3.1-8b-instruct,How many messages does the user send per week?,True,0.0,0.0,0.0,0,1,0,0,0.07,5.47
+d24b7b25-c82c-4710-8c8c-8a22b5f7a822,efc2df336587,meta-llama-3.1-8b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,8,54,0,0.06,6.26
+7b26114d-3fa4-493d-b24f-9c89235b29f9,3ccff49e121d,meta-llama-3.1-8b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,9,321,0,0.06,5.08
+31953396-0c4c-410c-963d-cc3fe73a3c83,ab368ab82b0f,meta-llama-3.1-8b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,9,159,0,0.06,4.44
+33e7c9f3-668d-4069-85cf-045936ee056d,ea89d62a1f88,meta-llama-3.1-8b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,6,0,0.06,6.3
+d04da299-e85c-4c8a-95d7-99b1716f59c5,a352e9bb575a,meta-llama-3.1-8b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,282,2,0.08,37.62
+a1cbe4a0-b90e-492b-8fb9-41e4108891db,1ccacb482d0e,meta-llama-3.1-8b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,2,0,0.07,17.54
+33fa7e4e-a9a6-401b-9ee3-2a9857b88f41,fd23adcc813f,meta-llama-3.1-8b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,54,0,0.08,6.03
+ecdc88b9-4f20-4160-affa-cee4573884f3,19e1254c13f5,meta-llama-3.1-8b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,2,2,0.07,18.51
+8e24394d-f6fa-454a-9891-9d708398cb04,ec2df5440d1e,meta-llama-3.1-8b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,2,0,0.06,5.55
+40af411e-340e-4bed-ae94-fe251b5c01d1,be30c03571e6,meta-llama-3.1-8b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,4,0,0.06,7.81
+67921bec-f4e1-496c-b390-d46fff1589de,9dd5c6ef7491,meta-llama-3.1-8b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,9,54,0,0.07,27.47
+9f4670d9-3f2f-4a4d-aac8-51b1e34c4ab8,86b59acea929,mistral-large-instruct,What topics does Instagram determine to be of interest for a user?,True,0.0,0.0,0.0,0,2,0,0,0.07,28.47
+50478687-f334-4b83-867c-951be65ce123,b70bc07b63be,mistral-large-instruct,What topics does Instagram determine to be of interest for a user?,True,0.0,0.0,0.0,0,63,0,0,0.07,23.64
+758115b9-7a5c-402e-b674-acd8958bcd7a,efc2df336587,mistral-large-instruct,What topics does Instagram determine to be of interest for a user?,False,,,,0,0,0,6,,168.18
+f724cd50-1edf-4495-924b-02b4fbd84cdd,3ccff49e121d,mistral-large-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,4,20,0,0.07,31.39
+dbffc93d-fccd-4145-aa36-08270e2ff094,ab368ab82b0f,mistral-large-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,1,20,0,0.07,28.71
+94e83a83-2720-4fbb-9d32-95b9fc4a2a93,ea89d62a1f88,mistral-large-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,39,6,0,0.07,30.29
+7c16ebfb-1e2b-4950-bd50-936538079e48,a352e9bb575a,mistral-large-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,0,6,2,0.08,80.27
+d773ace1-3d45-425f-90f3-cd9e71803ba8,1ccacb482d0e,mistral-large-instruct,What topics does Instagram determine to be of interest for a user?,True,0.0,0.0,0.0,0,1,0,0,0.66,29.5
+2276c683-9cfb-4ea9-88f2-37cae50cf288,fd23adcc813f,mistral-large-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,3,125,0,0.07,37.22
+03b84519-61ee-4875-8e49-a71a77aa5aab,19e1254c13f5,mistral-large-instruct,What topics does Instagram determine to be of interest for a user?,True,0.0,0.0,0.0,0,22,0,0,0.07,33.42
+706b5a8e-83d7-49a7-af82-47ebedb17db6,ec2df5440d1e,mistral-large-instruct,What topics does Instagram determine to be of interest for a user?,True,,,,0,0,0,6,,143.56
+bc1dbc33-7d2c-4bb1-95b4-93bd42b3be1e,be30c03571e6,mistral-large-instruct,What topics does Instagram determine to be of interest for a user?,False,,,,0,0,0,6,,162.98
+a3294079-19aa-4dce-bd6c-b5d3042d20ed,9dd5c6ef7491,mistral-large-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,5,103,0,0.07,26.03
+a9d18764-4f67-495c-a582-dd4d7fb1e139,86b59acea929,qwen2.5-coder-32b-instruct,What topics does Instagram determine to be of interest for a user?,True,1.0,1.0,1.0,0,0,0,0,0.07,19.18
+9725e5f7-ba59-4ea5-9847-eb771bba8a8c,b70bc07b63be,qwen2.5-coder-32b-instruct,What topics does Instagram determine to be of interest for a user?,True,1.0,1.0,1.0,0,0,0,0,0.1,28.71
+21bd05b5-d536-44f3-9ff8-63eec9da8361,efc2df336587,qwen2.5-coder-32b-instruct,What topics does Instagram determine to be of interest for a user?,False,1.0,1.0,1.0,32,0,0,0,0.12,20.95
+8e803f5c-299e-45e9-8fa1-3d8c8e410ac1,3ccff49e121d,qwen2.5-coder-32b-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,0,20,0,0.17,21.15
+5e98db92-d003-4438-b89c-9068e4227034,ab368ab82b0f,qwen2.5-coder-32b-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,2,20,0,0.15,25.52
+0f8b7f2e-549d-436a-9703-4e10e693efcb,ea89d62a1f88,qwen2.5-coder-32b-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,35,6,0,0.14,31.53
+48076a5f-5cae-4f26-bac3-eb521aa0723f,a352e9bb575a,qwen2.5-coder-32b-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,0,6,0,0.12,15.43
+cf3b1479-acfc-4852-84df-a20f97213ba2,1ccacb482d0e,qwen2.5-coder-32b-instruct,What topics does Instagram determine to be of interest for a user?,True,,,,0,0,0,6,,187.81
+60a6377c-1d6b-4426-9721-0465da3fb408,fd23adcc813f,qwen2.5-coder-32b-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,2,125,0,0.12,27.47
+846cd9cf-5464-41d0-a9e7-841fd591e96b,19e1254c13f5,qwen2.5-coder-32b-instruct,What topics does Instagram determine to be of interest for a user?,True,0.0,0.0,0.0,0,3,0,0,0.12,11.92
+f31c5f46-8616-44c4-9298-20d857a8924b,ec2df5440d1e,qwen2.5-coder-32b-instruct,What topics does Instagram determine to be of interest for a user?,True,1.0,1.0,1.0,0,0,0,0,0.13,9.94
+fd754d47-af49-40d4-9464-3dd8680b5052,be30c03571e6,qwen2.5-coder-32b-instruct,What topics does Instagram determine to be of interest for a user?,False,,,,0,0,0,6,,47.84
+8d593298-fa50-404d-bb6f-fe32941e7056,9dd5c6ef7491,qwen2.5-coder-32b-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,1,103,0,0.12,8.05
+74f1e5a5-e3c7-44fa-8149-fd94b8990237,86b59acea929,qwen2.5-coder-32b-instruct,How often does a user see advertisements and about which topics (from which companies)?,True,0.0,0.0,0.0,0,4674,0,0,0.16,9.62
+045661fe-ccca-4567-a76e-acbf74f5c9a8,b70bc07b63be,qwen2.5-coder-32b-instruct,How often does a user see advertisements and about which topics (from which companies)?,True,1.0,1.0,1.0,0,0,0,0,0.13,4.7
+5d4da27a-27cd-4052-a19f-b9e968b91008,efc2df336587,qwen2.5-coder-32b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,0.0,0.0,0.0,0,0,16,0,0.14,14.4
+e4b84e81-bcfb-421e-be55-884ea1d55cca,3ccff49e121d,qwen2.5-coder-32b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,0.0,0.0,0.0,0,1,17,3,0.14,79.92
+7b677a01-c2fc-4980-9382-f07c35786a2f,ab368ab82b0f,qwen2.5-coder-32b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,1.0,1.0,1.0,19,0,0,0,0.11,10.74
+f7df2852-69a5-4e64-820a-339e1f9f3f60,ea89d62a1f88,qwen2.5-coder-32b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,1.0,1.0,1.0,14,0,0,0,0.11,8.72
+808f9372-f106-4161-b8c0-6f883fdcd1df,a352e9bb575a,qwen2.5-coder-32b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,0.9333,1.0,0.9655,14,1,0,0,0.11,7.59
+0357b7ce-896a-4b85-b505-bb775e6aeba0,1ccacb482d0e,qwen2.5-coder-32b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,0.5,1.0,0.6667,1,1,0,0,0.14,7.71
+3cf1492c-6951-45e6-8930-458173e287f6,fd23adcc813f,qwen2.5-coder-32b-instruct,How often does a user see advertisements and about which topics (from which companies)?,True,0.0,0.0,0.0,0,46,0,0,0.12,10.11
+fc47ac84-7db9-4dc4-a9f3-657a79c9bded,19e1254c13f5,qwen2.5-coder-32b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,0.75,1.0,0.8571,3,1,0,0,0.14,8.13
+a2b25df2-6e36-499f-8f96-ed34d89aae99,ec2df5440d1e,qwen2.5-coder-32b-instruct,How often does a user see advertisements and about which topics (from which companies)?,True,0.0,0.0,0.0,0,1,0,0,0.12,11.76
+afffc5e3-3a6d-4516-b8ca-acc738024241,be30c03571e6,qwen2.5-coder-32b-instruct,How often does a user see advertisements and about which topics (from which companies)?,True,0.0,0.0,0.0,0,2,0,0,0.13,10.55
+7f552c8d-e930-4de3-a5b6-385d4c014565,9dd5c6ef7491,qwen2.5-coder-32b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,0.0,0.0,0.0,0,1,4,0,0.13,8.61
+f8e52829-3235-41bc-9f45-091551e038a5,86b59acea929,qwen2.5-coder-32b-instruct,How often do people see posts(daily and weekly)?,True,,,,0,0,0,6,,68.63
+62b20f5a-6ea4-4d23-a33f-08cb7d756a62,b70bc07b63be,qwen2.5-coder-32b-instruct,How often do people see posts(daily and weekly)?,True,1.0,1.0,1.0,0,0,0,0,0.1,10.65
+80bac109-8b9f-4f94-9409-f16d6391a9de,efc2df336587,qwen2.5-coder-32b-instruct,How often do people see posts(daily and weekly)?,False,0.8,0.8,0.8,8,2,2,0,0.12,10.22
+128ad3f7-d0b0-4a0d-9e44-79ef43ef5455,3ccff49e121d,qwen2.5-coder-32b-instruct,How often do people see posts(daily and weekly)?,False,0.8,0.8,0.8,8,2,2,0,0.12,10.5
+92dbecf2-8380-45f0-9bdb-234bac598cb5,ab368ab82b0f,qwen2.5-coder-32b-instruct,How often do people see posts(daily and weekly)?,False,0.8,0.8,0.8,8,2,2,0,0.11,9.79
+6ff3df28-e071-4383-9c99-41778f1bd9b9,ea89d62a1f88,qwen2.5-coder-32b-instruct,How often do people see posts(daily and weekly)?,False,,,,0,0,0,6,,84.38
+eae2a455-2a8c-4fcb-baba-92094ac724c7,a352e9bb575a,qwen2.5-coder-32b-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,0,9,0,0.14,10.49
+145cb7fa-7c46-48bf-97a6-6bf768694809,1ccacb482d0e,qwen2.5-coder-32b-instruct,How often do people see posts(daily and weekly)?,False,0.7778,0.7778,0.7778,7,2,2,0,0.1,9.16
+7e473b6e-4cbd-4557-a144-a3e556353f14,fd23adcc813f,qwen2.5-coder-32b-instruct,How often do people see posts(daily and weekly)?,False,,,,0,0,0,6,,61.92
+5f2a49f8-12a1-4fa6-b184-6cc6e31435d5,19e1254c13f5,qwen2.5-coder-32b-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,2,7,0,0.14,10.47
+ebd8617b-2f73-48b3-afba-13c514bb909c,ec2df5440d1e,qwen2.5-coder-32b-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,0,5,0,0.13,9.87
+bb7cd461-9022-43e8-9a08-98590ca19461,be30c03571e6,qwen2.5-coder-32b-instruct,How often do people see posts(daily and weekly)?,False,,,,0,0,0,6,,51.72
+a7c16ba9-1420-42d2-87ac-1f443456f95f,9dd5c6ef7491,qwen2.5-coder-32b-instruct,How often do people see posts(daily and weekly)?,False,0.75,0.75,0.75,6,2,2,0,0.11,9.43
+15775cab-dd9c-4690-8402-15322358c33f,86b59acea929,qwen2.5-coder-32b-instruct,Which companies have access to your Instagram activity or information?,False,1.0,1.0,1.0,4674,0,0,0,0.11,8.29
+265891cb-560d-4435-ac24-ffc714561104,b70bc07b63be,qwen2.5-coder-32b-instruct,Which companies have access to your Instagram activity or information?,True,1.0,1.0,1.0,0,0,0,0,0.11,6.5
+79346fc2-fa9f-4ffc-af67-c7758c39c3dc,efc2df336587,qwen2.5-coder-32b-instruct,Which companies have access to your Instagram activity or information?,False,0.0,0.0,0.0,0,1,492,0,0.11,8.34
+e06779c7-7c4c-4809-8488-0c0fa3abfe12,3ccff49e121d,qwen2.5-coder-32b-instruct,Which companies have access to your Instagram activity or information?,False,,,,0,0,0,6,,41.12
+5ba35475-3dfb-4175-813a-a7b1fe6437d2,ab368ab82b0f,qwen2.5-coder-32b-instruct,Which companies have access to your Instagram activity or information?,False,0.0,0.0,0.0,0,0,453,0,0.1,6.17
+501f3ab2-cc02-45fa-97dc-e5a9e9199743,ea89d62a1f88,qwen2.5-coder-32b-instruct,Which companies have access to your Instagram activity or information?,False,1.0,1.0,1.0,27,0,0,0,0.14,7.55
+9c400141-3650-47fb-9342-a93f3301fd83,a352e9bb575a,qwen2.5-coder-32b-instruct,Which companies have access to your Instagram activity or information?,False,0.0,0.0,0.0,0,0,27,0,0.1,8.79
+ca82c01c-cdb9-4417-aed0-b84def457dbf,1ccacb482d0e,qwen2.5-coder-32b-instruct,Which companies have access to your Instagram activity or information?,True,1.0,1.0,1.0,0,0,0,0,0.1,5.96
+9a314980-1397-4a31-862f-965e7caca7f7,fd23adcc813f,qwen2.5-coder-32b-instruct,Which companies have access to your Instagram activity or information?,False,1.0,1.0,1.0,46,0,0,0,0.13,7.78
+a84ec640-e7c2-4ae8-ab28-c59a5a7d5852,19e1254c13f5,qwen2.5-coder-32b-instruct,Which companies have access to your Instagram activity or information?,True,1.0,1.0,1.0,0,0,0,0,0.11,6.02
+c4e356f5-95ec-458a-a2b5-5a8bea161e80,ec2df5440d1e,qwen2.5-coder-32b-instruct,Which companies have access to your Instagram activity or information?,True,1.0,1.0,1.0,0,0,0,0,0.1,8.62
+465c2182-0475-4a57-bbeb-a2f4f109dae2,be30c03571e6,qwen2.5-coder-32b-instruct,Which companies have access to your Instagram activity or information?,False,0.0,0.0,0.0,0,0,318,0,0.11,5.81
+b4632f8d-24c9-472d-92b4-2ea8f75f0e85,9dd5c6ef7491,qwen2.5-coder-32b-instruct,Which companies have access to your Instagram activity or information?,False,,,,0,0,0,6,,42.63
+b2e12a0e-fe12-4ad9-b1c0-83474b47c51c,86b59acea929,qwen2.5-coder-32b-instruct,Which devices has the user logged in from and when?,True,1.0,1.0,1.0,0,0,0,0,0.14,12.12
+400d8e49-ae86-4755-b79a-c3797f1dc4b1,b70bc07b63be,qwen2.5-coder-32b-instruct,Which devices has the user logged in from and when?,True,1.0,1.0,1.0,0,0,0,0,0.11,11.6
+ab19b6b3-c2f1-479f-8d54-94631333aa47,efc2df336587,qwen2.5-coder-32b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,3,0,0.13,7.67
+6815fa1e-1886-4214-9dd3-b0a875e0b321,3ccff49e121d,qwen2.5-coder-32b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,11,11,0,0.15,11.6
+ca054476-3d48-4f7b-8fac-adce1026150d,ab368ab82b0f,qwen2.5-coder-32b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,5,0,0.15,9.46
+a70ec609-5b41-4caf-aa1a-35b2b7e2e31f,ea89d62a1f88,qwen2.5-coder-32b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,3,3,0,0.12,19.99
+d77703b5-89e5-4390-ae95-ded8dfdd8776,a352e9bb575a,qwen2.5-coder-32b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,3,0,0.34,20.15
+6b9b896e-fc93-4f10-825a-e0eac3865895,1ccacb482d0e,qwen2.5-coder-32b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,1,0,0.13,7.64
+aa03f8ff-42cc-455b-a7b8-378c59e5e4fa,fd23adcc813f,qwen2.5-coder-32b-instruct,Which devices has the user logged in from and when?,False,,,,0,0,0,6,,52.66
+e3e0443a-686f-4e71-b79b-d5c685eccc16,19e1254c13f5,qwen2.5-coder-32b-instruct,Which devices has the user logged in from and when?,False,,,,0,0,0,6,,53.29
+79c9c80c-0730-4dc2-b996-892e1342eea8,ec2df5440d1e,qwen2.5-coder-32b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,1,1,0,0.13,8.28
+b499631b-3c4f-4b2b-8d90-b40b4364396a,be30c03571e6,qwen2.5-coder-32b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,1,1,0,0.12,8.43
+88738333-401a-4ab2-b96a-e2b41c6ac288,9dd5c6ef7491,qwen2.5-coder-32b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,2,0,0.12,8.1
+e1b50536-917a-4f9f-ae08-2e2f0ea6397d,86b59acea929,qwen2.5-coder-32b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,1.0,1.0,1.0,0,0,0,0,0.11,6.13
+1edf6fb6-b54a-4857-bfd0-6876b44282fa,b70bc07b63be,qwen2.5-coder-32b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,1.0,1.0,1.0,0,0,0,0,0.13,5.14
+a5a8d5be-ff04-4b74-af21-ce838d686f91,efc2df336587,qwen2.5-coder-32b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,0.0,0.0,0.0,0,2,0,0,0.11,7.6
+6e9f61ae-27d3-4c6c-b7c5-1651ccc8b930,3ccff49e121d,qwen2.5-coder-32b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,,,,0,0,0,6,,56.3
+12c63829-eadb-40f7-a6dc-d615bcd51c59,ab368ab82b0f,qwen2.5-coder-32b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,,,,0,0,0,6,,63.37
+419585b4-0992-4b26-ab08-64502ab380d7,ea89d62a1f88,qwen2.5-coder-32b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,1.0,1.0,1.0,0,0,0,0,0.12,12.12
+38ca361d-985f-46ec-8787-913ff87fd11f,a352e9bb575a,qwen2.5-coder-32b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,1,0,0.13,11.45
+bd031d03-c859-4d9d-8f11-92e397b8f25e,1ccacb482d0e,qwen2.5-coder-32b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,1,0,0.12,5.64
+a2f8b3e1-d8ae-496e-bc09-cc84963616cb,fd23adcc813f,qwen2.5-coder-32b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,3,0,0.15,5.74
+05d95db6-ff63-4c8c-914b-fe5ccc7c2269,19e1254c13f5,qwen2.5-coder-32b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,1,0,0.12,5.6
+1d4835e3-4cb8-4221-b93a-05ca5fea8004,ec2df5440d1e,qwen2.5-coder-32b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,1,0,0.11,7.87
+f4db966a-2841-41c2-a476-6ca02df47bab,be30c03571e6,qwen2.5-coder-32b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,2,0,0.12,5.65
+09c5787d-8095-4d9e-a6c4-95bb33768bdd,9dd5c6ef7491,qwen2.5-coder-32b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,,,,0,0,0,6,,60.21
+50cf6130-9e1b-4a16-ae76-53ddc081f4f1,86b59acea929,qwen2.5-coder-32b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,312,0,0.13,27.01
+f67051a2-068a-4680-bc98-9cece6d7f301,b70bc07b63be,qwen2.5-coder-32b-instruct,Whose stories does the user tend to engage with most often?,True,1.0,1.0,1.0,0,0,0,0,0.1,19.16
+812abf0a-4aa2-47cd-a61c-9a266424b145,efc2df336587,qwen2.5-coder-32b-instruct,Whose stories does the user tend to engage with most often?,False,,,,0,0,0,6,,41.85
+0fdaa2d5-ed81-4638-a9d4-d9071637f332,3ccff49e121d,qwen2.5-coder-32b-instruct,Whose stories does the user tend to engage with most often?,False,,,,0,0,0,6,,142.9
+2ccad34c-8bb1-4aed-866c-affea2b90d45,ab368ab82b0f,qwen2.5-coder-32b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,57,0,0.12,9.24
+80d88ff8-7b14-4a61-a273-49d2d1a7433d,ea89d62a1f88,qwen2.5-coder-32b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,4,0,0.13,7.06
+2db2eb00-c51c-4008-bf27-1493c7a42903,a352e9bb575a,qwen2.5-coder-32b-instruct,Whose stories does the user tend to engage with most often?,False,,,,0,0,0,6,,63.5
+785f3136-d9e5-4581-83e5-609da9105ccb,1ccacb482d0e,qwen2.5-coder-32b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,10,0,0.09,7.97
+7437a952-5ce2-467f-a8c5-986daae05187,fd23adcc813f,qwen2.5-coder-32b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,10,0,0.1,8.45
+8c22a570-c661-4341-b045-91b66f1aa122,19e1254c13f5,qwen2.5-coder-32b-instruct,Whose stories does the user tend to engage with most often?,False,,,,0,0,0,6,,52.43
+8eabc618-1f96-41df-9217-04fd0e1db56b,ec2df5440d1e,qwen2.5-coder-32b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,10,0,0.08,5.8
+1a6e07a5-d58b-471e-b456-e5ae21d70bce,be30c03571e6,qwen2.5-coder-32b-instruct,Whose stories does the user tend to engage with most often?,False,,,,0,0,0,6,,54.58
+1b15df4c-9d04-487e-8fb0-a99f813fdc35,9dd5c6ef7491,qwen2.5-coder-32b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,1,33,0,0.08,10.21
+f31db37a-8ef3-4ca7-be3e-b8851c6cfe68,86b59acea929,qwen2.5-coder-32b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.09,12.86
+cd5411b1-d9db-4b54-a0af-c7f774929aaa,b70bc07b63be,qwen2.5-coder-32b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,20,20,0,0.09,10.91
+5cd60cc4-afac-434a-84bc-d1878cc1a4fc,efc2df336587,qwen2.5-coder-32b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,20,20,0,0.09,10.86
+af65695d-874b-41aa-b5ec-23d45b0ce0d2,3ccff49e121d,qwen2.5-coder-32b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.08,7.61
+ecba142a-5c69-4ef6-9fd9-8e23e2c16728,ab368ab82b0f,qwen2.5-coder-32b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.08,10.48
+547f739e-5562-4ae2-a33c-defa887f7e67,ea89d62a1f88,qwen2.5-coder-32b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.09,13.5
+e35d17b0-027b-482d-bfec-77b7e818183a,a352e9bb575a,qwen2.5-coder-32b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.07,11.5
+28c980fd-c853-45dd-a57c-d72841e10e81,1ccacb482d0e,qwen2.5-coder-32b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.08,10.03
+c32df1d5-918a-4de8-998d-80872c1c58f3,fd23adcc813f,qwen2.5-coder-32b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.09,10.29
+471d68f6-7386-44aa-87bc-f1419a0d090b,19e1254c13f5,qwen2.5-coder-32b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.08,13.23
+1f45318f-3ef4-4ca7-bab3-e9709a010ee7,ec2df5440d1e,qwen2.5-coder-32b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.08,11.36
+97756b68-0868-476b-b93b-0e41fb883b14,be30c03571e6,qwen2.5-coder-32b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.08,12.79
+b0f71283-0ae4-4d7d-afd5-7cf0a27d05c3,9dd5c6ef7491,qwen2.5-coder-32b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,1,20,0,0.09,9.92
+a4c3b31a-5d71-4166-bb69-aacf72d7bbd2,86b59acea929,qwen2.5-coder-32b-instruct,Which profiles does the user follow that do not follow him back?,False,1.0,0.0556,0.1053,1,0,17,0,0.07,7.68
+56e481db-1231-4be7-8746-b416b3bb76cc,b70bc07b63be,qwen2.5-coder-32b-instruct,Which profiles does the user follow that do not follow him back?,True,1.0,1.0,1.0,0,0,0,0,0.07,5.36
+99438b83-92b0-48b9-a950-d94766bcf242,efc2df336587,qwen2.5-coder-32b-instruct,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,3,0,0.07,10.46
+94e62d83-47ad-448a-b028-40f69bd880b9,3ccff49e121d,qwen2.5-coder-32b-instruct,Which profiles does the user follow that do not follow him back?,False,,,,0,0,0,6,,44.75
+1985006f-114a-4ad7-92e9-653fc8d7484b,ab368ab82b0f,qwen2.5-coder-32b-instruct,Which profiles does the user follow that do not follow him back?,False,,,,0,0,0,6,,50.48
+47e52c43-61ca-43dc-be89-5564ca178bae,ea89d62a1f88,qwen2.5-coder-32b-instruct,Which profiles does the user follow that do not follow him back?,False,,,,0,0,0,6,,59.68
+d9f611aa-9a2c-483a-8cf5-5a3329a1b5bd,a352e9bb575a,qwen2.5-coder-32b-instruct,Which profiles does the user follow that do not follow him back?,False,,,,0,0,0,6,,54.69
+5faad462-ff7e-4458-8a1f-f13dc6d0b00a,1ccacb482d0e,qwen2.5-coder-32b-instruct,Which profiles does the user follow that do not follow him back?,False,,,,0,0,0,6,,66.32
+b655c65e-b6d7-48e1-8285-df3e77d1eb0c,fd23adcc813f,qwen2.5-coder-32b-instruct,Which profiles does the user follow that do not follow him back?,False,,,,0,0,0,6,,43.65
+40bc9033-cb49-41e4-ab37-9261f4b0b7b0,19e1254c13f5,qwen2.5-coder-32b-instruct,Which profiles does the user follow that do not follow him back?,False,1.0,1.0,1.0,29,0,0,0,0.08,8.88
+d77fa4a9-d6e8-42a9-bd51-81a737c76427,ec2df5440d1e,qwen2.5-coder-32b-instruct,Which profiles does the user follow that do not follow him back?,False,,,,0,0,0,6,,47.06
+c55e5594-f2bf-48f7-a6a2-0e1cd82a2de8,be30c03571e6,qwen2.5-coder-32b-instruct,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,34,0,0.08,7.85
+52208f2a-1249-4d2c-b8d1-10b3de138835,9dd5c6ef7491,qwen2.5-coder-32b-instruct,Which profiles does the user follow that do not follow him back?,False,1.0,1.0,1.0,5,0,0,0,0.08,8.65
+86bd5a88-07a2-46b6-a20d-b5252eaeadbb,86b59acea929,qwen2.5-coder-32b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,True,1.0,1.0,1.0,0,0,0,0,0.08,7.11
+7b457791-b7e4-4f5b-b1ff-926d8d5f0ddd,b70bc07b63be,qwen2.5-coder-32b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,True,1.0,1.0,1.0,0,0,0,0,0.08,6.72
+24f09264-a343-4dcc-99c8-62ce60e84f13,efc2df336587,qwen2.5-coder-32b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,118,0,0.07,5.95
+f5a5c41d-97fc-4044-acf7-1c6b3bd232d0,3ccff49e121d,qwen2.5-coder-32b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,1.0,1.0,1.0,164,0,0,0,0.08,8.73
+ee3bce6f-af8d-4e28-8b54-455e57bf66eb,ab368ab82b0f,qwen2.5-coder-32b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,1.0,1.0,1.0,156,0,0,0,0.1,9.04
+895db5c3-6ee5-4d51-b726-d6eae10359a4,ea89d62a1f88,qwen2.5-coder-32b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,78,0,0.06,9.13
+4aa0f3cb-f188-4867-9b8a-b9a322124a12,a352e9bb575a,qwen2.5-coder-32b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,78,0,0.06,12.02
+232d0d7f-7b95-47bd-99f7-c466ce91973b,1ccacb482d0e,qwen2.5-coder-32b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,1.0,1.0,1.0,18,0,0,0,0.07,8.55
+6b326025-2f1f-41f0-86ee-590cd003b38e,fd23adcc813f,qwen2.5-coder-32b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,3,0,0.06,9.74
+20bd8757-7b3a-4572-ab26-fef855f9e990,19e1254c13f5,qwen2.5-coder-32b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,1.0,1.0,1.0,18,0,0,0,0.06,8.69
+e85adf3a-0ed3-487e-868a-92f10d782a3f,ec2df5440d1e,qwen2.5-coder-32b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,16,0,0.06,5.56
+b716db6f-4f94-4408-a383-0a92869595c7,be30c03571e6,qwen2.5-coder-32b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,,,,0,0,0,6,,69.98
+22b75074-8f35-4ea7-b542-d3500055904e,9dd5c6ef7491,qwen2.5-coder-32b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,1.0,1.0,1.0,14,0,0,0,0.06,9.26
+c6f46792-b727-42f7-9a39-dae61a7e2550,86b59acea929,qwen2.5-coder-32b-instruct,Which accounts has the user viewed posts from but not liked them?,True,1.0,1.0,1.0,0,0,0,0,0.06,6.05
+ab8eb44d-c48f-459f-9c82-48259483584e,b70bc07b63be,qwen2.5-coder-32b-instruct,Which accounts has the user viewed posts from but not liked them?,True,1.0,1.0,1.0,0,0,0,0,0.06,9.11
+8081befc-a1ea-4451-bd82-1ab5b8651d5b,efc2df336587,qwen2.5-coder-32b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.9091,1.0,0.9524,70,7,0,0,0.06,10.85
+a15492b3-0ef5-4ea1-be2c-632922338199,3ccff49e121d,qwen2.5-coder-32b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.8333,1.0,0.9091,90,18,0,0,0.07,9.73
+d9dfca1c-32d8-4a98-bd5e-a0baa45a5ca2,ab368ab82b0f,qwen2.5-coder-32b-instruct,Which accounts has the user viewed posts from but not liked them?,False,,,,0,0,0,6,,48.78
+5049646d-8aeb-4131-8188-123b09e087d9,ea89d62a1f88,qwen2.5-coder-32b-instruct,Which accounts has the user viewed posts from but not liked them?,False,,,,0,0,0,6,,50.9
+8db5b66a-84ab-43d5-8a92-fe33989af8fd,a352e9bb575a,qwen2.5-coder-32b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.0,0.0,0.0,0,0,10,0,0.06,9.92
+2028c9df-b998-479f-b358-1ce64c7de2b4,1ccacb482d0e,qwen2.5-coder-32b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.6667,1.0,0.8,6,3,0,0,0.06,9.75
+1d5e6fc3-f55f-4233-8500-a130a2493560,fd23adcc813f,qwen2.5-coder-32b-instruct,Which accounts has the user viewed posts from but not liked them?,False,,,,0,0,0,6,,57.41
+d1e8d02a-cf89-4d1c-8e07-6614834390f9,19e1254c13f5,qwen2.5-coder-32b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.6364,1.0,0.7778,7,4,0,0,0.06,8.74
+6bab8724-3724-4e94-ac0b-298652b6bf02,ec2df5440d1e,qwen2.5-coder-32b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.6,1.0,0.75,6,4,0,0,0.06,12.11
+13665d0f-326a-4af5-958e-6ad711183e37,be30c03571e6,qwen2.5-coder-32b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.5,1.0,0.6667,1,1,0,0,0.06,8.44
+73fb0d61-5da8-4a50-bb3d-6b8ab4011d61,9dd5c6ef7491,qwen2.5-coder-32b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.4167,1.0,0.5882,5,7,0,0,0.07,9.5
+37fec8a7-fc7a-4eb9-bbb8-ce066368a2bd,86b59acea929,qwen2.5-coder-32b-instruct,How many messages does the user send per week?,True,,,,0,0,0,6,,49.46
+b62f9df3-2c39-4793-bd0a-4595fe5d7cec,b70bc07b63be,qwen2.5-coder-32b-instruct,How many messages does the user send per week?,True,,,,0,0,0,6,,48.15
+5f31f790-d107-4125-9053-7b01a21dc983,efc2df336587,qwen2.5-coder-32b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,54,0,0.09,9.26
+efd88eb4-3c15-4ceb-ad6d-93a6a30f70d1,3ccff49e121d,qwen2.5-coder-32b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,321,0,0.06,8.86
+0622be00-034a-4103-9279-f6b114e567e4,ab368ab82b0f,qwen2.5-coder-32b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,159,0,0.07,8.63
+08beac30-fd2c-4ed8-b102-908d29764820,ea89d62a1f88,qwen2.5-coder-32b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,6,0,0.06,8.47
+307ab81a-87a2-453a-98b8-6ef8f4637b6c,a352e9bb575a,qwen2.5-coder-32b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,282,0,0.06,8.98
+95c684b0-8cee-46db-bd71-b5c84b8325f6,1ccacb482d0e,qwen2.5-coder-32b-instruct,How many messages does the user send per week?,False,,,,0,0,0,6,,51.8
+821ec57d-dd96-449e-ab56-2df17c97da08,fd23adcc813f,qwen2.5-coder-32b-instruct,How many messages does the user send per week?,False,0.6986,0.9444,0.8031,51,22,3,0,0.09,10.33
+7d15dbb7-81d9-463d-9570-9ee58cdedbc9,19e1254c13f5,qwen2.5-coder-32b-instruct,How many messages does the user send per week?,False,,,,0,0,0,6,,78.14
+3f01814c-3eb1-4507-b7f9-ba36bcd13439,ec2df5440d1e,qwen2.5-coder-32b-instruct,How many messages does the user send per week?,False,,,,0,0,0,6,,104.13
+adff7ba6-357d-4c6b-905a-82fe2230d036,be30c03571e6,qwen2.5-coder-32b-instruct,How many messages does the user send per week?,False,,,,0,0,0,6,,62.47
+e11b7b9e-544f-436a-b7a0-06b285aa30e9,9dd5c6ef7491,qwen2.5-coder-32b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,54,0,0.07,8.1
+5091a662-3a48-448f-a5e5-4279d5fb66ad,86b59acea929,mistral-large-instruct,How often does a user see advertisements and about which topics (from which companies)?,True,1.0,1.0,1.0,0,0,0,0,0.08,17.24
+ef6a6da0-c19c-473e-bfa7-b245d3d16c87,b70bc07b63be,mistral-large-instruct,How often does a user see advertisements and about which topics (from which companies)?,True,1.0,1.0,1.0,0,0,0,0,0.07,10.14
+0e8ea1f7-9d3a-4afc-b815-600a3b7a6700,efc2df336587,mistral-large-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,1.0,1.0,1.0,16,0,0,0,0.08,19.38
+60486973-9cd4-4c4c-8190-353e7f77c575,3ccff49e121d,mistral-large-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,1.0,1.0,1.0,17,0,0,0,0.11,20.39
+828d7e00-e103-4d04-9ae4-45ff94ac7102,ab368ab82b0f,mistral-large-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,1.0,1.0,1.0,19,0,0,0,0.14,20.92
+280772dc-f431-46df-9846-3d03ff58d2ea,ea89d62a1f88,mistral-large-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,0.9333,1.0,0.9655,14,1,0,0,0.12,17.61
+bb3ab90e-d163-4035-8683-b3322f849e1c,a352e9bb575a,mistral-large-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,0.9333,1.0,0.9655,14,1,0,0,0.12,18.19
+ee6c3522-1326-41ec-bfb3-ff8a7852cfb2,1ccacb482d0e,mistral-large-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,0.5,1.0,0.6667,1,1,0,0,0.13,18.2
+dd7b3096-944e-49b5-a481-ccbf226ead9d,fd23adcc813f,mistral-large-instruct,How often does a user see advertisements and about which topics (from which companies)?,True,1.0,1.0,1.0,0,0,0,0,0.12,20.72
+2e8ffc3c-c163-4717-9fbe-d2cb12261fc3,19e1254c13f5,mistral-large-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,0.75,1.0,0.8571,3,1,0,0,0.13,18.24
+e73bbbe0-f40a-4ff1-b04d-656f363cc047,ec2df5440d1e,mistral-large-instruct,How often does a user see advertisements and about which topics (from which companies)?,True,0.0,0.0,0.0,0,17,0,0,0.15,21.16
+b63a14bf-8abd-4fa3-955d-4cbdddb418fa,be30c03571e6,mistral-large-instruct,How often does a user see advertisements and about which topics (from which companies)?,True,,,,0,0,0,6,,108.44
+a9a9f7a1-4f72-4f27-9b65-5d888b3e225a,9dd5c6ef7491,mistral-large-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,1.0,1.0,1.0,4,0,0,0,0.14,16.13
+f30cb606-5223-40cf-a960-a94fd2bcca72,86b59acea929,mistral-large-instruct,How often do people see posts(daily and weekly)?,True,1.0,1.0,1.0,0,0,0,0,0.17,21.64
+59dae218-3ea4-4d5e-9cc9-073e80c2add8,b70bc07b63be,mistral-large-instruct,How often do people see posts(daily and weekly)?,True,0.0,0.0,0.0,0,2,0,0,0.13,16.69
+5ff2fbe1-9d55-4159-a072-d4e8b67627da,efc2df336587,mistral-large-instruct,How often do people see posts(daily and weekly)?,False,0.8,0.8,0.8,8,2,2,0,0.14,20.85
+722e3748-ad3b-426b-87b5-a90fbcb38803,3ccff49e121d,mistral-large-instruct,How often do people see posts(daily and weekly)?,False,0.8,0.8,0.8,8,2,2,0,0.69,20.85
+6f2e5042-451e-4472-a719-d3e25ddc09b8,ab368ab82b0f,mistral-large-instruct,How often do people see posts(daily and weekly)?,False,0.8,0.8,0.8,8,2,2,0,0.15,19.42
+af779a9b-0144-41e4-b30e-5b1f4be1e2df,ea89d62a1f88,mistral-large-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,0,9,0,0.13,20.53
+8491fad6-c716-4aab-8906-d5fed3468165,a352e9bb575a,mistral-large-instruct,How often do people see posts(daily and weekly)?,False,,,,0,0,0,6,,113.01
+0b01b855-697b-4112-957f-2a52d2c91b87,1ccacb482d0e,mistral-large-instruct,How often do people see posts(daily and weekly)?,False,0.7778,0.7778,0.7778,7,2,2,0,0.14,21.28
+d5caf5fe-aeb8-43f8-ae84-2b9dcfe6467f,fd23adcc813f,mistral-large-instruct,How often do people see posts(daily and weekly)?,False,,,,0,0,0,6,,112.33
+12c42809-9574-4c5c-a519-0fd5880c88f0,19e1254c13f5,mistral-large-instruct,How often do people see posts(daily and weekly)?,False,0.4286,0.8571,0.5714,6,8,1,0,0.13,19.65
+45675fef-9560-4347-88ac-21960794cd18,ec2df5440d1e,mistral-large-instruct,How often do people see posts(daily and weekly)?,False,0.6,0.6,0.6,3,2,2,0,0.12,22.54
+65844030-3d3b-4d85-9fb8-9708dbb74a26,be30c03571e6,mistral-large-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,0,2,0,0.15,19.68
+8ecfeae4-e72b-49dd-b805-b05b860f0661,9dd5c6ef7491,mistral-large-instruct,How often do people see posts(daily and weekly)?,False,1.0,1.0,1.0,8,0,0,0,0.15,22.59
+beabbfc6-2dab-488a-a438-f43da041e699,86b59acea929,mistral-large-instruct,Which companies have access to your Instagram activity or information?,False,,,,0,0,0,6,,90.47
+5f776d48-f86b-41c4-af81-b007e4a2601a,b70bc07b63be,mistral-large-instruct,Which companies have access to your Instagram activity or information?,True,,,,0,0,0,6,,74.77
+2d50caee-0869-4aa2-881f-250a53975e19,efc2df336587,mistral-large-instruct,Which companies have access to your Instagram activity or information?,False,0.0,0.0,0.0,0,1195,492,0,0.23,17.63
+c4da3026-d4d2-45c9-b197-ccc7b9941346,3ccff49e121d,mistral-large-instruct,Which companies have access to your Instagram activity or information?,False,,,,0,0,0,6,,87.08
+3a6d7840-5fe9-4d3f-b7b2-3cbb31204dfa,ab368ab82b0f,mistral-large-instruct,Which companies have access to your Instagram activity or information?,False,0.0,0.0,0.0,0,0,453,0,1.94,16.2
+433776e8-7a3c-40ca-9c24-286e4247c0ef,ea89d62a1f88,mistral-large-instruct,Which companies have access to your Instagram activity or information?,False,1.0,1.0,1.0,27,0,0,0,0.15,16.51
+8f74cac8-9d80-4172-95a0-c05468a23b4a,a352e9bb575a,mistral-large-instruct,Which companies have access to your Instagram activity or information?,False,,,,0,0,0,6,,105.32
+64331e9a-4834-4261-86c5-509079a4629f,1ccacb482d0e,mistral-large-instruct,Which companies have access to your Instagram activity or information?,True,0.0,0.0,0.0,0,27,0,0,0.12,19.24
+028394a2-0b32-4e77-b544-983b50f05709,fd23adcc813f,mistral-large-instruct,Which companies have access to your Instagram activity or information?,False,,,,0,0,0,6,,86.8
+c0072d01-1184-419c-8580-248c25e55097,19e1254c13f5,mistral-large-instruct,Which companies have access to your Instagram activity or information?,True,0.0,0.0,0.0,0,1,0,0,0.16,16.47
+12cf4dc5-51dd-4fe7-a6ed-997daf20ff16,ec2df5440d1e,mistral-large-instruct,Which companies have access to your Instagram activity or information?,True,0.0,0.0,0.0,0,1,0,0,0.14,17.69
+276c5296-98bd-4775-8d6e-540361c91d47,be30c03571e6,mistral-large-instruct,Which companies have access to your Instagram activity or information?,False,0.0056,0.0031,0.004,1,177,317,0,0.15,15.81
+148bfe9b-8aed-49c8-935f-891535b7ef77,9dd5c6ef7491,mistral-large-instruct,Which companies have access to your Instagram activity or information?,False,,,,0,0,0,6,,87.18
+9bb7a772-2356-42ea-8ee6-c80dae23b997,86b59acea929,mistral-large-instruct,Which devices has the user logged in from and when?,True,,,,0,0,0,6,,103.3
+7f27551c-cb4f-4b18-8646-ca92fa5f71be,b70bc07b63be,mistral-large-instruct,Which devices has the user logged in from and when?,True,0.0,0.0,0.0,0,63,0,0,0.11,12.27
+ad501fbc-0f76-417d-8f43-ac53ae3cf9c7,efc2df336587,mistral-large-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,3,0,0.13,17.49
+356b1a4a-f82e-47b6-8d79-30200522940e,3ccff49e121d,mistral-large-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,11,0,0.12,19.63
+01540e6c-0b12-4dbc-86b1-7936e1f97a1d,ab368ab82b0f,mistral-large-instruct,Which devices has the user logged in from and when?,False,0.25,1.0,0.4,5,15,0,0,0.13,15.61
+b1716e90-fe4e-4de6-8294-84b86b4f1686,ea89d62a1f88,mistral-large-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,3,0,0.19,16.18
+5837348b-5fa7-4da9-839a-e952b7a2db11,a352e9bb575a,mistral-large-instruct,Which devices has the user logged in from and when?,False,,,,0,0,0,6,,86.36
+09e0a960-5d35-4382-a0d8-28fc32508310,1ccacb482d0e,mistral-large-instruct,Which devices has the user logged in from and when?,False,0.1667,1.0,0.2857,1,5,0,0,0.13,17.12
+1d6b1cca-464c-4e14-bb72-d18fef324f5a,fd23adcc813f,mistral-large-instruct,Which devices has the user logged in from and when?,False,,,,0,0,0,6,,98.2
+534949b9-f2ab-4e95-b604-ae602e4cead5,19e1254c13f5,mistral-large-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,15,1,0,0.12,18.03
+9071d17e-6232-4049-84bc-40c5253b8e5b,ec2df5440d1e,mistral-large-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,1,0,0.16,17.78
+77c8d7cf-b1b3-4985-aac1-7fbe8f3b8111,be30c03571e6,mistral-large-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,1,0,0.12,18.57
+0a7be545-2182-494b-a4b5-7b67c5ab17ba,9dd5c6ef7491,mistral-large-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,2,0,0.13,18.52
+8404fd25-e597-401f-b1c6-0dff01586fe0,86b59acea929,mistral-large-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,0.0,0.0,0.0,0,2,0,0,0.12,18.36
+811beb4d-68f0-4da9-b8de-bcd9c4c1231d,b70bc07b63be,mistral-large-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,,,,0,0,0,6,,87.39
+0f285598-4b55-4f50-b4b8-0cebb613277b,efc2df336587,mistral-large-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,1.0,1.0,1.0,0,0,0,0,0.13,17.2
+e664606b-0028-4fcc-9266-fec7f5eca90a,3ccff49e121d,mistral-large-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,8,0,0.14,15.06
+e5941b95-e6d3-46a5-a6af-6b95d892cfdd,ab368ab82b0f,mistral-large-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,,,,0,0,0,6,,97.63
+ee5fcfb9-101e-4a75-8000-208ff1b08dc7,ea89d62a1f88,mistral-large-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,1.0,1.0,1.0,0,0,0,0,0.12,17.53
+4b86fc53-ea83-4a6a-beb5-c73243ad215e,a352e9bb575a,mistral-large-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,,,,0,0,0,6,,96.21
+2bf14c82-696f-4eeb-91bc-18b6b4ef7136,1ccacb482d0e,mistral-large-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,,,,0,0,0,6,,114.14
+4bb56beb-0386-44f5-aaa5-8d4549787ded,fd23adcc813f,mistral-large-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,3,0,0.12,17.4
+5d909632-2884-49aa-9673-f3d1013e3013,19e1254c13f5,mistral-large-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,1,0,0.14,21.09
+6df87e87-2dfe-4af2-8b58-20d841f2b82e,ec2df5440d1e,mistral-large-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,1,0,0.12,18.23
+04674f90-f9de-44c4-99f8-6b543534ecb9,be30c03571e6,mistral-large-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,16,2,0,0.15,20.57
+8be5563f-0ca4-4080-b3ac-2ae661f927ff,9dd5c6ef7491,mistral-large-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,,,,0,0,0,6,,89.13
+42fecc4d-55e1-4eda-8966-c02084c48ed7,86b59acea929,mistral-large-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,312,0,0.15,17.57
+e05c897f-24db-4d0e-b968-d33a8b895030,b70bc07b63be,mistral-large-instruct,Whose stories does the user tend to engage with most often?,True,,,,0,0,0,6,,212.26
+f22d3596-c796-4ee9-9222-d79a2abc656e,efc2df336587,mistral-large-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,41,0,0.11,11.87
+ec204033-eb8b-47fa-bd2f-cb772f32a0fb,3ccff49e121d,mistral-large-instruct,Whose stories does the user tend to engage with most often?,False,,,,0,0,0,6,,219.86
+821e3f85-3aab-47c2-ade3-e0ebebcfa38d,ab368ab82b0f,mistral-large-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,57,0,0.15,18.32
+a8fdaaa2-f968-4fe7-9db1-a6751b9df39b,ea89d62a1f88,mistral-large-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,4,0,0.13,17.63
+d130550c-966f-4cd2-96f2-08f66dd706f9,a352e9bb575a,mistral-large-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,133,0,0.14,16.84
+64610c95-a428-4071-9ba4-a53f26d44d4f,1ccacb482d0e,mistral-large-instruct,Whose stories does the user tend to engage with most often?,False,,,,0,0,0,6,,105.32
+3c7cbf88-4e09-4899-a826-974431a748a8,fd23adcc813f,mistral-large-instruct,Whose stories does the user tend to engage with most often?,False,,,,0,0,0,6,,106.78
+c04666ca-28ff-4330-9c3c-ce105680c139,19e1254c13f5,mistral-large-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,5,10,0,0.12,19.25
+5d1f1f8e-1d0e-417d-8805-728cd256a4ba,ec2df5440d1e,mistral-large-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,10,0,0.13,15.45
+d09ba2fb-af66-4a66-a23f-8368fdb0c3b5,be30c03571e6,mistral-large-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,5,10,0,0.15,14.97
+b1daa7ee-ecdf-42b0-9114-baaaa9953451,9dd5c6ef7491,mistral-large-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,2,33,0,0.13,17.3
+9f7fe30d-01ce-48c6-b2b5-835eded20248,86b59acea929,mistral-large-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,,,,0,0,0,6,,109.14
+f7471634-acc2-40f9-9150-8446c92601fd,b70bc07b63be,mistral-large-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,,,,0,0,0,6,,116.52
+f7322ff4-dc0b-4ae0-a3bb-f51846d26bf0,efc2df336587,mistral-large-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,,,,0,0,0,6,,104.62
+108cdc24-16e1-40cc-98bf-627557bd8f3e,3ccff49e121d,mistral-large-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.91,21.35
+57da51d7-14c3-4673-bdbd-27f6dc174154,ab368ab82b0f,mistral-large-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,,,,0,0,0,6,,140.38
+ef35611f-6a53-4db3-977b-c7810152e3ac,ea89d62a1f88,mistral-large-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,,,,0,0,0,6,,100.03
+30df2f1c-b3d0-4a69-a28f-2145af16a6e7,a352e9bb575a,mistral-large-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,,,,0,0,0,6,,108.73
+cc66d604-cd1b-43c9-93c5-722d374503cf,1ccacb482d0e,mistral-large-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.12,19.01
+9b9a1240-0b49-400d-b34e-0704820341b0,fd23adcc813f,mistral-large-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,,,,0,0,0,6,,120.58
+120101b5-f0b9-485a-aca4-22cfda5d68f5,19e1254c13f5,mistral-large-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.11,22.17
+77d75c6b-5319-4542-b421-383a495f1617,ec2df5440d1e,mistral-large-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,,,,0,0,0,6,,113.48
+301f9c24-32c6-41bc-a6bd-c1150a342275,be30c03571e6,mistral-large-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,,,,0,0,0,6,,118.17
+e21499e4-d7af-4fd5-94e0-bf87e740a4c8,9dd5c6ef7491,mistral-large-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,,,,0,0,0,6,,112.27
+ed07094b-c449-4f8f-978e-3482d9ed046a,86b59acea929,mistral-large-instruct,Which profiles does the user follow that do not follow him back?,False,,,,0,0,0,6,,118.97
+f26e1c99-30ad-4c9c-b307-a958253baf87,b70bc07b63be,mistral-large-instruct,Which profiles does the user follow that do not follow him back?,True,,,,0,0,0,6,,76.59
+328e1066-02d3-4350-bef6-03693767054d,efc2df336587,mistral-large-instruct,Which profiles does the user follow that do not follow him back?,False,,,,0,0,0,6,,107.0
+8a2f709f-44fc-494a-8948-38d2af880cf1,3ccff49e121d,mistral-large-instruct,Which profiles does the user follow that do not follow him back?,False,,,,0,0,0,6,,87.43
+da131d25-5fd8-486d-a960-349aad6cc17c,ab368ab82b0f,mistral-large-instruct,Which profiles does the user follow that do not follow him back?,False,,,,0,0,0,6,,108.28
+70592556-8731-4cb7-bf32-dc809fa45367,ea89d62a1f88,mistral-large-instruct,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,3,0,0.14,18.2
+4ebecdf4-836c-4c46-943b-a58449c2604b,a352e9bb575a,mistral-large-instruct,Which profiles does the user follow that do not follow him back?,False,,,,0,0,0,6,,103.06
+45f340aa-26c5-4149-9de4-c9ceec5014fd,1ccacb482d0e,mistral-large-instruct,Which profiles does the user follow that do not follow him back?,False,1.0,1.0,1.0,27,0,0,0,0.12,17.95
+8bb29524-c833-44eb-9f0e-efa2174e0065,fd23adcc813f,mistral-large-instruct,Which profiles does the user follow that do not follow him back?,False,,,,0,0,0,6,,87.41
+e4c7f14a-418c-4bea-960a-ad733572e688,19e1254c13f5,mistral-large-instruct,Which profiles does the user follow that do not follow him back?,False,1.0,1.0,1.0,29,0,0,0,0.12,14.99
+a13acea1-475e-404b-8d44-aea772e8ddcb,ec2df5440d1e,mistral-large-instruct,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,30,0,0.13,21.4
+16ad1f0a-bf67-4569-8d09-dbe79f663533,be30c03571e6,mistral-large-instruct,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,34,0,0.14,17.38
+5fcf548c-ae97-426f-84fa-61bdc5d6d9cb,9dd5c6ef7491,mistral-large-instruct,Which profiles does the user follow that do not follow him back?,False,1.0,1.0,1.0,5,0,0,0,0.13,28.49
+203c6755-e700-4d98-be16-1b72d5b5fd6f,86b59acea929,mistral-large-instruct,How often does the user view content (including both posts and videos) and from which accounts?,True,0.0,0.0,0.0,0,40,0,0,0.14,17.3
+fd3c140a-8828-46b9-836b-ffe916f1794c,b70bc07b63be,mistral-large-instruct,How often does the user view content (including both posts and videos) and from which accounts?,True,,,,0,0,0,6,,104.94
+f6859988-5ca3-4478-aa21-53fda71f3940,efc2df336587,mistral-large-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,1.0,1.0,1.0,118,0,0,0,0.12,19.85
+c8fc6053-d8d2-400b-a1cc-a211f37b45e8,3ccff49e121d,mistral-large-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,1.0,1.0,1.0,164,0,0,0,0.13,19.13
+f5aa9ff9-bbcd-48f6-92a3-9bf19873c03f,ab368ab82b0f,mistral-large-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,156,0,0.14,20.46
+32648fe8-2918-4b02-b4f2-34f335bdb7dc,ea89d62a1f88,mistral-large-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,1,78,0,0.16,17.18
+a99250c1-b590-4592-96f4-336594bb1669,a352e9bb575a,mistral-large-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,,,,0,0,0,6,,99.68
+272317f5-0b5c-4860-bb52-e87acc2e0a70,1ccacb482d0e,mistral-large-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,18,0,0.13,18.52
+87480f26-e618-44ad-a797-1e8a401f03d5,fd23adcc813f,mistral-large-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,1.0,0.6667,0.8,2,0,1,0,0.12,18.91
+d7e2168d-a2fd-4421-8dc8-67182a3189e4,19e1254c13f5,mistral-large-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,1.0,1.0,1.0,18,0,0,0,0.17,19.87
+8f839fb3-f8ad-4086-953f-3ced9a21661d,ec2df5440d1e,mistral-large-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,1,16,0,0.16,20.45
+0ee4e845-f73b-4dcb-970e-a6a52bfb713c,be30c03571e6,mistral-large-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,5,2,0,0.15,17.77
+fb9e1c79-fadd-486d-9b7c-550926b55c70,9dd5c6ef7491,mistral-large-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,1.0,1.0,1.0,14,0,0,0,0.3,19.35
+72bf294c-0437-44e3-8943-3f6885ca95bd,86b59acea929,mistral-large-instruct,Which accounts has the user viewed posts from but not liked them?,True,1.0,1.0,1.0,0,0,0,0,0.19,17.43
+d8dd18b3-fc9c-4095-9de5-a329c563df85,b70bc07b63be,mistral-large-instruct,Which accounts has the user viewed posts from but not liked them?,True,1.0,1.0,1.0,0,0,0,0,0.11,11.95
+847fd701-6cd1-4d4b-9706-cf6a421cc5bb,efc2df336587,mistral-large-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.9091,1.0,0.9524,70,7,0,0,0.12,18.6
+d0c3f005-37ae-4079-8e9b-0300603c6ed3,3ccff49e121d,mistral-large-instruct,Which accounts has the user viewed posts from but not liked them?,False,,,,0,0,0,6,,106.55
+6171368b-94db-4bfb-8b0a-2425e0d06ccf,ab368ab82b0f,mistral-large-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.8298,1.0,0.907,78,16,0,0,0.13,19.12
+629f26d7-eff9-4f79-a988-1e632f2f95b1,ea89d62a1f88,mistral-large-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.0,0.0,0.0,0,0,18,0,0.12,17.58
+6f0afccf-58a4-4046-a9ff-3bc2b7bc396b,a352e9bb575a,mistral-large-instruct,Which accounts has the user viewed posts from but not liked them?,False,,,,0,0,0,6,,82.58
+8dc99632-6153-462d-b05b-42737b2cbbce,1ccacb482d0e,mistral-large-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.0,0.0,0.0,0,0,6,0,0.12,14.97
+56cc3388-c4a7-47fe-9035-4605ab1d4b4c,fd23adcc813f,mistral-large-instruct,Which accounts has the user viewed posts from but not liked them?,False,,,,0,0,0,6,,89.35
+4761f052-914f-4fd3-95cb-ef01a80943ea,19e1254c13f5,mistral-large-instruct,Which accounts has the user viewed posts from but not liked them?,False,,,,0,0,0,6,,110.77
+9477a79f-de81-4941-8037-dfbfbf390877,ec2df5440d1e,mistral-large-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.1667,0.1667,0.1667,1,5,5,0,0.13,19.64
+69a06d60-d539-4ab4-95bc-22395c6c1844,be30c03571e6,mistral-large-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.5,1.0,0.6667,1,1,0,0,0.13,18.26
+1cbb686d-6950-4888-9774-d5b0e8840192,9dd5c6ef7491,mistral-large-instruct,Which accounts has the user viewed posts from but not liked them?,False,,,,0,0,0,6,,89.35
+8cc6107d-b89e-485d-8c27-e9cd6c62bfff,86b59acea929,mistral-large-instruct,How many messages does the user send per week?,True,1.0,1.0,1.0,0,0,0,0,0.14,16.18
+e108b022-0503-41c4-bf33-1483b217daed,b70bc07b63be,mistral-large-instruct,How many messages does the user send per week?,True,,,,0,0,0,6,,86.96
+c0d57c8a-90e6-46f6-93de-902c1ffde933,efc2df336587,mistral-large-instruct,How many messages does the user send per week?,False,1.0,1.0,1.0,54,0,0,0,0.27,15.45
+830f6e83-72f7-498c-858e-d6efeab4a530,3ccff49e121d,mistral-large-instruct,How many messages does the user send per week?,False,,,,0,0,0,6,,98.59
+2c389b72-1b58-4aaf-8b5b-8984fc1f4519,ab368ab82b0f,mistral-large-instruct,How many messages does the user send per week?,False,,,,0,0,0,6,,108.84
+883395db-36b6-4385-82b4-593844e2f939,ea89d62a1f88,mistral-large-instruct,How many messages does the user send per week?,False,,,,0,0,0,6,,95.89
+ceb44885-9d4b-49bd-9ad5-9b77d48c44e4,a352e9bb575a,mistral-large-instruct,How many messages does the user send per week?,False,,,,0,0,0,6,,103.67
+2d79424e-dc22-41d0-9f55-d6f35faf0433,1ccacb482d0e,mistral-large-instruct,How many messages does the user send per week?,False,,,,0,0,0,6,,105.65
+48288c34-743d-4d79-9f4e-39091e0b607a,fd23adcc813f,mistral-large-instruct,How many messages does the user send per week?,False,,,,0,0,0,6,,93.64
+4c75ba1f-7559-4575-a84c-6c04c2f507f9,19e1254c13f5,mistral-large-instruct,How many messages does the user send per week?,False,,,,0,0,0,6,,102.56
+6d05a79a-2923-44d4-b3ad-a112285a2171,ec2df5440d1e,mistral-large-instruct,How many messages does the user send per week?,False,,,,0,0,0,6,,107.99
+3134cf66-63fd-4e26-b804-cbcc61117e94,be30c03571e6,mistral-large-instruct,How many messages does the user send per week?,False,,,,0,0,0,6,,94.03
+d5152d02-94db-4710-8e12-feea8f77c5f5,9dd5c6ef7491,mistral-large-instruct,How many messages does the user send per week?,False,0.037,0.037,0.037,2,52,52,0,0.15,15.19
+66bddf1f-60b5-47ba-82cf-8ad731cad859,86b59acea929,codestral-22b,What topics does Instagram determine to be of interest for a user?,True,,,,0,0,0,6,,86.82
+6750cfd0-3dc1-4fab-98ec-e34a90ac4ea9,b70bc07b63be,codestral-22b,What topics does Instagram determine to be of interest for a user?,True,0.0,0.0,0.0,0,196,0,0,0.15,19.48
+47c2f365-c405-45ad-8a66-1a8d5f48196e,efc2df336587,codestral-22b,What topics does Instagram determine to be of interest for a user?,False,1.0,1.0,1.0,32,0,0,0,0.14,16.86
+89c82efc-3dad-4214-9ac5-0090d0500c7d,3ccff49e121d,codestral-22b,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,452,20,0,0.15,22.79
+28fbd359-de16-4f5f-bd5a-9d815de20e4a,ab368ab82b0f,codestral-22b,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,0,20,0,0.14,11.21
+2ebece20-f024-412f-9e3f-5a6911c4c6c1,ea89d62a1f88,codestral-22b,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,0,6,0,0.15,14.42
+20fb12c6-f447-44ab-a2b9-a82774896566,a352e9bb575a,codestral-22b,What topics does Instagram determine to be of interest for a user?,False,,,,0,0,0,6,,98.88
+7453afe5-b88e-4f5f-945f-16a2ebf9e0c1,1ccacb482d0e,codestral-22b,What topics does Instagram determine to be of interest for a user?,True,1.0,1.0,1.0,0,0,0,0,0.13,14.76
+058eecb7-d6a8-428c-ae91-552701c35afa,fd23adcc813f,codestral-22b,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,4,125,0,0.15,18.6
+4a371c3e-adcf-4083-bbe4-64a0b93f625c,19e1254c13f5,codestral-22b,What topics does Instagram determine to be of interest for a user?,True,1.0,1.0,1.0,0,0,0,0,0.13,30.09
+4a4773d3-12c3-4bc6-a8ef-1dd16f71e2d1,ec2df5440d1e,codestral-22b,What topics does Instagram determine to be of interest for a user?,True,1.0,1.0,1.0,0,0,0,0,0.14,17.79
+7ec8958b-5304-4be1-8758-bcf636b1b697,be30c03571e6,codestral-22b,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,4,42,0,0.13,16.86
+24ecb105-be79-4092-a3b0-72926e020243,9dd5c6ef7491,codestral-22b,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,1,103,0,0.14,12.37
+137ff374-bf81-4d1f-8b59-b84c01c956a3,86b59acea929,codestral-22b,How often does a user see advertisements and about which topics (from which companies)?,True,,,,0,0,0,6,,113.66
+193fb244-c07c-4c83-a7cc-ae6bc7a3d510,b70bc07b63be,codestral-22b,How often does a user see advertisements and about which topics (from which companies)?,True,1.0,1.0,1.0,0,0,0,0,0.14,8.72
+b141ee7c-fdb5-495e-9b93-1957a963381f,efc2df336587,codestral-22b,How often does a user see advertisements and about which topics (from which companies)?,False,1.0,1.0,1.0,16,0,0,0,0.14,15.57
+5c75f56a-48ad-404a-afec-518b9e2e6114,3ccff49e121d,codestral-22b,How often does a user see advertisements and about which topics (from which companies)?,False,1.0,1.0,1.0,17,0,0,0,0.13,15.34
+aa5eef8b-6738-4ead-ab23-1196d8610b60,ab368ab82b0f,codestral-22b,How often does a user see advertisements and about which topics (from which companies)?,False,1.0,1.0,1.0,19,0,0,0,0.14,13.46
+307d9638-d9cb-43cc-8cb7-d986dc59984c,ea89d62a1f88,codestral-22b,How often does a user see advertisements and about which topics (from which companies)?,False,1.0,1.0,1.0,14,0,0,0,0.14,14.76
+c29def71-fbaf-47ba-8f48-6e50c289115e,a352e9bb575a,codestral-22b,How often does a user see advertisements and about which topics (from which companies)?,False,,,,0,0,0,6,,101.17
+6fa455b4-2df9-45a2-b044-a33852ac107c,1ccacb482d0e,codestral-22b,How often does a user see advertisements and about which topics (from which companies)?,False,1.0,1.0,1.0,1,0,0,0,0.14,20.73
+77fa5677-175a-41af-ac50-b57c837baff8,fd23adcc813f,codestral-22b,How often does a user see advertisements and about which topics (from which companies)?,True,0.0,0.0,0.0,0,1,0,0,0.14,15.76
+f91c86e0-0bb5-4296-9f8e-2e81a8f7cb9e,19e1254c13f5,codestral-22b,How often does a user see advertisements and about which topics (from which companies)?,False,,,,0,0,0,6,,90.22
+9ca0858e-2e1e-4840-ad30-09205f7727e0,ec2df5440d1e,codestral-22b,How often does a user see advertisements and about which topics (from which companies)?,True,0.0,0.0,0.0,0,16,0,0,0.13,22.51
+f8d05f83-4a6a-41bd-999a-a9bce5b70b0f,be30c03571e6,codestral-22b,How often does a user see advertisements and about which topics (from which companies)?,True,0.0,0.0,0.0,0,4,0,0,0.14,13.42
+9f46f472-a262-4936-bc6a-4bbc655ea0ee,9dd5c6ef7491,codestral-22b,How often does a user see advertisements and about which topics (from which companies)?,False,1.0,1.0,1.0,4,0,0,0,0.14,16.12
+a187ae34-4b65-48bc-8a7d-e5f9772889cc,86b59acea929,codestral-22b,How often do people see posts(daily and weekly)?,True,1.0,1.0,1.0,0,0,0,0,0.17,16.73
+4ec396cb-bb96-4b05-ac50-f5c7868771b9,b70bc07b63be,codestral-22b,How often do people see posts(daily and weekly)?,True,0.0,0.0,0.0,0,249,0,0,0.14,19.56
+eef1dd60-18b4-481e-afb0-0dbcb4f61814,efc2df336587,codestral-22b,How often do people see posts(daily and weekly)?,False,0.8,0.8,0.8,8,2,2,0,0.14,18.65
+1b5e3a0c-e766-4ea9-86b4-24b44d6cea5c,3ccff49e121d,codestral-22b,How often do people see posts(daily and weekly)?,False,1.0,0.9,0.9474,9,0,1,0,0.14,30.95
+e00e3a9e-bf42-4fe2-86d3-603ffcb9cf4e,ab368ab82b0f,codestral-22b,How often do people see posts(daily and weekly)?,False,0.8,0.8,0.8,8,2,2,0,0.15,22.59
+2fd5cfe2-c2cc-4273-8c64-9b555364accc,ea89d62a1f88,codestral-22b,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,0,9,0,0.15,20.25
+cf799f88-a5c2-496e-92ba-38c689d8be42,a352e9bb575a,codestral-22b,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,0,9,0,0.26,19.41
+9c6febfa-410f-4e9f-aa25-5ff0e36e5f61,1ccacb482d0e,codestral-22b,How often do people see posts(daily and weekly)?,False,,,,0,0,0,6,,134.5
+c68e02bd-2803-434b-b8b5-299315966acf,fd23adcc813f,codestral-22b,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,0,2,0,0.24,22.23
+76d829be-1984-4c65-a514-40ab9c5c8479,19e1254c13f5,codestral-22b,How often do people see posts(daily and weekly)?,False,0.0741,0.2857,0.1176,2,25,5,0,0.13,20.69
+4b3b29d5-84d7-4fe9-9142-e492ad4a0a05,ec2df5440d1e,codestral-22b,How often do people see posts(daily and weekly)?,False,,,,0,0,0,6,,191.89
+82b482b9-720f-4586-9fa8-92f959482773,be30c03571e6,codestral-22b,How often do people see posts(daily and weekly)?,False,0.5,0.5,0.5,1,1,1,0,0.15,22.29
+b2973726-a82f-46de-a9c7-1428952cfb24,9dd5c6ef7491,codestral-22b,How often do people see posts(daily and weekly)?,False,1.0,1.0,1.0,8,0,0,0,0.15,22.79
+4ac73f30-f023-44b7-a079-68431a3166c2,86b59acea929,codestral-22b,Which companies have access to your Instagram activity or information?,False,,,,0,0,0,6,,68.8
+349bc348-b138-4fce-a891-999ab58f84d5,b70bc07b63be,codestral-22b,Which companies have access to your Instagram activity or information?,True,1.0,1.0,1.0,0,0,0,0,0.14,10.16
+8157bb41-db7e-4c2b-82bf-2f7765a343d7,efc2df336587,codestral-22b,Which companies have access to your Instagram activity or information?,False,0.0,0.0,0.0,0,0,492,0,0.14,20.89
+3ee69a84-2d04-4a27-89d4-3b4243c4642b,3ccff49e121d,codestral-22b,Which companies have access to your Instagram activity or information?,False,,,,0,0,0,6,,65.73
+3509007f-b6b2-463a-99e8-153debcd378b,ab368ab82b0f,codestral-22b,Which companies have access to your Instagram activity or information?,False,0.0,0.0,0.0,0,0,453,0,0.15,9.48
+b7e431d4-af8b-4044-aed2-ff35681913d1,ea89d62a1f88,codestral-22b,Which companies have access to your Instagram activity or information?,False,1.0,1.0,1.0,27,0,0,0,0.14,12.33
+be6ace58-6d91-43e1-94b0-a1ae2122dd76,a352e9bb575a,codestral-22b,Which companies have access to your Instagram activity or information?,False,0.0,0.0,0.0,0,0,27,0,0.15,7.43
+5f3fd87e-d046-40bb-9e4b-b863935c416d,1ccacb482d0e,codestral-22b,Which companies have access to your Instagram activity or information?,True,1.0,1.0,1.0,0,0,0,0,0.15,14.51
+ad70eac8-77e9-4de0-8f04-cfc9d1222871,fd23adcc813f,codestral-22b,Which companies have access to your Instagram activity or information?,False,,,,0,0,0,6,,63.63
+944bed5f-3c4e-4e27-9965-ed0bc871621c,19e1254c13f5,codestral-22b,Which companies have access to your Instagram activity or information?,True,0.0,0.0,0.0,0,3,0,0,0.14,15.04
+5004dc14-7763-4e2b-895f-1726bc83e86c,ec2df5440d1e,codestral-22b,Which companies have access to your Instagram activity or information?,True,1.0,1.0,1.0,0,0,0,0,0.14,15.57
+99cc00b3-531b-4385-9f5c-002dc49aa7b7,be30c03571e6,codestral-22b,Which companies have access to your Instagram activity or information?,False,0.0,0.0,0.0,0,0,318,0,0.15,13.71
+125ba128-568d-4500-9e87-0faa23bc01d4,9dd5c6ef7491,codestral-22b,Which companies have access to your Instagram activity or information?,False,,,,0,0,0,6,,68.58
+b7be59cc-b2f9-4d99-a31c-45f8e609d3f6,86b59acea929,codestral-22b,Which devices has the user logged in from and when?,True,1.0,1.0,1.0,0,0,0,0,0.14,13.66
+600296cd-aecc-4488-bb85-d0f857411865,b70bc07b63be,codestral-22b,Which devices has the user logged in from and when?,True,1.0,1.0,1.0,0,0,0,0,0.14,9.3
+294706be-dd56-43bd-9328-8c0ba3388c98,efc2df336587,codestral-22b,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,3,0,0.14,19.07
+40436a3e-8c91-4868-9caf-05aab3c84a8f,3ccff49e121d,codestral-22b,Which devices has the user logged in from and when?,False,,,,0,0,0,6,,102.5
+15e497bd-413e-4f22-b0b9-9f40114630b0,ab368ab82b0f,codestral-22b,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,5,5,0,0.18,13.48
+20520425-331e-4a57-9ba1-3117e30f2378,ea89d62a1f88,codestral-22b,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,3,3,0,0.13,15.81
+00f68a2d-36b5-40aa-9f39-9431be2add02,a352e9bb575a,codestral-22b,Which devices has the user logged in from and when?,False,,,,0,0,0,6,,91.6
+65dde267-6ccc-458d-bc5f-fafa59bcec4a,1ccacb482d0e,codestral-22b,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,1,0,0.15,17.68
+af6ad70a-2398-4e98-8cd9-949fbea8284e,fd23adcc813f,codestral-22b,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,2,4,0.14,66.16
+1f8717b1-fe81-48ce-8a32-b5dcf93b6ebd,19e1254c13f5,codestral-22b,Which devices has the user logged in from and when?,False,,,,0,0,0,6,,106.68
+cf578071-09e2-46ed-9910-ee4bb0c2465e,ec2df5440d1e,codestral-22b,Which devices has the user logged in from and when?,False,,,,0,0,0,6,,109.66
+993e8ed0-be7b-437f-aaa2-3a409c09e7b9,be30c03571e6,codestral-22b,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,9,1,0,0.14,17.49
+48ca3549-46b7-4a83-aa5c-b0c7654d5da1,9dd5c6ef7491,codestral-22b,Which devices has the user logged in from and when?,False,0.6667,1.0,0.8,2,1,0,0,0.14,16.88
+31f56924-1b5c-4dfa-aca7-1d48b8edde15,86b59acea929,codestral-22b,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,1.0,1.0,1.0,0,0,0,0,0.14,16.41
+9e186b94-a487-416f-9f50-9141aaf90604,b70bc07b63be,codestral-22b,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,,,,0,0,0,6,,124.85
+bca6fcf7-d6d9-4829-8708-979001922005,efc2df336587,codestral-22b,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,0.0,0.0,0.0,0,1,0,0,0.14,19.23
+50db6206-73cb-42b8-ac5e-44b3d3dc5bed,3ccff49e121d,codestral-22b,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,8,0,0.14,22.42
+15d12e12-7e79-4fdf-b0e5-b5a28deaf284,ab368ab82b0f,codestral-22b,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,3,0,0.15,22.86
+7a82b0e5-7fdc-4d09-b671-971f8121e655,ea89d62a1f88,codestral-22b,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,1.0,1.0,1.0,0,0,0,0,0.13,19.26
+c6e075bc-2902-41b4-b769-b2972f2cbe34,a352e9bb575a,codestral-22b,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,1,0,0.13,21.43
+6ae85dbe-ed71-4b5c-bb33-95e88ea2f38d,1ccacb482d0e,codestral-22b,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,1,0,0.14,18.95
+e930beba-a56c-4d2f-9d92-2a83264e44cc,fd23adcc813f,codestral-22b,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,3,0,0.13,9.33
+0ca904c9-b5b3-4d51-97d4-273e4d9f082d,19e1254c13f5,codestral-22b,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,1,0,0.14,16.71
+ea442f58-8cee-4235-858c-4cb40c02692d,ec2df5440d1e,codestral-22b,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,1,0,0.14,16.79
+b19d8d05-52c6-402c-8283-4e7b64148fc9,be30c03571e6,codestral-22b,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,2,0,0.14,18.5
+9f53d68e-e9b3-4dbf-99ad-0fe55b797778,9dd5c6ef7491,codestral-22b,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,1.0,1.0,1.0,0,0,0,0,0.14,11.84
+530c8bb1-14f5-44af-b6f5-225864960d13,86b59acea929,codestral-22b,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,312,0,0.14,16.49
+72cc095b-1063-47b8-9b6f-5da05dcbbee5,b70bc07b63be,codestral-22b,Whose stories does the user tend to engage with most often?,True,,,,0,0,0,6,,112.65
+cd59557f-600d-4d24-9019-634a897fe03a,efc2df336587,codestral-22b,Whose stories does the user tend to engage with most often?,False,1.0,1.0,1.0,41,0,0,0,0.14,19.81
+f81861d8-16bd-437a-8dc1-73acc26de5e1,3ccff49e121d,codestral-22b,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,60,0,0.14,15.24
+166ba491-3abc-4a59-a7ed-08e2ba27d419,ab368ab82b0f,codestral-22b,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,57,0,0.14,17.14
+5d93cfce-0672-458f-bd6b-8e69f7ee0abe,ea89d62a1f88,codestral-22b,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,4,0,0.13,14.24
+c0be3a2a-093e-4784-adc8-6f780e328400,a352e9bb575a,codestral-22b,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,133,0,0.14,26.16
+fbd174bf-b45c-47e4-83ce-f787de6b56e9,1ccacb482d0e,codestral-22b,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,10,0,0.15,16.35
+c30645bb-e35a-48f0-bc89-88786abb0a82,fd23adcc813f,codestral-22b,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,10,0,0.13,14.11
+0a0c5523-c20c-4088-a14d-a4ae9a5bc852,19e1254c13f5,codestral-22b,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,10,0,0.14,26.42
+8e5bd5cd-9910-4bce-8a83-cc7a58ec2d96,ec2df5440d1e,codestral-22b,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,10,0,0.14,12.51
+72f24e1e-bf21-4c0a-96de-a446243bdb78,be30c03571e6,codestral-22b,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,10,0,0.14,12.7
+0b67a08a-43b1-42a0-9d10-d568f8b0b48b,9dd5c6ef7491,codestral-22b,Whose stories does the user tend to engage with most often?,False,0.9688,0.9394,0.9538,31,1,2,0,0.14,16.0
+2f5f77db-3dcb-448a-b3bf-6265e213157a,86b59acea929,codestral-22b,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.14,17.15
+28d37ac1-c9ff-4668-aed4-9ed236776d8d,b70bc07b63be,codestral-22b,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,20,20,0,0.14,18.2
+186002e6-3b9b-416c-b5b0-cb0a37eefef4,efc2df336587,codestral-22b,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,,,,0,0,0,6,,117.77
+a1a03118-f411-4b93-89d0-cf6884372bbf,3ccff49e121d,codestral-22b,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.14,13.83
+d234d9c2-91ba-4cee-95e9-21174bd5e8a3,ab368ab82b0f,codestral-22b,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.14,21.34
+0636ce3d-1309-4750-ae4f-6398dd7c3245,ea89d62a1f88,codestral-22b,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.14,23.37
+416cb8b1-b3fd-442b-a4e0-28b9cc628d91,a352e9bb575a,codestral-22b,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.14,23.58
+e9b5e890-5da2-456b-b6ea-7e1f85010a5b,1ccacb482d0e,codestral-22b,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.15,20.16
+eb963180-6713-46a9-9469-9d6eedf102cd,fd23adcc813f,codestral-22b,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,,,,0,0,0,6,,110.4
+114831a3-6a16-498d-bac7-f42fbee23350,19e1254c13f5,codestral-22b,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.15,22.33
+2a02d9e3-14ee-4e7d-98c2-56e7331254fe,ec2df5440d1e,codestral-22b,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,,,,0,0,0,6,,111.22
+85a179b5-b783-47d0-bc5d-7434559427f6,be30c03571e6,codestral-22b,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.14,20.4
+97b034a6-e8a8-40a3-90c7-f5a7330daf38,9dd5c6ef7491,codestral-22b,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.17,20.31
+2ebfb4e3-3b0b-4b0e-b36e-cad0d74058b0,86b59acea929,codestral-22b,Which profiles does the user follow that do not follow him back?,False,1.0,1.0,1.0,18,0,0,0,0.15,16.76
+52020d02-a196-4218-9f94-ef4f888c53a0,b70bc07b63be,codestral-22b,Which profiles does the user follow that do not follow him back?,True,0.0,0.0,0.0,0,62,0,0,0.15,17.17
+b1247bf1-83e4-4388-8142-4292be02ff33,efc2df336587,codestral-22b,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,3,0,0.15,16.93
+b172d6e3-e972-4ceb-bbe4-33fc911577ab,3ccff49e121d,codestral-22b,Which profiles does the user follow that do not follow him back?,False,,,,0,0,0,6,,112.48
+de36b3f4-a134-4148-b7a1-6e8c90dec5ad,ab368ab82b0f,codestral-22b,Which profiles does the user follow that do not follow him back?,False,,,,0,0,0,6,,118.62
+da6aa699-1794-4561-a088-6ce6205e96a0,ea89d62a1f88,codestral-22b,Which profiles does the user follow that do not follow him back?,False,,,,0,0,0,6,,102.88
+e710ccff-035f-4251-ae62-5a41f21d64bd,a352e9bb575a,codestral-22b,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,135,0,0.14,18.01
+5970ef96-f989-400b-8200-80caf8654bd4,1ccacb482d0e,codestral-22b,Which profiles does the user follow that do not follow him back?,False,1.0,1.0,1.0,27,0,0,0,0.14,17.59
+6d4ca042-6cc9-44d8-84a3-db30dd8f618b,fd23adcc813f,codestral-22b,Which profiles does the user follow that do not follow him back?,False,1.0,0.0385,0.0741,1,0,25,0,0.14,17.81
+2e687947-e7fe-4c8a-843b-771f9436a126,19e1254c13f5,codestral-22b,Which profiles does the user follow that do not follow him back?,False,1.0,1.0,1.0,29,0,0,0,0.14,15.64
+bc831d73-9ef0-4bcc-bd3d-c67eaff15b1b,ec2df5440d1e,codestral-22b,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,30,0,0.14,15.01
+30457a6d-1500-4869-8a07-b2264daf7e09,be30c03571e6,codestral-22b,Which profiles does the user follow that do not follow him back?,False,,,,0,0,0,6,,109.84
+3fdca5fb-4088-4dc9-a3a5-c84956c7b3d1,9dd5c6ef7491,codestral-22b,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,1,5,0,0.13,19.19
+d64466fe-5f49-4773-ac77-47f31fbaa6c9,86b59acea929,codestral-22b,How often does the user view content (including both posts and videos) and from which accounts?,True,1.0,1.0,1.0,0,0,0,0,0.18,15.05
+c079f0a7-1427-4910-bd53-7b979e435da2,b70bc07b63be,codestral-22b,How often does the user view content (including both posts and videos) and from which accounts?,True,1.0,1.0,1.0,0,0,0,0,0.13,11.96
+5991ad19-560e-4647-833e-116051131f7b,efc2df336587,codestral-22b,How often does the user view content (including both posts and videos) and from which accounts?,False,,,,0,0,0,6,,110.96
+1fb162be-7959-4895-9cd9-443b22fa8fc3,3ccff49e121d,codestral-22b,How often does the user view content (including both posts and videos) and from which accounts?,False,1.0,1.0,1.0,164,0,0,0,0.14,18.61
+b03fb0ea-3692-4cd6-adeb-72475083b8f4,ab368ab82b0f,codestral-22b,How often does the user view content (including both posts and videos) and from which accounts?,False,1.0,1.0,1.0,156,0,0,0,0.14,18.16
+944abcd5-838a-4fde-a5a3-3d3c3449bd96,ea89d62a1f88,codestral-22b,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,78,0,0.14,17.96
+96e2a58a-091b-4f83-9595-e3c691292ec7,a352e9bb575a,codestral-22b,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,78,0,0.27,18.14
+5de14144-4198-44e2-aa94-1f39478075e2,1ccacb482d0e,codestral-22b,How often does the user view content (including both posts and videos) and from which accounts?,False,1.0,1.0,1.0,18,0,0,0,0.13,17.75
+3fd35cc5-ab31-4973-95d3-4695890083b8,fd23adcc813f,codestral-22b,How often does the user view content (including both posts and videos) and from which accounts?,False,,,,0,0,0,6,,118.02
+e3bddd49-43e4-4d30-9793-574631361ee6,19e1254c13f5,codestral-22b,How often does the user view content (including both posts and videos) and from which accounts?,False,1.0,1.0,1.0,18,0,0,0,0.14,18.84
+e71220a6-ff16-4006-b8b6-daaca7763703,ec2df5440d1e,codestral-22b,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,16,0,0.13,19.6
+48513663-4811-4865-a00f-2cd4a04219e8,be30c03571e6,codestral-22b,How often does the user view content (including both posts and videos) and from which accounts?,False,1.0,1.0,1.0,2,0,0,0,0.14,21.98
+c2c263cf-b5c0-418c-83c6-b932e860e8f9,9dd5c6ef7491,codestral-22b,How often does the user view content (including both posts and videos) and from which accounts?,False,,,,0,0,0,6,,109.32
+52ff3e26-2784-423c-bdbf-e2ea59969a6a,86b59acea929,codestral-22b,Which accounts has the user viewed posts from but not liked them?,True,1.0,1.0,1.0,0,0,0,0,0.14,20.4
+51ba7949-a11a-4619-a51e-586184e43044,b70bc07b63be,codestral-22b,Which accounts has the user viewed posts from but not liked them?,True,0.0,0.0,0.0,0,58,0,0,0.15,16.63
+8ae68d0a-1c91-4f1d-b799-2bb8c707a09d,efc2df336587,codestral-22b,Which accounts has the user viewed posts from but not liked them?,False,0.0,0.0,0.0,0,0,70,0,0.13,18.44
+58125719-7306-43cc-828b-9505503772a6,3ccff49e121d,codestral-22b,Which accounts has the user viewed posts from but not liked them?,False,0.0,0.0,0.0,0,0,90,0,0.14,19.63
+2e3afb02-8d82-4283-8e96-76874ca1fd45,ab368ab82b0f,codestral-22b,Which accounts has the user viewed posts from but not liked them?,False,0.8298,1.0,0.907,78,16,0,0,0.14,14.26
+8c91b15d-a5df-482c-8425-5c348272dabb,ea89d62a1f88,codestral-22b,Which accounts has the user viewed posts from but not liked them?,False,0.0,0.0,0.0,0,0,18,0,0.14,18.69
+0e494372-624a-4b33-bf28-a215713fcb06,a352e9bb575a,codestral-22b,Which accounts has the user viewed posts from but not liked them?,False,,,,0,0,0,6,,85.04
+aeee99e3-fecd-4713-b704-13422bf3cf40,1ccacb482d0e,codestral-22b,Which accounts has the user viewed posts from but not liked them?,False,0.6667,1.0,0.8,6,3,0,0,0.13,17.06
+810b26d9-e744-432e-a625-a8baf9efc3da,fd23adcc813f,codestral-22b,Which accounts has the user viewed posts from but not liked them?,False,0.5,1.0,0.6667,1,1,0,0,0.14,19.11
+14035146-7e26-4da8-8c8b-4351b74dee75,19e1254c13f5,codestral-22b,Which accounts has the user viewed posts from but not liked them?,False,0.0,0.0,0.0,0,0,7,0,0.14,18.09
+2068ed33-5da6-4c14-9765-68f8feee9f9d,ec2df5440d1e,codestral-22b,Which accounts has the user viewed posts from but not liked them?,False,1.0,0.1667,0.2857,1,0,5,0,0.14,18.82
+90d13017-6866-46a4-a7fd-1909064c5762,be30c03571e6,codestral-22b,Which accounts has the user viewed posts from but not liked them?,False,0.0,0.0,0.0,0,0,1,0,0.14,19.2
+dd016ab2-13d6-40b1-93ff-51def1c560e9,9dd5c6ef7491,codestral-22b,Which accounts has the user viewed posts from but not liked them?,False,0.1429,1.0,0.25,5,30,0,0,0.13,18.54
+e6bef93a-4dcc-49a3-865c-b1d29e03e68f,86b59acea929,codestral-22b,How many messages does the user send per week?,True,,,,0,0,0,6,,127.35
+c8e15bea-9b05-4196-ad8c-454c46533ee7,b70bc07b63be,codestral-22b,How many messages does the user send per week?,True,1.0,1.0,1.0,0,0,0,0,0.14,19.66
+a0ebaded-78ba-4bd9-9ec5-1dfecc72493e,efc2df336587,codestral-22b,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,54,0,0.18,14.25
+b31bde52-d468-4e9e-b824-e720e5942edd,3ccff49e121d,codestral-22b,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,321,0,0.62,20.14
+ed9a81d7-94b1-4003-bf67-7d3ed0e4ab53,ab368ab82b0f,codestral-22b,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,159,0,0.14,21.46
+b92450cb-ba14-4e08-a6f3-874fcbe38236,ea89d62a1f88,codestral-22b,How many messages does the user send per week?,False,0.1667,0.1667,0.1667,1,5,5,0,0.16,14.08
+291aacf1-d7e2-4d7f-a20e-efda0f9c89b1,a352e9bb575a,codestral-22b,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,282,0,0.14,16.57
+1d872517-ed48-4d87-98cd-d6e82bd702de,1ccacb482d0e,codestral-22b,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,2,0,0.14,14.19
+7a7eda8a-5741-4937-8005-b1fbd9813467,fd23adcc813f,codestral-22b,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,54,0,0.14,23.74
+18b05dc3-c767-43a8-9d05-af0de64317d9,19e1254c13f5,codestral-22b,How many messages does the user send per week?,False,,,,0,0,0,6,,92.18
+ef240b13-6db5-4aa7-a71c-0171a283b082,ec2df5440d1e,codestral-22b,How many messages does the user send per week?,False,1.0,1.0,1.0,2,0,0,0,0.15,16.88
+41bb002e-c4af-44a8-be1e-1763e71c1dfa,be30c03571e6,codestral-22b,How many messages does the user send per week?,False,,,,0,0,0,6,,122.31
+7f889ea3-5a21-4c62-8740-72039e144b2a,9dd5c6ef7491,codestral-22b,How many messages does the user send per week?,False,,,,0,0,0,6,,88.15
+6111f238-4802-48cb-b326-87206866aed6,86b59acea929,qwen2.5-72b-instruct,How often do people see posts(daily and weekly)?,True,0.0,0.0,0.0,0,8,0,5,0.14,100.97
+7a78dc37-a929-41c2-855d-2a900a4b541e,b70bc07b63be,qwen2.5-72b-instruct,How often do people see posts(daily and weekly)?,True,,,,0,0,0,6,,110.53
+81eaabbc-af58-41ee-84ac-0ef0d7f65bda,efc2df336587,qwen2.5-72b-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,2,10,0,0.14,19.65
+a4de4cb9-0fdd-4b33-b489-127235110a7d,3ccff49e121d,qwen2.5-72b-instruct,How often do people see posts(daily and weekly)?,False,,,,0,0,0,6,,115.66
+8a6474eb-863e-4994-8aca-a6f964b7f721,ab368ab82b0f,qwen2.5-72b-instruct,How often do people see posts(daily and weekly)?,False,0.8,0.8,0.8,8,2,2,0,0.14,19.26
+e045aaa0-f48d-48d6-8a33-75ec30548442,ea89d62a1f88,qwen2.5-72b-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,0,9,0,0.14,18.68
+afe76e1a-d3f6-41d6-87d4-ab102a1fec9f,a352e9bb575a,qwen2.5-72b-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,0,9,0,0.31,14.64
+0c93cc6e-79f2-4be2-99ee-9598fe4bd52a,1ccacb482d0e,qwen2.5-72b-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,0,9,0,0.14,21.15
+c75f3438-4779-4894-b0ed-566c20143be7,fd23adcc813f,qwen2.5-72b-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,0,2,0,0.15,22.25
+f914ea8a-95fc-411d-94de-a492a3563501,19e1254c13f5,qwen2.5-72b-instruct,How often do people see posts(daily and weekly)?,False,0.8571,0.8571,0.8571,6,1,1,0,0.15,20.72
+3c8f06ee-1705-4835-9fd8-c2275e7560db,ec2df5440d1e,qwen2.5-72b-instruct,How often do people see posts(daily and weekly)?,False,0.6,0.6,0.6,3,2,2,0,0.2,20.42
+4b87fe1d-7511-4c5c-bf95-8b39b1c3c697,be30c03571e6,qwen2.5-72b-instruct,How often do people see posts(daily and weekly)?,False,0.5,0.5,0.5,1,1,1,0,0.14,18.37
+19ec6d04-0d22-44ad-8832-fa7078312388,9dd5c6ef7491,qwen2.5-72b-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,2,8,0,0.14,19.14
+0ad00df1-3759-41af-9081-65fdf435faa8,86b59acea929,qwen2.5-72b-instruct,Which companies have access to your Instagram activity or information?,False,,,,0,0,0,6,,56.27
+dd87f6b8-4114-44ce-b17b-384f02d8a19f,b70bc07b63be,qwen2.5-72b-instruct,Which companies have access to your Instagram activity or information?,True,,,,0,0,0,6,,95.6
+41152623-674c-4a8c-80e3-d8cf9fcbc42a,efc2df336587,qwen2.5-72b-instruct,Which companies have access to your Instagram activity or information?,False,0.0,0.0,0.0,0,0,492,0,0.13,20.13
+fec8ae71-b38a-4090-b451-a6a03ca706f4,3ccff49e121d,qwen2.5-72b-instruct,Which companies have access to your Instagram activity or information?,False,0.0,0.0,0.0,0,0,452,0,0.14,11.93
+dff0f891-dabc-4afe-896b-3a711df9afcc,ab368ab82b0f,qwen2.5-72b-instruct,Which companies have access to your Instagram activity or information?,False,0.0,0.0,0.0,0,0,453,0,0.71,14.39
+e8ec3ec7-b4b0-4236-bc32-774f61c154b9,ea89d62a1f88,qwen2.5-72b-instruct,Which companies have access to your Instagram activity or information?,False,0.0,0.0,0.0,0,0,27,0,0.16,13.53
+6388d25b-d908-4ff5-a2f6-6cb578fa89e0,a352e9bb575a,qwen2.5-72b-instruct,Which companies have access to your Instagram activity or information?,False,0.0,0.0,0.0,0,0,27,1,0.14,28.74
+33f1b991-40f5-4716-a3c8-a615e3e69d9d,1ccacb482d0e,qwen2.5-72b-instruct,Which companies have access to your Instagram activity or information?,True,1.0,1.0,1.0,0,0,0,0,0.13,12.31
+c18417c8-2d5b-4bac-abe2-6a876babff4c,fd23adcc813f,qwen2.5-72b-instruct,Which companies have access to your Instagram activity or information?,False,,,,0,0,0,6,,69.02
+6e8ee7b4-d0a7-4854-a2a9-8ea6dbbcfacc,19e1254c13f5,qwen2.5-72b-instruct,Which companies have access to your Instagram activity or information?,True,0.0,0.0,0.0,0,21,0,0,0.13,15.16
+8c6535b1-957c-4667-8301-ceb274d0ec51,ec2df5440d1e,qwen2.5-72b-instruct,Which companies have access to your Instagram activity or information?,True,1.0,1.0,1.0,0,0,0,1,0.15,28.85
+34592117-9f0c-4b60-ae3d-22e83621a92d,be30c03571e6,qwen2.5-72b-instruct,Which companies have access to your Instagram activity or information?,False,0.0,0.0,0.0,0,0,318,0,0.15,12.08
+b3e6a579-963d-4107-8c4f-00167f26621d,9dd5c6ef7491,qwen2.5-72b-instruct,Which companies have access to your Instagram activity or information?,False,,,,0,0,0,6,,71.4
+9b8f6ead-205d-4d91-9898-3c93d035657e,86b59acea929,qwen2.5-72b-instruct,Which devices has the user logged in from and when?,True,,,,0,0,0,6,,102.37
+482a9ee2-145b-4ba9-85e7-520bf027b90a,b70bc07b63be,qwen2.5-72b-instruct,Which devices has the user logged in from and when?,True,1.0,1.0,1.0,0,0,0,0,0.14,10.34
+27af766b-153c-4bb2-ad07-30ee625d61cb,efc2df336587,qwen2.5-72b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,3,0,0.16,15.82
+bc4aaae2-4a5c-4e38-8104-3534ac5f8104,3ccff49e121d,qwen2.5-72b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,11,0,0.15,14.7
+3f2547db-a1ec-4d0c-9d7b-e908bb5a3e6b,ab368ab82b0f,qwen2.5-72b-instruct,Which devices has the user logged in from and when?,False,0.25,1.0,0.4,5,15,0,0,0.15,13.42
+84e69fe6-e31f-4fa5-8226-8944701caf61,ea89d62a1f88,qwen2.5-72b-instruct,Which devices has the user logged in from and when?,False,,,,0,0,0,6,,79.26
+b2c72976-cc38-4014-8357-bd120c6e3f13,a352e9bb575a,qwen2.5-72b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,20,3,0,0.25,14.42
+f907c9e4-c3ce-45e7-87cc-dd297e6db817,1ccacb482d0e,qwen2.5-72b-instruct,Which devices has the user logged in from and when?,False,0.1667,1.0,0.2857,1,5,0,0,0.15,12.95
+7899bb1e-b081-4d70-a76d-35f71b24f689,fd23adcc813f,qwen2.5-72b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,2,0,0.16,15.42
+c075f10e-5f9e-4ba9-9424-22f5e5c453b7,19e1254c13f5,qwen2.5-72b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,1,0,0.14,16.02
+3f4adfc6-2d1d-4822-80b2-76798c6513d7,ec2df5440d1e,qwen2.5-72b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,1,0,0.16,16.51
+4f8fe559-4abb-456b-baf9-6b1d729b2d73,be30c03571e6,qwen2.5-72b-instruct,Which devices has the user logged in from and when?,False,1.0,1.0,1.0,1,0,0,0,0.14,15.93
+6890f4c8-48ca-4c2f-9683-2041a72813c0,9dd5c6ef7491,qwen2.5-72b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,3,2,0,0.14,16.08
+94a2aec8-6b4a-4eb6-82d9-3fbc62e70918,86b59acea929,qwen2.5-72b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,1.0,1.0,1.0,0,0,0,0,0.13,16.69
+6bf90905-38b7-4493-a725-95efdbdac810,b70bc07b63be,qwen2.5-72b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,1.0,1.0,1.0,0,0,0,3,0.14,66.21
+e3c67aae-27f2-4dc8-af2d-c08d98ae04de,efc2df336587,qwen2.5-72b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,0.0,0.0,0.0,0,2,0,0,0.14,15.32
+0c28b16f-cd65-4c14-9666-8dcf8002bbf0,3ccff49e121d,qwen2.5-72b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,8,0,0.15,16.99
+a4b6670d-5b6a-4b95-b67c-b516dffa51b2,ab368ab82b0f,qwen2.5-72b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,3,0,0.14,19.83
+ac3b299f-5569-429b-b73b-077226ab3bc2,ea89d62a1f88,qwen2.5-72b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,1.0,1.0,1.0,0,0,0,5,0.15,90.79
+f42c4d71-cf53-4c56-8342-378b957e4146,a352e9bb575a,qwen2.5-72b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,1,1,0.16,30.49
+af28ca1e-08af-4b35-9a05-385babdb5162,1ccacb482d0e,qwen2.5-72b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,,,,0,0,0,6,,98.45
+110bf37d-2166-4c35-a04e-f067368bafd4,fd23adcc813f,qwen2.5-72b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,3,2,0.13,41.24
+ea4b6c3e-ed6a-42a8-ba88-f1d395721ece,19e1254c13f5,qwen2.5-72b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,1,1,0.14,29.16
+f1e47782-2485-48e3-9bba-ace2f8886a3d,ec2df5440d1e,qwen2.5-72b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,1,0,0.14,35.11
+1a009fce-6722-426b-9352-45a44007bdbb,be30c03571e6,qwen2.5-72b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,,,,0,0,0,6,,92.94
+74f81a30-968d-4426-8d54-f632b6299a3c,9dd5c6ef7491,qwen2.5-72b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,1.0,1.0,1.0,0,0,0,1,0.13,27.77
+d487019d-2e12-4c41-8000-4ee6fa61943c,86b59acea929,qwen2.5-72b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,312,2,0.13,40.45
+99d7481d-0628-4392-b47e-5c3f8363b537,b70bc07b63be,qwen2.5-72b-instruct,Whose stories does the user tend to engage with most often?,True,,,,0,0,0,6,,98.78
+47e64485-4dec-4be0-b58e-6271125454ef,efc2df336587,qwen2.5-72b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,41,0,0.13,11.75
+ffbdb941-18cf-425d-bdc7-b9d709a14b82,3ccff49e121d,qwen2.5-72b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,60,0,0.16,16.99
+1bd9c96a-74ee-4e40-adbf-362abc424877,ab368ab82b0f,qwen2.5-72b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,57,0,0.14,15.14
+7b8633a9-eafc-45ec-b180-df50fd7e1ab7,ea89d62a1f88,qwen2.5-72b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,4,0,0.13,10.45
+0bdfc40a-9e26-4260-a2c7-83817b2031b5,a352e9bb575a,qwen2.5-72b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,133,3,0.14,56.97
+57f2ee94-80d9-41a5-9ece-b1d2a0e28db0,1ccacb482d0e,qwen2.5-72b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,10,0,0.13,11.47
+201cce10-4d99-452e-9cdd-4eadfd17e4bc,fd23adcc813f,qwen2.5-72b-instruct,Whose stories does the user tend to engage with most often?,False,1.0,0.3,0.4615,3,0,7,0,0.15,11.02
+90cc4656-06ba-4a53-8590-e0f8329e401e,19e1254c13f5,qwen2.5-72b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,10,0,0.14,14.7
+b7de92e1-e46a-4667-ad7e-c64ffe61e58b,ec2df5440d1e,qwen2.5-72b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,10,10,0,0.14,16.25
+813faaab-54f4-4e77-8c42-dbad7482da87,be30c03571e6,qwen2.5-72b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,10,1,0.14,44.22
+6c23348a-8a46-412d-96c0-a5e5ec7759a5,9dd5c6ef7491,qwen2.5-72b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,33,0,0.13,19.37
+3895a3bc-d41f-4c10-b70c-6e8c596ee833,86b59acea929,qwen2.5-72b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.14,22.58
+b1472adc-9b76-4401-a4b0-779abee9cdac,b70bc07b63be,qwen2.5-72b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,5,0.14,104.69
+494246d7-428b-47e7-ae9c-bfb5fd30a8f8,efc2df336587,qwen2.5-72b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,2,20,0,0.14,23.23
+c23a3508-6f15-4f7a-8de3-37e664468858,3ccff49e121d,qwen2.5-72b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,,,,0,0,0,6,,102.04
+cdde4a23-9cf2-419f-91eb-576fb78fa979,ab368ab82b0f,qwen2.5-72b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,,,,0,0,0,6,,119.5
+33cebb21-a476-4988-b2d2-3bd554ce8614,ea89d62a1f88,qwen2.5-72b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.23,22.12
+14d4c7bf-941a-4d6a-aad2-71788d800eea,a352e9bb575a,qwen2.5-72b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.15,22.31
+7a7f9a6b-b06d-4ef0-98a8-618324b6ab4d,1ccacb482d0e,qwen2.5-72b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.15,25.35
+70dde6ce-1b3e-40d8-bc65-b3a6861d61b3,fd23adcc813f,qwen2.5-72b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.15,21.21
+9226bdaa-8797-448d-8cf3-6b2bc2290e9f,19e1254c13f5,qwen2.5-72b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0909,0.05,0.0645,1,10,19,0,0.15,23.14
+a38da1ee-50ee-4816-be0c-002a5f843d86,ec2df5440d1e,qwen2.5-72b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.15,23.35
+9ebba413-ab0e-427f-b3b8-1e95e9ed8c54,be30c03571e6,qwen2.5-72b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,1,0.14,44.29
+9586ca98-de37-4a37-bd15-cc81c06a9b5c,9dd5c6ef7491,qwen2.5-72b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,3,20,0,0.15,24.17
+3c0e05ea-ad17-4f8d-b242-a5ab3f3ade34,86b59acea929,qwen2.5-72b-instruct,Which profiles does the user follow that do not follow him back?,False,1.0,1.0,1.0,18,0,0,0,0.15,17.21
+d14757cb-c4e7-4ca9-a851-c184184ba0c0,b70bc07b63be,qwen2.5-72b-instruct,Which profiles does the user follow that do not follow him back?,True,,,,0,0,0,6,,110.36
+dae5c328-f146-4032-aa82-e4db7f94974b,efc2df336587,qwen2.5-72b-instruct,Which profiles does the user follow that do not follow him back?,False,,,,0,0,0,6,,114.44
+bcaa49f2-2fe8-44b6-8ce0-356aa1d5526c,3ccff49e121d,qwen2.5-72b-instruct,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,32,0,0.15,17.78
+1cbf4cde-41f8-4633-b355-994cec71b407,ab368ab82b0f,qwen2.5-72b-instruct,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,20,0,0.14,15.88
+d205aeff-9b50-4904-b67b-67f7d6d60f61,ea89d62a1f88,qwen2.5-72b-instruct,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,3,0,0.13,18.18
+6b0d8329-59b5-43ae-908a-d2929cb79dab,a352e9bb575a,qwen2.5-72b-instruct,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,135,5,0.14,122.53
+e0cde53c-cea1-4df2-b9e7-da63b916ad9e,1ccacb482d0e,qwen2.5-72b-instruct,Which profiles does the user follow that do not follow him back?,False,1.0,1.0,1.0,27,0,0,0,0.14,18.47
+62dedd21-5430-4889-8daf-57fd9828d0dd,fd23adcc813f,qwen2.5-72b-instruct,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,26,0,0.13,17.9
+073c4af2-45eb-4f56-b733-7d98aa56431c,19e1254c13f5,qwen2.5-72b-instruct,Which profiles does the user follow that do not follow him back?,False,1.0,1.0,1.0,29,0,0,0,0.14,17.18
+5aa07fac-acc3-41b4-b921-e8bf57642677,ec2df5440d1e,qwen2.5-72b-instruct,Which profiles does the user follow that do not follow him back?,False,,,,0,0,0,6,,135.28
+c453b5c6-1282-4dde-8d30-feec2fd4c4a2,be30c03571e6,qwen2.5-72b-instruct,Which profiles does the user follow that do not follow him back?,False,,,,0,0,0,6,,107.47
+147dd9be-121c-45ad-9d43-d994c1538cb8,9dd5c6ef7491,qwen2.5-72b-instruct,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,5,1,0.14,38.68
+deeb99e2-b49b-42d3-9445-98fc7d292d7e,86b59acea929,qwen2.5-72b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,True,0.0,0.0,0.0,0,1,0,0,0.13,24.31
+64358628-601b-4fbe-ade4-ff3270947f3a,b70bc07b63be,qwen2.5-72b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,True,0.0,0.0,0.0,0,1,0,0,0.13,15.98
+12a2db03-56c2-4882-af04-5593cd10cde9,efc2df336587,qwen2.5-72b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,1,118,0,0.15,20.43
+5ba26428-b824-4515-b5e9-8dd19da5a3d4,3ccff49e121d,qwen2.5-72b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,1.0,1.0,1.0,164,0,0,0,0.13,28.44
+8b65c7cf-5c83-4b21-b585-7338735111b9,ab368ab82b0f,qwen2.5-72b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,1.0,1.0,1.0,156,0,0,0,0.31,28.39
+37a30b17-fb9e-4c61-9400-97030385ff48,ea89d62a1f88,qwen2.5-72b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,78,0,0.16,24.17
+104b87c6-1d16-48ae-838b-fdbc92a5d81d,a352e9bb575a,qwen2.5-72b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,78,0,0.32,17.71
+dd9f0043-3c08-4910-9926-6566d5001882,1ccacb482d0e,qwen2.5-72b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,18,0,0.14,22.73
+62c6e57e-52cf-4840-ac8c-944cc7984f8c,fd23adcc813f,qwen2.5-72b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,3,0,0.13,21.16
+291607d7-eb74-4a11-bff3-c76fb6eed737,19e1254c13f5,qwen2.5-72b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,1.0,1.0,1.0,18,0,0,0,0.79,26.63
+64e23532-33e9-420b-9204-108a5403dc76,ec2df5440d1e,qwen2.5-72b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,16,0,0.15,19.7
+864a8b86-a8d5-4731-9c78-95f9aa60df87,be30c03571e6,qwen2.5-72b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,2,0,0.14,21.55
+9a3d12ac-0a12-4c3b-a153-094a333838a1,9dd5c6ef7491,qwen2.5-72b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,1.0,1.0,1.0,14,0,0,0,0.14,20.3
+fbf0764b-587c-4d90-9ed5-fafcb38ec2c3,86b59acea929,qwen2.5-72b-instruct,Which accounts has the user viewed posts from but not liked them?,True,1.0,1.0,1.0,0,0,0,2,0.15,66.54
+ac2cef85-024e-447c-96fd-5a0abf0688c2,b70bc07b63be,qwen2.5-72b-instruct,Which accounts has the user viewed posts from but not liked them?,True,0.0,0.0,0.0,0,62,0,1,0.14,36.35
+05853762-98ad-486d-bd49-5d30f2e75a81,efc2df336587,qwen2.5-72b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.0,0.0,0.0,0,0,70,0,0.16,15.02
+62822b8e-2f34-46c2-adf7-18e84b2cd70f,3ccff49e121d,qwen2.5-72b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.8333,1.0,0.9091,90,18,0,0,0.15,20.93
+decfbb5b-9a8d-4f16-a4c2-0db5a7c1b2c9,ab368ab82b0f,qwen2.5-72b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.8298,1.0,0.907,78,16,0,0,0.14,25.21
+c8305043-4658-4605-a936-b6b7dd95723a,ea89d62a1f88,qwen2.5-72b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.0,0.0,0.0,0,2,18,0,0.15,17.6
+4a44b2b3-1d21-43c3-9095-ebc14911f19d,a352e9bb575a,qwen2.5-72b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.0,0.0,0.0,0,0,10,0,0.15,21.62
+05374497-112e-4119-857e-0843691a0313,1ccacb482d0e,qwen2.5-72b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.0,0.0,0.0,0,0,6,0,0.15,19.75
+8e5fb6f9-a031-4f02-a39d-d3ff5af43a71,fd23adcc813f,qwen2.5-72b-instruct,Which accounts has the user viewed posts from but not liked them?,False,,,,0,0,0,6,,114.99
+bf4f00fc-09f4-49ad-a4a9-23851b60030f,19e1254c13f5,qwen2.5-72b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.6364,1.0,0.7778,7,4,0,0,0.14,19.69
+5c0c616d-910d-40ee-841f-428b7f19d4be,ec2df5440d1e,qwen2.5-72b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.6,1.0,0.75,6,4,0,2,0.15,57.02
+a53edb6e-7552-45be-9e26-22e1cebad2ee,be30c03571e6,qwen2.5-72b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.5,1.0,0.6667,1,1,0,0,0.15,19.78
+22788ba4-d4bd-4f6f-9841-6c0349b735f1,9dd5c6ef7491,qwen2.5-72b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.4167,1.0,0.5882,5,7,0,0,0.15,19.84
+be1126a3-10cf-4519-b8be-7ee7853cbb7b,86b59acea929,qwen2.5-72b-instruct,How many messages does the user send per week?,True,1.0,1.0,1.0,0,0,0,1,0.15,44.07
+03d21c1b-deb8-4b70-84fc-d9214645afaa,b70bc07b63be,qwen2.5-72b-instruct,How many messages does the user send per week?,True,1.0,1.0,1.0,0,0,0,0,0.15,22.0
+3d7551d8-2c0b-4888-a726-ca8638e0fb4b,efc2df336587,qwen2.5-72b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,54,54,0,0.21,21.94
+15c9715d-c9de-495f-b94d-01e6cab6d61e,3ccff49e121d,qwen2.5-72b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,321,1,0.15,38.45
+abdffb59-c53f-400e-90f6-d7b0d67f29ef,ab368ab82b0f,qwen2.5-72b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,159,0,0.15,23.91
+c671eea7-af71-4a61-b4e9-80da55d6fa19,ea89d62a1f88,qwen2.5-72b-instruct,How many messages does the user send per week?,False,,,,0,0,0,6,,113.33
+e901aed5-585c-4876-9f69-02c566fe9b03,a352e9bb575a,qwen2.5-72b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,282,0,0.28,15.91
+07300b28-df7a-4130-9a86-e84669b785b1,1ccacb482d0e,qwen2.5-72b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,2,3,0.14,73.04
+0954d785-3c26-4ce9-ab0f-05cd54f5900a,fd23adcc813f,qwen2.5-72b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,54,1,0.18,35.61
+68121bde-f0e9-4374-afe4-7a6e463c6048,19e1254c13f5,qwen2.5-72b-instruct,How many messages does the user send per week?,False,,,,0,0,0,6,,112.73
+50ecfb29-abdc-4299-b5f1-ae1aeeaf18fe,ec2df5440d1e,qwen2.5-72b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,2,0,0.15,14.47
+4583047d-d27e-49a0-a79d-4f25ecbf67eb,be30c03571e6,qwen2.5-72b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,4,1,0.15,45.22
+e3bb0724-25d1-4773-86d0-7b9ece88d48d,9dd5c6ef7491,qwen2.5-72b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,54,0,0.15,22.7
+16e07ac6-1e30-4c76-bba9-3305204189dd,86b59acea929,qwen2.5-72b-instruct,What topics does Instagram determine to be of interest for a user?,True,0.0,0.0,0.0,0,14,0,0,0.14,15.34
+47de0ecf-f586-401a-889f-3236799fe286,b70bc07b63be,qwen2.5-72b-instruct,What topics does Instagram determine to be of interest for a user?,True,0.0,0.0,0.0,0,72,0,0,0.15,14.68
+a5cb2ac0-2909-4a47-8eee-98e2d2fa57b4,efc2df336587,qwen2.5-72b-instruct,What topics does Instagram determine to be of interest for a user?,False,1.0,1.0,1.0,32,0,0,0,0.15,14.74
+4c0ceb3b-eb30-4f15-b6b3-e43c92b54661,3ccff49e121d,qwen2.5-72b-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,20,20,0,0.14,18.75
+5866e2cf-9618-4f3f-bfd8-6886de08e9fc,ab368ab82b0f,qwen2.5-72b-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,1,20,0,0.15,13.83
+7da46fbe-f236-4ec6-b8b5-c7ec19c12ee4,ea89d62a1f88,qwen2.5-72b-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,39,6,0,0.15,17.61
+bc6d8363-9f18-4b07-bd6f-67d11e40b2a8,a352e9bb575a,qwen2.5-72b-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,0,6,0,0.14,13.96
+be30367f-4dc0-4079-b7ee-53ed9cd94104,1ccacb482d0e,qwen2.5-72b-instruct,What topics does Instagram determine to be of interest for a user?,True,1.0,1.0,1.0,0,0,0,0,0.15,16.56
+b94929b5-bc38-4a71-812c-6805cf5ecd78,fd23adcc813f,qwen2.5-72b-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,26,125,0,0.13,21.52
+91ab6b4e-d3d1-4d39-95e6-cede30597186,19e1254c13f5,qwen2.5-72b-instruct,What topics does Instagram determine to be of interest for a user?,True,,,,0,0,0,6,,100.61
+69874a13-cf3d-485b-a41f-17c00c0d461b,ec2df5440d1e,qwen2.5-72b-instruct,What topics does Instagram determine to be of interest for a user?,True,1.0,1.0,1.0,0,0,0,0,0.13,14.77
+4d5c5489-f918-411c-9806-6ce582ea2616,be30c03571e6,qwen2.5-72b-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,0,42,0,0.13,12.46
+9abec3f6-4548-49ff-b117-8eb3f69bb458,9dd5c6ef7491,qwen2.5-72b-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,0,103,0,0.14,12.64
+be276369-44de-43eb-922b-2fe1c8ce4dc7,86b59acea929,meta-llama-3.1-70b-instruct,What topics does Instagram determine to be of interest for a user?,True,0.0,0.0,0.0,0,3,0,0,0.15,58.72
+1b9b6c35-841f-4f0a-9777-8a4306b83db8,b70bc07b63be,meta-llama-3.1-70b-instruct,What topics does Instagram determine to be of interest for a user?,True,0.0,0.0,0.0,0,133,0,0,0.17,33.12
+f5ad77f1-7664-46dd-b360-e95a7ff0c67a,efc2df336587,meta-llama-3.1-70b-instruct,What topics does Instagram determine to be of interest for a user?,False,1.0,1.0,1.0,32,0,0,0,0.15,44.87
+613e716b-06f4-4f02-8efe-5a319ab315b3,3ccff49e121d,meta-llama-3.1-70b-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,2,20,0,0.21,114.19
+09397a2e-ebf0-4e55-a37e-16829667e680,ab368ab82b0f,meta-llama-3.1-70b-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,0,20,0,0.16,41.93
+3e3f6087-c44e-4963-8346-dc04990f3046,ea89d62a1f88,meta-llama-3.1-70b-instruct,What topics does Instagram determine to be of interest for a user?,False,,,,0,0,0,6,,360.78
+a1b749ba-e13d-4e8e-9049-372853745f1e,a352e9bb575a,meta-llama-3.1-70b-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,0,6,0,0.15,57.45
+2b96841f-fea0-4bed-b2d2-77b7caccb933,1ccacb482d0e,meta-llama-3.1-70b-instruct,What topics does Instagram determine to be of interest for a user?,True,1.0,1.0,1.0,0,0,0,0,0.15,57.64
+a1fd9d23-cd46-44e6-bd11-d31b82eae216,fd23adcc813f,meta-llama-3.1-70b-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,4,125,0,0.14,40.55
+88aebc69-c184-4331-ae93-b3177c3e84ab,19e1254c13f5,meta-llama-3.1-70b-instruct,What topics does Instagram determine to be of interest for a user?,True,0.0,0.0,0.0,0,3,0,0,0.13,36.82
+8f6273a0-996b-4387-8117-066082c313aa,ec2df5440d1e,meta-llama-3.1-70b-instruct,What topics does Instagram determine to be of interest for a user?,True,1.0,1.0,1.0,0,0,0,0,0.14,38.16
+823e61a3-f432-4235-ad7a-d1c64b832419,be30c03571e6,meta-llama-3.1-70b-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,0,42,0,0.15,45.9
+b6711f57-250a-4c03-b20a-118c44c7069e,9dd5c6ef7491,meta-llama-3.1-70b-instruct,What topics does Instagram determine to be of interest for a user?,False,0.0,0.0,0.0,0,1,103,0,0.15,52.1
+c5d3334d-4537-4c00-9be0-d43a08c2f81c,86b59acea929,meta-llama-3.1-70b-instruct,How often does a user see advertisements and about which topics (from which companies)?,True,0.0,0.0,0.0,0,2,0,0,0.14,33.92
+033348e1-15ac-45cd-974f-5b7f38258899,b70bc07b63be,meta-llama-3.1-70b-instruct,How often does a user see advertisements and about which topics (from which companies)?,True,0.0,0.0,0.0,0,193,0,0,0.14,59.14
+49744e02-1e3a-4248-90e0-d70cfec05fc2,efc2df336587,meta-llama-3.1-70b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,1.0,1.0,1.0,16,0,0,1,0.14,101.12
+4c93d4f8-8091-4e66-b875-5aafc3a9d351,3ccff49e121d,meta-llama-3.1-70b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,1.0,1.0,1.0,17,0,0,1,0.14,221.25
+766fe596-ffba-4fe5-8b4c-de3f15ff9e18,ab368ab82b0f,meta-llama-3.1-70b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,1.0,1.0,1.0,19,0,0,0,0.14,107.73
+36a0901f-12ca-43e9-b81d-1f921996b30b,ea89d62a1f88,meta-llama-3.1-70b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,0.0,0.0,0.0,0,27,14,0,0.15,59.24
+69f909a6-fb8d-4ac0-859d-a179858b1358,a352e9bb575a,meta-llama-3.1-70b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,,,,0,0,0,6,,484.42
+53fe5f36-7184-45de-b2aa-d2b4544daf4f,1ccacb482d0e,meta-llama-3.1-70b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,1.0,1.0,1.0,1,0,0,0,0.15,46.06
+67dfcd04-09c8-468d-bcbe-0e46bba1ea58,fd23adcc813f,meta-llama-3.1-70b-instruct,How often does a user see advertisements and about which topics (from which companies)?,True,0.0,0.0,0.0,0,4,0,0,0.14,52.92
+422a6514-2459-49a5-952d-dcbfe37cf5bb,19e1254c13f5,meta-llama-3.1-70b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,1.0,1.0,1.0,3,0,0,0,0.14,44.3
+d9b10485-76b2-422a-9a35-15666275122a,ec2df5440d1e,meta-llama-3.1-70b-instruct,How often does a user see advertisements and about which topics (from which companies)?,True,0.0,0.0,0.0,0,16,0,0,0.14,48.46
+51db3062-2a60-41cc-80d8-c5533db30ce9,be30c03571e6,meta-llama-3.1-70b-instruct,How often does a user see advertisements and about which topics (from which companies)?,True,,,,0,0,0,6,,458.31
+ab91462b-b607-40d2-9580-47639addede9,9dd5c6ef7491,meta-llama-3.1-70b-instruct,How often does a user see advertisements and about which topics (from which companies)?,False,1.0,1.0,1.0,4,0,0,0,0.14,98.14
+4c1f7cb5-fe37-47fe-b2fc-01db915ccf0d,86b59acea929,meta-llama-3.1-70b-instruct,How often do people see posts(daily and weekly)?,True,1.0,1.0,1.0,0,0,0,2,0.16,159.29
+47d20d32-6cce-4b79-b9b9-56c799fd00aa,b70bc07b63be,meta-llama-3.1-70b-instruct,How often do people see posts(daily and weekly)?,True,0.0,0.0,0.0,0,188,0,0,0.15,181.61
+a89282a3-b634-4526-83ff-c6e4eb4e5522,efc2df336587,meta-llama-3.1-70b-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,218,10,0,0.15,50.37
+7c7af76c-2e21-43e1-9330-c7b1dd4577ac,3ccff49e121d,meta-llama-3.1-70b-instruct,How often do people see posts(daily and weekly)?,False,0.8,0.8,0.8,8,2,2,0,0.14,40.01
+cccda542-a779-4639-b3ea-246e5fc4ca64,ab368ab82b0f,meta-llama-3.1-70b-instruct,How often do people see posts(daily and weekly)?,False,0.8,0.8,0.8,8,2,2,0,0.14,49.72
+3e7eb30b-ae67-4039-9a64-006f928cfef3,ea89d62a1f88,meta-llama-3.1-70b-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,0,9,0,0.14,58.91
+29912578-a1ac-4154-971f-2f7d8e116072,a352e9bb575a,meta-llama-3.1-70b-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,0,9,0,0.13,48.74
+cfb26a14-1b3c-4f73-8ae4-7447fa068222,1ccacb482d0e,meta-llama-3.1-70b-instruct,How often do people see posts(daily and weekly)?,False,0.0357,0.1111,0.0541,1,27,8,0,0.14,51.83
+ab1e6586-3908-4fab-9bc3-9306d647fffb,fd23adcc813f,meta-llama-3.1-70b-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,6,2,0,0.18,46.96
+d3d66159-ad6b-460e-9e13-bcb3724725ff,19e1254c13f5,meta-llama-3.1-70b-instruct,How often do people see posts(daily and weekly)?,False,0.8571,0.8571,0.8571,6,1,1,0,0.13,42.83
+65072402-294b-4a2d-99be-02d6be70cade,ec2df5440d1e,meta-llama-3.1-70b-instruct,How often do people see posts(daily and weekly)?,False,0.6,0.6,0.6,3,2,2,0,0.14,41.68
+01491a11-2db6-4bff-8cf4-02930555ff0d,be30c03571e6,meta-llama-3.1-70b-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,3,2,0,0.23,58.61
+d1f29917-cb83-41f3-9716-6d7045be5d48,9dd5c6ef7491,meta-llama-3.1-70b-instruct,How often do people see posts(daily and weekly)?,False,0.0,0.0,0.0,0,2,8,1,0.15,155.31
+bece3671-bc25-4602-86d9-64663f4e645f,86b59acea929,meta-llama-3.1-70b-instruct,Which companies have access to your Instagram activity or information?,False,,,,0,0,0,6,,208.34
+03d3c325-808f-40cb-ace3-b0cf830db59a,b70bc07b63be,meta-llama-3.1-70b-instruct,Which companies have access to your Instagram activity or information?,True,0.0,0.0,0.0,0,193,0,5,0.15,248.65
+9e8fbe3f-0d49-414d-9491-0a6a9e8ba596,efc2df336587,meta-llama-3.1-70b-instruct,Which companies have access to your Instagram activity or information?,False,0.0,0.0,0.0,0,74,492,0,0.14,60.19
+f660bc93-95d7-4371-9bb5-ca4564e30526,3ccff49e121d,meta-llama-3.1-70b-instruct,Which companies have access to your Instagram activity or information?,False,,,,0,0,0,6,,214.86
+fcba4959-5291-4694-8450-ae8d69aab3f0,ab368ab82b0f,meta-llama-3.1-70b-instruct,Which companies have access to your Instagram activity or information?,False,0.0,0.0,0.0,0,4,453,0,0.15,222.38
+9c4cf310-6c5e-4f41-a5e0-91a13a188646,ea89d62a1f88,meta-llama-3.1-70b-instruct,Which companies have access to your Instagram activity or information?,False,1.0,1.0,1.0,27,0,0,0,0.14,37.99
+1e0fde11-de2b-4d0d-a23d-ae720d1ec784,a352e9bb575a,meta-llama-3.1-70b-instruct,Which companies have access to your Instagram activity or information?,False,,,,0,0,0,6,,294.08
+b9d375f7-f25c-4d11-b9da-68f55ea574c6,1ccacb482d0e,meta-llama-3.1-70b-instruct,Which companies have access to your Instagram activity or information?,True,0.0,0.0,0.0,0,164,0,0,0.17,37.72
+3d93eebb-f2de-4aab-8c6e-d33d41d1413f,fd23adcc813f,meta-llama-3.1-70b-instruct,Which companies have access to your Instagram activity or information?,False,,,,0,0,0,6,,224.41
+ddab9cc8-d8d5-4d9a-b443-08827d5a2c1e,19e1254c13f5,meta-llama-3.1-70b-instruct,Which companies have access to your Instagram activity or information?,True,0.0,0.0,0.0,0,4,0,0,0.18,47.82
+621dd7c8-a354-48f0-8658-bc41391cce61,ec2df5440d1e,meta-llama-3.1-70b-instruct,Which companies have access to your Instagram activity or information?,True,0.0,0.0,0.0,0,2,0,0,0.15,52.16
+b2fd6c8c-3f92-4f49-8641-6c9959261258,be30c03571e6,meta-llama-3.1-70b-instruct,Which companies have access to your Instagram activity or information?,False,0.0,0.0,0.0,0,0,318,0,0.15,222.07
+f84d5f8b-3700-4250-92f8-d988f4acd9dc,9dd5c6ef7491,meta-llama-3.1-70b-instruct,Which companies have access to your Instagram activity or information?,False,,,,0,0,0,6,,255.0
+89a5cb0f-90cc-45b9-a3c5-b9f043238cef,86b59acea929,meta-llama-3.1-70b-instruct,Which devices has the user logged in from and when?,True,,,,0,0,0,6,,379.54
+f0515dec-d070-486c-b788-fe050537a545,b70bc07b63be,meta-llama-3.1-70b-instruct,Which devices has the user logged in from and when?,True,0.0,0.0,0.0,0,196,0,0,0.38,52.55
+5e4152ca-1760-46e0-bbd4-7add9ca933a3,efc2df336587,meta-llama-3.1-70b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,3,0,0.32,51.66
+6822afe8-e2ed-448c-8e9d-e4db210a2f16,3ccff49e121d,meta-llama-3.1-70b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,11,0,0.62,42.64
+ec4a46b4-8052-4aef-a4b4-7456fe23c79b,ab368ab82b0f,meta-llama-3.1-70b-instruct,Which devices has the user logged in from and when?,False,,,,0,0,0,6,,255.89
+b2a444d3-2a47-4a55-9a19-ffc76c222829,ea89d62a1f88,meta-llama-3.1-70b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,3,0,0.41,32.59
+3c76abd9-3714-4a4e-bbbc-885c99d0c064,a352e9bb575a,meta-llama-3.1-70b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,3,0,0.41,179.8
+433b9e13-ab9d-4821-96e2-621fa0bae64c,1ccacb482d0e,meta-llama-3.1-70b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,1,1,0,0.43,42.71
+e516d5b7-26dc-4b68-b706-156ac499d267,fd23adcc813f,meta-llama-3.1-70b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,2,4,0.45,223.45
+5e0fd85a-2ce2-4d7b-9805-0eda244c5732,19e1254c13f5,meta-llama-3.1-70b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,1,1,1,0.45,111.7
+07260937-3677-42a9-96c8-48a178db16c9,ec2df5440d1e,meta-llama-3.1-70b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,1,5,0.43,236.6
+e3dc7fc6-4948-4108-9d1c-7764c13f0802,be30c03571e6,meta-llama-3.1-70b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,1,1,0.49,150.6
+57608fbf-cf89-4899-9a25-fe14ba26952c,9dd5c6ef7491,meta-llama-3.1-70b-instruct,Which devices has the user logged in from and when?,False,0.0,0.0,0.0,0,0,2,0,0.51,59.95
+80aaae0e-60de-43e6-a3e4-7b80729c0b2b,86b59acea929,meta-llama-3.1-70b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,1.0,1.0,1.0,0,0,0,5,0.41,320.95
+74beef1b-30f4-4de0-bf79-2610362f62c1,b70bc07b63be,meta-llama-3.1-70b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,,,,0,0,0,6,,280.48
+ed14e31f-f449-41a4-b6fa-11edadfea712,efc2df336587,meta-llama-3.1-70b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,0.0,0.0,0.0,0,2,0,0,0.19,117.93
+0b13a5fc-26b5-4461-ad9b-790b9ccf2b1a,3ccff49e121d,meta-llama-3.1-70b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,8,0,0.15,43.57
+3f98f21f-f32f-4d08-a672-00b710132f09,ab368ab82b0f,meta-llama-3.1-70b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,3,0,0.13,45.22
+cacc7ae0-346e-4e24-a1a0-62efe9ee9c70,ea89d62a1f88,meta-llama-3.1-70b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,,,,0,0,0,6,,236.37
+8525665e-149e-4a79-8bb6-1019eed73e2c,a352e9bb575a,meta-llama-3.1-70b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,1,1,0.14,76.01
+66dd5d8e-701b-441a-95c1-5cad47bf5a17,1ccacb482d0e,meta-llama-3.1-70b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,1,0,0.14,58.4
+e654ae14-c245-425a-92b6-8da945a1f219,fd23adcc813f,meta-llama-3.1-70b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,1,3,0,0.15,60.88
+e22d0bde-9935-4fd3-ad38-8fcd86652761,19e1254c13f5,meta-llama-3.1-70b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,0,1,0,0.16,230.91
+41bf9443-5975-41ed-b867-ac186faaf1c0,ec2df5440d1e,meta-llama-3.1-70b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,3,1,0,0.14,41.61
+d1a46e8e-8836-460f-9668-b818bf674e22,be30c03571e6,meta-llama-3.1-70b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",False,0.0,0.0,0.0,0,3,2,0,0.19,56.76
+1b4e6d21-1eee-4a9f-a3f7-8ba8bfee0c32,9dd5c6ef7491,meta-llama-3.1-70b-instruct,"What Instagram account changes (e.g., name, phone, email) has the user made over time?",True,,,,0,0,0,6,,327.67
+3a94b4b8-ab2e-48f1-aec6-b89d54c61232,86b59acea929,meta-llama-3.1-70b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,312,0,0.14,59.15
+b7b4fb78-bb04-4699-a692-e71c57993910,b70bc07b63be,meta-llama-3.1-70b-instruct,Whose stories does the user tend to engage with most often?,True,0.0,0.0,0.0,0,1,0,0,0.15,58.58
+0a53352a-ac42-40c3-a237-89b84eb27146,efc2df336587,meta-llama-3.1-70b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,41,0,0.14,50.62
+3a1549fb-4cc0-40dc-8152-9b104cd9bd63,3ccff49e121d,meta-llama-3.1-70b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,60,0,0.14,34.13
+a47ac7e8-61a6-4a7e-8710-c9c6eeb5d8ee,ab368ab82b0f,meta-llama-3.1-70b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,57,0,0.15,29.25
+b6658b5c-2496-4fcc-abc4-f39fe67e28c3,ea89d62a1f88,meta-llama-3.1-70b-instruct,Whose stories does the user tend to engage with most often?,False,,,,0,0,0,6,,270.92
+00f332bc-f57b-413f-bc8e-16fb7c9becdc,a352e9bb575a,meta-llama-3.1-70b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,133,0,0.15,40.92
+78c88a96-c8dd-49ad-b931-a466c1ae1026,1ccacb482d0e,meta-llama-3.1-70b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,10,3,0.18,161.77
+ade9403b-609c-4579-8a61-0c44dbe175cf,fd23adcc813f,meta-llama-3.1-70b-instruct,Whose stories does the user tend to engage with most often?,False,1.0,0.4,0.5714,4,0,6,0,0.17,37.35
+17cc10e2-aabb-4792-bcf8-0aea7176a039,19e1254c13f5,meta-llama-3.1-70b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,2,10,0,0.14,46.1
+c53a7e60-ed48-4f0b-83aa-d126c963932b,ec2df5440d1e,meta-llama-3.1-70b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,13,10,0,0.14,39.69
+5a82b509-01e2-4f96-a334-802707dc6d98,be30c03571e6,meta-llama-3.1-70b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,10,0,0.15,48.3
+d06758c4-bd8c-4c4d-8dba-17e938ad47b6,9dd5c6ef7491,meta-llama-3.1-70b-instruct,Whose stories does the user tend to engage with most often?,False,0.0,0.0,0.0,0,0,33,0,0.16,46.19
+e9e7bedb-096c-4aeb-bb0d-c18b11038c44,86b59acea929,meta-llama-3.1-70b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,,,,0,0,0,6,,753.18
+0d8d367b-306a-4e31-96ec-6d6d0457e3b3,b70bc07b63be,meta-llama-3.1-70b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,1,20,0,0.14,54.62
+21f1c141-174d-430d-9053-7c741989f2b8,efc2df336587,meta-llama-3.1-70b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,,,,0,0,0,6,,723.03
+bcf5a48b-f6f3-4323-b73c-550a2853c2d6,3ccff49e121d,meta-llama-3.1-70b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.14,120.54
+c59aa18d-173d-49d2-93b7-92dae07b3982,ab368ab82b0f,meta-llama-3.1-70b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.15,180.97
+a89be71e-d2a3-4fc0-a9bb-025c9e1ac45f,ea89d62a1f88,meta-llama-3.1-70b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.18,57.25
+45ad7f5b-60ad-4b4e-986e-7aa52fdfe6e8,a352e9bb575a,meta-llama-3.1-70b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.14,59.57
+81b20fbc-8f2a-4504-ab9d-a8ad985f403f,1ccacb482d0e,meta-llama-3.1-70b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.16,241.32
+9fd6f064-5791-4500-8b24-fa9add7245b5,fd23adcc813f,meta-llama-3.1-70b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.2,119.79
+ba1913d0-ae1c-4da2-9eb6-e722fdb7604a,19e1254c13f5,meta-llama-3.1-70b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.3333,0.2,0.25,4,8,16,0,0.17,50.46
+6ff486f9-dd6b-4fd7-9634-465c1f096d59,ec2df5440d1e,meta-llama-3.1-70b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,0,20,0,0.14,59.12
+e0ebf37d-1ee6-46f7-ba85-f17833d829b6,be30c03571e6,meta-llama-3.1-70b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,0.0,0.0,0.0,0,5,20,0,0.17,169.75
+be37d084-a46a-415b-90fa-1b6464ff4133,9dd5c6ef7491,meta-llama-3.1-70b-instruct,"Which accounts has the user interacted with most often through post likes, story likes and comments(Top 20)?",False,,,,0,0,0,6,,641.67
+c8de55f9-0bb4-4239-b22d-81c3cae49886,86b59acea929,meta-llama-3.1-70b-instruct,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,18,4,0.34,371.71
+07ecbd76-1909-491e-80e5-a0fa4e3d955f,b70bc07b63be,meta-llama-3.1-70b-instruct,Which profiles does the user follow that do not follow him back?,True,0.0,0.0,0.0,0,129,0,0,0.35,48.27
+b51a19f9-3fd3-4812-9961-e072f0b20ce3,efc2df336587,meta-llama-3.1-70b-instruct,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,3,1,0.42,97.83
+0fb52572-c5cc-4a5a-97c7-711e69c7bff9,3ccff49e121d,meta-llama-3.1-70b-instruct,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,32,1,0.38,86.97
+2ecc6d5a-1a8a-431a-8ae0-2fa7a0beea69,ab368ab82b0f,meta-llama-3.1-70b-instruct,Which profiles does the user follow that do not follow him back?,False,,,,0,0,0,6,,274.94
+9f68b034-bad7-44f1-8fee-94627d4e7438,ea89d62a1f88,meta-llama-3.1-70b-instruct,Which profiles does the user follow that do not follow him back?,False,,,,0,0,0,6,,342.8
+0c16ba3e-6271-477f-8195-ca0a8dda4964,a352e9bb575a,meta-llama-3.1-70b-instruct,Which profiles does the user follow that do not follow him back?,False,,,,0,0,0,6,,254.9
+0b667202-9cbd-49d5-8f85-bb436ed15e75,1ccacb482d0e,meta-llama-3.1-70b-instruct,Which profiles does the user follow that do not follow him back?,False,1.0,1.0,1.0,27,0,0,0,0.34,43.93
+04802f8d-f026-4041-8f75-a04dab3287dd,fd23adcc813f,meta-llama-3.1-70b-instruct,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,26,4,0.38,226.78
+2682353a-82cb-49ec-9ff2-26a6f9b2bec1,19e1254c13f5,meta-llama-3.1-70b-instruct,Which profiles does the user follow that do not follow him back?,False,1.0,1.0,1.0,29,0,0,0,0.4,45.21
+4dc9b7dc-9c4e-45b7-8bf9-aad70b60628a,ec2df5440d1e,meta-llama-3.1-70b-instruct,Which profiles does the user follow that do not follow him back?,False,0.0,0.0,0.0,0,0,30,2,0.35,321.17
+d1e12081-6b40-48cc-a6a2-e7920c918f5b,be30c03571e6,meta-llama-3.1-70b-instruct,Which profiles does the user follow that do not follow him back?,False,,,,0,0,0,6,,294.52
+40893da6-90d4-466d-bea0-84e147a37060,9dd5c6ef7491,meta-llama-3.1-70b-instruct,Which profiles does the user follow that do not follow him back?,False,1.0,1.0,1.0,5,0,0,0,0.52,45.0
+24076dab-0de2-470f-b193-a22030147bbc,86b59acea929,meta-llama-3.1-70b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,True,1.0,1.0,1.0,0,0,0,0,0.16,31.75
+ac9a06b1-f513-4844-b763-07f1b58fb524,b70bc07b63be,meta-llama-3.1-70b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,True,0.0,0.0,0.0,0,193,0,0,0.15,46.52
+74ba0ade-c614-4b18-be3d-76435889e8e8,efc2df336587,meta-llama-3.1-70b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,1,118,0,0.15,119.38
+7fc7c724-7446-43e1-ae66-bee45401c970,3ccff49e121d,meta-llama-3.1-70b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,1.0,1.0,1.0,164,0,0,0,0.15,53.24
+5400ffbd-dfe3-42da-b8d4-f622aa782303,ab368ab82b0f,meta-llama-3.1-70b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,1.0,1.0,1.0,156,0,0,0,0.15,45.07
+019c8780-44b4-47ea-a423-fee3674390ee,ea89d62a1f88,meta-llama-3.1-70b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,62,78,0,0.42,236.02
+c6c50b91-48ec-4e3e-bc91-ea6576b7fa9f,a352e9bb575a,meta-llama-3.1-70b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,78,0,0.15,49.92
+87bae1b3-db25-4607-89e5-21e2622952b6,1ccacb482d0e,meta-llama-3.1-70b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,1.0,1.0,1.0,18,0,0,0,0.14,54.48
+ac8a5224-51d2-4abd-a73e-1d22edbcfe2d,fd23adcc813f,meta-llama-3.1-70b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,2,3,0,0.15,116.05
+11121afd-aad3-4fa8-9dd3-d95959e1b63f,19e1254c13f5,meta-llama-3.1-70b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,1.0,1.0,1.0,18,0,0,0,0.15,53.18
+c5fc5126-c7c2-41b0-8335-1f423ed5cfa7,ec2df5440d1e,meta-llama-3.1-70b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,44,16,0,0.17,95.11
+9c02cc7a-62ce-4dff-afcf-0b3379cb9fc9,be30c03571e6,meta-llama-3.1-70b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,0.0,0.0,0.0,0,0,2,0,0.15,236.47
+1846d0c3-51cd-4acb-8235-632a81e3b27a,9dd5c6ef7491,meta-llama-3.1-70b-instruct,How often does the user view content (including both posts and videos) and from which accounts?,False,1.0,1.0,1.0,14,0,0,0,0.15,54.37
+74792680-3153-43bd-887e-cdb4cde752dd,86b59acea929,meta-llama-3.1-70b-instruct,Which accounts has the user viewed posts from but not liked them?,True,1.0,1.0,1.0,0,0,0,0,0.3,50.89
+7fcf1933-4566-4fb3-b6c8-becd5355b066,b70bc07b63be,meta-llama-3.1-70b-instruct,Which accounts has the user viewed posts from but not liked them?,True,0.0,0.0,0.0,0,60,0,0,0.38,49.12
+f2082311-a67e-435f-b6f5-fe40d1ca1a6d,efc2df336587,meta-llama-3.1-70b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.3241,1.0,0.4895,70,146,0,0,0.46,46.82
+3094b522-1f89-4433-a6ec-50a6e6d59a6c,3ccff49e121d,meta-llama-3.1-70b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.3309,1.0,0.4972,90,182,0,0,0.34,45.91
+1c831087-ff00-40cb-9844-b25b865a8ab8,ab368ab82b0f,meta-llama-3.1-70b-instruct,Which accounts has the user viewed posts from but not liked them?,False,,,,0,0,0,6,,291.66
+96174c7d-e560-4958-8d5b-6d1c58579fb4,ea89d62a1f88,meta-llama-3.1-70b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.0,0.0,0.0,0,0,18,0,0.49,56.99
+c61ce854-d62f-410f-a33c-f8115e629067,a352e9bb575a,meta-llama-3.1-70b-instruct,Which accounts has the user viewed posts from but not liked them?,False,,,,0,0,0,6,,311.49
+7f444773-7d27-4d08-9678-b717e82f8967,1ccacb482d0e,meta-llama-3.1-70b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.2308,1.0,0.375,6,20,0,1,0.3,95.42
+be6840ee-efa2-4789-bc20-05f95a68a2bc,fd23adcc813f,meta-llama-3.1-70b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.0,0.0,0.0,0,0,1,1,0.32,98.57
+ea80e3f9-be31-4a0e-96bd-b78845064b85,19e1254c13f5,meta-llama-3.1-70b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.28,1.0,0.4375,7,18,0,0,0.31,49.59
+a4b29e38-9a8e-4552-9401-65d9f8a79387,ec2df5440d1e,meta-llama-3.1-70b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.0,0.0,0.0,0,21,6,0,0.33,58.49
+8dfc593d-e8bf-4949-a53d-ac0f3bb11f20,be30c03571e6,meta-llama-3.1-70b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.0,0.0,0.0,0,1,1,0,0.31,59.54
+a5ed112d-9d01-4cf2-94d6-6558fa9bc80b,9dd5c6ef7491,meta-llama-3.1-70b-instruct,Which accounts has the user viewed posts from but not liked them?,False,0.0,0.0,0.0,0,35,5,0,0.29,52.38
+4205b2d8-8492-4f18-94b2-c0239255e186,86b59acea929,meta-llama-3.1-70b-instruct,How many messages does the user send per week?,True,1.0,1.0,1.0,0,0,0,0,0.34,49.68
+059adce3-d1d8-4212-8102-d1e7ab82fc37,b70bc07b63be,meta-llama-3.1-70b-instruct,How many messages does the user send per week?,True,1.0,1.0,1.0,0,0,0,0,0.32,40.47
+09fef3ba-023f-4ea9-b836-245fb53d3877,efc2df336587,meta-llama-3.1-70b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,54,54,0,0.56,43.6
+02a98bac-8ad5-4a7c-8597-275a293156cc,3ccff49e121d,meta-llama-3.1-70b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,321,0,0.35,37.02
+4dac1f93-a989-4bb3-b6fe-e6133e9d3596,ab368ab82b0f,meta-llama-3.1-70b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,159,0,0.43,45.4
+263047a7-e2c3-4cf4-ad4e-1488500f3705,ea89d62a1f88,meta-llama-3.1-70b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,6,0,0.62,51.63
+7216abd5-29ad-46f8-8139-ec438ae60542,a352e9bb575a,meta-llama-3.1-70b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,282,0,0.58,47.71
+6457d054-f12f-476e-9388-38335833d2a4,1ccacb482d0e,meta-llama-3.1-70b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,2,0,0.51,39.78
+470dc09d-4dbc-4143-a204-0a8d65d07771,fd23adcc813f,meta-llama-3.1-70b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,54,0,0.61,55.2
+73c60d6d-01d1-45b7-9567-b75d7630375c,19e1254c13f5,meta-llama-3.1-70b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,2,0,0.46,34.73
+fc396779-817a-48e4-8f0b-1bf9a9a42dd3,ec2df5440d1e,meta-llama-3.1-70b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,2,0,0.46,39.44
+3b890438-83ab-48a3-827b-1549ff1280d6,be30c03571e6,meta-llama-3.1-70b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,4,0,0.42,38.88
+83f63c1d-6b48-40a5-879f-6e05d34eb531,9dd5c6ef7491,meta-llama-3.1-70b-instruct,How many messages does the user send per week?,False,0.0,0.0,0.0,0,0,54,0,0.4,38.27

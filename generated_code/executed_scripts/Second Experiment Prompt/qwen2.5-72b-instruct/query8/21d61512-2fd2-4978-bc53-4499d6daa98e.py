@@ -1,0 +1,89 @@
+import os
+import json
+import csv
+from collections import defaultdict
+
+root_dir = "root_dir"
+
+def load_json(file_path):
+    try:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            return json.load(file)
+    except FileNotFoundError:
+        raise FileNotFoundError(f"FileNotFoundError: The file {file_path} does not exist.")
+    except json.JSONDecodeError:
+        raise ValueError(f"Error: Failed to decode JSON from {file_path}.")
+
+def get_interactions_count(file_path, key):
+    try:
+        if not os.path.exists(file_path):
+            return defaultdict(int)
+        data = load_json(file_path)
+        interactions = defaultdict(int)
+        for item in data.get(key, []):
+            for string_data in item.get('string_list_data', []):
+                if 'value' in string_data:
+                    interactions[string_data['value']] += 1
+        return interactions
+    except KeyError:
+        return defaultdict(int)
+
+def get_comments_count(file_path):
+    try:
+        if not os.path.exists(file_path):
+            return defaultdict(int)
+        data = load_json(file_path)
+        interactions = defaultdict(int)
+        for item in data.get('comments_reels_comments', []):
+            media_owner = item['string_map_data'].get('Media Owner', {}).get('value')
+            if media_owner:
+                interactions[media_owner] += 1
+        return interactions
+    except KeyError:
+        return defaultdict(int)
+
+def main():
+    if not os.path.exists(root_dir):
+        raise FileNotFoundError("FileNotFoundError: The root directory does not exist.")
+
+    post_likes = get_interactions_count(
+        os.path.join(root_dir, 'your_instagram_activity', 'likes', 'liked_posts.json'),
+        'likes_media_likes'
+    )
+
+    story_likes = get_interactions_count(
+        os.path.join(root_dir, 'your_instagram_activity', 'story_interactions', 'story_likes.json'),
+        'story_activities_story_likes'
+    )
+
+    comments = get_comments_count(
+        os.path.join(root_dir, 'your_instagram_activity', 'comments', 'reels_comments.json')
+    )
+
+    interactions = defaultdict(int)
+    for account, count in post_likes.items():
+        interactions[account] += count
+    for account, count in story_likes.items():
+        interactions[account] += count
+    for account, count in comments.items():
+        interactions[account] += count
+
+    top_accounts = sorted(interactions.items(), key=lambda x: x[1], reverse=True)[:20]
+
+    with open('query_responses/results.csv', 'w', newline='', encoding='utf-8') as csvfile:
+        fieldnames = ['User', 'Post Likes', 'Story Likes', 'Comments']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        for account, count in top_accounts:
+            writer.writerow({
+                'User': account,
+                'Post Likes': post_likes.get(account, 0),
+                'Story Likes': story_likes.get(account, 0),
+                'Comments': comments.get(account, 0)
+            })
+
+if __name__ == "__main__":
+    try:
+        main()
+    except Exception as e:
+        print(e)
