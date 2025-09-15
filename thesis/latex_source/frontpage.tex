@@ -1,0 +1,118 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Academic Title Page
+% LaTeX Template
+% Version 2.0 (17/7/17)
+%
+% This template was downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% WikiBooks (LaTeX - Title Creation) with modifications by:
+% Vel (vel@latextemplates.com)
+% Lorena Reintgen
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+% 
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+% TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\begin{titlepage} % Suppresses displaying the page number on the title page and the subsequent page counts as page 1
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}} % Defines a new command for horizontal lines, change thickness here
+\center % Centre everything on the page
+%\renewcommand{\baselinestretch}{1.2} %vertical spacing between lines
+%------------------------------------------------
+%  Headings
+%------------------------------------------------
+\textsc{\LARGE \TypeofThesis}\\[1.5cm] % Main heading such as the name of your university/college
+%------------------------------------------------
+%  Title
+%------------------------------------------------
+\HRule\\[0.4cm]
+\linespread{1.7}\selectfont
+{\huge\bfseries Adaptive Code Generation for the Analysis of
+Donated Data with Large Language Models}\\ % Title of your document
+\HRule\\[1.5cm]
+\linespread{1.2}\selectfont
+%------------------------------------------------
+%  Author(s)
+%------------------------------------------------
+    \vfill
+    \textit{\large submitted by}\\[0.5cm] % Major heading
+\textsc{\Large Miger Shkrepa}\\[0.5cm] % Minor heading
+    \vfill
+
+{\large\textit{Submitted to the}}\\
+\Large Chair of Data Science in the Economic and Social Sciences \\
+    {\large\textit{within the}}\\
+    Faculty of Business Administration \\
+    at the University of Mannheim
+    
+    %------------------------------------------------
+%  Date
+%------------------------------------------------
+\vfill\vfill\vfill % Position the date 3/4 down the remaining page
+{\large September 22, 2025} % Date, change the \today to a set date if you want to be precise
+
+\vfill\vfill\vfill
+{ \large \center 
+\textit{Advisor:}\\
+Maximilian Kreutner, PhD
+}
+
+\vfill
+{ \large \center 
+\textit{Supervisor:}\\
+Prof. Dr. Markus Strohmaier 
+}
+
+
+%------------------------------------------------
+%  Logo
+%------------------------------------------------
+%\vfill\vfill
+%\includegraphics[width=0.2\textwidth]{placeholder.jpg}\\[1cm] % Include a department/university logo - this will require the graphicx package
+ 
+%----------------------------------------------------------------------------------------
+\vfill % Push the date up 1/4 of the remaining page
+\end{titlepage}
+
+%\vfill
+\cleardoublepage
+
+\newpage
+\paragraph{Declaration of Authorship}\mbox{}\\
+
+\noindent I hereby declare that the paper presented is my own work and that I have not called upon the help of a third party. In addition, I declare that neither I nor anybody else has submitted this paper or parts of it to obtain credits elsewhere before. I have clearly marked and acknowledged all quotations or references that have been taken from the works of others. All secondary literature and other sources are marked and listed in the bibliography. The same applies to all charts, diagrams and illustrations as well as to all internet resources. Moreover, I consent to my paper being electronically stored and sent anonymously in order to be checked for plagiarism. I am aware that if this declaration is not made, the paper may not be graded.
+
+\vspace{4em}
+\noindent Mannheim, September 22, 2025 \hfill\rule{5cm}{0.4pt} \\
+
+\cleardoublepage
+
+\newpage
+\begin{abstract}
+\mbox{}\\
+\noindent The release and advancements of Large Language Models (LLMs) have significantly enhanced automation and efficiency in many tasks. Retrieval-Augmented Generation is set to improve the performance of these models even further by incorporating external knowledge to reduce hallucination in their responses. In this thesis, we propose leveraging the two technologies to reduce the need for manual updates in data analysis tools, particularly for donated data that is often provided in structurally changing packages. We analyze the performance of Llama3.1 8B, Codestral 22B, Qwen2.5 Coder 32B, Llama3.1 70B, Qwen2.5 72B, and Mistral Large Instruct across 13 Instagram data packages under various experimental setups, focusing on accuracy, error patterns, and code generation behavior. We find that for this task, knowledge augmentation produces poor results. As an approach, it is very prone to errors, with models frequently generating faulty file paths. When conducting similar experiments on a prompt-only setup, the performance is better in comparison, but still unsatisfactory, as the models still make frequent errors when processing or extracting data. Further analysis reveals that some of these shortcomings stem from the overly complex structure of the evaluated data packages and how Instagram structures them. When explicit instructions for navigating the data are introduced, the models reach superior results. However, since such instructions are also subject to updates in response to structural changes, we observe that the manual updating this research sought to remove is essential for achieving better performance. Nevertheless, a data researcher without programming skills but with knowledge of the donated data's structure can still leverage LLMs to automate processes by generating code. This work contributes to understanding the feasibility of using LLMs as an alternative to traditional manually maintained data analysis tools.
+\end{abstract}
+
+\cleardoublepage
+
+\newpage
+\paragraph{Acknowledgements}\mbox{}\\
+
+\noindent I would like to express my gratitude to my advisor, Maximilian Kreutner, for his constant support and guidance throughout my thesis. I gratefully acknowledge the KISSKI project and Chat AI platform at GWDG for providing me with the resources necessary to conduct my experiments. I would also like to express my sincere gratitude to everyone who shared their personal data in support of this research.
+
+Finally, I would like to thank my friends, family, and loved ones for their endless support, time, and everything they have dedicated to me.
+
+\cleardoublepage
+
+\tableofcontents
+
+\listoftables
+
+\listoffigures

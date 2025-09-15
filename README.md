@@ -29,6 +29,7 @@ The files to be used for the RAG-enhanced generation are to be placed in the [da
 
 ## Master Thesis Experiment Orientation
 
+- The PDF of the thesis alongside the latex source files are located in the [thesis](thesis) folder.
 - The experiments (scripts) conducted in this study are located in the [experiments](experiments) folder.
 - The results of each experiment are stored in the [results](results) folder.
 - The scripts for processing results and the notebooks for visualizing them are in the [processing](processing) folder.
